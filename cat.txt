@@ -167,7 +167,7 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jeevan_TV/Jeevan_TV_800.m3u8
 #EXTINF:0, group-title="News",JK 24x7 News
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/JK_24x7_News/JK_24x7_News_800.m3u8
 #EXTINF:0, group-title="News",JUS 24x7
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/JUS24x7/JUS24x7_800.m3u8
+http://streamxcode.ddns.net:25461/live/psl/match/5131.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="News",K News India
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/K_News_India/K_News_India_800.m3u8
 #EXTINF:0, group-title="News",Kalinga TV
@@ -540,8 +540,8 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jaya_TV_HD/Jaya_TV_HD_800.m3u8
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jio_Exclusive/Jio_Exclusive_800.m3u8
 #EXTINF:0, group-title="Entertainment",Jonack
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jonack/Jonack_800.m3u8
-#EXTINF:0, group-title="Entertainment",JUSPunjabi
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/JUSPunjabi/JUSPunjabi_800.m3u8
+#EXTINF:0, group-title="Entertainment",JUS Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5129.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Entertainment",Kairali People TV
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kairali_People_TV/Kairali_People_TV_800.m3u8
 #EXTINF:0, group-title="Entertainment",Kairali TV
@@ -1117,7 +1117,7 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jaya_Jaya_Shankara_TV/Jaya_Jay
 #EXTINF:0, group-title="Devotional",Jinvani TV
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jinvani_TV/Jinvani_TV_800.m3u8
 #EXTINF:0, group-title="Devotional",JUS One
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/JUSOne/JUSOne_800.m3u8
+http://streamxcode.ddns.net:25461/live/psl/match/5130.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Devotional",Katyayani
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Katyayani/Katyayani_800.m3u8
 #EXTINF:0, group-title="Devotional",Lakshya TV
