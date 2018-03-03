@@ -648,11 +648,11 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@535546/index_150_av-p.m3u8?sd=6&re
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:0, group-title="Punjabi",Jhanjar Devotional
 http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
-#EXTINF:0, group-title="Punjabi",Jus 24X7
+#EXTINF:0, group-title="Punjabi",JUS 24X7
 http://streamxcode.ddns.net:25461/live/psl/match/5131.ts|refferer=http://solidstreamz.com/&user-agent=ipl
-#EXTINF:0, group-title="Punjabi",Jus One
+#EXTINF:0, group-title="Punjabi",JUS One
 http://streamxcode.ddns.net:25461/live/psl/match/5130.ts|refferer=http://solidstreamz.com/&user-agent=ipl
-#EXTINF:0, group-title="Punjabi",Jus Punjabi
+#EXTINF:0, group-title="Punjabi",JUS Punjabi
 http://streamxcode.ddns.net:25461/live/psl/match/5129.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Punjabi",Kids Punjabi
 http://fastway.ddns.net:6421/fastway/live11/index.m3u8?token=fastwaytvstreams
