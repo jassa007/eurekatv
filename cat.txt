@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:0, group-title="News",10 TV
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/10_TV/10_TV_800.m3u8
 #EXTINF:0, group-title="News",24 Ghanta TV
@@ -283,7 +282,7 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_News_Kannada/Raj_News_Kann
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_News_Malayalam/Raj_News_Malayalam_800.m3u8
 #EXTINF:0, group-title="News",Raj News Telugu
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_News_Telugu/Raj_News_Telugu_800.m3u8
-#EXTINF:0, group-title="News",Raj News 24x7
+#EXTINF:0, group-title="News",Raj News 24x7
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Raj_News_24x7/Raj_News_24x7_800.m3u8
 #EXTINF:0, group-title="News",Republic TV
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Republic_TV/Republic_TV_800.m3u8
@@ -1167,3 +1166,149 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sri_Venkateshwar_Bhakti/Sri_Ve
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Subhavartha_TV/Subhavartha_TV_800.m3u8
 #EXTINF:0, group-title="Devotional",Vedic TV
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Vedic_TV/Vedic_TV_800.m3u8
+#EXTINF:0, group-title="Infotainment",5aab TV	
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, group-title="Music",9X Tashan	
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/9X_Tashan/9X_Tashan_800.m3u8
+#EXTINF:0, group-title="News",Aan News	
+http://cdn.samtv.ca/anntv/index.m3u8
+#EXTINF:0, group-title="Devotional",Akaal	
+http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:0, group-title="Music",Ankhila Punjab	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5119.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Music",Aone Music	
+http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
+#EXTINF:0, group-title="Infotainment",Aone Punjabi	
+http://live.wmncdn.net/abr/797ce155156c55b75be98e9a764cefb7.m3u8
+#EXTINF:0, group-title="Infotainment",BBC Toronto	
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Infotainment",BnB	
+http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
+#EXTINF:0, group-title="Music",Boogle Bollywood 	
+http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
+#EXTINF:0, group-title="Music",BritAsia	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5146.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Music",Chakde TV	
+http://streamxcode.ddns.net:25461/live/psl/match/5153.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="News",Channel Y	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5157.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",Chardikla Time TV	
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8
+#EXTINF:0, group-title="Music",Cine Voice	
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:0, group-title="Infotainment",DD Punjabi	
+http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
+#EXTINF:0, group-title="Music",Desi Channel	
+http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Music",Desi Plus	
+http://streamxcode.ddns.net:25461/live/psl/match/5118.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",DPD Punjabi HD	
+http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
+#EXTINF:0, group-title="News",E9 Punjabi	
+http://cdn.samtv.ca/e9punjabi/index.m3u8
+#EXTINF:0, group-title="Infotainment",Etc Punjabi	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5151.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",Fastway TV	
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Devotional",Fateh TV	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5155.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",Garv Punjab	
+http://sknwz08.skandha.tv/live/smil:Gpunjab.smil/playlist.m3u8
+#EXTINF:0, group-title="Devotional",Garv Punjab Gurbani	
+http://sknwz08.skandha.tv/live/smil:GurbaniVA.smil/playlist.m3u8
+#EXTINF:0, group-title="Music",Gaunda Punjab	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5147.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="News",Global Punjab	
+http://104.237.59.106/live/Global_punjab.m3u8
+#EXTINF:0, group-title="Infotainment",Global Sanjh	
+http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
+#EXTINF:0, group-title="Devotional",Gurbaani TV	
+http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Devotional",Gurmit Channel	
+http://fastway.ddns.net:6421/fastway/live/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Infotainment",Hamdard TV	
+http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:0, group-title="Entertainment",Jhanjar HD	
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535546/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0, group-title="Music",Jhanjar Music	
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0, group-title="Devotional",Jhanjar Devotional	
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:0, group-title="News",Jus 24X7	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5131.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Devotional",Jus One 	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5130.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Entertainment",Jus Punjabi	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5129.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",Kids Punjabi	
+http://fastway.ddns.net:6421/fastway/live11/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Infotainment",Life Punjabi	
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:0, group-title="News",Living India News	
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Musc",Masti TV	
+http://cdn.samtv.ca/mastitv/index.m3u8
+#EXTINF:0, group-title="Music",Mh1 Music	
+http://capcobroadcaststream.in:1935/edge1/mhmusic.stream_aac/chunklist_w140119054.m3u8
+#EXTINF:0, group-title="News",Mh1 News	
+http://capcobroadcaststream.in:1935/edge1/mhone_news.stream_aac/chunklist_w1873206187.m3u8
+#EXTINF:0, group-title="Devotional",Mh1 Sharda	
+http://capcobroadcaststream.in:1935/edge1/mhsharda.stream_aac/chunklist_w856920087.m3u8
+#EXTINF:0, group-title="Infotainment",Mirror Punjab	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5132.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Entertainment",NDA Channel	
+http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
+#EXTINF:0, group-title="Music",Only Music	
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Only_Music/Only_Music_800.m3u8
+#EXTINF:0, group-title="Infotainment",OZ TV Channel	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/51648.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Music",PBN Music	
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+#EXTINF:0, group-title="Entertainment",Pitaara	
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Pitaara/Pitaara_800.m3u8
+#EXTINF:0, group-title="News",Prime Asia	
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Entertainment",PTC Chakde	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5128.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="News",PTC News	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5135.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="News",PTC News UK	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5136.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Entertainment",PTC Punjabi	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5125.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Entertainment",PTC Punjabi UK	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5126.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Devotional",PTN 24	
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:0, group-title="Infotainment",Punjabi TV	
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0, group-title="Entertainment",RTV HD	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5122.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Devotional",Sahib TV	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5178.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",Sanjh TV	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5143.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",Sanjha Punjab	
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Infotainment",Sanjha TV	
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sanjha_TV/Sanjha_TV_800.m3u8
+#EXTINF:0, group-title="Devotional",Sikh Channel	
+http://api.new.livestream.com/accounts/5296919/events/4847426/videos/166122157.m3u8
+#EXTINF:0, group-title="Devotional",Sikh Channel USA	
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Infotainment",SSTV	
+http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
+#EXTINF:0, group-title="Music",Steelbird Music	
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:0, group-title="Infotainment",Tag TV	
+http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Infotainment",TV 84	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5156.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",Urdu TV Toronto	
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="Music",Virsa Live	
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
+#EXTINF:0, group-title="Infotainment",Zee Punjabi	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5120.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Infotainment",Zee Punjabi UK	
+http://streamxcode.ddns.net:25461/live/psl/asmatch/5121.ts|refferer=http://solidstreamz.com/&user-agent=ipl
