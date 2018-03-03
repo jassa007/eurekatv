@@ -1,0 +1,1104 @@
+#EXTM3U
+
+#EXTINF:0, group-title="Indian",& Pictures HD
+http://streamxcode.ddns.net:25461/live/psl/match/4537.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",& TV HD
+http://streamxcode.ddns.net:25461/live/psl/match/4484.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",& TV ME
+http://streamxcode.ddns.net:25461/live/psl/match/4485.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",& TV UK
+http://streamxcode.ddns.net:25461/live/psl/match/4486.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",1St India News
+http://streamxcode.ddns.net:25461/live/psl/match/4615.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",9X Jalwa
+http://streamxcode.ddns.net:25461/live/psl/match/4575.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",9xm
+http://streamxcode.ddns.net:25461/live/psl/match/4574.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Aaj Tak
+http://streamxcode.ddns.net:25461/live/psl/match/4599.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Aap Ka Colors
+http://streamxcode.ddns.net:25461/live/psl/match/4564.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Aastha Bhajan
+http://streamxcode.ddns.net:25461/live/psl/match/4623.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Aastha TV
+http://streamxcode.ddns.net:25461/live/psl/match/4622.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",ABP News UK
+http://streamxcode.ddns.net:25461/live/psl/match/4598.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Animal Planet Hindi
+http://streamxcode.ddns.net:25461/live/psl/match/4629.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",ABP News
+http://streamxcode.ddns.net:25461/live/psl/match/5093.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",APN News
+http://streamxcode.ddns.net:25461/live/psl/match/4597.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Arihant Bhakti
+http://streamxcode.ddns.net:25461/live/psl/match/4621.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",B4U Movies
+http://streamxcode.ddns.net:25461/live/psl/match/4543.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",B4U Music
+http://streamxcode.ddns.net:25461/live/psl/match/4573.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",BBO HD
+http://streamxcode.ddns.net:25461/live/psl/match/4618.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Bhakti Sagar
+http://streamxcode.ddns.net:25461/live/psl/match/4620.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Bharat Samachar News
+http://streamxcode.ddns.net:25461/live/psl/match/4596.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Bhojpuri Cinema
+http://streamxcode.ddns.net:25461/live/psl/match/4630.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Big Magic
+http://streamxcode.ddns.net:25461/live/psl/match/4560.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Bindass Play
+http://streamxcode.ddns.net:25461/live/psl/match/4559.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Channel V
+http://streamxcode.ddns.net:25461/live/psl/match/5114.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Cinema TV
+http://streamxcode.ddns.net:25461/live/psl/match/4550.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",CNBC Awaaz
+http://streamxcode.ddns.net:25461/live/psl/match/4595.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",CNBC Prime TV18
+http://streamxcode.ddns.net:25461/live/psl/match/4602.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",CNBC TV18
+http://streamxcode.ddns.net:25461/live/psl/match/4601.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",CNBC TV18 Prime HD
+http://streamxcode.ddns.net:25461/live/psl/match/5090.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",CNN IBN News
+http://streamxcode.ddns.net:25461/live/psl/match/4614.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Colors TV
+http://streamxcode.ddns.net:25461/live/psl/match/4460.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Colors TV AUS
+http://streamxcode.ddns.net:25461/live/psl/match/4464.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Colors TV HD
+http://streamxcode.ddns.net:25461/live/psl/match/4456.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Colors TV ME
+http://streamxcode.ddns.net:25461/live/psl/match/4461.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Colors TV UK
+http://streamxcode.ddns.net:25461/live/psl/match/4462.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Dabangg TV
+http://streamxcode.ddns.net:25461/live/psl/match/4555.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Dangaal TV
+http://streamxcode.ddns.net:25461/live/psl/match/4557.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Darshan 24
+http://streamxcode.ddns.net:25461/live/psl/match/5113.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",DD Girnar
+http://streamxcode.ddns.net:25461/live/psl/match/4634.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",DD India
+http://streamxcode.ddns.net:25461/live/psl/match/4561.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",DD National
+http://streamxcode.ddns.net:25461/live/psl/match/4635.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",DD News
+http://streamxcode.ddns.net:25461/live/psl/match/4636.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",DD Sports
+http://streamxcode.ddns.net:25461/live/psl/match/5046.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",DD UP
+http://streamxcode.ddns.net:25461/live/psl/match/4562.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",DD Urdu
+http://streamxcode.ddns.net:25461/live/psl/match/4637.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Delhi Aajtak
+http://streamxcode.ddns.net:25461/live/psl/match/4594.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Dhamaal TV
+http://streamxcode.ddns.net:25461/live/psl/match/4556.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Dillagi
+http://streamxcode.ddns.net:25461/live/psl/match/4558.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Discovery Hindi
+http://streamxcode.ddns.net:25461/live/psl/match/4648.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Discovery Science Hindi
+http://streamxcode.ddns.net:25461/live/psl/match/4639.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Disha TV
+http://streamxcode.ddns.net:25461/live/psl/match/4641.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Divya TV
+http://streamxcode.ddns.net:25461/live/psl/match/5112.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",D Sports HD
+http://streamxcode.ddns.net:25461/live/psl/match/5047.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",E24
+http://streamxcode.ddns.net:25461/live/psl/match/4569.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Enter 10
+http://streamxcode.ddns.net:25461/live/psl/match/4545.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",ET Now
+http://streamxcode.ddns.net:25461/live/psl/match/4613.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Etv Bihar
+http://streamxcode.ddns.net:25461/live/psl/match/4580.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Etv Haryana
+http://streamxcode.ddns.net:25461/live/psl/match/4579.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Etv MP CH
+http://streamxcode.ddns.net:25461/live/psl/match/4578.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Etv Raj
+http://streamxcode.ddns.net:25461/live/psl/match/4577.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Etv UP
+http://streamxcode.ddns.net:25461/live/psl/match/4576.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Etv Urdu
+http://streamxcode.ddns.net:25461/live/psl/match/4581.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Food Food
+http://streamxcode.ddns.net:25461/live/psl/match/4494.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Fyi TV18 HD
+http://streamxcode.ddns.net:25461/live/psl/match/4625.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Green TV
+http://streamxcode.ddns.net:25461/live/psl/match/5107.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",History HD
+http://streamxcode.ddns.net:25461/live/psl/match/5091.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",History HD (Hindi)
+http://streamxcode.ddns.net:25461/live/psl/match/4643.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Home Shop 18
+http://streamxcode.ddns.net:25461/live/psl/match/5108.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Housefull Action
+http://streamxcode.ddns.net:25461/live/psl/match/4645.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Housefull Movies
+http://streamxcode.ddns.net:25461/live/psl/match/4646.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",News 18 India
+http://streamxcode.ddns.net:25461/live/psl/match/4593.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",News 18 Lokmat
+http://streamxcode.ddns.net:25461/live/psl/match/4592.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",India Today
+http://streamxcode.ddns.net:25461/live/psl/match/4612.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",India TV
+http://streamxcode.ddns.net:25461/live/psl/match/4591.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Invest Discovery Hindi
+http://streamxcode.ddns.net:25461/live/psl/match/4649.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Ishwar TV
+http://streamxcode.ddns.net:25461/live/psl/match/5111.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Jinvani TV
+http://streamxcode.ddns.net:25461/live/psl/match/5110.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",KatYay!ani Bhakti
+http://streamxcode.ddns.net:25461/live/psl/match/5109.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Living Foodz
+http://streamxcode.ddns.net:25461/live/psl/match/4496.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Living Foodz USA
+http://streamxcode.ddns.net:25461/live/psl/match/4650.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Maha Movies
+http://streamxcode.ddns.net:25461/live/psl/match/4651.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Manorangan Movies
+http://streamxcode.ddns.net:25461/live/psl/match/4548.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Manorangan TV
+http://streamxcode.ddns.net:25461/live/psl/match/4554.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Masti TV
+http://streamxcode.ddns.net:25461/live/psl/match/4553.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Movies House
+http://streamxcode.ddns.net:25461/live/psl/match/5042.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Movies Ok
+http://streamxcode.ddns.net:25461/live/psl/match/4544.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",MTV Beats
+http://streamxcode.ddns.net:25461/live/psl/match/4661.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",MTV Beats HD
+http://streamxcode.ddns.net:25461/live/psl/match/5089.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",MTV India
+http://streamxcode.ddns.net:25461/live/psl/match/4572.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Music India
+http://streamxcode.ddns.net:25461/live/psl/match/4571.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Nat Geo Wild Hindi
+http://streamxcode.ddns.net:25461/live/psl/match/4490.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",NDTV 24X7 News
+http://streamxcode.ddns.net:25461/live/psl/match/4610.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",NDTV 24X7 UK News
+http://streamxcode.ddns.net:25461/live/psl/match/4611.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",NDTV Goodtimes News
+http://streamxcode.ddns.net:25461/live/psl/match/4607.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",NDTV India News
+http://streamxcode.ddns.net:25461/live/psl/match/4609.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",NDTV Prime News
+http://streamxcode.ddns.net:25461/live/psl/match/4608.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",NDTV Profit News
+http://streamxcode.ddns.net:25461/live/psl/match/4606.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",News 24 News
+http://streamxcode.ddns.net:25461/live/psl/match/4588.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",News 9
+http://streamxcode.ddns.net:25461/live/psl/match/4604.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",News Nation
+http://streamxcode.ddns.net:25461/live/psl/match/5092.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",News X
+http://streamxcode.ddns.net:25461/live/psl/match/4616.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Only Music HD
+http://streamxcode.ddns.net:25461/live/psl/match/4656.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Oscar Movies Bhojpuri
+http://streamxcode.ddns.net:25461/live/psl/match/5106.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Paras TV 
+http://streamxcode.ddns.net:25461/live/psl/match/5105.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Peace Of MIND
+http://streamxcode.ddns.net:25461/live/psl/match/5104.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Republic News TV
+http://streamxcode.ddns.net:25461/live/psl/match/4627.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Rishtay America
+http://streamxcode.ddns.net:25461/live/psl/match/4480.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Rishtay Asia
+http://streamxcode.ddns.net:25461/live/psl/match/4477.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Rishtay Cineplex
+http://streamxcode.ddns.net:25461/live/psl/match/4539.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Rishtay Cineplex UK
+http://streamxcode.ddns.net:25461/live/psl/match/4540.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Rishtay EU
+http://streamxcode.ddns.net:25461/live/psl/match/4478.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Rishtey
+http://streamxcode.ddns.net:25461/live/psl/match/4476.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sadhna TV
+http://streamxcode.ddns.net:25461/live/psl/match/5103.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sahara Samay Aalami News
+http://streamxcode.ddns.net:25461/live/psl/match/4585.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sahara Samay Bihar News
+http://streamxcode.ddns.net:25461/live/psl/match/4584.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sahara Samay MP News
+http://streamxcode.ddns.net:25461/live/psl/match/4583.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sahara Samay News
+http://streamxcode.ddns.net:25461/live/psl/match/4586.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sahara Samay Raj News
+http://streamxcode.ddns.net:25461/live/psl/match/4582.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sahara Samay UP
+http://streamxcode.ddns.net:25461/live/psl/match/4632.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sanatantv Bhakti
+http://streamxcode.ddns.net:25461/live/psl/match/5102.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sangeet Bhojpori
+http://streamxcode.ddns.net:25461/live/psl/match/5101.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sanskar TV
+http://streamxcode.ddns.net:25461/live/psl/match/4655.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sanskar TV
+http://streamxcode.ddns.net:25461/live/psl/match/4619.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Satsang TV
+http://streamxcode.ddns.net:25461/live/psl/match/4603.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Setmax
+http://streamxcode.ddns.net:25461/live/psl/match/4533.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Setmax Aus
+http://streamxcode.ddns.net:25461/live/psl/match/4532.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Shubhsandesh TV
+http://streamxcode.ddns.net:25461/live/psl/match/5044.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Solid Classic Movies
+http://streamxcode.ddns.net:25461/live/psl/match/4541.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Solid News
+http://streamxcode.ddns.net:25461/live/psl/match/4542.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Earth Hindi HD
+http://streamxcode.ddns.net:25461/live/psl/match/5088.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Max
+http://streamxcode.ddns.net:25461/live/psl/match/4531.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Max 2
+http://streamxcode.ddns.net:25461/live/psl/match/4535.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Mix
+http://streamxcode.ddns.net:25461/live/psl/match/5041.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Pal
+http://streamxcode.ddns.net:25461/live/psl/match/4662.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Rox HD
+http://streamxcode.ddns.net:25461/live/psl/match/4664.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Sab Asia
+http://streamxcode.ddns.net:25461/live/psl/match/4467.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Sab HD
+http://streamxcode.ddns.net:25461/live/psl/match/5040.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Sab TV
+http://streamxcode.ddns.net:25461/live/psl/match/4466.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Sab UK
+http://streamxcode.ddns.net:25461/live/psl/match/4469.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Setmax HD
+http://streamxcode.ddns.net:25461/live/psl/match/5038.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony Setmax UK
+http://streamxcode.ddns.net:25461/live/psl/match/4534.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony TV
+http://streamxcode.ddns.net:25461/live/psl/match/4665.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony TV
+http://streamxcode.ddns.net:25461/live/psl/match/4441.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony TV Asia
+http://streamxcode.ddns.net:25461/live/psl/match/4442.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony TV HD
+http://streamxcode.ddns.net:25461/live/psl/match/4440.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony TV HD USA
+http://streamxcode.ddns.net:25461/live/psl/match/4444.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sony TV UK
+http://streamxcode.ddns.net:25461/live/psl/match/4443.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sri Venkateshwar
+http://streamxcode.ddns.net:25461/live/psl/match/4626.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Bharat
+http://streamxcode.ddns.net:25461/live/psl/match/4658.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Bharat HD
+http://streamxcode.ddns.net:25461/live/psl/match/5043.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Bharat Mena
+http://streamxcode.ddns.net:25461/live/psl/match/4474.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Bharat UK
+http://streamxcode.ddns.net:25461/live/psl/match/4473.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Gold
+http://streamxcode.ddns.net:25461/live/psl/match/4529.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Gold HD
+http://streamxcode.ddns.net:25461/live/psl/match/4528.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Gold UK
+http://streamxcode.ddns.net:25461/live/psl/match/4530.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Plus
+http://streamxcode.ddns.net:25461/live/psl/match/4448.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Plus HD
+http://streamxcode.ddns.net:25461/live/psl/match/5037.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Plus ME
+http://streamxcode.ddns.net:25461/live/psl/match/4452.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Plus UK
+http://streamxcode.ddns.net:25461/live/psl/match/4449.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Utsav
+http://streamxcode.ddns.net:25461/live/psl/match/4551.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Utsav Movies
+http://streamxcode.ddns.net:25461/live/psl/match/4657.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Star Utsav UK
+http://streamxcode.ddns.net:25461/live/psl/match/4638.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Sudarshan News
+http://streamxcode.ddns.net:25461/live/psl/match/4587.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Taaza TV News
+http://streamxcode.ddns.net:25461/live/psl/match/4631.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Tez TV
+http://streamxcode.ddns.net:25461/live/psl/match/4488.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Times Now News
+http://streamxcode.ddns.net:25461/live/psl/match/4605.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",TLC Hindi
+http://streamxcode.ddns.net:25461/live/psl/match/4493.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Travel XP Hindi
+http://streamxcode.ddns.net:25461/live/psl/match/4628.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",UTV Action
+http://streamxcode.ddns.net:25461/live/psl/match/5039.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",UTV Bindas
+http://streamxcode.ddns.net:25461/live/psl/match/4552.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",UTV Movies INternational
+http://streamxcode.ddns.net:25461/live/psl/match/4546.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Vip News
+http://streamxcode.ddns.net:25461/live/psl/match/4491.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Wow Cinema
+http://streamxcode.ddns.net:25461/live/psl/match/4547.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Action
+http://streamxcode.ddns.net:25461/live/psl/match/4526.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Anmol
+http://streamxcode.ddns.net:25461/live/psl/match/4481.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Anmol Cinema
+http://streamxcode.ddns.net:25461/live/psl/match/4487.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Business News
+http://streamxcode.ddns.net:25461/live/psl/match/4590.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Cinema
+http://streamxcode.ddns.net:25461/live/psl/match/4500.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Cinema HD
+http://streamxcode.ddns.net:25461/live/psl/match/4499.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Cinema ME
+http://streamxcode.ddns.net:25461/live/psl/match/4501.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Cinema UK
+http://streamxcode.ddns.net:25461/live/psl/match/4502.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Classic
+http://streamxcode.ddns.net:25461/live/psl/match/4503.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Etc Bollywood
+http://streamxcode.ddns.net:25461/live/psl/match/4565.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Living
+http://streamxcode.ddns.net:25461/live/psl/match/4497.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee News
+http://streamxcode.ddns.net:25461/live/psl/match/4589.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Puraiya
+http://streamxcode.ddns.net:25461/live/psl/match/4492.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Rajasthan News
+http://streamxcode.ddns.net:25461/live/psl/match/4495.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Salaam
+http://streamxcode.ddns.net:25461/live/psl/match/4489.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee Sangam
+http://streamxcode.ddns.net:25461/live/psl/match/5094.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee TV HD
+http://streamxcode.ddns.net:25461/live/psl/match/4435.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee TV HD USA
+http://streamxcode.ddns.net:25461/live/psl/match/4436.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee TV ME
+http://streamxcode.ddns.net:25461/live/psl/match/4438.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zee TV UK
+http://streamxcode.ddns.net:25461/live/psl/match/4439.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zing India
+http://streamxcode.ddns.net:25461/live/psl/match/4568.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zing UK
+http://streamxcode.ddns.net:25461/live/psl/match/4567.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zoom TV
+http://streamxcode.ddns.net:25461/live/psl/match/4538.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Indian",Zoom TV UK
+http://streamxcode.ddns.net:25461/live/psl/match/4566.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",24 Channel HD
+http://streamxcode.ddns.net:25461/live/psl/match/4350.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",7 News HD
+http://streamxcode.ddns.net:25461/live/psl/match/4383.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",8xM HD
+http://streamxcode.ddns.net:25461/live/psl/match/4372.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",92 News HD
+http://streamxcode.ddns.net:25461/live/psl/match/4352.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",A Plus
+http://streamxcode.ddns.net:25461/live/psl/match/4326.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Aaj Entertainment
+http://streamxcode.ddns.net:25461/live/psl/match/4329.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Aaj News
+http://streamxcode.ddns.net:25461/live/psl/match/4354.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Aaj News UK
+http://streamxcode.ddns.net:25461/live/psl/match/4600.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Abb Tak
+http://streamxcode.ddns.net:25461/live/psl/match/4353.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Apna Channel
+http://streamxcode.ddns.net:25461/live/psl/match/5095.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Aruj TV
+http://streamxcode.ddns.net:25461/live/psl/match/4402.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ary Digital
+http://streamxcode.ddns.net:25461/live/psl/match/4316.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ary Digital
+http://streamxcode.ddns.net:25461/live/psl/match/4320.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ary Digital World
+http://streamxcode.ddns.net:25461/live/psl/match/4321.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ary Music
+http://streamxcode.ddns.net:25461/live/psl/match/4371.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ary News
+http://streamxcode.ddns.net:25461/live/psl/match/4343.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ary News World
+http://streamxcode.ddns.net:25461/live/psl/match/4342.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ary Zauq
+http://streamxcode.ddns.net:25461/live/psl/match/4378.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ary Zindagi
+http://streamxcode.ddns.net:25461/live/psl/match/4323.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",As Movies
+http://streamxcode.ddns.net:25461/live/psl/match/4431.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",ATV
+http://streamxcode.ddns.net:25461/live/psl/match/4328.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Awami Awaz TV
+http://streamxcode.ddns.net:25461/live/psl/match/4413.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Awaz TV
+http://streamxcode.ddns.net:25461/live/psl/match/4399.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Barkat TV
+http://streamxcode.ddns.net:25461/live/psl/match/4430.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Bol News HD
+http://streamxcode.ddns.net:25461/live/psl/match/4338.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Business Plus
+http://streamxcode.ddns.net:25461/live/psl/match/4356.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Canada One
+http://streamxcode.ddns.net:25461/live/psl/match/4660.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Channel 5
+http://streamxcode.ddns.net:25461/live/psl/match/4348.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",City 41 News
+http://streamxcode.ddns.net:25461/live/psl/match/4426.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",City 42 News
+http://streamxcode.ddns.net:25461/live/psl/match/4427.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Desi TV USA
+http://streamxcode.ddns.net:25461/live/psl/match/4385.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Dhanak TV
+http://streamxcode.ddns.net:25461/live/psl/match/4376.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Dhanka TV
+http://streamxcode.ddns.net:25461/live/psl/match/4386.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Dharti TV
+http://streamxcode.ddns.net:25461/live/psl/match/5096.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Din News
+http://streamxcode.ddns.net:25461/live/psl/match/4384.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Dtv News
+http://streamxcode.ddns.net:25461/live/psl/match/4401.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Dunya News
+http://streamxcode.ddns.net:25461/live/psl/match/4340.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ehtesab News
+http://streamxcode.ddns.net:25461/live/psl/match/4407.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Express Entertainment
+http://streamxcode.ddns.net:25461/live/psl/match/4324.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Express News
+http://streamxcode.ddns.net:25461/live/psl/match/4433.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Falak TV
+http://streamxcode.ddns.net:25461/live/psl/match/4408.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Filmasia
+http://streamxcode.ddns.net:25461/live/psl/match/4428.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Filmax
+http://streamxcode.ddns.net:25461/live/psl/match/4367.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Filmazia
+http://streamxcode.ddns.net:25461/live/psl/match/4366.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Filmworld
+http://streamxcode.ddns.net:25461/live/psl/match/4364.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Filmy Rhythm
+http://streamxcode.ddns.net:25461/live/psl/match/4429.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo Kahani
+http://streamxcode.ddns.net:25461/live/psl/match/4315.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo Kahani EU
+http://streamxcode.ddns.net:25461/live/psl/match/5097.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo News
+http://streamxcode.ddns.net:25461/live/psl/match/4344.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo News
+http://streamxcode.ddns.net:25461/live/psl/match/4345.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo Super
+http://streamxcode.ddns.net:25461/live/psl/match/4806.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo Tezz
+http://streamxcode.ddns.net:25461/live/psl/match/4346.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo Tezz
+http://streamxcode.ddns.net:25461/live/psl/match/4347.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo TV
+http://streamxcode.ddns.net:25461/live/psl/match/4313.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Geo TV
+http://streamxcode.ddns.net:25461/live/psl/match/4314.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Hamara TV
+http://streamxcode.ddns.net:25461/live/psl/match/5098.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Hum News
+http://streamxcode.ddns.net:25461/live/psl/match/4359.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Hum TV
+http://streamxcode.ddns.net:25461/live/psl/match/4309.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Hum TV EU
+http://streamxcode.ddns.net:25461/live/psl/match/4311.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Hum TV Sitary
+http://streamxcode.ddns.net:25461/live/psl/match/4312.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Hum TV World
+http://streamxcode.ddns.net:25461/live/psl/match/4310.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Humsab TV
+http://streamxcode.ddns.net:25461/live/psl/match/4358.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Joo Music
+http://streamxcode.ddns.net:25461/live/psl/match/4374.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Kashish TV
+http://streamxcode.ddns.net:25461/live/psl/match/4409.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Kawish TV
+http://streamxcode.ddns.net:25461/live/psl/match/4389.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Kay 2
+http://streamxcode.ddns.net:25461/live/psl/match/4415.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Khyber TV
+http://streamxcode.ddns.net:25461/live/psl/match/4417.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Kohenoor
+http://streamxcode.ddns.net:25461/live/psl/match/4370.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ktn
+http://streamxcode.ddns.net:25461/live/psl/match/4411.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Ktn News
+http://streamxcode.ddns.net:25461/live/psl/match/4412.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Lahore News
+http://streamxcode.ddns.net:25461/live/psl/match/4339.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Lahore News HD
+http://streamxcode.ddns.net:25461/live/psl/match/4351.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Masala TV
+http://streamxcode.ddns.net:25461/live/psl/match/4377.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Mashriq TV
+http://streamxcode.ddns.net:25461/live/psl/match/4414.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Mehran TV
+http://streamxcode.ddns.net:25461/live/psl/match/4419.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Metro 1 News
+http://streamxcode.ddns.net:25461/live/psl/match/4400.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Mujra Masti
+http://streamxcode.ddns.net:25461/live/psl/match/4332.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Neo News HD
+http://streamxcode.ddns.net:25461/live/psl/match/4381.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",News One
+http://streamxcode.ddns.net:25461/live/psl/match/4382.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",News Pakistan
+http://streamxcode.ddns.net:25461/live/psl/match/4420.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Noor Jahan Songs
+http://streamxcode.ddns.net:25461/live/psl/match/4369.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Oxygen HD
+http://streamxcode.ddns.net:25461/live/psl/match/4421.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Pashto 1
+http://streamxcode.ddns.net:25461/live/psl/match/4416.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Play Entertainment
+http://streamxcode.ddns.net:25461/live/psl/match/4422.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Prime TV
+http://streamxcode.ddns.net:25461/live/psl/match/4335.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",PTV Global
+http://streamxcode.ddns.net:25461/live/psl/match/4336.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",PTV Home
+http://streamxcode.ddns.net:25461/live/psl/match/5100.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",PTV National
+http://streamxcode.ddns.net:25461/live/psl/match/4395.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",PTV News
+http://streamxcode.ddns.net:25461/live/psl/match/4396.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",PTV World
+http://streamxcode.ddns.net:25461/live/psl/match/4397.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Punjab TV
+http://streamxcode.ddns.net:25461/live/psl/match/5099.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Raavi TV
+http://streamxcode.ddns.net:25461/live/psl/match/4404.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Roze News
+http://streamxcode.ddns.net:25461/live/psl/match/4398.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Samaa TV
+http://streamxcode.ddns.net:25461/live/psl/match/4349.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",See TV HD
+http://streamxcode.ddns.net:25461/live/psl/match/4334.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Silver Screen
+http://streamxcode.ddns.net:25461/live/psl/match/4423.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Star Asia News
+http://streamxcode.ddns.net:25461/live/psl/match/4380.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Starlite
+http://streamxcode.ddns.net:25461/live/psl/match/4368.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Tag TV
+http://streamxcode.ddns.net:25461/live/psl/match/4393.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Times TV
+http://streamxcode.ddns.net:25461/live/psl/match/4432.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Toronto 360 HD
+http://streamxcode.ddns.net:25461/live/psl/match/4327.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",TV One
+http://streamxcode.ddns.net:25461/live/psl/match/4331.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",UK 44
+http://streamxcode.ddns.net:25461/live/psl/match/4424.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Urdu 1 EU
+http://streamxcode.ddns.net:25461/live/psl/match/4410.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Urdu 1 HD
+http://streamxcode.ddns.net:25461/live/psl/match/4325.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Urdu TV Toronto
+http://streamxcode.ddns.net:25461/live/psl/match/4666.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Venus TV
+http://streamxcode.ddns.net:25461/live/psl/match/4434.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Vibe TV
+http://streamxcode.ddns.net:25461/live/psl/match/4425.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Vsh News
+http://streamxcode.ddns.net:25461/live/psl/match/4405.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Waqt News
+http://streamxcode.ddns.net:25461/live/psl/match/4357.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Waseeb TV
+http://streamxcode.ddns.net:25461/live/psl/match/4337.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Zaiqa
+http://streamxcode.ddns.net:25461/live/psl/match/4379.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Pakistani",Zindagi TV
+http://streamxcode.ddns.net:25461/live/psl/match/4403.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://streamxcode.ddns.net:25461/live/psl/match/5163.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",TV 84
+http://streamxcode.ddns.net:25461/live/psl/match/5156.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",9X Tashan
+http://streamxcode.ddns.net:25461/live/psl/match/5149.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Akaal
+http://streamxcode.ddns.net:25461/live/psl/match/5164.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Etc Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5151.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Ankhila Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5119.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Aone Music
+http://streamxcode.ddns.net:25461/live/psl/match/5142.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Aone Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5154.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",BnB
+http://streamxcode.ddns.net:25461/live/psl/match/5181.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Britasia
+http://streamxcode.ddns.net:25461/live/psl/match/5146.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Chakde TV
+http://streamxcode.ddns.net:25461/live/psl/match/5153.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Channel Y
+http://streamxcode.ddns.net:25461/live/psl/match/5157.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Chardikla Time TV
+http://streamxcode.ddns.net:25461/live/psl/match/5162.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Cine Voice
+http://streamxcode.ddns.net:25461/live/psl/match/5171.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",DD Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5139.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Desi Channel-1
+http://streamxcode.ddns.net:25461/live/psl/match/5152.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Desi Channel-2
+http://streamxcode.ddns.net:25461/live/psl/match/4563.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Desi Plus
+http://streamxcode.ddns.net:25461/live/psl/match/5118.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Dhur Ki Baani
+http://streamxcode.ddns.net:25461/live/psl/match/5172.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",DPD Punjabi HD
+http://streamxcode.ddns.net:25461/live/psl/match/5173.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",E9 Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5141.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Fateh TV
+http://streamxcode.ddns.net:25461/live/psl/match/5155.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Garv Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5161.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Garv Gurbani TV
+http://streamxcode.ddns.net:25461/live/psl/match/5169.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Gaunda Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5147.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Global Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5150.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Global Sanjh
+http://streamxcode.ddns.net:25461/live/psl/match/5168.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Gurmit Channel
+http://streamxcode.ddns.net:25461/live/psl/match/5134.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Hamdard TV
+http://streamxcode.ddns.net:25461/live/psl/match/5148.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Jus 24X7
+http://streamxcode.ddns.net:25461/live/psl/match/5131.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Jus One TV
+http://streamxcode.ddns.net:25461/live/psl/match/5130.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Jus Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5129.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Manjhe Te Speaker
+http://streamxcode.ddns.net:25461/live/psl/match/5160.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Mh1
+http://streamxcode.ddns.net:25461/live/psl/match/5138.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Mh1 News
+http://streamxcode.ddns.net:25461/live/psl/match/5137.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Mh1 Shraddha
+http://streamxcode.ddns.net:25461/live/psl/match/5165.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Mirror Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5132.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",NDA Channel
+http://streamxcode.ddns.net:25461/live/psl/match/5117.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",OZ TV Channel
+http://streamxcode.ddns.net:25461/live/psl/match/5648.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",PBN Music
+http://streamxcode.ddns.net:25461/live/psl/match/5145.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Prime Asia
+http://streamxcode.ddns.net:25461/live/psl/match/5133.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",PTC Chakde
+http://streamxcode.ddns.net:25461/live/psl/match/5128.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",PTC News UK
+http://streamxcode.ddns.net:25461/live/psl/match/5136.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",PTC News
+http://streamxcode.ddns.net:25461/live/psl/match/5135.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",PTC Punjabi UK
+http://streamxcode.ddns.net:25461/live/psl/match/5126.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5125.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",PTN 24
+http://streamxcode.ddns.net:25461/live/psl/match/5115.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",RTV HD
+http://streamxcode.ddns.net:25461/live/psl/match/5122.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Sahib TV
+http://streamxcode.ddns.net:25461/live/psl/match/5178.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Sanjh TV
+http://streamxcode.ddns.net:25461/live/psl/match/5143.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Sanjha Punjab
+http://streamxcode.ddns.net:25461/live/psl/match/5158.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Sikh Channel
+http://streamxcode.ddns.net:25461/live/psl/match/5159.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Sikh Channel USA
+http://streamxcode.ddns.net:25461/live/psl/match/5174.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Steelbird  Music
+http://streamxcode.ddns.net:25461/live/psl/match/5140.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Zee Punjabi UK
+http://streamxcode.ddns.net:25461/live/psl/match/5121.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Zee Punjabi
+http://streamxcode.ddns.net:25461/live/psl/match/5120.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Punjabi",Zee PB HP HR
+http://streamxcode.ddns.net:25461/live/psl/match/5123.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",24 Ghanta
+http://streamxcode.ddns.net:25461/live/psl/match/5188.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Aakaash Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5237.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Aamar Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5238.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",ABP Ananda
+http://streamxcode.ddns.net:25461/live/psl/match/5202.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Asian TV
+http://streamxcode.ddns.net:25461/live/psl/match/5222.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",ATN Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5220.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",ATN Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5221.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",ATN Music TV
+http://streamxcode.ddns.net:25461/live/psl/match/5192.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",ATN News
+http://streamxcode.ddns.net:25461/live/psl/match/5193.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Bangla Etv
+http://streamxcode.ddns.net:25461/live/psl/match/5244.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Bangla Times
+http://streamxcode.ddns.net:25461/live/psl/match/5217.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Bangla TV
+http://streamxcode.ddns.net:25461/live/psl/match/5219.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Bangla Vision
+http://streamxcode.ddns.net:25461/live/psl/match/5218.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Bijoy TV
+http://streamxcode.ddns.net:25461/live/psl/match/5236.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",BNS1 TV
+http://streamxcode.ddns.net:25461/live/psl/match/5235.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Boishakhi TV
+http://streamxcode.ddns.net:25461/live/psl/match/5194.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",BTV
+http://streamxcode.ddns.net:25461/live/psl/match/5234.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",BTV World
+http://streamxcode.ddns.net:25461/live/psl/match/5233.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Channel 24
+http://streamxcode.ddns.net:25461/live/psl/match/5191.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Channel 9
+http://streamxcode.ddns.net:25461/live/psl/match/5215.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Channel I
+http://streamxcode.ddns.net:25461/live/psl/match/5239.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Channel I EU
+http://streamxcode.ddns.net:25461/live/psl/match/5240.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Channel S
+http://streamxcode.ddns.net:25461/live/psl/match/5241.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Colors Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5252.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Colors Bangla HD
+http://streamxcode.ddns.net:25461/live/psl/match/5253.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",DBC News
+http://streamxcode.ddns.net:25461/live/psl/match/5232.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",DD Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5242.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Deepto HD
+http://streamxcode.ddns.net:25461/live/psl/match/5216.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Desh TV
+http://streamxcode.ddns.net:25461/live/psl/match/5195.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Deshe Bideshe TV
+http://streamxcode.ddns.net:25461/live/psl/match/5196.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Deshi TV
+http://streamxcode.ddns.net:25461/live/psl/match/5231.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Dhoom Music
+http://streamxcode.ddns.net:25461/live/psl/match/5230.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Digi Bangla HD
+http://streamxcode.ddns.net:25461/live/psl/match/5190.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Discovery Channel
+http://streamxcode.ddns.net:25461/live/psl/match/5187.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Doom Music
+http://streamxcode.ddns.net:25461/live/psl/match/5197.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Ekattor TV
+http://streamxcode.ddns.net:25461/live/psl/match/5198.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Etv Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5182.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",G TV
+http://streamxcode.ddns.net:25461/live/psl/match/5199.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Gaan Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5200.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Independent TV
+http://streamxcode.ddns.net:25461/live/psl/match/5201.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Itv
+http://streamxcode.ddns.net:25461/live/psl/match/5229.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Magic Bangla TV
+http://streamxcode.ddns.net:25461/live/psl/match/5203.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Masranga TV
+http://streamxcode.ddns.net:25461/live/psl/match/5204.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Millennium TV
+http://streamxcode.ddns.net:25461/live/psl/match/5205.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Mohona TV
+http://streamxcode.ddns.net:25461/live/psl/match/5206.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Movie Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5249.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Music Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5207.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",My Cinema TV
+http://streamxcode.ddns.net:25461/live/psl/match/5189.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",My TV
+http://streamxcode.ddns.net:25461/live/psl/match/5214.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",News 24 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5228.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",News Time
+http://streamxcode.ddns.net:25461/live/psl/match/5186.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",NJ24 Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5227.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",NRB TV
+http://streamxcode.ddns.net:25461/live/psl/match/5208.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",NTV
+http://streamxcode.ddns.net:25461/live/psl/match/5209.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",ntv
+http://streamxcode.ddns.net:25461/live/psl/match/5210.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Probashi Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5226.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",R Plus
+http://streamxcode.ddns.net:25461/live/psl/match/5211.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",RTV
+http://streamxcode.ddns.net:25461/live/psl/match/5212.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Ruposhi Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5213.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Sangeet Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5185.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Sa TV
+http://streamxcode.ddns.net:25461/live/psl/match/5225.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",SK Movies
+http://streamxcode.ddns.net:25461/live/psl/match/5223.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Solid Movie Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5247.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Somoy News TV
+http://streamxcode.ddns.net:25461/live/psl/match/5250.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Sony Aath
+http://streamxcode.ddns.net:25461/live/psl/match/5184.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Star Jhalsa
+http://streamxcode.ddns.net:25461/live/psl/match/5254.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Star Jhalsa Movies
+http://streamxcode.ddns.net:25461/live/psl/match/5246.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Star Pravah
+http://streamxcode.ddns.net:25461/live/psl/match/5183.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Tara Muzik
+http://streamxcode.ddns.net:25461/live/psl/match/5245.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Time Television
+http://streamxcode.ddns.net:25461/live/psl/match/5243.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",TV Asia
+http://streamxcode.ddns.net:25461/live/psl/match/5224.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Zee Bangla
+http://streamxcode.ddns.net:25461/live/psl/match/5251.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Bangla",Zee Bangla Cinema
+http://streamxcode.ddns.net:25461/live/psl/match/5248.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 1 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5074.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 10 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5083.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 11 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5084.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 2 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5075.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 3 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5076.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 4 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5077.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 5 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5078.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 6 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5079.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 7 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5080.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 8 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5081.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports 9 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5082.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports HD
+http://streamxcode.ddns.net:25461/live/psl/match/5085.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Bein Sports NBA HD
+http://streamxcode.ddns.net:25461/live/psl/match/5086.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",OSN Cricket HD
+http://streamxcode.ddns.net:25461/live/psl/match/5068.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",OSN Sports 1 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5069.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",OSN Sports 2 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5070.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",OSN Sports 3 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5071.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",OSN Sports 4 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5072.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Sony Six
+http://streamxcode.ddns.net:25461/live/psl/match/5054.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Sony Six HD
+http://streamxcode.ddns.net:25461/live/psl/match/5055.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Sony Ten 1
+http://streamxcode.ddns.net:25461/live/psl/match/5052.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Sony Ten 1 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5053.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Sony Ten 2
+http://streamxcode.ddns.net:25461/live/psl/match/5051.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Sony Ten 2 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5050.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Star Sports 1
+http://streamxcode.ddns.net:25461/live/psl/match/5065.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Star Sports 1 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5066.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Star Sports 1 Hindi HD
+http://streamxcode.ddns.net:25461/live/psl/match/5061.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Star Sports 2
+http://streamxcode.ddns.net:25461/live/psl/match/5063.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Star Sports 2 HD
+http://streamxcode.ddns.net:25461/live/psl/match/5064.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Star Sports First
+http://streamxcode.ddns.net:25461/live/psl/match/5067.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Star Sports Select 1  HD
+http://streamxcode.ddns.net:25461/live/psl/match/5060.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Star Sports Select 2  HD
+http://streamxcode.ddns.net:25461/live/psl/match/5059.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Ten 3
+http://streamxcode.ddns.net:25461/live/psl/match/5049.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Ten Cricket
+http://streamxcode.ddns.net:25461/live/psl/match/5058.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Ten Golf HD
+http://streamxcode.ddns.net:25461/live/psl/match/5087.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Ten Sports
+http://streamxcode.ddns.net:25461/live/psl/match/5057.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",True Sports
+http://streamxcode.ddns.net:25461/live/psl/match/5048.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Sports",Willow Cricket HD
+http://streamxcode.ddns.net:25461/live/psl/match/5062.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Ajyal TV
+http://streamxcode.ddns.net:25461/live/psl/match/4706.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Baby TV
+http://streamxcode.ddns.net:25461/live/psl/match/4686.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Baby TV
+http://streamxcode.ddns.net:25461/live/psl/match/4667.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Baby TV
+http://streamxcode.ddns.net:25461/live/psl/match/471.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Bbc Cbeebies
+http://streamxcode.ddns.net:25461/live/psl/match/4696.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Boomerang
+http://streamxcode.ddns.net:25461/live/psl/match/4689.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Boomerang Fr
+http://streamxcode.ddns.net:25461/live/psl/match/4718.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Canal J FR
+http://streamxcode.ddns.net:25461/live/psl/match/4717.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Canal Panda ES
+http://streamxcode.ddns.net:25461/live/psl/match/4722.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Cartoon Network AR
+http://streamxcode.ddns.net:25461/live/psl/match/4681.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Cartoon Network FR
+http://streamxcode.ddns.net:25461/live/psl/match/4716.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Cartoon Network HD
+http://streamxcode.ddns.net:25461/live/psl/match/4679.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Cartoon Network IN
+http://streamxcode.ddns.net:25461/live/psl/match/4680.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Cartoon Network TG
+http://streamxcode.ddns.net:25461/live/psl/match/4702.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Cartoon NetworkTamil
+http://streamxcode.ddns.net:25461/live/psl/match/4732.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Cartoonito
+http://streamxcode.ddns.net:25461/live/psl/match/4678.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Cbbc
+http://streamxcode.ddns.net:25461/live/psl/match/4697.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Chintu TV
+http://streamxcode.ddns.net:25461/live/psl/match/4726.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Chutti TV Tamil
+http://streamxcode.ddns.net:25461/live/psl/match/4693.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",CITV
+http://streamxcode.ddns.net:25461/live/psl/match/4698.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Discovery Kids IN
+http://streamxcode.ddns.net:25461/live/psl/match/4723.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Discovery Kids Tamil
+http://streamxcode.ddns.net:25461/live/psl/match/4734.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Disney Channel
+http://streamxcode.ddns.net:25461/live/psl/match/4675.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Disney Jr
+http://streamxcode.ddns.net:25461/live/psl/match/4674.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Disney Jr FR
+http://streamxcode.ddns.net:25461/live/psl/match/4715.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Disney XD
+http://streamxcode.ddns.net:25461/live/psl/match/4676.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Disney XD DE
+http://streamxcode.ddns.net:25461/live/psl/match/4720.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Disney XD FR
+http://streamxcode.ddns.net:25461/live/psl/match/4714.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Gulli FR
+http://streamxcode.ddns.net:25461/live/psl/match/4713.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Hungama
+http://streamxcode.ddns.net:25461/live/psl/match/4687.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Kochu TV
+http://streamxcode.ddns.net:25461/live/psl/match/4728.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Kushi TV
+http://streamxcode.ddns.net:25461/live/psl/match/4730.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTM#U
+
+#EXTINF:0, group-title="Kids",Maha Cartoon
+http://streamxcode.ddns.net:25461/live/psl/match/4668.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Majid Kids
+http://streamxcode.ddns.net:25461/live/psl/match/4708.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",MbBC 3 AR
+http://streamxcode.ddns.net:25461/live/psl/match/4704.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Nick Jr
+http://streamxcode.ddns.net:25461/live/psl/match/4672.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Nick Jr Toonami
+http://streamxcode.ddns.net:25461/live/psl/match/4671.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Nick Tamil
+http://streamxcode.ddns.net:25461/live/psl/match/4736.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Nickelodeon HD
+http://streamxcode.ddns.net:25461/live/psl/match/4683.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Nickelodeon IN
+http://streamxcode.ddns.net:25461/live/psl/match/4685.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Nicktoons
+http://streamxcode.ddns.net:25461/live/psl/match/4682.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",OSN Movies Kids HD
+http://streamxcode.ddns.net:25461/live/psl/match/4695.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Piwi + FR
+http://streamxcode.ddns.net:25461/live/psl/match/4712.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Pogo IN
+http://streamxcode.ddns.net:25461/live/psl/match/4690.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Pogo Tamil
+http://streamxcode.ddns.net:25461/live/psl/match/4738.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Pop
+http://streamxcode.ddns.net:25461/live/psl/match/4670.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Rte Junior
+http://streamxcode.ddns.net:25461/live/psl/match/4688.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Sat 7 Kids AR
+http://streamxcode.ddns.net:25461/live/psl/match/4705.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Smile of a Child
+http://streamxcode.ddns.net:25461/live/psl/match/4691.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Sonic
+http://streamxcode.ddns.net:25461/live/psl/match/4279.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Sonic Tamil
+http://streamxcode.ddns.net:25461/live/psl/match/4740.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Sony Yay! Hindi(SS)
+http://streamxcode.ddns.net:25461/live/psl/match/4700.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Sony Yay! Telugu
+http://streamxcode.ddns.net:25461/live/psl/match/4701.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Sony Yay! Tamil
+http://streamxcode.ddns.net:25461/live/psl/match/4742.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Space Toon AR
+http://streamxcode.ddns.net:25461/live/psl/match/4707.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Teletoon
+http://streamxcode.ddns.net:25461/live/psl/match/4721.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Teletoon Plus FR
+http://streamxcode.ddns.net:25461/live/psl/match/4711.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Tfou TV FR
+http://streamxcode.ddns.net:25461/live/psl/match/4719.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Tiji FR
+http://streamxcode.ddns.net:25461/live/psl/match/4710.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Tiny Pop
+http://streamxcode.ddns.net:25461/live/psl/match/4669.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Toonami IN
+http://streamxcode.ddns.net:25461/live/psl/match/4724.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="Kids",Zouzou TV FR
+http://streamxcode.ddns.net:25461/live/psl/match/4709.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",3E
+http://streamxcode.ddns.net:25461/live/psl/match/591.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",4E
+http://streamxcode.ddns.net:25461/live/psl/match/592.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",5 Star
+http://streamxcode.ddns.net:25461/live/psl/match/593.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",Alibi
+http://streamxcode.ddns.net:25461/live/psl/match/594.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",Pick TV
+http://streamxcode.ddns.net:25461/live/psl/match/638.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",Quest
+http://streamxcode.ddns.net:25461/live/psl/match/639.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",RT News
+http://streamxcode.ddns.net:25461/live/psl/match/640.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",RTE 1
+http://streamxcode.ddns.net:25461/live/psl/match/641.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:0, group-title="UK",RTE 2
+http://streamxcode.ddns.net:25461/live/psl/match/642.ts|refferer=http://solidstreamz.com/&user-agent=ipl
