@@ -1302,6 +1302,8 @@ http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:0, group-title="Infotainment",Tag TV	
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",TV Punjabi
+http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:0, group-title="Infotainment",TV 84	
 http://streamxcode.ddns.net:25461/live/psl/match/5156.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:0, group-title="Infotainment",Urdu TV Toronto	
