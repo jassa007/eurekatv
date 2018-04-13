@@ -1,374 +1,946 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BBC1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
+http://62.210.93.115:80/live?channelId=1&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BBC1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
+http://62.210.99.158:80/live?channelId=2&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BBC2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC2 HD" tvg-logo="" group-title="Entertainment Channels",BBC2 HD - BBC2 HD
+http://62.210.93.115:80/live?channelId=3&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BBC2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
+http://62.210.93.115:80/live?channelId=4&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
+http://62.210.93.115:80/live?channelId=5&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV" tvg-logo="" group-title="Entertainment Channels",ITV - ITV
+http://62.210.93.115:80/live?channelId=6&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="ITV Central +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV plus1" tvg-logo="" group-title="Entertainment Channels",ITV plus1 - ITV plus1
+http://62.210.93.115:80/live?channelId=7&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
+http://62.210.93.115:80/live?channelId=8&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
+http://62.210.93.115:80/live?channelId=9&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Channel 4 + 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 4 plus1 - Channel 4 plus1
+http://62.210.93.115:80/live?channelId=10&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 HD" tvg-logo="" group-title="Entertainment Channels",Channel 5 HD - Channel 5 HD
+http://62.210.93.115:80/live?channelId=11&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5" tvg-logo="" group-title="Entertainment Channels",Channel 5 - Channel 5
+http://62.210.93.115:80/live?channelId=12&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Channel 5 +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 5 plus1 - Channel 5 plus1
+http://62.210.93.115:80/live?channelId=13&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="ITV2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV2" tvg-logo="" group-title="Entertainment Channels",ITV2 - ITV2
+http://62.210.93.115:80/live?channelId=14&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="ITV3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV3" tvg-logo="" group-title="Entertainment Channels",ITV3 - ITV3
+http://62.210.93.115:80/live?channelId=15&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="ITV4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV4" tvg-logo="" group-title="Entertainment Channels",ITV4 - ITV4
+http://62.210.93.115:80/live?channelId=16&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="ITVBe" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITVBe" tvg-logo="" group-title="Entertainment Channels",ITVBe - ITVBe
+http://62.210.93.115:80/live?channelId=17&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="4seven" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="4seven" tvg-logo="" group-title="Entertainment Channels",4seven - 4seven
+http://62.210.93.115:80/live?channelId=18&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="E4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E4" tvg-logo="" group-title="Entertainment Channels",E4 - E4
+http://62.210.93.115:80/live?channelId=19&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="More4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="More4" tvg-logo="" group-title="Entertainment Channels",More4 - More4
+http://62.210.93.115:80/live?channelId=20&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="5USA" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5 USA" tvg-logo="" group-title="Entertainment Channels",5 USA - 5 USA
+http://62.210.93.115:80/live?channelId=21&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="5STAR" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5STAR" tvg-logo="" group-title="Entertainment Channels",5STAR - 5STAR
+http://62.210.93.115:80/live?channelId=22&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="My5" tvg-link="" tvg-name="My5" tvg-logo="" group-title="Entertainment Channels",My5 - My5
+http://62.210.93.115:80/live?channelId=23&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="AMC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="AMC from BT" tvg-logo="" group-title="Entertainment Channels",AMC from BT - AMC from BT
+http://62.210.93.115:80/live?channelId=24&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
+http://62.210.93.115:80/live?channelId=25&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
+http://62.210.93.115:80/live?channelId=26&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky2" tvg-logo="" group-title="Entertainment Channels",Sky2 - Sky2
+http://62.210.93.115:80/live?channelId=27&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Living" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Living" tvg-logo="" group-title="Entertainment Channels",Sky Living - Sky Living
+http://62.210.93.115:80/live?channelId=28&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic HD - Sky Atlantic HD
+http://62.210.93.115:80/live?channelId=29&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
+http://62.210.93.115:80/live?channelId=30&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Arts HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Arts" tvg-logo="" group-title="Entertainment Channels",Sky Arts - Sky Arts
+http://62.210.93.115:80/live?channelId=31&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery" tvg-logo="" group-title="Entertainment Channels",Discovery - Discovery
+http://62.210.93.115:80/live?channelId=32&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Discovery History" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.History" tvg-logo="" group-title="Entertainment Channels",Disc.History - Disc.History
+http://62.210.93.115:80/live?channelId=33&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Discovery Science" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Science" tvg-logo="" group-title="Entertainment Channels",Disc.Science - Disc.Science
+http://62.210.93.115:80/live?channelId=34&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Turbo" tvg-logo="" group-title="Entertainment Channels",Disc.Turbo - Disc.Turbo
+http://62.210.93.115:80/live?channelId=35&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Discovery Shed" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery Shed" tvg-logo="" group-title="Entertainment Channels",Discovery Shed - Discovery Shed
+http://62.210.93.115:80/live?channelId=36&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="DMAX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="DMAX" tvg-logo="" group-title="Entertainment Channels",DMAX - DMAX
+http://62.210.93.115:80/live?channelId=37&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BLAZE" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Blaze" tvg-logo="" group-title="Entertainment Channels",Blaze - Blaze
+http://62.210.93.115:80/live?channelId=38&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Comedy Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyCentral" tvg-logo="" group-title="Entertainment Channels",ComedyCentral - ComedyCentral
+http://62.210.93.115:80/live?channelId=39&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyXtra" tvg-logo="" group-title="Entertainment Channels",ComedyXtra - ComedyXtra
+http://62.210.93.115:80/live?channelId=40&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="CI HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Crime and Investigation" tvg-logo="" group-title="Entertainment Channels",Crime and Investigation - Crime and Investigation
+http://62.210.93.115:80/live?channelId=41&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Animal Planet" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment Channels",Animal Planet - Animal Planet
+http://62.210.93.115:80/live?channelId=42&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="HISTORY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment Channels",HISTORY - HISTORY
+http://62.210.93.115:80/live?channelId=43&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="H2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="H2" tvg-logo="" group-title="Entertainment Channels",H2 - H2
+http://62.210.93.115:80/live?channelId=44&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geo Wild" tvg-logo="" group-title="Entertainment Channels",National Geo Wild - National Geo Wild
+http://62.210.93.115:80/live?channelId=45&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="National Geographic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
+http://62.210.93.115:80/live?channelId=46&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="TLC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
+http://62.210.93.115:80/live?channelId=47&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Syfy" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
+http://62.210.93.115:80/live?channelId=48&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Lifetime" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
+http://62.210.93.115:80/live?channelId=49&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MTV" tvg-logo="" group-title="Entertainment Channels",MTV - MTV
+http://62.210.93.115:80/live?channelId=50&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Dave" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave" tvg-logo="" group-title="Entertainment Channels",Dave - Dave
+http://62.210.93.115:80/live?channelId=51&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Dave ja vu" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave ja vu" tvg-logo="" group-title="Entertainment Channels",Dave ja vu - Dave ja vu
+http://62.210.93.115:80/live?channelId=52&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="FOX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FOX" tvg-logo="" group-title="Entertainment Channels",FOX - FOX
+http://62.210.93.115:80/live?channelId=53&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="horror channel" tvg-link="" tvg-name="horror channel" tvg-logo="" group-title="Entertainment Channels",horror channel - horror channel
+http://62.210.93.115:80/live?channelId=54&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ID" tvg-logo="" group-title="Entertainment Channels",ID - ID
+http://62.210.93.115:80/live?channelId=55&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Good Food" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Good Food" tvg-logo="" group-title="Entertainment Channels",Good Food - Good Food
+http://62.210.93.115:80/live?channelId=56&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Home" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Home" tvg-logo="" group-title="Entertainment Channels",Home - Home
+http://62.210.93.115:80/live?channelId=57&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Food Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Food Network" tvg-logo="" group-title="Entertainment Channels",Food Network - Food Network
+http://62.210.93.115:80/live?channelId=58&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Alibi" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="alibi" tvg-logo="" group-title="Entertainment Channels",alibi - alibi
+http://62.210.93.115:80/live?channelId=59&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Drama" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Drama" tvg-logo="" group-title="Entertainment Channels",Drama - Drama
+http://62.210.93.115:80/live?channelId=60&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="E!" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E!" tvg-logo="" group-title="Entertainment Channels",E! - E!
+http://62.210.93.115:80/live?channelId=61&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Eden" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eden" tvg-logo="" group-title="Entertainment Channels",Eden - Eden
+http://62.210.93.115:80/live?channelId=62&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="GOLD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="GOLD" tvg-logo="" group-title="Entertainment Channels",GOLD - GOLD
+http://62.210.93.115:80/live?channelId=63&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Pick" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Pick" tvg-logo="" group-title="Entertainment Channels",Pick - Pick
+http://62.210.93.115:80/live?channelId=64&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Really" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Really" tvg-logo="" group-title="Entertainment Channels",Really - Really
+http://62.210.93.115:80/live?channelId=65&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="YESTERDAY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Yesterday" tvg-logo="" group-title="Entertainment Channels",Yesterday - Yesterday
+http://62.210.93.115:80/live?channelId=66&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="W" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="W" tvg-logo="" group-title="Entertainment Channels",W - W
+http://62.210.93.115:80/live?channelId=67&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Universal Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Universal" tvg-logo="" group-title="Entertainment Channels",Universal - Universal
+http://62.210.93.115:80/live?channelId=68&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="QUEST" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="QUEST" tvg-logo="" group-title="Entertainment Channels",QUEST - QUEST
+http://62.210.93.115:80/live?channelId=69&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA ACTION & ADVENTURE HD" tvg-logo="" group-title="Movie Channels",CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
+http://62.210.93.43:80/live?channelId=70&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DISNEY HD" tvg-logo="" group-title="Movie Channels",CINEMA DISNEY HD - CINEMA DISNEY HD
+http://62.210.93.43:80/live?channelId=71&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DRAMA AND ROMANCE HD" tvg-logo="" group-title="Movie Channels",CINEMA DRAMA AND ROMANCE HD - CINEMA DRAMA AND ROMANCE HD
+http://62.210.93.43:80/live?channelId=72&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA FAMILY HD" tvg-logo="" group-title="Movie Channels",CINEMA FAMILY HD - CINEMA FAMILY HD
+http://62.210.93.43:80/live?channelId=73&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Hits HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA HITS HD" tvg-logo="" group-title="Movie Channels",CINEMA HITS HD - CINEMA HITS HD
+http://62.210.93.43:80/live?channelId=74&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA MODERN GREATS HD" tvg-logo="" group-title="Movie Channels",CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
+http://62.210.93.43:80/live?channelId=75&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA PREMIERE HD" tvg-logo="" group-title="Movie Channels",CINEMA PREMIERE HD - CINEMA PREMIERE HD
+http://62.210.93.43:80/live?channelId=76&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SCI-FI & HORROR HD" tvg-logo="" group-title="Movie Channels",CINEMA SCI-FI & HORROR HD - CINEMA SCI-FI & HORROR HD
+http://62.210.93.43:80/live?channelId=77&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SELECT HD" tvg-logo="" group-title="Movie Channels",CINEMA SELECT HD - CINEMA SELECT HD
+http://62.210.93.43:80/live?channelId=78&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA THRILLER HD" tvg-logo="" group-title="Movie Channels",CINEMA THRILLER HD - CINEMA THRILLER HD
+http://62.210.93.43:80/live?channelId=79&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Action & Adventure" tvg-logo="" group-title="Movie Channels",Sky Movies Action & Adventure - Sky Movies Action & Adventure
+http://62.210.93.43:80/live?channelId=80&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Movies Comedy HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Comedy" tvg-logo="" group-title="Movie Channels",Sky Movies Comedy - Sky Movies Comedy
+http://62.210.93.43:80/live?channelId=81&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Disney" tvg-logo="" group-title="Movie Channels",Sky Movies Disney - Sky Movies Disney
+http://62.210.93.43:80/live?channelId=82&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Drama & Romance" tvg-logo="" group-title="Movie Channels",Sky Movies Drama & Romance - Sky Movies Drama & Romance
+http://62.210.93.43:80/live?channelId=83&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Family" tvg-logo="" group-title="Movie Channels",Sky Movies Family - Sky Movies Family
+http://62.210.93.43:80/live?channelId=84&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Greats" tvg-logo="" group-title="Movie Channels",Sky Movies Greats - Sky Movies Greats
+http://62.210.93.43:80/live?channelId=85&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Premiere" tvg-logo="" group-title="Movie Channels",Sky Movies Premiere - Sky Movies Premiere
+http://62.210.93.43:80/live?channelId=86&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Sci-Fi & Horror" tvg-logo="" group-title="Movie Channels",Sky Movies Sci-Fi & Horror - Sky Movies Sci-Fi & Horror
+http://62.210.93.43:80/live?channelId=87&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Select" tvg-logo="" group-title="Movie Channels",Sky Movies Select - Sky Movies Select
+http://62.210.93.43:80/live?channelId=88&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Thriller" tvg-logo="" group-title="Movie Channels",Sky Movies Thriller - Sky Movies Thriller
+http://62.210.93.43:80/live?channelId=89&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Baby TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Baby TV" tvg-logo="" group-title="Kids Channels",Baby TV - Baby TV
+http://62.210.93.43:80/live?channelId=90&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="CBBC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CBBC" tvg-logo="" group-title="Kids Channels",CBBC - CBBC
+http://62.210.93.43:80/live?channelId=91&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Cartoon network" tvg-logo="" group-title="Kids Channels",Cartoon network - Cartoon network
+http://62.210.93.43:80/live?channelId=92&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Cbeeies" tvg-link="" tvg-name="Cbeeies" tvg-logo="" group-title="Kids Channels",Cbeeies - Cbeeies
+http://62.210.93.43:80/live?channelId=93&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Disney Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Channel" tvg-logo="" group-title="Kids Channels",Disney Channel - Disney Channel
+http://62.210.93.43:80/live?channelId=94&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" tvg-logo="" group-title="Kids Channels",Disney Jr - Disney Jr
+http://62.210.93.43:80/live?channelId=95&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Disney XD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney XD" tvg-logo="" group-title="Kids Channels",Disney XD - Disney XD
+http://62.210.93.43:80/live?channelId=96&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Nick Jr" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Jr" tvg-logo="" group-title="Kids Channels",Nick Jr - Nick Jr
+http://62.210.93.43:80/live?channelId=97&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Nicktoons" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Toons" tvg-logo="" group-title="Kids Channels",Nick Toons - Nick Toons
+http://62.210.93.43:80/live?channelId=98&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids Channels",Nickelodeon - Nickelodeon
+http://62.210.93.43:80/live?channelId=99&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Nick Jr Too" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="NickJr Too" tvg-logo="" group-title="Kids Channels",NickJr Too - NickJr Too
+http://62.210.93.43:80/live?channelId=100&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Boomerang" tvg-link="" tvg-name="Boomerang" tvg-logo="" group-title="Kids Channels",Boomerang - Boomerang
+http://62.210.93.43:80/live?channelId=101&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MTV Base" tvg-link="" tvg-name="MTV Base" tvg-logo="" group-title="Music Channels",MTV Base - MTV Base
+http://62.210.93.43:80/live?channelId=102&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MTV Classic" tvg-link="" tvg-name="MTV Classic" tvg-logo="" group-title="Music Channels",MTV Classic - MTV Classic
+http://62.210.93.43:80/live?channelId=103&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MTV Dance" tvg-link="" tvg-name="MTV Dance" tvg-logo="" group-title="Music Channels",MTV Dance - MTV Dance
+http://62.210.93.43:80/live?channelId=104&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MTV Hits" tvg-link="" tvg-name="MTV Hits" tvg-logo="" group-title="Music Channels",MTV Hits - MTV Hits
+http://62.210.93.43:80/live?channelId=105&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MTV Music" tvg-link="" tvg-name="MTV Music" tvg-logo="" group-title="Music Channels",MTV Music - MTV Music
+http://62.210.93.43:80/live?channelId=106&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-link="" tvg-name="MTV Rocks" tvg-logo="" group-title="Music Channels",MTV Rocks - MTV Rocks
+http://62.210.93.43:80/live?channelId=107&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BBC One Northern Ireland" tvg-link="" tvg-name="BBC One Northern Ireland" tvg-logo="" group-title="Regional Channels",BBC One Northern Ireland - BBC One Northern Ireland
+http://62.210.93.43:80/live?channelId=108&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BBC One Scotland" tvg-link="" tvg-name="BBC One Scotland" tvg-logo="" group-title="Regional Channels",BBC One Scotland - BBC One Scotland
+http://62.210.93.43:80/live?channelId=109&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BBC Two Scotland" tvg-link="" tvg-name="BBC Two Scotland" tvg-logo="" group-title="Regional Channels",BBC Two Scotland - BBC Two Scotland
+http://62.210.93.43:80/live?channelId=110&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BBC Two Wales" tvg-link="" tvg-name="BBC Two Wales" tvg-logo="" group-title="Regional Channels",BBC Two Wales - BBC Two Wales
+http://62.210.93.43:80/live?channelId=111&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="3e" tvg-link="" tvg-name="3e" tvg-logo="" group-title="Regional Channels",3e - 3e
+http://62.210.93.43:80/live?channelId=112&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="RTE one" tvg-link="" tvg-name="RTE one" tvg-logo="" group-title="Regional Channels",RTE one - RTE one
+http://62.210.93.43:80/live?channelId=113&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="RTE two" tvg-link="" tvg-name="RTE two" tvg-logo="" group-title="Regional Channels",RTE two - RTE two
+http://62.210.93.43:80/live?channelId=114&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="S4C" tvg-link="" tvg-name="S4C" tvg-logo="" group-title="Regional Channels",S4C - S4C
+http://62.210.93.43:80/live?channelId=115&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="STV" tvg-link="" tvg-name="STV" tvg-logo="" group-title="Regional Channels",STV - STV
+http://62.210.93.43:80/live?channelId=116&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="STV2" tvg-link="" tvg-name="STV2" tvg-logo="" group-title="Regional Channels",STV2 - STV2
+http://62.210.93.43:80/live?channelId=117&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="TG4" tvg-link="" tvg-name="TG4" tvg-logo="" group-title="Regional Channels",TG4 - TG4
+http://62.210.93.43:80/live?channelId=118&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action" tvg-logo="" group-title="Sly Sports",Sly Sports Action - Sly Sports Action
+http://62.210.99.158:80/live?channelId=119&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action HD" tvg-logo="" group-title="Sly Sports",Sly Sports Action HD - Sly Sports Action HD
+http://62.210.99.158:80/live?channelId=120&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena" tvg-logo="" group-title="Sly Sports",Sly Sports Arena - Sly Sports Arena
+http://62.210.99.158:80/live?channelId=121&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena HD" tvg-logo="" group-title="Sly Sports",Sly Sports Arena HD - Sly Sports Arena HD
+http://62.210.99.158:80/live?channelId=122&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket - Sly Sports Cricket
+http://62.210.99.158:80/live?channelId=123&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket HD" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket HD - Sly Sports Cricket HD
+http://62.210.99.158:80/live?channelId=124&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football" tvg-logo="" group-title="Sly Sports",Sly Sports Football - Sly Sports Football
+http://62.210.99.158:80/live?channelId=125&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football HD" tvg-logo="" group-title="Sly Sports",Sly Sports Football HD - Sly Sports Football HD
+http://62.210.99.158:80/live?channelId=126&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf" tvg-logo="" group-title="Sly Sports",Sly Sports Golf - Sly Sports Golf
+http://62.210.99.158:80/live?channelId=127&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf HD" tvg-logo="" group-title="Sly Sports",Sly Sports Golf HD - Sly Sports Golf HD
+http://62.210.99.158:80/live?channelId=128&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main" tvg-logo="" group-title="Sly Sports",Sly Sports Main - Sly Sports Main
+http://62.210.99.158:80/live?channelId=129&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main HD" tvg-logo="" group-title="Sly Sports",Sly Sports Main HD - Sly Sports Main HD
+http://62.210.99.158:80/live?channelId=130&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix" tvg-logo="" group-title="Sly Sports",Sly Sports Mix - Sly Sports Mix
+http://62.210.99.158:80/live?channelId=131&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix HD" tvg-logo="" group-title="Sly Sports",Sly Sports Mix HD - Sly Sports Mix HD
+http://62.210.99.158:80/live?channelId=132&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL" tvg-logo="" group-title="Sly Sports",Sly Sports PL - Sly Sports PL
+http://62.210.99.158:80/live?channelId=133&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL HD" tvg-logo="" group-title="Sly Sports",Sly Sports PL HD - Sly Sports PL HD
+http://62.210.99.158:80/live?channelId=134&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports F1" tvg-logo="" group-title="Sly Sports",Sly Sports F1 - Sly Sports F1
+http://62.210.99.158:80/live?channelId=135&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Spts F1 HD" tvg-logo="" group-title="Sly Sports",Sly Spts F1 HD - Sly Spts F1 HD
+http://62.210.99.158:80/live?channelId=136&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News" tvg-logo="" group-title="Sly Sports",Sly Sports News - Sly Sports News
+http://62.210.99.158:80/live?channelId=137&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News HD" tvg-logo="" group-title="Sly Sports",Sly Sports News HD - Sly Sports News HD
+http://62.210.99.158:80/live?channelId=138&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SkySpBoxOff" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Box Office" tvg-logo="" group-title="PAY PER VIEW EVENTS",Sly Sports Box Office - Sly Sports Box Office
+http://62.210.99.158:80/live?channelId=139&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1" tvg-logo="" group-title="BT Sports",BT Sport 1 - BT Sport 1
+http://62.210.214.28:80/live?channelId=140&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="BT Sports",BT Sport 1 HD - BT Sport 1 HD
+http://62.210.214.28:80/live?channelId=141&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2" tvg-logo="" group-title="BT Sports",BT Sport 2 - BT Sport 2
+http://62.210.214.28:80/live?channelId=142&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="BT Sports",BT Sport 2 HD - BT Sport 2 HD
+http://62.210.214.28:80/live?channelId=143&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3" tvg-logo="" group-title="BT Sports",BT Sport 3 - BT Sport 3
+http://62.210.214.28:80/live?channelId=144&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="BT Sports",BT Sport 3 HD - BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN" tvg-logo="" group-title="BT Sports",BT Sport ESPN - BT Sport ESPN
+http://62.210.214.28:80/live?channelId=146&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="BT Sports",BT Sport ESPN HD - BT Sport ESPN HD
+http://62.210.214.28:80/live?channelId=147&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport X1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 1" tvg-logo="" group-title="BT Sports",BT Sport Extra 1 - BT Sport Extra 1
+http://62.210.214.28:80/live?channelId=148&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport X2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 2" tvg-logo="" group-title="BT Sports",BT Sport Extra 2 - BT Sport Extra 2
+http://62.210.214.28:80/live?channelId=149&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport X3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 3" tvg-logo="" group-title="BT Sports",BT Sport Extra 3 - BT Sport Extra 3
+http://62.210.214.28:80/live?channelId=150&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport X4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 4" tvg-logo="" group-title="BT Sports",BT Sport Extra 4 - BT Sport Extra 4
+http://62.210.214.28:80/live?channelId=151&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport X5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 5" tvg-logo="" group-title="BT Sports",BT Sport Extra 5 - BT Sport Extra 5
+http://62.210.214.28:80/live?channelId=152&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BT Sport X6" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 6" tvg-logo="" group-title="BT Sports",BT Sport Extra 6 - BT Sport Extra 6
+http://62.210.214.28:80/live?channelId=153&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="eir Sport 1" tvg-link="" tvg-name="eir Sport 1" tvg-logo="" group-title="UK Sports",eir Sport 1 - eir Sport 1
+http://62.210.214.28:80/live?channelId=154&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="eir Sport 2" tvg-link="" tvg-name="eir Sport 2" tvg-logo="" group-title="UK Sports",eir Sport 2 - eir Sport 2
+http://62.210.214.28:80/live?channelId=155&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-link="" tvg-name="Eurosport 1" tvg-logo="" group-title="UK Sports",Eurosport 1 - Eurosport 1
+http://62.210.214.28:80/live?channelId=156&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-link="" tvg-name="Eurosport 2" tvg-logo="" group-title="UK Sports",Eurosport 2 - Eurosport 2
+http://62.210.214.28:80/live?channelId=157&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="FreeSports" tvg-link="" tvg-name="FreeSports" tvg-logo="" group-title="UK Sports",FreeSports - FreeSports
+http://62.210.214.28:80/live?channelId=158&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="FrontRunner" tvg-link="" tvg-name="FrontRunner" tvg-logo="" group-title="UK Sports",FrontRunner - FrontRunner
+http://62.210.214.28:80/live?channelId=159&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MUTV" tvg-link="" tvg-name="MUTV" tvg-logo="" group-title="UK Sports",MUTV - MUTV
+http://62.210.214.28:80/live?channelId=162&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="LFC tv" tvg-link="" tvg-name="LFC tv" tvg-logo="" group-title="UK Sports",LFC tv - LFC tv
+http://62.210.214.28:80/live?channelId=163&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Chelsea Tv" tvg-link="" tvg-name="Chelsea Tv" tvg-logo="" group-title="UK Sports",Chelsea Tv - Chelsea Tv
+http://62.210.214.28:80/live?channelId=164&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="" tvg-name="MOTOGP LIVE 1" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 1 - MOTOGP LIVE 1
+http://62.210.214.28:80/live?channelId=165&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2 - MOTOGP LIVE 2
+http://62.210.214.28:80/live?channelId=166&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://62.210.214.28:80/live?channelId=167&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Motorsport TV" tvg-link="" tvg-name="Motorsport TV" tvg-logo="" group-title="UK Sports",Motorsport TV - Motorsport TV
+http://62.210.214.28:80/live?channelId=168&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Premier Sports" tvg-link="" tvg-name="Premier Sports" tvg-logo="" group-title="UK Sports",Premier Sports - Premier Sports
+http://62.210.214.28:80/live?channelId=169&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Premier Sports HD" tvg-link="" tvg-name="Premier Sports HD" tvg-logo="" group-title="UK Sports",Premier Sports HD - Premier Sports HD
+http://62.210.214.28:80/live?channelId=170&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Racing UK" tvg-link="" tvg-name="Racing UK" tvg-logo="" group-title="UK Sports",Racing UK - Racing UK
+http://62.210.214.28:80/live?channelId=171&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Racing UK HD" tvg-link="" tvg-name="Racing UK HD" tvg-logo="" group-title="UK Sports",Racing UK HD - Racing UK HD
+http://62.210.214.28:80/live?channelId=172&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="At The Races" tvg-link="" tvg-name="At The Races" tvg-logo="" group-title="UK Sports",At The Races - At The Races
+http://62.210.214.28:80/live?channelId=173&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BoxNation" tvg-link="" tvg-name="BoxNation" tvg-logo="" group-title="UK Sports",BoxNation - BoxNation
+http://62.210.214.28:80/live?channelId=174&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="bein france 1" tvg-link="" tvg-name="bein france 1" tvg-logo="" group-title="BEin Sports",bein france 1 - bein france 1
+http://163.172.105.25:80/live?channelId=175&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="bein france 2" tvg-link="" tvg-name="bein france 2" tvg-logo="" group-title="BEin Sports",bein france 2 - bein france 2
+http://163.172.105.25:80/live?channelId=176&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="bein france 3" tvg-link="" tvg-name="bein france 3" tvg-logo="" group-title="BEin Sports",bein france 3 - bein france 3
+http://163.172.105.25:80/live?channelId=177&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 1 HD" tvg-link="" tvg-name="beINSport 1 HD" tvg-logo="" group-title="BEin Sports",beINSport 1 HD - beINSport 1 HD
+http://163.172.105.25:80/live?channelId=178&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 2 HD" tvg-link="" tvg-name="beINSport 2 HD" tvg-logo="" group-title="BEin Sports",beINSport 2 HD - beINSport 2 HD
+http://163.172.105.25:80/live?channelId=179&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 3 HD" tvg-link="" tvg-name="beINSport 3 HD" tvg-logo="" group-title="BEin Sports",beINSport 3 HD - beINSport 3 HD
+http://163.172.105.25:80/live?channelId=180&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 4 HD" tvg-link="" tvg-name="beINSport 4 HD" tvg-logo="" group-title="BEin Sports",beINSport 4 HD - beINSport 4 HD
+http://163.172.105.25:80/live?channelId=181&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 5 HD" tvg-link="" tvg-name="beINSport 5 HD" tvg-logo="" group-title="BEin Sports",beINSport 5 HD - beINSport 5 HD
+http://163.172.105.25:80/live?channelId=182&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 6 HD" tvg-link="" tvg-name="beINSport 6 HD" tvg-logo="" group-title="BEin Sports",beINSport 6 HD - beINSport 6 HD
+http://163.172.105.25:80/live?channelId=183&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 7 HD" tvg-link="" tvg-name="beINSport 7 HD" tvg-logo="" group-title="BEin Sports",beINSport 7 HD - beINSport 7 HD
+http://163.172.105.25:80/live?channelId=184&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 8 HD" tvg-link="" tvg-name="beINSport 8 HD" tvg-logo="" group-title="BEin Sports",beINSport 8 HD - beINSport 8 HD
+http://163.172.105.25:80/live?channelId=185&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 9 HD" tvg-link="" tvg-name="beINSport 9 HD" tvg-logo="" group-title="BEin Sports",beINSport 9 HD - beINSport 9 HD
+http://163.172.105.25:80/live?channelId=186&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 10 HD" tvg-link="" tvg-name="beINSport 10 HD" tvg-logo="" group-title="BEin Sports",beINSport 10 HD - beINSport 10 HD
+http://163.172.105.25:80/live?channelId=187&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 11 HD" tvg-link="" tvg-name="beINSport 11 HD" tvg-logo="" group-title="BEin Sports",beINSport 11 HD - beINSport 11 HD
+http://163.172.105.25:80/live?channelId=188&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="beINSport 12 HD" tvg-link="" tvg-name="beINSport 12 HD" tvg-logo="" group-title="BEin Sports",beINSport 12 HD - beINSport 12 HD
+http://163.172.105.25:80/live?channelId=189&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BEin Sports EPL 1" tvg-link="" tvg-name="BEin Sports EPL 1" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 1 - BEin Sports EPL 1
+http://163.172.105.25:80/live?channelId=190&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BEin Sports EPL 2" tvg-link="" tvg-name="BEin Sports EPL 2" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 2 - BEin Sports EPL 2
+http://163.172.105.25:80/live?channelId=191&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BEin Sports EPL 3" tvg-link="" tvg-name="BEin Sports EPL 3" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 3 - BEin Sports EPL 3
+http://163.172.105.25:80/live?channelId=192&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SKY NET SPORTS 1" tvg-link="" tvg-name="SKY NET SPORTS 1" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 1 - SKY NET SPORTS 1
+http://163.172.105.25:80/live?channelId=211&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SKY NET SPORTS 2" tvg-link="" tvg-name="SKY NET SPORTS 2" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 2 - SKY NET SPORTS 2
+http://163.172.105.25:80/live?channelId=212&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SKY NET SPORTS 3" tvg-link="" tvg-name="SKY NET SPORTS 3" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 3 - SKY NET SPORTS 3
+http://163.172.105.25:80/live?channelId=213&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SKY NET SPORTS 4" tvg-link="" tvg-name="SKY NET SPORTS 4" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 4 - SKY NET SPORTS 4
+http://163.172.105.25:80/live?channelId=214&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SKY NET SPORTS 5" tvg-link="" tvg-name="SKY NET SPORTS 5" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 5 - SKY NET SPORTS 5
+http://163.172.105.25:80/live?channelId=215&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SKY NET SPORTS 6" tvg-link="" tvg-name="SKY NET SPORTS 6" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 6 - SKY NET SPORTS 6
+http://163.172.105.25:80/live?channelId=216&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="USA/CA Channels",TSN 1 - TSN 1
+http://163.172.15.141:9732/live?channelId=217&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="USA/CA Channels",TSN 2 - TSN 2
+http://163.172.15.141:9732/live?channelId=218&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="USA/CA Channels",TSN 3 - TSN 3
+http://163.172.15.141:9732/live?channelId=219&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="USA/CA Channels",TSN 4 - TSN 4
+http://163.172.15.141:9732/live?channelId=220&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="USA/CA Channels",TSN 5 - TSN 5
+http://163.172.15.141:9732/live?channelId=221&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTS NET 360 HD" tvg-link="" tvg-name="SPORTS NET 360 HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET 360 HD - SPORTS NET 360 HD
+http://163.172.15.141:9732/live?channelId=222&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTS NET EAST HD" tvg-link="" tvg-name="SPORTS NET EAST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET EAST HD - SPORTS NET EAST HD
+http://163.172.15.141:9732/live?channelId=223&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTS NET ONE HD" tvg-link="" tvg-name="SPORTS NET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONE HD - SPORTS NET ONE HD
+http://163.172.15.141:9732/live?channelId=224&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTS NET ONTARIO HD" tvg-link="" tvg-name="SPORTS NET ONTARIO HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
+http://163.172.15.141:9732/live?channelId=225&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTS NET PACIFIC HD" tvg-link="" tvg-name="SPORTS NET PACIFIC HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
+http://163.172.15.141:9732/live?channelId=226&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTS NET WEST HD" tvg-link="" tvg-name="SPORTS NET WEST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WEST HD - SPORTS NET WEST HD
+http://163.172.15.141:9732/live?channelId=227&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTS NET WORLD HD" tvg-link="" tvg-name="SPORTS NET WORLD HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WORLD HD - SPORTS NET WORLD HD
+http://163.172.15.141:9732/live?channelId=228&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTSNET 360" tvg-link="" tvg-name="SPORTSNET 360" tvg-logo="" group-title="USA/CA Channels",SPORTSNET 360 - SPORTSNET 360
+http://163.172.15.141:9732/live?channelId=229&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTSNET EAST" tvg-link="" tvg-name="SPORTSNET EAST" tvg-logo="" group-title="USA/CA Channels",SPORTSNET EAST - SPORTSNET EAST
+http://163.172.15.141:9732/live?channelId=230&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTSNET ONE" tvg-link="" tvg-name="SPORTSNET ONE" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONE - SPORTSNET ONE
+http://163.172.15.141:9732/live?channelId=231&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTSNET ONE HD" tvg-link="" tvg-name="SPORTSNET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONE HD - SPORTSNET ONE HD
+http://163.172.15.141:9732/live?channelId=232&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTSNET ONTARIO" tvg-link="" tvg-name="SPORTSNET ONTARIO" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONTARIO - SPORTSNET ONTARIO
+http://163.172.15.141:9732/live?channelId=233&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTSNET PACIFIC" tvg-link="" tvg-name="SPORTSNET PACIFIC" tvg-logo="" group-title="USA/CA Channels",SPORTSNET PACIFIC - SPORTSNET PACIFIC
+http://163.172.15.141:9732/live?channelId=234&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTSNET WEST" tvg-link="" tvg-name="SPORTSNET WEST" tvg-logo="" group-title="USA/CA Channels",SPORTSNET WEST - SPORTSNET WEST
+http://163.172.15.141:9732/live?channelId=235&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPORTSNET WORLD" tvg-link="" tvg-name="SPORTSNET WORLD" tvg-logo="" group-title="USA/CA Channels",SPORTSNET WORLD - SPORTSNET WORLD
+http://163.172.15.141:9732/live?channelId=236&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="USA FOX SPORTS 1" tvg-link="" tvg-name="USA FOX SPORTS 1" tvg-logo="" group-title="USA/CA Channels",USA FOX SPORTS 1 - USA FOX SPORTS 1
+http://163.172.15.141:9732/live?channelId=237&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="USA FOX SPORTS 2" tvg-link="" tvg-name="USA FOX SPORTS 2" tvg-logo="" group-title="USA/CA Channels",USA FOX SPORTS 2 - USA FOX SPORTS 2
+http://163.172.15.141:9732/live?channelId=238&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="A&E (US)" tvg-link="" tvg-name="A&E (US)" tvg-logo="" group-title="USA/CA Channels",A&E (US) - A&E (US)
+http://163.172.15.141:9732/live?channelId=239&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="AFN SPORTS (US)" tvg-link="" tvg-name="AFN SPORTS (US)" tvg-logo="" group-title="USA/CA Channels",AFN SPORTS (US) - AFN SPORTS (US)
+http://163.172.15.141:9732/live?channelId=240&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="AFN SPORTS 2 (US)" tvg-link="" tvg-name="AFN SPORTS 2 (US)" tvg-logo="" group-title="USA/CA Channels",AFN SPORTS 2 (US) - AFN SPORTS 2 (US)
+http://163.172.15.141:9732/live?channelId=241&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="AMC (US)" tvg-link="" tvg-name="AMC (US)" tvg-logo="" group-title="USA/CA Channels",AMC (US) - AMC (US)
+http://163.172.15.141:9732/live?channelId=242&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Animal Planet (US)" tvg-link="" tvg-name="Animal Planet (US)" tvg-logo="" group-title="USA/CA Channels",Animal Planet (US) - Animal Planet (US)
+http://163.172.15.141:9732/live?channelId=243&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="DESTINATION AMERICA (US)" tvg-link="" tvg-name="DESTINATION AMERICA (US)" tvg-logo="" group-title="USA/CA Channels",DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
+http://163.172.15.141:9732/live?channelId=244&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Discovery (US)" tvg-link="" tvg-name="Discovery (US)" tvg-logo="" group-title="USA/CA Channels",Discovery (US) - Discovery (US)
+http://163.172.15.141:9732/live?channelId=245&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE (US)" tvg-link="" tvg-name="DISCOVERY SCIENCE (US)" tvg-logo="" group-title="USA/CA Channels",DISCOVERY SCIENCE (US) - DISCOVERY SCIENCE (US)
+http://163.172.15.141:9732/live?channelId=246&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT (US)" tvg-link="" tvg-name="E! ENTERTAINMENT (US)" tvg-logo="" group-title="USA/CA Channels",E! ENTERTAINMENT (US) - E! ENTERTAINMENT (US)
+http://163.172.15.141:9732/live?channelId=247&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-link="" tvg-name="FOX NEWS" tvg-logo="" group-title="USA/CA Channels",FOX NEWS - FOX NEWS
+http://163.172.15.141:9732/live?channelId=248&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="FX (US)" tvg-link="" tvg-name="FX (US)" tvg-logo="" group-title="USA/CA Channels",FX (US) - FX (US)
+http://163.172.15.141:9732/live?channelId=249&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="HISTORY (US)" tvg-link="" tvg-name="HISTORY (US)" tvg-logo="" group-title="USA/CA Channels",HISTORY (US) - HISTORY (US)
+http://163.172.15.141:9732/live?channelId=250&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="MBL NETWORK (US)" tvg-link="" tvg-name="MBL NETWORK (US)" tvg-logo="" group-title="USA/CA Channels",MBL NETWORK (US) - MBL NETWORK (US)
+http://163.172.15.141:9732/live?channelId=251&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SPIKE (US)" tvg-link="" tvg-name="SPIKE (US)" tvg-logo="" group-title="USA/CA Channels",SPIKE (US) - SPIKE (US)
+http://163.172.15.141:9732/live?channelId=253&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SYFY (US)" tvg-link="" tvg-name="SYFY (US)" tvg-logo="" group-title="USA/CA Channels",SYFY (US) - SYFY (US)
+http://163.172.15.141:9732/live?channelId=254&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="TBS (US)" tvg-link="" tvg-name="TBS (US)" tvg-logo="" group-title="USA/CA Channels",TBS (US) - TBS (US)
+http://163.172.15.141:9732/live?channelId=255&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="WWE Network" tvg-link="" tvg-name="WWE Network" tvg-logo="" group-title="USA/CA Channels",WWE Network - WWE Network
+http://163.172.15.141:9732/live?channelId=256&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="BBC NEWS" tvg-link="" tvg-name="BBC NEWS" tvg-logo="" group-title="News Channels",BBC NEWS - BBC NEWS
+http://163.172.15.141:9732/live?channelId=257&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="CNN NEWS" tvg-link="" tvg-name="CNN NEWS" tvg-logo="" group-title="News Channels",CNN NEWS - CNN NEWS
+http://163.172.15.141:9732/live?channelId=258&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="SKY NEWS" tvg-link="" tvg-name="SKY NEWS" tvg-logo="" group-title="News Channels",SKY NEWS - SKY NEWS
+http://163.172.15.141:9732/live?channelId=259&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="CELTIC TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="CELTIC TV (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",CELTIC TV (LIVE FOR GAMES ONLY) - CELTIC TV (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=305&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Celtic TV 1 (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="Celtic TV 1 (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",Celtic TV 1 (LIVE FOR GAMES ONLY) - Celtic TV 1 (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=306&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="RANGERS TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="RANGERS TV (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",RANGERS TV (LIVE FOR GAMES ONLY) - RANGERS TV (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=307&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Rangers TV 1 (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="Rangers TV 1 (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",Rangers TV 1 (LIVE FOR GAMES ONLY) - Rangers TV 1 (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=308&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Rangers TV 2 (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="Rangers TV 2 (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",Rangers TV 2 (LIVE FOR GAMES ONLY) - Rangers TV 2 (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=309&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Rangers TV 3 (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="Rangers TV 3 (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",Rangers TV 3 (LIVE FOR GAMES ONLY) - Rangers TV 3 (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=310&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Aberdeen TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="Aberdeen TV (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",Aberdeen TV (LIVE FOR GAMES ONLY) - Aberdeen TV (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=311&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Dundee TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="Dundee TV (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",Dundee TV (LIVE FOR GAMES ONLY) - Dundee TV (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=312&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Hibs TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="Hibs TV (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",Hibs TV (LIVE FOR GAMES ONLY) - Hibs TV (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=313&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Hearts TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="Hearts TV (LIVE FOR GAMES ONLY)" tvg-logo="" group-title="Scotts FL",Hearts TV (LIVE FOR GAMES ONLY) - Hearts TV (LIVE FOR GAMES ONLY)
+http://163.172.15.141:9732/live?channelId=314&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="ITV BOX OFFICE" tvg-link="" tvg-name="ITV BOX OFFICE" tvg-logo="" group-title="PAY PER VIEW EVENTS",ITV BOX OFFICE
+http://163.172.15.141:9732/live?channelId=315&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 Friends" tvg-link="" tvg-name="24/7 Friends" tvg-logo="" group-title="24/7 CHANNELS",24/7 Friends - 24/7 Friends
+http://62.210.114.98:80/live?channelId=316&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 Family Guy" tvg-link="" tvg-name="24/7 Family Guy" tvg-logo="" group-title="24/7 CHANNELS",24/7 Family Guy - 24/7 Family Guy
+http://62.210.114.98:80/live?channelId=317&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 In The Night Garden" tvg-link="" tvg-name="24/7 In The Night Garden" tvg-logo="" group-title="24/7 CHANNELS",24/7 In The Night Garden - 24/7 In The Night Garden
+http://62.210.114.98:80/live?channelId=318&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 The Inbetweeners" tvg-link="" tvg-name="24/7 The Inbetweeners" tvg-logo="" group-title="24/7 CHANNELS",24/7 The Inbetweeners - 24/7 The Inbetweeners
+http://62.210.114.98:80/live?channelId=319&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 Ben and Holly" tvg-link="" tvg-name="24/7 Ben and Holly" tvg-logo="" group-title="24/7 CHANNELS",24/7 Ben and Holly - 24/7 Ben and Holly
+http://62.210.114.98:80/live?channelId=320&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 Blaze" tvg-link="" tvg-name="24/7 Blaze" tvg-logo="" group-title="24/7 CHANNELS",24/7 Blaze - 24/7 Blaze
+http://62.210.114.98:80/live?channelId=321&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 PawPatrol" tvg-link="" tvg-name="24/7 PawPatrol" tvg-logo="" group-title="24/7 CHANNELS",24/7 PawPatrol - 24/7 PawPatrol
+http://62.210.114.98:80/live?channelId=322&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 Only Fools And Horses" tvg-link="" tvg-name="24/7 Only Fools And Horses" tvg-logo="" group-title="24/7 CHANNELS",24/7 Only Fools And Horses - 24/7 Only Fools And Horses
+http://62.210.114.98:80/live?channelId=323&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 Bobs Burgers" tvg-link="" tvg-name="24/7 Bobs Burgers" tvg-logo="" group-title="24/7 CHANNELS",24/7 Bobs Burgers - 24/7 Bobs Burgers
+http://62.210.114.98:80/live?channelId=324&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 Doc Mcstuffins" tvg-link="" tvg-name="24/7 Doc Mcstuffins" tvg-logo="" group-title="24/7 CHANNELS",24/7 Doc Mcstuffins - 24/7 Doc Mcstuffins
+http://62.210.114.98:80/live?channelId=325&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="24/7 Disney Movies" tvg-link="" tvg-name="24/7 Disney Movies" tvg-logo="" group-title="24/7 CHANNELS",24/7 Disney Movies - 24/7 Disney Movies
+http://62.210.114.98:80/live?channelId=326&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="Sports Fixtures Weekly" tvg-link="" tvg-name="Sports Fixtures Weekly" tvg-logo="" group-title="Sports Fixtures",Sports Fixtures Weekly
+http://163.172.15.141:9732/live?channelId=327&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="PPV 1" tvg-link="" tvg-name="PPV 1" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 1 - PPV 1
+http://163.172.15.141:9732/live?channelId=328&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="PPV 2" tvg-link="" tvg-name="PPV 2" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 2 - PPV 2
+http://163.172.105.25:80/live?channelId=329&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="PPV 3" tvg-link="" tvg-name="PPV 3" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 3 - PPV 3
+http://62.210.93.43:80/live?channelId=330&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="PPV 4" tvg-link="" tvg-name="PPV 4" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 4 - PPV 4
+http://62.210.99.158:80/live?channelId=331&uid=2964&deviceMac=00:1A:79:2C:0C:04
+#EXTINF:-1 tvg-id="PPV 5" tvg-link="" tvg-name="PPV 5" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 5 - PPV 5
+http://62.210.114.98:80/live?channelId=332&uid=2964&deviceMac=00:1A:79:2C:0C:04
 
-#EXTINF:0, group-title="English",Animal Planet (English)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/90.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",AXN HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/139.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",CNN
-http://hdstreamz.ddns.net:8000/live/24684/84981981/246.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",CNN NEWS 18
-http://hdstreamz.ddns.net:8000/live/24684/84981981/249.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Colors Kannada HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/265.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery
-http://hdstreamz.ddns.net:8000/live/24684/84981981/391.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery HD World
-http://hdstreamz.ddns.net:8000/live/24684/84981981/407.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery Kids 1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/413.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery Science
-http://hdstreamz.ddns.net:8000/live/24684/84981981/422.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery Turbo
-http://hdstreamz.ddns.net:8000/live/24684/84981981/425.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Dsports HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/445.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",France 24
-http://hdstreamz.ddns.net:8000/live/24684/84981981/533.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",FYI TV18 HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/537.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Gemini Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/562.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",HBO HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/603.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",History HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/625.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Housefull Movies
-http://hdstreamz.ddns.net:8000/live/24684/84981981/640.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Living Foodz
-http://hdstreamz.ddns.net:8000/live/24684/84981981/856.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",MN+ HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/958.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Movies Now HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/962.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Movies Now2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/965.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Movies Now2 HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/969.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Neo Prime
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1013.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Neo Sports
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1016.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Nick Junior
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1076.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Romedy Now HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1239.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony BBC Earth HD (English)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1356.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony ESPN HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1371.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony ESPN SD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1374.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony Pix HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1399.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony Six HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1414.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony Six SD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1417.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports 1 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1454.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports 1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1456.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports 2 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1458.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports 2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1460.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports Select HD1 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1466.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports Select HD1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1468.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports Select HD2 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1470.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports Select HD2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1472.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten 1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1644.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten 1HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1648.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten 2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1649.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten 3
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1652.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten Golf HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1658.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten2 HD (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1660.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten2 HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1662.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten3 HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1666.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Times Now HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1679.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",TLC (English)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1682.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",TLC HD World
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1686.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Toonami
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1692.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Travel XP
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1699.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Travel XP HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1703.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",WB
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1785.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Animal Planet (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/97.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Cartoon Network (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/196.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Channel V HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/219.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Colors HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/261.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Colors Oriya
-http://hdstreamz.ddns.net:8000/live/24684/84981981/275.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Delhi Aaj Tak
-http://hdstreamz.ddns.net:8000/live/24684/84981981/374.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Discovery Channel (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/397.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Discovery Jeet
-http://hdstreamz.ddns.net:8000/live/24684/84981981/410.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Discovery Kids 2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/416.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Food Food
-http://hdstreamz.ddns.net:8000/live/24684/84981981/530.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",History 18 (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/613.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",home shop 18
-http://hdstreamz.ddns.net:8000/live/24684/84981981/634.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Housefull Action
-http://hdstreamz.ddns.net:8000/live/24684/84981981/637.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India News MP
-http://hdstreamz.ddns.net:8000/live/24684/84981981/665.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India News Raj
-http://hdstreamz.ddns.net:8000/live/24684/84981981/668.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India News UP
-http://hdstreamz.ddns.net:8000/live/24684/84981981/671.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India Today
-http://hdstreamz.ddns.net:8000/live/24684/84981981/674.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Maha Cartoon
-http://hdstreamz.ddns.net:8000/live/24684/84981981/883.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Maha Movies
-http://hdstreamz.ddns.net:8000/live/24684/84981981/886.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Movies OK HD 
-http://hdstreamz.ddns.net:8000/live/24684/84981981/970.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",MTV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/976.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",MTV Beats HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/980.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Music India
-http://hdstreamz.ddns.net:8000/live/24684/84981981/986.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",News 18 India
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1028.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Nick (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1073.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Pogo (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1134.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Rishtey
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1232.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Rishtey Cineplex
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1235.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sonic (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1339.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony BBC Earth HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1352.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony BBC Earth SD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1367.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony Rox HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1403.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony SAB
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1405.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony SAB HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1410.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony Yay (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1420.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Bharat HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1436.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Gold HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1440.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Plus HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1448.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Sports (Hindi) 1 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1462.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Sports (Hindi) 1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1464.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Utsav HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1476.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",TLC (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1689.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Action
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1800.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Anmol
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1803.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Anmol Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1806.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Business
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1815.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1818.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Cinema HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1822.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Classic
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1828.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee etc
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1831.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee News
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1846.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee TV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1874.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zing
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1880.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zoom
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1883.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",ETV Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/479.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/573.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini TV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/579.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/677.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Punjabi",Mh One News
-http://hdstreamz.ddns.net:8000/live/24684/84981981/932.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Punjabi",mh1 Music
-http://hdstreamz.ddns.net:8000/live/24684/84981981/935.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Punjabi",Pitaara
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1127.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Punjabi",Zee PB HP HR
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1852.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Colors Bengali HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/254.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Discovery Channel (Bengali)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/394.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",ETV Bangla News
-http://hdstreamz.ddns.net:8000/live/24684/84981981/473.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Jalsha Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/703.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Nepal one
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1019.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Sony aath
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1348.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Star Jalsha HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1444.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Zee Bangla
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1809.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Zee Bangla Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1812.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Colors Marathi HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/272.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Fakt Marathi
-http://hdstreamz.ddns.net:8000/live/24684/84981981/521.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Star Pravah HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1452.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",TV9 MH
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1733.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Zee Marathi
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1843.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Zee Talkies
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1864.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Cartoon Network (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/202.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Discovery Channel (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/403.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini Comedy
-http://hdstreamz.ddns.net:8000/live/24684/84981981/552.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini Life
-http://hdstreamz.ddns.net:8000/live/24684/84981981/555.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini Music HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/569.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",History 18 (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/621.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Kushi TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/846.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Maa Gold HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/869.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Maa Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/873.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Maa TV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/877.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Nick (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1082.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Sony BBC Earth HD (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1364.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Sony Yay (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1426.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",TV9 News (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1736.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Zee Telugu
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1870.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Adithya TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/64.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Cartoon Network (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/199.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Discovery Channel (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/400.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Discovery Kids (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/419.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",History 18 (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/617.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",KTV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/843.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Nick (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1079.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Pogo (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1137.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Polimer TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1143.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sahana Music
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1254.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",sonic (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1345.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sony BBC Earth HD (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1360.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sony Yay (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1423.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Star Vijay HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1480.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sun Life
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1495.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sun Music HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1502.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sun TV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1512.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Travel XP (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1706.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Tunes 6
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1709.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Zee Tamil
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1867.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Asianet HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/121.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Asianet Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/125.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Asianet Plus HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/132.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Kiran TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/836.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Kochu TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/839.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Mazhavil Manorama
-http://hdstreamz.ddns.net:8000/live/24684/84981981/923.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Surya HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1516.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Surya Music
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1519.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Chintu TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/227.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Suvarna HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1526.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Suvarna Plus HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1533.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Udaya HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1743.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Udaya Movies
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1746.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Udaya Music
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1749.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Zee Kannada
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1840.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Regional",Colors Gujarati
-http://hdstreamz.ddns.net:8000/live/24684/84981981/256.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Regional",News 18 Assam
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1025.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Regional",Sarthak TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1312.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Regional",Mahua Plus
-http://hdstreamz.ddns.net:8000/live/24684/84981981/895.ts|User-Agent=HD-STM/3.0
+#EXTINF:-1,
+#EXTINF:-1,HRT 1,
+http://66.70.129.43:8080/Hrt1/index.m3u8
+#EXTINF:-1,HRT 2,
+http://66.70.129.43:8080/Hrt2/index.m3u8
+#EXTINF:-1,RTL,
+http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
+#EXTINF:-1,RTL 2,
+http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playlist.m3u8
+#EXTINF:-1,RTL Kockica, 
+http://680111997.e.929594662.r.pluscdn.com/929594662/rtlkockica.stream/chunklist_w1171568581.m3u8
+#EXTINF:0,RTL Passion
+http://66.70.129.43:8080/RTLPassion/index.m3u8
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/rtl_living/29352-8-cro-HR/rtl_living_tvchannel_large.png",RTL Living
+http://66.70.129.43:8080/RTLLiving/index.m3u8
+#EXTINF:-1,DomaTV,
+http://66.70.129.43:8080/Domatv/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="Slavonska TV" tvg-logo="http://tvprofil.net/img/kanali-logo/stv-logo.png",Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1,Sk 1 
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12035.ts
+#EXTINF:-1,Sk 2 
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12036.ts
+#EXTINF:-1,Sk3 
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12037.ts
+#EXTINF:-1,Sport Klub 4 HD HR
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/9411.ts
+#EXTINF:-1,Sport Klub 5 HD HR
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/9410.ts
+#EXTINF:-1,Arena 1 HD,
+http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena 2 HD
+http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena 3 HD,
+http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,,Arena 4 HD,
+http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena 5 HD, 
+http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,EuroSport 1,
+http://66.70.129.43:8080/EuroSport1/index.m3u8
+#EXTINF:-1,Eurosport 2,
+http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Extreme Sport, 
+http://91.149.172.100:80/channel?id=24&u=demo&p=demo
+#EXTINF:-1,Red Bull, 
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,SKY SPORT NEWS HD , 
+http://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+#EXTINF:-1,FOX Sports 2 HD, 
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/1781.ts
+#EXTINF:-1,FOX Sports 3 HD, 
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/1785.ts
+#EXTINF:-1,FOX Sports 4 HD, 
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/1782.ts
+#EXTINF:-1,FOX Sports 5 HD, 
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/1783.ts
+#EXTINF:-1,FOX Sports 6 HD, 
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/1784.ts
+#EXTINF:-1,AD Sports 1 HD ar, 
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,ADSports 2 HD, 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,AD Sports Extra HD, 
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:-1,Dubai Sports 1 HD, 
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1,Dubai Sports 2 HD, 
+http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
+#EXTINF:-1,Trace sport, 
+http://93.87.85.10/PLTV/88888888/224/3221226672/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeADjJPVew%2BIq5hfbLTR%2BAEc%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002716%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1, HNTV
+http://nl01.radiokafic.com:80/live?channelId=481&uid=27785&deviceUser=33renato&devicePass=pik111
+#EXTINF:-1 tvg-logo="http://www.sptv.hr/templates/sptv/slike/sportska-televizija.png" tvg-id="Sportska TV", Sportska TV
+http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gjBAU2S.png",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-id="NBA TV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="NBA TV" tvg-logo="http://esso.bossna-caffe.com/logos/nba_tv.png",NBA TV
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:-1,Kitchen TV, 
+http://93.87.85.10/PLTV/88888888/224/3221226809/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSLPhQWpGNHF5lwWDnzSaVDg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003496%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Pink Kuvar,
+http://93.87.85.10/PLTV/88888888/224/3221226756/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzOvBJWn%2Fg%2BCWTyDoL8Cbgvw%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002595%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,HISTORY CHANNEL, 
+http://217.199.133.235:4936/udp/235.255.1.45:5334
+#EXTINF:-1,Discovery, 
+http://93.87.85.10/PLTV/88888888/224/3221226936/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgD5RePg7FX5VEqr%2B53egT5U%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001834%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,H2,
+http://93.123.65.3:9006/6
+#EXTINF:-1,History 2, 
+http://93.87.85.10/PLTV/88888888/224/3221226671/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKWwzvrPe0nHyEb6BWGC8kg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002635%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Nat Geo
+http://93.87.85.10/PLTV/88888888/224/3221226934/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgDDs3KyMtyOtSNOsqnD5Wvg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001835%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Travel,
+http://93.87.85.10/PLTV/88888888/224/3221226890/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSOR%2BP9zkSCW4F87X4rKsEJA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001205%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Viasat Explore, 
+http://93.87.85.10/PLTV/88888888/224/3221226593/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNITetKXkxKb%2FLn%2BDS1CmTnU%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001819%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Viasat History, 
+http://93.87.85.10/PLTV/88888888/224/3221226592/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNGYPXMJYZGhCSdJ8Wg4wrz8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001817%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Viasat Nature, 
+http://93.87.85.10/PLTV/88888888/224/3221226758/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzCksRPbsZVQm90cMCOnelv0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001818%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="Da Vinci Learning"  tvg-logo="http://epg.serbianforum.org/logo_znaci_2/Da%20Vinci%20learning.png" group-title="DOKUMENTARNI",Da Vinci Learning
+http://46.40.5.99:8000/davinchi_high
+#EXTINF:0, animal planet
+http://93.123.65.3:9257/257
+#EXTINF:-1,Bit TV,
+http://93.87.85.10/PLTV/88888888/224/3221226905/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgPe7JlJi%2BHW1nscFg5uLKOY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100004137%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,HBO,
+http://93.87.85.10/PLTV/88888888/224/3221226927/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgCOkNbwuE4ye5xJA0ZjrUuQ%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001865%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,HBO 2,
+http://93.87.85.10/PLTV/88888888/224/3221226928/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgH4FbIMHT1QicKJah6bwCLc%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001866%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,HBO 3,
+http://93.87.85.10/PLTV/88888888/224/3221226929/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgK%2FOsdKtI%2BMnnOsFROer%2BD4%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003195%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Sci Fi & Fantasy, 
+http://93.87.85.10/PLTV/88888888/224/3221226752/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzF%2F5MGRBVY1%2FJP5%2FMoM7b60%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001214%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://nextgen-iptv.com/logo/AXN_HR.png",AXN
+http://93.87.85.10/PLTV/88888888/224/3221226588/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNGE83hVeZnvlq6x3jl8IWAA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001780%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="AXN Spin"  tvg-logo="http://epg.serbianforum.org/logo_znaci_2/AXN%20Spin.png",AXN Spin
+http://93.87.85.10/PLTV/88888888/224/3221226933/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgGEYYICHaeO0%2F0oPwxjV7Vo%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003497%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,O2 TV
+http://46.40.5.99:8000/b92_high
+#EXTINF:-1,Cinemax, 
+http://93.87.85.10/PLTV/88888888/224/3221226930/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgIKtx%2FdIesoy0Myo%2FsLzc14%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001947%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Cinemax 2, 
+http://93.87.85.10/PLTV/88888888/224/3221226931/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgORbxRkTJ7JNbjt0Si3udFY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001948%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Film Klub, 
+http://93.87.85.10/PLTV/88888888/224/3221226670/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeAfBy78ey0GJn8LkKorKuC4%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001781%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Film Klub Exstra, 
+http://93.87.85.10/PLTV/88888888/224/3221226840/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSHHzvn7iEjZK0sw8WHLE67w%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003795%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Filmbox Exstra, 
+http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="FilmBoxPlus" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FilmBox Plus" tvg-logo="http://nextgen-iptv.com/logo/filmbox.png",FilmBox Plus
+http://46.40.5.99:8000/filmbox_plus_high
+#EXTINF:-1,Star TV
+http://93.87.85.10/PLTV/88888888/224/3221226874/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=yT3136xHyci%2F1Lwr9plJ6b4pEQwVtxY%2FuC5XlCvYDSwK11EyX4ZT%2F3rSRSjQzYryr5jnU6CWqZ44bsdSXtUhp5rRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vDh1vUxYA0eqiSjo1H9TUYtYB1ayo8ZvEJFS8LuNff4%3D%3A20180117163907%3AUTC%2C667265279573212594%2C89.172.240.222%2C20180117163907%2Curn%3AHuawei%3AliveTV%3AXTV100003256%2C110E1005EC64BE6489BBA475683DED13%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="26" tvg-name="KLASIK" tvg-logo="http://www.napovednik.com/pic/tv/klasik.png", Klasik TV
+http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1 tvg-id="CinestarPremiere1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Cinestar Premiere" tvg-logo="http://nextgen-iptv.com/logo/CineStarPremiere1_HR.png" group-title="Movies",Cinestar Premiere
+http://cdn.iptv.amis.net/ts/Cinestar1/stream_iptv_2000k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1,AMC
+http://93.87.85.10/PLTV/88888888/224/3221226591/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNO01J1m4%2B3Ui%2BEpHdLGr9D0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001837%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0,Sky Select 1 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/1202.ts
+#EXTINF:0,Sky Select 2 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11924.ts
+#EXTINF:0,Sky Select 3 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11925.ts
+#EXTINF:0,Sky Select 4 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11926.ts
+#EXTINF:0,Sky Select 5 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11927.ts
+#EXTINF:0,Sky Select 6 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11928.ts
+#EXTINF:0,Sky Select 7 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11930.ts
+#EXTINF:0,Sky Select 8 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11946.ts
+#EXTINF:0,Sky Select 9 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11947.ts
+#EXTINF:0,Sky Select 10 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11948.ts
+#EXTINF:0,Sky Select 11 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11949.ts
+#EXTINF:0,Sky Select 12 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11950.ts
+#EXTINF:0,Sky Select 13 HD
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11951.ts
+#EXTINF:-1,Pink, 
+http://93.87.85.10/PLTV/88888888/224/3221225872/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=iqYJcyYidT8C2Bl%2FtFoG6DgmjZLgQE5ptdvsw9qxVxxX22lxGX5K0Pi18lhqjE%2FWrdbPPp%2BHuAvwwCALa4B0d7h5WZHaoIid0utW7YFc6zEU8WehqesG9UbV1RqdeszBb3SVJ%2BEfhzVfIhkCVXfmIwDjJPVew%2BIq5hfbLTR%2BAEc%3D%3A20180118165449%3AUTC%2C290136871858782263%2C89.172.240.133%2C20180118165449%2Curn%3AHuawei%3AliveTV%3AXTV100001191%2C8DDEE42A49F6D93BC86455DB7937814B%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Pink 2, 
+http://93.87.85.10/PLTV/88888888/224/3221225882/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=yT3136xHyci%2F1Lwr9plJ6b4pEQwVtxY%2FuC5XlCvYDSwK11EyX4ZT%2F3rSRSjQzYryr5jnU6CWqZ44bsdSXtUhp5rRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA95AiUB8gWyh3Rm3Ze77Z83SjAHxkoJHYjy49iBtg39Ko%3D%3A20180117163907%3AUTC%2C667265279573212594%2C89.172.240.222%2C20180117163907%2Curn%3AHuawei%3AliveTV%3AXTV100001201%2C110E1005EC64BE6489BBA475683DED13%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Pink 3 Info,
+http://93.87.85.10/PLTV/88888888/224/3221226573/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=yT3136xHyci%2F1Lwr9plJ6b4pEQwVtxY%2FuC5XlCvYDSwK11EyX4ZT%2F3rSRSjQzYryr5jnU6CWqZ44bsdSXtUhp5rRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9VAQe05Iuvgb0rcmheAIpBf%2B%2BMOz86asF0Y1DJGMg3bM%3D%3A20180117163907%3AUTC%2C667265279573212594%2C89.172.240.222%2C20180117163907%2Curn%3AHuawei%3AliveTV%3AXTV100001885%2C110E1005EC64BE6489BBA475683DED13%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Pink Action,
+http://93.87.85.10/PLTV/88888888/224/3221225900/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9r46nUhusGr3GuPY5pOLFIt2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001220%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+ext, Pink Cinema, http://93.87.85.10/PLTV/88888888/224/3221226753/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzAHuztqG7RpUCjAbZYG1RGI%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002598%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkClassic.rs,Pink Classic,http://93.87.85.10/PLTV/88888888/224/3221226581/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNGGRtPbXFga5VVbM9GY0hLg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001932%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkComedy.hr,Pink Comedy,http://93.87.85.10/PLTV/88888888/224/3221226578/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNA6kCCAGw49QdCyueXlgQCA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001914%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkCrime.rs, Pink Crime, http://93.87.85.10/PLTV/88888888/224/3221226787/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzKkUhjtN2yvfjVdfQt5O1cg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001212%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkFamily.hr,Pink Family,http://93.87.85.10/PLTV/88888888/224/3221226889/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSEWsLTPYLUR9nMAKKil8YA8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001204%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkFilm.rs,Pink Film,http://93.87.85.10/PLTV/88888888/224/3221226599/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNMooM%2FRSkbiojbeMqAXvkq8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002295%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkHits1.rs, Pink Hits 1, http://93.87.85.10/PLTV/88888888/224/3221226895/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qhnPnY%2FUD6cpSm7Svhhqwk9zDICvNdpYcMyhVHds2n8%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001938%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkHorror.hr,Pink Horror,http://93.87.85.10/PLTV/88888888/224/3221226579/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNPrUfzm%2FDS75jnn%2BDUkY%2FRI%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001935%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PINKKids.rs,Pink Kids,http://93.87.85.10/PLTV/88888888/224/3221225876/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9kYRMs1r%2BM0SvNR7kUxeEgU%2BPrHW5QXFq33jBVabAuBo%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001195%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkMovies.rs,Pink Movies,http://93.87.85.10/PLTV/88888888/224/3221225901/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9r46nUhusGr3GuPY5pOLFIiRChuVAQiZiHaZqNK2THvQ%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001221%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkMusic.svn,Pink Music,http://93.87.85.10/PLTV/88888888/224/3221225875/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9kYRMs1r%2BM0SvNR7kUxeEgaakxQBS0eD07v1BkAeLxdU%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001194%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkPedia.rs,Pink Pedia,http://93.87.85.10/PLTV/88888888/224/3221226577/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNNCt1ZCHpdLygVWIPIq7KpE%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001934%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkPremium.rs, Pink Premium, http://93.87.85.10/PLTV/88888888/224/3221225891/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA97b8SNON%2F%2Bzx3zrPmWs1H9O01J1m4%2B3Ui%2BEpHdLGr9D0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001210%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+ext, Pink Romence, http://93.87.85.10/PLTV/88888888/224/3221226739/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzDICkBmcCVx1qZLZQtwmVJY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001213%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkSerije.rs,Pink Serije,http://93.87.85.10/PLTV/88888888/224/3221226788/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzGE83hVeZnvlq6x3jl8IWAA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002597%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkShow.rs, Pink Show, http://93.87.85.10/PLTV/88888888/224/3221226757/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzHTAP5dKhVqV00dkwh5qCMM%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002596%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkThriller.rs,Pink Thriller,http://93.87.85.10/PLTV/88888888/224/3221226734/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzDDs3KyMtyOtSNOsqnD5Wvg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001293%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+PinkWestern.rs, Pink Western, http://93.87.85.10/PLTV/88888888/224/3221226580/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNHSRjQOMVG%2FFxbBJoISM0Cw%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001930%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="Hayat" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Hayat TV" tvg-logo="http://nextgen-iptv.com/logo/Hayat_BiH.png" group-title="Bosna",Hayat TV
+http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1 tvg-id="BHT1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="BHT 1" tvg-logo="http://nextgen-iptv.com/logo/BHT1_BiH.png" group-title="Bosna",BHT 1
+http://178.132.6.97/BA:BHT1SD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="FaceTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Face TV" tvg-logo="http://nextgen-iptv.com/logo/FaceTV_BiH.png" group-title="Bosna",Face TV
+http://178.132.6.97/FACETV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="LovRibolov" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Lov i Ribolov" tvg-logo="http://nextgen-iptv.com/logo/LoviRibolov_HR.png" group-title="Documentary & Style",Lov i Ribolov
+http://cdn.iptv.amis.net/ts/FISHUN/stream_iptv_2000k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:-1, RTS HD
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/11047.ts
+#EXTINF:-1 tvg-ID="RTS 1" tvg-name="RTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/8/80/RTS1.png",RTS
+http://66.70.129.43:8080/Rts1/index.m3u8
+#EXTINF:-1 tvg-ID="RTS 2" tvg-name="RTS 2" tvg-logo="http://tvprofil.net/img/kanali-logo/RTS2_logo.png",RTS 2
+http://66.70.129.43:8080/Rts2/index.m3u8
+#EXTINF:-1,FOX MOVIES
+http://185.174.208.12:10011
+#EXTINF:-1,Fashion TV
+http://93.87.85.10/PLTV/88888888/224/3221226755/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzAXXeV39ribd2KcfbskK9Bc%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001776%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:-1,Destination America
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+#EXTINF:-1,Investigation Discovery HD
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Music Choice - DANCE EDM
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1,Music Choice - HIT LIST
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1,Music Choice - INDIE
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1,Music Choice - KIDS ONLY
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:-1,Music Choice - POP HITS
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1,Music Choice Play
+#EXTINF:-1,Coutry Music 4U
+http://151.80.20.150:1935/countrymusic4u/countrymusic4u/playlist.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1,Eska Best Music TV
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
+#EXTINF:-1,Eska Party TV
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
+#EXTINF:-1,Eska Rock TV
+http://stream.cdn.smcloud.net/eskarocktv-p/stream1/playlist.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1,M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,MTV Adria
+http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,MTV Live HD
+http://91.149.172.100:80/channel?id=4&u=demo&p=demo
+#EXTM3U
+#EXTINF:-1,MTV Europe
+http://93.87.85.10/PLTV/88888888/224/3221226896/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qhnPnY%2FUD6cpSm7SvhhqwohoQxq2OtyDS4SdtcuLYIs%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001203%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,MTV Hits
+http://93.87.85.10/PLTV/88888888/224/3221226763/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqEQ%2Fz0DDv5toouC2cndCCq4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001787%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,MTV Dance
+http://93.87.85.10/PLTV/88888888/224/3221226728/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqH4FbIMHT1QicKJah6bwCLc%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001843%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,MTV Rock
+http://93.87.85.10/PLTV/88888888/224/3221226729/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqK%2FOsdKtI%2BMnnOsFROer%2BD4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001786%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Music Box
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1,Music Box ua
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0,Music Vox TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:0,Music Vox TV Old's Cool
+http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
+#EXTINF:0,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1,O!2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:0,One By 2 HD
+http://rtmp.one.by:2300
+#EXTINF:0,VH1
+http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,VH1 Classic
+http://cdn.iptv.amis.net/ts/VH1CLA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Pilatus Beatz TV
+https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,Radio 105
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1The Voice
+#EXTINF:-1,Music Box
+http://212.26.132.86/hls/mb_ua.m3u8
+#EXTINF:-1,Dot Dance
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,VibeeTV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0,Xite Base
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:0,Xite Pop
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1,Hustler
+http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,Jasmin TV HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,YouPorn 24H
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,Playboy TV
+http://painel.iptvmove.com:25461/live/alans/1234/1278.m3u8
+#EXTINF:-1,Hot HD
+http://painel.iptvmove.com:25461/live/alans/1234/2
+#EXTINF:-1,Trace sport
+http://93.87.85.10/PLTV/88888888/224/3221226672/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeADjJPVew%2BIq5hfbLTR%2BAEc%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002716%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Movistar Formula 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://31.204.150.12:8080/edge/10547/tracks-v1a1/index.m3u8?token=17.18.1386.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.9f45cdbaebd47b9efcbdb4ed93a4e792
+#EXTINF:-1,Exstreme Sports
+http://93.87.85.10/PLTV/88888888/224/3221226935/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgJ6mwht2Mtt2hTnDodbI97s%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001845%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,SPORT TV1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
+#EXTINF:-1,SPORT TV2
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
+#EXTINF:-1,SPORT TV
+http://185.80.220.79:15214/streamM/nnXWDzhPK1.stream/playlist.m3u8
+#EXTINF:-1,SPORT TV 4
+http://185.80.220.79:15214/streamM/0tkVGgd2jl.stream/playlist.m3u8
+#EXTINF:-1,BENFICA TV
+http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8
+#EXTINF:-1,Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-id="Chelsea Tv" tvg-link="" tvg-name="Chelsea Tv" tvg-logo="" group-title="UK Sports",Chelsea Tv - Chelsea Tv
+http://62.210.214.28:80/live?channelId=164&uid=578&deviceMac=00:1A:79:3C:C5:FE
+#EXTINF:-1,O2 TV
+http://46.40.5.99:8000/b92_high
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/A4GMBN6.png" grupa-naslov = "SAD", Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Fox Sports
+http://51.15.222.188/live/fs1/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://51.15.222.188/live/fs2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg",Pac-12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i4atv.us/wp-content/uploads/2017/01/1483508572pac-12-bayarea-logo.png.png",PAC-12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg",Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg",Pac-12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg",PAC-12 National
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg",Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg",Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+#EXTINF:-1,Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+#EXTINF:-1,Sky Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,MTV live hd
+http://91.149.172.100:80/channel?id=4&u=demo&p=demo
+#EXTINF:-1, SK1 HD
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5445.ts
+#EXTINF:-1, SK2 FHD
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5444.ts
+#EXTINF:-1, SK3 HD
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5443.ts
+#EXTINF:-1, SK4 HD
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/9411.ts
+#EXTINF:-1, SK5 HD
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/9410.ts
+#EXTINF:-1, SK6 HD
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/9409.ts
+#EXTINF:-1, Arena Sport 1
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5464.ts
+#EXTINF:-1, Arena Sport 2
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5462.ts
+#EXTINF:-1, Arena Sport 3
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5460.ts
+#EXTINF:-1, Arena Sport 4
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5458.ts
+#EXTINF:-1, Arena Sport 5
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5457.ts
+#EXTINF:-1, Arena Sport 6
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/9415.ts
+#EXTINF:-1, Arena Sport 1 RS
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5465.ts
+#EXTINF:-1, Arena Sport 2 RS
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5463.ts
+#EXTINF:-1, Arena Sport 3 RS
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5461.ts
+#EXTINF:-1, Arena Sport 4 RS
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5459.ts
+#EXTINF:-1, Arena Sport 5 RS
+http://mypanel.tv:8080/live/8tOLO3JCBy/BuTUaCwoze/5456.ts
