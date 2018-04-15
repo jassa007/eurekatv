@@ -1,374 +1,190 @@
+#EXTINF:0, group-title="Pakistan",???
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/141.m3u8
+#EXTINF:0, group-title="Pakistan",24 News HD
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/145.m3u8
+#EXTINF:0, group-title="Pakistan",7 News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/121.m3u8
+#EXTINF:0, group-title="Pakistan",8XM
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/54.m3u8
+#EXTINF:0, group-title="Pakistan",Aaj Ent
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/131.m3u8
+#EXTINF:0, group-title="Pakistan",Aaj News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/130.m3u8
+#EXTINF:0, group-title="Pakistan",Abb Tak News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/58.m3u8
+#EXTINF:0, group-title="Pakistan",Afgan TV
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/140.m3u8
+#EXTINF:0, group-title="Pakistan",Afghan TV
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/133.m3u8
+#EXTINF:0, group-title="Pakistan",APlus
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/129.m3u8
+#EXTINF:0, group-title="Pakistan",Apna Channel
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/60.m3u8
+#EXTINF:0, group-title="Pakistan",Aruj TV
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/149.m3u8
+#EXTINF:0, group-title="Pakistan",ATV
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/154.m3u8
+#EXTINF:0, group-title="Pakistan",City 41
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/158.m3u8
+#EXTINF:0, group-title="Pakistan",City 42
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/159.m3u8
+#EXTINF:0, group-title="Pakistan",City 44
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/160.m3u8
+#EXTINF:0, group-title="Pakistan",Dunya News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/126.m3u8
+#EXTINF:0, group-title="Pakistan",Film World
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/132.m3u8
+#EXTINF:0, group-title="Pakistan",Filmax
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/68.m3u8
+#EXTINF:0, group-title="Pakistan",Filmazia
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/123.m3u8
+#EXTINF:0, group-title="Pakistan",Hot FM 105 Karachi
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/173.m3u8
+#EXTINF:0, group-title="Pakistan",Hot FM 105-Karachi
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/175.m3u8
+#EXTINF:0, group-title="Pakistan",Jalwa TV
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/139.m3u8
+#EXTINF:0, group-title="Pakistan",K21
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/128.m3u8
+#EXTINF:0, group-title="Pakistan",Kashish
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/166.m3u8
+#EXTINF:0, group-title="Pakistan",Kay 2 
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/155.m3u8
+#EXTINF:0, group-title="Pakistan",Khyber News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/51.m3u8
+#EXTINF:0, group-title="Pakistan",KTN
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/164.m3u8
+#EXTINF:0, group-title="Pakistan",KTN News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/168.m3u8
+#EXTINF:0, group-title="Pakistan",Kyber
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/148.m3u8
+#EXTINF:0, group-title="Pakistan",Lahore News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/127.m3u8
+#EXTINF:0, group-title="Pakistan",Neo News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/124.m3u8
+#EXTINF:0, group-title="Pakistan",Oxygene
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/56.m3u8
+#EXTINF:0, group-title="Pakistan",Pashto 1
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/151.m3u8
+#EXTINF:0, group-title="Pakistan",Punjab TV
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/153.m3u8
+#EXTINF:0, group-title="Pakistan",Rohi
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/161.m3u8
+#EXTINF:0, group-title="Pakistan",Roze News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/157.m3u8
+#EXTINF:0, group-title="Pakistan",Sach TV
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/152.m3u8
+#EXTINF:0, group-title="Pakistan",Saudi Quran TV HD
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/75.m3u8
+#EXTINF:0, group-title="Pakistan",Saudi Sunnah TV HD
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/77.m3u8
+#EXTINF:0, group-title="Pakistan",See TV
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/125.m3u8
+#EXTINF:0, group-title="Pakistan",See TV 2017 
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/100.m3u8
+#EXTINF:0, group-title="Pakistan",See TV Radio
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/103.m3u8
+#EXTINF:0, group-title="Pakistan",TV One
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/116.m3u8
+#EXTINF:0, group-title="Pakistan",TV One
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/134.m3u8
+#EXTINF:0, group-title="Pakistan",TV One Int
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/117.m3u8
+#EXTINF:0, group-title="Pakistan",TV One News
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/46.m3u8
+#EXTINF:0, group-title="Pakistan",Urdu 1
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/115.m3u8
+#EXTINF:0, group-title="Pakistan",VSH
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/147.m3u8
+#EXTINF:0, group-title="Pakistan",Waseb
+https:/cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/49.m3u8
+#EXTINF:0, group-title="Bangladesh",24 Ghanta
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/01.m3u8
+#EXTINF:0, group-title="Bangladesh",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",A Plus
+http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/chunklist_w1071879192.m3u8
+#EXTINF:0, group-title="Bangladesh",Aakaash
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/01.m3u8
+#EXTINF:0, group-title="Bangladesh",ABP Ananda
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Arijan
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8
+#EXTINF:0, group-title="Bangladesh",ARY Digital
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ARY News
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ARY Zindagi
+http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8
+#EXTINF:0, group-title="Bangladesh",Bangla
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226361/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Colors Bengali HD
+http://hdstreamz.ddns.net:8000/live/24684/84981981/254.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",CTVN Plus
+http://209.58.180.52/ctvnhls/live.m3u8
+#EXTINF:0, group-title="Bangladesh",CTVN Plus
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226250/index.m3u8
+#EXTINF:0, group-title="Bangladesh",DD Bangla
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226374/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Dhoom
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8
+#EXTINF:0, group-title="Bangladesh",Discovery Channel (Bengali)
+http://hdstreamz.ddns.net:8000/live/24684/84981981/394.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Dunya TV
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ETV Bangla News
+http://hdstreamz.ddns.net:8000/live/24684/84981981/473.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Jalsha Movies HD
+http://hdstreamz.ddns.net:8000/live/24684/84981981/703.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Kolkatta TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Music Fatafati
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226360/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Naaptol (Bangla)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226271/1.m3u8
+#EXTINF:0, group-title="Bangladesh",News Time
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226287/1.m3u8
+#EXTINF:0, group-title="Bangladesh",PTV Home
+http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
+#EXTINF:0, group-title="Bangladesh",PTV News
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+#EXTINF:0, group-title="Bangladesh",PTV World
+http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+#EXTINF:0, group-title="Bangladesh",Ruposhi Bangla
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Samaa
+http://samaatr.videocdn.scaleengine.net/samaatr-live/play/samaatr.stream/playlist.m3u8
 #EXTM3U
 
-#EXTINF:0, group-title="English",Animal Planet (English)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/90.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",AXN HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/139.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",CNN
-http://hdstreamz.ddns.net:8000/live/24684/84981981/246.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",CNN NEWS 18
-http://hdstreamz.ddns.net:8000/live/24684/84981981/249.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Colors Kannada HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/265.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery
-http://hdstreamz.ddns.net:8000/live/24684/84981981/391.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery HD World
-http://hdstreamz.ddns.net:8000/live/24684/84981981/407.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery Kids 1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/413.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery Science
-http://hdstreamz.ddns.net:8000/live/24684/84981981/422.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Discovery Turbo
-http://hdstreamz.ddns.net:8000/live/24684/84981981/425.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Dsports HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/445.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",France 24
-http://hdstreamz.ddns.net:8000/live/24684/84981981/533.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",FYI TV18 HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/537.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Gemini Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/562.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",HBO HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/603.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",History HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/625.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Housefull Movies
-http://hdstreamz.ddns.net:8000/live/24684/84981981/640.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Living Foodz
-http://hdstreamz.ddns.net:8000/live/24684/84981981/856.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",MN+ HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/958.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Movies Now HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/962.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Movies Now2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/965.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Movies Now2 HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/969.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Neo Prime
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1013.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Neo Sports
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1016.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Nick Junior
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1076.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Romedy Now HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1239.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony BBC Earth HD (English)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1356.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony ESPN HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1371.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony ESPN SD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1374.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony Pix HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1399.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony Six HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1414.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Sony Six SD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1417.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports 1 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1454.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports 1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1456.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports 2 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1458.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports 2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1460.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports Select HD1 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1466.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports Select HD1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1468.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports Select HD2 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1470.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Star Sports Select HD2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1472.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten 1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1644.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten 1HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1648.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten 2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1649.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten 3
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1652.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten Golf HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1658.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten2 HD (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1660.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten2 HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1662.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Ten3 HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1666.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Times Now HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1679.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",TLC (English)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1682.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",TLC HD World
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1686.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Toonami
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1692.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Travel XP
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1699.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",Travel XP HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1703.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="English",WB
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1785.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Animal Planet (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/97.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Cartoon Network (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/196.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Channel V HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/219.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Colors HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/261.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Colors Oriya
-http://hdstreamz.ddns.net:8000/live/24684/84981981/275.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Delhi Aaj Tak
-http://hdstreamz.ddns.net:8000/live/24684/84981981/374.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Discovery Channel (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/397.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Discovery Jeet
-http://hdstreamz.ddns.net:8000/live/24684/84981981/410.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Discovery Kids 2
-http://hdstreamz.ddns.net:8000/live/24684/84981981/416.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Food Food
-http://hdstreamz.ddns.net:8000/live/24684/84981981/530.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",History 18 (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/613.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",home shop 18
-http://hdstreamz.ddns.net:8000/live/24684/84981981/634.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Housefull Action
-http://hdstreamz.ddns.net:8000/live/24684/84981981/637.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India News MP
-http://hdstreamz.ddns.net:8000/live/24684/84981981/665.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India News Raj
-http://hdstreamz.ddns.net:8000/live/24684/84981981/668.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India News UP
-http://hdstreamz.ddns.net:8000/live/24684/84981981/671.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India Today
-http://hdstreamz.ddns.net:8000/live/24684/84981981/674.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Maha Cartoon
-http://hdstreamz.ddns.net:8000/live/24684/84981981/883.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Maha Movies
-http://hdstreamz.ddns.net:8000/live/24684/84981981/886.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Movies OK HD 
-http://hdstreamz.ddns.net:8000/live/24684/84981981/970.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",MTV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/976.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",MTV Beats HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/980.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Music India
-http://hdstreamz.ddns.net:8000/live/24684/84981981/986.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",News 18 India
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1028.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Nick (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1073.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Pogo (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1134.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Rishtey
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1232.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Rishtey Cineplex
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1235.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sonic (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1339.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony BBC Earth HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1352.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony BBC Earth SD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1367.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony Rox HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1403.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony SAB
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1405.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony SAB HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1410.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Sony Yay (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1420.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Bharat HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1436.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Gold HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1440.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Plus HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1448.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Sports (Hindi) 1 (1080p)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1462.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Sports (Hindi) 1
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1464.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Star Utsav HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1476.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",TLC (Hindi)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1689.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Action
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1800.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Anmol
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1803.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Anmol Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1806.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Business
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1815.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1818.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Cinema HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1822.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee Classic
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1828.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee etc
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1831.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee News
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1846.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zee TV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1874.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zing
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1880.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",Zoom
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1883.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",ETV Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/479.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/573.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini TV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/579.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Hindi",India TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/677.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Punjabi",Mh One News
-http://hdstreamz.ddns.net:8000/live/24684/84981981/932.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Punjabi",mh1 Music
-http://hdstreamz.ddns.net:8000/live/24684/84981981/935.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Punjabi",Pitaara
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1127.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Punjabi",Zee PB HP HR
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1852.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Colors Bengali HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/254.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Discovery Channel (Bengali)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/394.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",ETV Bangla News
-http://hdstreamz.ddns.net:8000/live/24684/84981981/473.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Jalsha Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/703.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Nepal one
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1019.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Sony aath
+#EXTINF:0, group-title="Bangladesh",Sangeet Bangla
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:0, group-title="Bangladesh",Sony Aath
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Sony aath
 http://hdstreamz.ddns.net:8000/live/24684/84981981/1348.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Star Jalsha HD
+#EXTINF:0, group-title="Bangladesh",Star Jalsha HD
 http://hdstreamz.ddns.net:8000/live/24684/84981981/1444.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Zee Bangla
+#EXTINF:0, group-title="Bangladesh",Tez
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Uttar Bangla
+http://209.58.164.245/uttarBangladeshhls/live.m3u8
+#EXTINF:0, group-title="Bangladesh",Zee Bangla
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Zee Bangla
 http://hdstreamz.ddns.net:8000/live/24684/84981981/1809.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangla",Zee Bangla Cinema
+#EXTINF:0, group-title="Bangladesh",Zee Bangla Cinema
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Zee Bangla Cinema
 http://hdstreamz.ddns.net:8000/live/24684/84981981/1812.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Colors Marathi HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/272.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Fakt Marathi
-http://hdstreamz.ddns.net:8000/live/24684/84981981/521.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Star Pravah HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1452.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",TV9 MH
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1733.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Zee Marathi
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1843.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Marathi",Zee Talkies
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1864.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Cartoon Network (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/202.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Discovery Channel (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/403.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini Comedy
-http://hdstreamz.ddns.net:8000/live/24684/84981981/552.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini Life
-http://hdstreamz.ddns.net:8000/live/24684/84981981/555.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Gemini Music HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/569.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",History 18 (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/621.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Kushi TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/846.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Maa Gold HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/869.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Maa Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/873.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Maa TV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/877.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Nick (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1082.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Sony BBC Earth HD (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1364.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Sony Yay (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1426.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",TV9 News (Telugu)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1736.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Telugu",Zee Telugu
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1870.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Adithya TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/64.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Cartoon Network (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/199.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Discovery Channel (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/400.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Discovery Kids (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/419.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",History 18 (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/617.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",KTV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/843.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Nick (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1079.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Pogo (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1137.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Polimer TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1143.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sahana Music
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1254.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",sonic (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1345.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sony BBC Earth HD (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1360.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sony Yay (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1423.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Star Vijay HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1480.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sun Life
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1495.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sun Music HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1502.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Sun TV HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1512.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Travel XP (Tamil)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1706.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Tunes 6
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1709.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Tamil",Zee Tamil
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1867.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Asianet HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/121.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Asianet Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/125.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Asianet Plus HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/132.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Kiran TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/836.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Kochu TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/839.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Mazhavil Manorama
-http://hdstreamz.ddns.net:8000/live/24684/84981981/923.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Surya HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1516.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Malayalam",Surya Music
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1519.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Chintu TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/227.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Suvarna HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1526.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Suvarna Plus HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1533.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Udaya HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1743.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Udaya Movies
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1746.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Udaya Music
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1749.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Kannada",Zee Kannada
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1840.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Regional",Colors Gujarati
-http://hdstreamz.ddns.net:8000/live/24684/84981981/256.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Regional",News 18 Assam
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1025.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Regional",Sarthak TV
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1312.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Regional",Mahua Plus
-http://hdstreamz.ddns.net:8000/live/24684/84981981/895.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Zee Bangla HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/01.m3u8
+#EXTINF:0, group-title="Nepal",Nepal One
+http://hdstreamz.ddns.net:8000/live/24684/84981981/1019.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Nepal",Nepal One
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8
+#EXTINF:0, group-title="Nepal",Nepali TV
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
