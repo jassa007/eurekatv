@@ -895,7 +895,1302 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg",PAC-12 National
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg",Pac-12 Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0, group-title="glsh.eu",BBC1
+http://glsh.eu:8080/live/Layla/1234/73656.ts
+#EXTINF:0, group-title="glsh.eu",BBC 1 HD
+http://glsh.eu:8080/live/Layla/1234/73552.ts
+#EXTINF:0, group-title="glsh.eu",BBC 2
+http://glsh.eu:8080/live/Layla/1234/73655.ts
+#EXTINF:0, group-title="glsh.eu",BBC 2 HD
+http://glsh.eu:8080/live/Layla/1234/73551.ts
+#EXTINF:0, group-title="glsh.eu",ITV1
+http://glsh.eu:8080/live/Layla/1234/73618.ts
+#EXTINF:0, group-title="glsh.eu",ITV HD
+http://glsh.eu:8080/live/Layla/1234/73541.ts
+#EXTINF:0, group-title="glsh.eu",CHANNEL 4 HD
+http://glsh.eu:8080/live/Layla/1234/73550.ts
+#EXTINF:0, group-title="glsh.eu",CHANNEL 4 FHD
+http://glsh.eu:8080/live/Layla/1234/84919.ts
+#EXTINF:0, group-title="glsh.eu",Channel 5
+http://glsh.eu:8080/live/Layla/1234/73636.ts
+#EXTINF:0, group-title="glsh.eu",CHANNEL 5 HD
+http://glsh.eu:8080/live/Layla/1234/73549.ts
+#EXTINF:0, group-title="glsh.eu",CHANNEL 5 FHD
+http://glsh.eu:8080/live/Layla/1234/84918.ts
+#EXTINF:0, group-title="glsh.eu",SKY ONE
+http://glsh.eu:8080/live/Layla/1234/73585.ts
+#EXTINF:0, group-title="glsh.eu",SKY One HD
+http://glsh.eu:8080/live/Layla/1234/73530.ts
+#EXTINF:0, group-title="glsh.eu",SKY ONE FHD
+http://glsh.eu:8080/live/Layla/1234/84906.ts
+#EXTINF:0, group-title="glsh.eu",SKY TWO
+http://glsh.eu:8080/live/Layla/1234/73584.ts
+#EXTINF:0, group-title="glsh.eu",SKY ARTS
+http://glsh.eu:8080/live/Layla/1234/73587.ts
+#EXTINF:0, group-title="glsh.eu",SKY ARTS HD
+http://glsh.eu:8080/live/Layla/1234/73557.ts
+#EXTINF:0, group-title="glsh.eu",SKY ARTS FHD
+http://glsh.eu:8080/live/Layla/1234/84909.ts
+#EXTINF:0, group-title="glsh.eu",SKY ATLANTIC HD
+http://glsh.eu:8080/live/Layla/1234/73532.ts
+#EXTINF:0, group-title="glsh.eu",SKY LIVING
+http://glsh.eu:8080/live/Layla/1234/73586.ts
+#EXTINF:0, group-title="glsh.eu",SKY LIVING HD
+http://glsh.eu:8080/live/Layla/1234/73531.ts
+#EXTINF:0, group-title="glsh.eu",SKY LIVING FHD
+http://glsh.eu:8080/live/Layla/1234/84907.ts
+#EXTINF:0, group-title="glsh.eu",FOX
+http://glsh.eu:8080/live/Layla/1234/73623.ts
+#EXTINF:0, group-title="glsh.eu",FOX HD
+http://glsh.eu:8080/live/Layla/1234/73544.ts
+#EXTINF:0, group-title="glsh.eu",FOX FHD
+http://glsh.eu:8080/live/Layla/1234/84896.ts
+#EXTINF:0, group-title="glsh.eu",DAVE HD
+http://glsh.eu:8080/live/Layla/1234/73546.ts
+#EXTINF:0, group-title="glsh.eu",DAVE FHD
+http://glsh.eu:8080/live/Layla/1234/84916.ts
+#EXTINF:0, group-title="glsh.eu",ITV2
+http://glsh.eu:8080/live/Layla/1234/73617.ts
+#EXTINF:0, group-title="glsh.eu",ITV 2 HD
+http://glsh.eu:8080/live/Layla/1234/73540.ts
+#EXTINF:0, group-title="glsh.eu",ITV3
+http://glsh.eu:8080/live/Layla/1234/73616.ts
+#EXTINF:0, group-title="glsh.eu",ITV 3 HD
+http://glsh.eu:8080/live/Layla/1234/73539.ts
+#EXTINF:0, group-title="glsh.eu",ITV4
+http://glsh.eu:8080/live/Layla/1234/73615.ts
+#EXTINF:0, group-title="glsh.eu",ITV 4 HD
+http://glsh.eu:8080/live/Layla/1234/73538.ts
+#EXTINF:0, group-title="glsh.eu",ITV BE
+http://glsh.eu:8080/live/Layla/1234/73620.ts
+#EXTINF:0, group-title="glsh.eu",ITV BE HD
+http://glsh.eu:8080/live/Layla/1234/73542.ts
+#EXTINF:0, group-title="glsh.eu",ITV BE FHD
+http://glsh.eu:8080/live/Layla/1234/84914.ts
+#EXTINF:0, group-title="glsh.eu",TCM
+http://glsh.eu:8080/live/Layla/1234/73575.ts
+#EXTINF:0, group-title="glsh.eu",TCM HD
+http://glsh.eu:8080/live/Layla/1234/73527.ts
+#EXTINF:0, group-title="glsh.eu",TCM FHD
+http://glsh.eu:8080/live/Layla/1234/84904.ts
+#EXTINF:0, group-title="glsh.eu",COMEDY CENTRAL
+http://glsh.eu:8080/live/Layla/1234/73633.ts
+#EXTINF:0, group-title="glsh.eu",COMEDY CENTRAL HD
+http://glsh.eu:8080/live/Layla/1234/73547.ts
+#EXTINF:0, group-title="glsh.eu",COMEDY CENTRAL FHD
+http://glsh.eu:8080/live/Layla/1234/84917.ts
+#EXTINF:0, group-title="glsh.eu",COMEDY CENTRAL IRELAND
+http://glsh.eu:8080/live/Layla/1234/73631.ts
+#EXTINF:0, group-title="glsh.eu",UNIVERSAL HD
+http://glsh.eu:8080/live/Layla/1234/73524.ts
+#EXTINF:0, group-title="glsh.eu",UNIVERSAL FHD
+http://glsh.eu:8080/live/Layla/1234/84903.ts
+#EXTINF:0, group-title="glsh.eu",W HD
+http://glsh.eu:8080/live/Layla/1234/73522.ts
+#EXTINF:0, group-title="glsh.eu",W FHD
+http://glsh.eu:8080/live/Layla/1234/84902.ts
+#EXTINF:0, group-title="glsh.eu",WATCH
+http://glsh.eu:8080/live/Layla/1234/73566.ts
+#EXTINF:0, group-title="glsh.eu",3E
+http://glsh.eu:8080/live/Layla/1234/73648.ts
+#EXTINF:0, group-title="glsh.eu",TG 4 HD
+http://glsh.eu:8080/live/Layla/1234/73526.ts
+#EXTINF:0, group-title="glsh.eu",TG4
+http://glsh.eu:8080/live/Layla/1234/73574.ts
+#EXTINF:0, group-title="glsh.eu",3e HD
+http://glsh.eu:8080/live/Layla/1234/73555.ts
+#EXTINF:0, group-title="glsh.eu",4 SEVEN
+http://glsh.eu:8080/live/Layla/1234/73647.ts
+#EXTINF:0, group-title="glsh.eu",4 SEVEN HD
+http://glsh.eu:8080/live/Layla/1234/73554.ts
+#EXTINF:0, group-title="glsh.eu",4SEVEN FHD
+http://glsh.eu:8080/live/Layla/1234/84921.ts
+#EXTINF:0, group-title="glsh.eu",5 Star
+http://glsh.eu:8080/live/Layla/1234/73646.ts
+#EXTINF:0, group-title="glsh.eu",5 USA
+http://glsh.eu:8080/live/Layla/1234/73645.ts
+#EXTINF:0, group-title="glsh.eu",ALIBI
+http://glsh.eu:8080/live/Layla/1234/73644.ts
+#EXTINF:0, group-title="glsh.eu",ALIBI FHD
+http://glsh.eu:8080/live/Layla/1234/84920.ts
+#EXTINF:0, group-title="glsh.eu",QUEST
+http://glsh.eu:8080/live/Layla/1234/73602.ts
+#EXTINF:0, group-title="glsh.eu",QUEST RED
+http://glsh.eu:8080/live/Layla/1234/73601.ts
+#EXTINF:0, group-title="glsh.eu",UTV HD
+http://glsh.eu:8080/live/Layla/1234/73523.ts
+#EXTINF:0, group-title="glsh.eu",VICE LAND
+http://glsh.eu:8080/live/Layla/1234/73567.ts
+#EXTINF:0, group-title="glsh.eu",ALIBI HD
+http://glsh.eu:8080/live/Layla/1234/73553.ts
+#EXTINF:0, group-title="glsh.eu",RTE ONE
+http://glsh.eu:8080/live/Layla/1234/73595.ts
+#EXTINF:0, group-title="glsh.eu",RTE ONE HD
+http://glsh.eu:8080/live/Layla/1234/73535.ts
+#EXTINF:0, group-title="glsh.eu",RTE TWO
+http://glsh.eu:8080/live/Layla/1234/73594.ts
+#EXTINF:0, group-title="glsh.eu",RTE TWO  HD
+http://glsh.eu:8080/live/Layla/1234/73534.ts
+#EXTINF:0, group-title="glsh.eu",AMC
+http://glsh.eu:8080/live/Layla/1234/73643.ts
+#EXTINF:0, group-title="glsh.eu",E! ENTERTAINMENT
+http://glsh.eu:8080/live/Layla/1234/73627.ts
+#EXTINF:0, group-title="glsh.eu",NOLLYWOOD
+http://glsh.eu:8080/live/Layla/1234/73608.ts
+#EXTINF:0, group-title="glsh.eu",SPIKE UK
+http://glsh.eu:8080/live/Layla/1234/73582.ts
+#EXTINF:0, group-title="glsh.eu",STAR GOLD
+http://glsh.eu:8080/live/Layla/1234/73580.ts
+#EXTINF:0, group-title="glsh.eu",STAR PLUS
+http://glsh.eu:8080/live/Layla/1234/73579.ts
+#EXTINF:0, group-title="glsh.eu",MY CHANNEL
+http://glsh.eu:8080/live/Layla/1234/73609.ts
+#EXTINF:0, group-title="glsh.eu",NDTV
+http://glsh.eu:8080/live/Layla/1234/73561.ts
+#EXTINF:0, group-title="glsh.eu",STARZ TV
+http://glsh.eu:8080/live/Layla/1234/73577.ts
+#EXTINF:0, group-title="glsh.eu",SYFY HD
+http://glsh.eu:8080/live/Layla/1234/73528.ts
+#EXTINF:0, group-title="glsh.eu",SYFY FHD
+http://glsh.eu:8080/live/Layla/1234/84905.ts
+#EXTINF:0, group-title="glsh.eu",BE3 HD
+http://glsh.eu:8080/live/Layla/1234/73719.ts
+#EXTINF:0, group-title="glsh.eu",E4
+http://glsh.eu:8080/live/Layla/1234/73626.ts
+#EXTINF:0, group-title="glsh.eu",E4 HD
+http://glsh.eu:8080/live/Layla/1234/73545.ts
+#EXTINF:0, group-title="glsh.eu",E4 FHD
+http://glsh.eu:8080/live/Layla/1234/84915.ts
+#EXTINF:0, group-title="glsh.eu",EDEN
+http://glsh.eu:8080/live/Layla/1234/73762.ts
+#EXTINF:0, group-title="glsh.eu",EDEN HD
+http://glsh.eu:8080/live/Layla/1234/73751.ts
+#EXTINF:0, group-title="glsh.eu",EDEN FHD
+http://glsh.eu:8080/live/Layla/1234/84900.ts
+#EXTINF:0, group-title="glsh.eu",Film 4
+http://glsh.eu:8080/live/Layla/1234/73690.ts
+#EXTINF:0, group-title="glsh.eu",FILM 4 HD
+http://glsh.eu:8080/live/Layla/1234/73657.ts
+#EXTINF:0, group-title="glsh.eu",FILM 4 FHD
+http://glsh.eu:8080/live/Layla/1234/84924.ts
+#EXTINF:0, group-title="glsh.eu",FOX NEWS
+http://glsh.eu:8080/live/Layla/1234/73730.ts
+#EXTINF:0, group-title="glsh.eu",GEO NEWS INTERNATIONAL
+http://glsh.eu:8080/live/Layla/1234/73728.ts
+#EXTINF:0, group-title="glsh.eu",GOOD FOOD
+http://glsh.eu:8080/live/Layla/1234/73621.ts
+#EXTINF:0, group-title="glsh.eu",MTV CLASSIC
+http://glsh.eu:8080/live/Layla/1234/73998.ts
+#EXTINF:0, group-title="glsh.eu",MTV HD
+http://glsh.eu:8080/live/Layla/1234/73537.ts
+#EXTINF:0, group-title="glsh.eu",MTV FHD
+http://glsh.eu:8080/live/Layla/1234/84911.ts
+#EXTINF:0, group-title="glsh.eu",MTV LIVE FHD
+http://glsh.eu:8080/live/Layla/1234/84910.ts
+#EXTINF:0, group-title="glsh.eu",MTV LIVE HD
+http://glsh.eu:8080/live/Layla/1234/74000.ts
+#EXTINF:0, group-title="glsh.eu",MTV MUSIC UK
+http://glsh.eu:8080/live/Layla/1234/73995.ts
+#EXTINF:0, group-title="glsh.eu",CAPITAL TV
+http://glsh.eu:8080/live/Layla/1234/73988.ts
+#EXTINF:0, group-title="glsh.eu",CLUBLAND
+http://glsh.eu:8080/live/Layla/1234/73986.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Brits Hits
+http://glsh.eu:8080/live/Layla/1234/74022.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Dance/EDM
+http://glsh.eu:8080/live/Layla/1234/74021.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Hip-Hop And R&B
+http://glsh.eu:8080/live/Layla/1234/74020.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Hit List
+http://glsh.eu:8080/live/Layla/1234/74019.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Indie
+http://glsh.eu:8080/live/Layla/1234/74018.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Kidz Only!
+http://glsh.eu:8080/live/Layla/1234/74017.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Metal
+http://glsh.eu:8080/live/Layla/1234/74015.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Mexicana
+http://glsh.eu:8080/live/Layla/1234/74016.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Musica Urbana
+http://glsh.eu:8080/live/Layla/1234/74014.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Pop & Country
+http://glsh.eu:8080/live/Layla/1234/74013.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Pop Hits
+http://glsh.eu:8080/live/Layla/1234/74012.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Pop Latino
+http://glsh.eu:8080/live/Layla/1234/74011.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- R&B Soul
+http://glsh.eu:8080/live/Layla/1234/74010.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Rap
+http://glsh.eu:8080/live/Layla/1234/74009.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Rap 2K
+http://glsh.eu:8080/live/Layla/1234/74008.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Rock
+http://glsh.eu:8080/live/Layla/1234/74007.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Teen Beats
+http://glsh.eu:8080/live/Layla/1234/74001.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Throwback Jamz
+http://glsh.eu:8080/live/Layla/1234/74006.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Today’s Country
+http://glsh.eu:8080/live/Layla/1234/74005.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Toddler Tunes
+http://glsh.eu:8080/live/Layla/1234/74004.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Tropicales
+http://glsh.eu:8080/live/Layla/1234/74003.ts
+#EXTINF:0, group-title="glsh.eu",MUSIC CHOICE- Y2K
+http://glsh.eu:8080/live/Layla/1234/74002.ts
+#EXTINF:0, group-title="glsh.eu",GOOD FOOD HD
+http://glsh.eu:8080/live/Layla/1234/73543.ts
+#EXTINF:0, group-title="glsh.eu",GOOD FOOD FHD
+http://glsh.eu:8080/live/Layla/1234/84897.ts
+#EXTINF:0, group-title="glsh.eu",DISCOVERY SHED
+http://glsh.eu:8080/live/Layla/1234/73764.ts
+#EXTINF:0, group-title="glsh.eu",INVESTIGATION DISCOVERY (ID)
+http://glsh.eu:8080/live/Layla/1234/73757.ts
+#EXTINF:0, group-title="glsh.eu",HISTORY
+http://glsh.eu:8080/live/Layla/1234/73761.ts
+#EXTINF:0, group-title="glsh.eu",HISTORY 2 ( H2 )
+http://glsh.eu:8080/live/Layla/1234/73760.ts
+#EXTINF:0, group-title="glsh.eu",HISTORY 2 HD
+http://glsh.eu:8080/live/Layla/1234/73750.ts
+#EXTINF:0, group-title="glsh.eu",H2 FHD
+http://glsh.eu:8080/live/Layla/1234/84895.ts
+#EXTINF:0, group-title="glsh.eu",HISTORY HD
+http://glsh.eu:8080/live/Layla/1234/73749.ts
+#EXTINF:0, group-title="glsh.eu",HOME
+http://glsh.eu:8080/live/Layla/1234/73759.ts
+#EXTINF:0, group-title="glsh.eu",INSIGHT UHD
+http://glsh.eu:8080/live/Layla/1234/73748.ts
+#EXTINF:0, group-title="glsh.eu",KEEP IT COUNTRY
+http://glsh.eu:8080/live/Layla/1234/73613.ts
+#EXTINF:0, group-title="glsh.eu",KTV
+http://glsh.eu:8080/live/Layla/1234/73743.ts
+#EXTINF:0, group-title="glsh.eu",LIFETIME
+http://glsh.eu:8080/live/Layla/1234/73612.ts
+#EXTINF:0, group-title="glsh.eu",LIFETIME HD
+http://glsh.eu:8080/live/Layla/1234/73559.ts
+#EXTINF:0, group-title="glsh.eu",LIFETIME FHD
+http://glsh.eu:8080/live/Layla/1234/84913.ts
+#EXTINF:0, group-title="glsh.eu",LONDON LIVE
+http://glsh.eu:8080/live/Layla/1234/73562.ts
+#EXTINF:0, group-title="glsh.eu",MORE 4 HD
+http://glsh.eu:8080/live/Layla/1234/73558.ts
+#EXTINF:0, group-title="glsh.eu",TV 3
+http://glsh.eu:8080/live/Layla/1234/73571.ts
+#EXTINF:0, group-title="glsh.eu",TV 3 HD
+http://glsh.eu:8080/live/Layla/1234/73525.ts
+#EXTINF:0, group-title="glsh.eu",TV ONE
+http://glsh.eu:8080/live/Layla/1234/73570.ts
+#EXTINF:0, group-title="glsh.eu",More 4
+http://glsh.eu:8080/live/Layla/1234/73611.ts
+#EXTINF:0, group-title="glsh.eu",CBS DRAMA
+http://glsh.eu:8080/live/Layla/1234/73640.ts
+#EXTINF:0, group-title="glsh.eu",COLORS
+http://glsh.eu:8080/live/Layla/1234/73634.ts
+#EXTINF:0, group-title="glsh.eu",COLORS HD
+http://glsh.eu:8080/live/Layla/1234/73548.ts
+#EXTINF:0, group-title="glsh.eu",DMAX
+http://glsh.eu:8080/live/Layla/1234/73629.ts
+#EXTINF:0, group-title="glsh.eu",MY 5
+http://glsh.eu:8080/live/Layla/1234/73610.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES DRAMA & ROMANCE FHD
+http://glsh.eu:8080/live/Layla/1234/84933.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES PREMIER
+http://glsh.eu:8080/live/Layla/1234/73679.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES PREMIER HD
+http://glsh.eu:8080/live/Layla/1234/73668.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES PREMIER FHD
+http://glsh.eu:8080/live/Layla/1234/84928.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES ACTION
+http://glsh.eu:8080/live/Layla/1234/73686.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES ACTION HD
+http://glsh.eu:8080/live/Layla/1234/73675.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES ACTION FHD
+http://glsh.eu:8080/live/Layla/1234/84934.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES COMEDY
+http://glsh.eu:8080/live/Layla/1234/73685.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES COMEDY HD
+http://glsh.eu:8080/live/Layla/1234/73674.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES COMEDY FHD
+http://glsh.eu:8080/live/Layla/1234/84932.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES DISNEY
+http://glsh.eu:8080/live/Layla/1234/73684.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES DISNEY HD
+http://glsh.eu:8080/live/Layla/1234/73673.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES DISNEY FHD
+http://glsh.eu:8080/live/Layla/1234/84931.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES DRAMA & ROMANCE
+http://glsh.eu:8080/live/Layla/1234/73681.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES DRAMA & ROMANCE HD
+http://glsh.eu:8080/live/Layla/1234/73672.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES FAMILY
+http://glsh.eu:8080/live/Layla/1234/73683.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES FAMILY HD
+http://glsh.eu:8080/live/Layla/1234/73671.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES FAMILY FHD
+http://glsh.eu:8080/live/Layla/1234/84930.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES GREATS HD
+http://glsh.eu:8080/live/Layla/1234/73670.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES GREATS FHD
+http://glsh.eu:8080/live/Layla/1234/84929.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES HITS
+http://glsh.eu:8080/live/Layla/1234/73680.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES HITS HD
+http://glsh.eu:8080/live/Layla/1234/73669.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES HITS FHD
+http://glsh.eu:8080/live/Layla/1234/84908.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES MODERN GREATS
+http://glsh.eu:8080/live/Layla/1234/73682.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES SCI-FI/HORROR
+http://glsh.eu:8080/live/Layla/1234/73678.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES SCI-FI/HORROR HD
+http://glsh.eu:8080/live/Layla/1234/73667.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES SCIFI HORROR FHD
+http://glsh.eu:8080/live/Layla/1234/84927.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES SELECT
+http://glsh.eu:8080/live/Layla/1234/73677.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES SELECT HD
+http://glsh.eu:8080/live/Layla/1234/73666.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES SELECT FHD
+http://glsh.eu:8080/live/Layla/1234/84926.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES THRILLER
+http://glsh.eu:8080/live/Layla/1234/73676.ts
+#EXTINF:0, group-title="glsh.eu",SKY MOVIES THRILLER HD
+http://glsh.eu:8080/live/Layla/1234/73665.ts
+#EXTINF:0, group-title="glsh.eu",Sky MOVIES THRILLER FHD
+http://glsh.eu:8080/live/Layla/1234/84925.ts
+#EXTINF:0, group-title="glsh.eu",TRUE MOVIES 2
+http://glsh.eu:8080/live/Layla/1234/73661.ts
+#EXTINF:0, group-title="glsh.eu",B4U MOVIES
+http://glsh.eu:8080/live/Layla/1234/73691.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS MAIN EVENT
+http://glsh.eu:8080/live/Layla/1234/74128.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS MAIN EVENT HD
+http://glsh.eu:8080/live/Layla/1234/74127.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS MAIN EVENT FHD
+http://glsh.eu:8080/live/Layla/1234/74126.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS GOLF
+http://glsh.eu:8080/live/Layla/1234/74131.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS GOLF HD
+http://glsh.eu:8080/live/Layla/1234/74130.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS GOLF FHD
+http://glsh.eu:8080/live/Layla/1234/74129.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS CRICKET
+http://glsh.eu:8080/live/Layla/1234/74140.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS CRICKET HD
+http://glsh.eu:8080/live/Layla/1234/74139.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS CRICKET FHD
+http://glsh.eu:8080/live/Layla/1234/74138.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS ACTION
+http://glsh.eu:8080/live/Layla/1234/74146.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS ACTION HD
+http://glsh.eu:8080/live/Layla/1234/74145.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS ACTION FHD
+http://glsh.eu:8080/live/Layla/1234/74144.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS PREMIER LEAGUE
+http://glsh.eu:8080/live/Layla/1234/74125.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS PREMIER LEAGUE HD
+http://glsh.eu:8080/live/Layla/1234/74124.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS PREMIER LEAGUE FHD
+http://glsh.eu:8080/live/Layla/1234/74123.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS FOOTBALL
+http://glsh.eu:8080/live/Layla/1234/74134.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS FOOTBALL HD
+http://glsh.eu:8080/live/Layla/1234/74133.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS FOOTBALL FHD
+http://glsh.eu:8080/live/Layla/1234/74132.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS ARENA
+http://glsh.eu:8080/live/Layla/1234/74143.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS ARENA HD
+http://glsh.eu:8080/live/Layla/1234/74142.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS ARENA FHD
+http://glsh.eu:8080/live/Layla/1234/74141.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS F1
+http://glsh.eu:8080/live/Layla/1234/74137.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS  F1 HD
+http://glsh.eu:8080/live/Layla/1234/74136.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS F1 FHD
+http://glsh.eu:8080/live/Layla/1234/74135.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS MIX HD
+http://glsh.eu:8080/live/Layla/1234/74122.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS MIX FHD
+http://glsh.eu:8080/live/Layla/1234/84939.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS NEWS
+http://glsh.eu:8080/live/Layla/1234/74121.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS NEWS HD
+http://glsh.eu:8080/live/Layla/1234/74120.ts
+#EXTINF:0, group-title="glsh.eu",SKY SPORTS NEWS FHD
+http://glsh.eu:8080/live/Layla/1234/84938.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORTS 1
+http://glsh.eu:8080/live/Layla/1234/74118.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORT 1 HD
+http://glsh.eu:8080/live/Layla/1234/74117.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORT 1 FHD
+http://glsh.eu:8080/live/Layla/1234/74116.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORTS 2
+http://glsh.eu:8080/live/Layla/1234/74115.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORT 2 HD
+http://glsh.eu:8080/live/Layla/1234/74114.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORT 2 FHD
+http://glsh.eu:8080/live/Layla/1234/74113.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORT 3
+http://glsh.eu:8080/live/Layla/1234/74112.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORT 3 HD
+http://glsh.eu:8080/live/Layla/1234/74111.ts
+#EXTINF:0, group-title="glsh.eu",BT SPORT 3 FHD
+http://glsh.eu:8080/live/Layla/1234/74110.ts
+#EXTINF:0, group-title="glsh.eu",BT Sport ESPN
+http://glsh.eu:8080/live/Layla/1234/74108.ts
+#EXTINF:0, group-title="glsh.eu",BT ESPN HD
+http://glsh.eu:8080/live/Layla/1234/74107.ts
+#EXTINF:0, group-title="glsh.eu",BT ESPN FHD
+http://glsh.eu:8080/live/Layla/1234/84935.ts
+#EXTINF:0, group-title="glsh.eu",BOXNATION
+http://glsh.eu:8080/live/Layla/1234/76652.ts
+#EXTINF:0, group-title="glsh.eu",BOX NATION HD
+http://glsh.eu:8080/live/Layla/1234/76651.ts
+#EXTINF:0, group-title="glsh.eu",CHELSEA TV
+http://glsh.eu:8080/live/Layla/1234/76650.ts
+#EXTINF:0, group-title="glsh.eu",CHELSEA TV HD
+http://glsh.eu:8080/live/Layla/1234/76649.ts
+#EXTINF:0, group-title="glsh.eu",EIR SPORTS 1
+http://glsh.eu:8080/live/Layla/1234/76648.ts
+#EXTINF:0, group-title="glsh.eu",EIR SPORTS 2
+http://glsh.eu:8080/live/Layla/1234/76647.ts
+#EXTINF:0, group-title="glsh.eu",EUROSPORT 1
+http://glsh.eu:8080/live/Layla/1234/76646.ts
+#EXTINF:0, group-title="glsh.eu",EUROSPORTS 1 FHD
+http://glsh.eu:8080/live/Layla/1234/84937.ts
+#EXTINF:0, group-title="glsh.eu",EUROSPORTS 1 HD
+http://glsh.eu:8080/live/Layla/1234/76645.ts
+#EXTINF:0, group-title="glsh.eu",EUROSPORT 2
+http://glsh.eu:8080/live/Layla/1234/76644.ts
+#EXTINF:0, group-title="glsh.eu",EUROSPORTS HD 2
+http://glsh.eu:8080/live/Layla/1234/76643.ts
+#EXTINF:0, group-title="glsh.eu",EUROSPORTS 2 FHD
+http://glsh.eu:8080/live/Layla/1234/84936.ts
+#EXTINF:0, group-title="glsh.eu",LFC HD
+http://glsh.eu:8080/live/Layla/1234/76636.ts
+#EXTINF:0, group-title="glsh.eu",MUTV
+http://glsh.eu:8080/live/Layla/1234/76641.ts
+#EXTINF:0, group-title="glsh.eu",MUTV HD
+http://glsh.eu:8080/live/Layla/1234/76635.ts
+#EXTINF:0, group-title="glsh.eu",PREMIER SPORTS
+http://glsh.eu:8080/live/Layla/1234/76640.ts
+#EXTINF:0, group-title="glsh.eu",PREMIER SPORTS HD
+http://glsh.eu:8080/live/Layla/1234/76639.ts
+#EXTINF:0, group-title="glsh.eu",RACING UK
+http://glsh.eu:8080/live/Layla/1234/76638.ts
+#EXTINF:0, group-title="glsh.eu",RACING UK HD
+http://glsh.eu:8080/live/Layla/1234/76637.ts
+#EXTINF:0, group-title="glsh.eu",Fixtures.
+http://glsh.eu:8080/live/Layla/1234/84547.ts
+#EXTINF:0, group-title="glsh.eu",EPL | SportsNet 360 HD
+http://glsh.eu:8080/live/Layla/1234/83648.ts
+#EXTINF:0, group-title="glsh.eu",EPL | SportsNet East HD
+http://glsh.eu:8080/live/Layla/1234/83647.ts
+#EXTINF:0, group-title="glsh.eu",EPL | SportsNet One HD
+http://glsh.eu:8080/live/Layla/1234/83652.ts
+#EXTINF:0, group-title="glsh.eu",EPL | SportsNet Ontario HD
+http://glsh.eu:8080/live/Layla/1234/83651.ts
+#EXTINF:0, group-title="glsh.eu",EPL | SportsNet Pacific HD
+http://glsh.eu:8080/live/Layla/1234/83650.ts
+#EXTINF:0, group-title="glsh.eu",EPL | SportsNet West HD
+http://glsh.eu:8080/live/Layla/1234/83649.ts
+#EXTINF:0, group-title="glsh.eu",EPL | SPORTSNET WORLD HD
+http://glsh.eu:8080/live/Layla/1234/79599.ts
+#EXTINF:0, group-title="glsh.eu",EPL | TSN 1 HD
+http://glsh.eu:8080/live/Layla/1234/83646.ts
+#EXTINF:0, group-title="glsh.eu",EPL | TSN 2 HD
+http://glsh.eu:8080/live/Layla/1234/83645.ts
+#EXTINF:0, group-title="glsh.eu",EPL | TSN 3 HD
+http://glsh.eu:8080/live/Layla/1234/83644.ts
+#EXTINF:0, group-title="glsh.eu",EPL | TSN 4 HD
+http://glsh.eu:8080/live/Layla/1234/83643.ts
+#EXTINF:0, group-title="glsh.eu",EPL | TSN 5 HD
+http://glsh.eu:8080/live/Layla/1234/83642.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 1 HD
+http://glsh.eu:8080/live/Layla/1234/85013.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 2 HD
+http://glsh.eu:8080/live/Layla/1234/85012.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 3 HD
+http://glsh.eu:8080/live/Layla/1234/85011.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 4 HD
+http://glsh.eu:8080/live/Layla/1234/85010.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 5 HD
+http://glsh.eu:8080/live/Layla/1234/85009.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 6 HD
+http://glsh.eu:8080/live/Layla/1234/85008.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 7 HD
+http://glsh.eu:8080/live/Layla/1234/85007.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 8 HD
+http://glsh.eu:8080/live/Layla/1234/85006.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 9 HD
+http://glsh.eu:8080/live/Layla/1234/85005.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 10 HD
+http://glsh.eu:8080/live/Layla/1234/85001.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 11 HD
+http://glsh.eu:8080/live/Layla/1234/85000.ts
+#EXTINF:0, group-title="glsh.eu",beIN Sports 12 HD
+http://glsh.eu:8080/live/Layla/1234/84999.ts
+#EXTINF:0, group-title="glsh.eu",ANIMAL PLANET
+http://glsh.eu:8080/live/Layla/1234/73771.ts
+#EXTINF:0, group-title="glsh.eu",ANIMAL PLANET HD
+http://glsh.eu:8080/live/Layla/1234/73770.ts
+#EXTINF:0, group-title="glsh.eu",ANIMAL PLANET FHD
+http://glsh.eu:8080/live/Layla/1234/84901.ts
+#EXTINF:0, group-title="glsh.eu",CI HD (crime and investigation)
+http://glsh.eu:8080/live/Layla/1234/73753.ts
+#EXTINF:0, group-title="glsh.eu",CRIME & INVESTIGATION
+http://glsh.eu:8080/live/Layla/1234/73769.ts
+#EXTINF:0, group-title="glsh.eu",DISCOVERY
+http://glsh.eu:8080/live/Layla/1234/73768.ts
+#EXTINF:0, group-title="glsh.eu",DISCOVERY HD
+http://glsh.eu:8080/live/Layla/1234/73752.ts
+#EXTINF:0, group-title="glsh.eu",DISCOVERY FHD
+http://glsh.eu:8080/live/Layla/1234/84894.ts
+#EXTINF:0, group-title="glsh.eu",DISCOVERY HISTORY
+http://glsh.eu:8080/live/Layla/1234/73767.ts
+#EXTINF:0, group-title="glsh.eu",DISCOVERY TURBO
+http://glsh.eu:8080/live/Layla/1234/73763.ts
+#EXTINF:0, group-title="glsh.eu",NAT GEO
+http://glsh.eu:8080/live/Layla/1234/73756.ts
+#EXTINF:0, group-title="glsh.eu",NAT GEO FHD
+http://glsh.eu:8080/live/Layla/1234/84899.ts
+#EXTINF:0, group-title="glsh.eu",NAT GEO HD
+http://glsh.eu:8080/live/Layla/1234/73747.ts
+#EXTINF:0, group-title="glsh.eu",NAT GEO WILD
+http://glsh.eu:8080/live/Layla/1234/73755.ts
+#EXTINF:0, group-title="glsh.eu",NAT GEO WILD FHD
+http://glsh.eu:8080/live/Layla/1234/84898.ts
+#EXTINF:0, group-title="glsh.eu",NAT GEO WILD HD
+http://glsh.eu:8080/live/Layla/1234/73746.ts
+#EXTINF:0, group-title="glsh.eu",CARTOON NETWORK
+http://glsh.eu:8080/live/Layla/1234/73711.ts
+#EXTINF:0, group-title="glsh.eu",CARTOON NETWORK HD
+http://glsh.eu:8080/live/Layla/1234/73710.ts
+#EXTINF:0, group-title="glsh.eu",CARTOON NETWORK FHD
+http://glsh.eu:8080/live/Layla/1234/84923.ts
+#EXTINF:0, group-title="glsh.eu",BBC CBBC HD
+http://glsh.eu:8080/live/Layla/1234/73697.ts
+#EXTINF:0, group-title="glsh.eu",CBEEBIES HD
+http://glsh.eu:8080/live/Layla/1234/73696.ts
+#EXTINF:0, group-title="glsh.eu",Cartoonito Not 24 Hours.
+http://glsh.eu:8080/live/Layla/1234/73714.ts
+#EXTINF:0, group-title="glsh.eu",NICK HD
+http://glsh.eu:8080/live/Layla/1234/73692.ts
+#EXTINF:0, group-title="glsh.eu",NICK FHD
+http://glsh.eu:8080/live/Layla/1234/84922.ts
+#EXTINF:0, group-title="glsh.eu",NICK JR TOO
+http://glsh.eu:8080/live/Layla/1234/73705.ts
+#EXTINF:0, group-title="glsh.eu",Nick Jr.
+http://glsh.eu:8080/live/Layla/1234/73704.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY CHANNEL
+http://glsh.eu:8080/live/Layla/1234/73709.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY CHANNEL HD
+http://glsh.eu:8080/live/Layla/1234/73695.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY JUNIOR
+http://glsh.eu:8080/live/Layla/1234/73708.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY JUNIOR HD
+http://glsh.eu:8080/live/Layla/1234/73694.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY XD
+http://glsh.eu:8080/live/Layla/1234/73707.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY XD HD
+http://glsh.eu:8080/live/Layla/1234/73693.ts
+#EXTINF:0, group-title="glsh.eu",POP MAX
+http://glsh.eu:8080/live/Layla/1234/73700.ts
+#EXTINF:0, group-title="glsh.eu",PTC PUNJABI
+http://glsh.eu:8080/live/Layla/1234/73605.ts
+#EXTINF:0, group-title="glsh.eu",PTV
+http://glsh.eu:8080/live/Layla/1234/73604.ts
+#EXTINF:0, group-title="glsh.eu",PTV PRIME
+http://glsh.eu:8080/live/Layla/1234/73603.ts
+#EXTINF:0, group-title="glsh.eu",REAL LIVES
+http://glsh.eu:8080/live/Layla/1234/73600.ts
+#EXTINF:0, group-title="glsh.eu",RISHTEY CINEPLEX
+http://glsh.eu:8080/live/Layla/1234/73598.ts
+#EXTINF:0, group-title="glsh.eu",RISHTEY TV
+http://glsh.eu:8080/live/Layla/1234/73597.ts
+#EXTINF:0, group-title="glsh.eu",ROK TV
+http://glsh.eu:8080/live/Layla/1234/73596.ts
+#EXTINF:0, group-title="glsh.eu",RT AMERICA HD
+http://glsh.eu:8080/live/Layla/1234/73745.ts
+#EXTINF:0, group-title="glsh.eu",RT DOCUMENTRY HD
+http://glsh.eu:8080/live/Layla/1234/73744.ts
+#EXTINF:0, group-title="glsh.eu",RT NEWS HD
+http://glsh.eu:8080/live/Layla/1234/73716.ts
+#EXTINF:0, group-title="glsh.eu",RT UK HD
+http://glsh.eu:8080/live/Layla/1234/73536.ts
+#EXTINF:0, group-title="glsh.eu",RTE JUNIOR
+http://glsh.eu:8080/live/Layla/1234/73699.ts
+#EXTINF:0, group-title="glsh.eu",RTE NEWS
+http://glsh.eu:8080/live/Layla/1234/73726.ts
+#EXTINF:0, group-title="glsh.eu",S4C HD
+http://glsh.eu:8080/live/Layla/1234/73533.ts
+#EXTINF:0, group-title="glsh.eu",SET MAX
+http://glsh.eu:8080/live/Layla/1234/73590.ts
+#EXTINF:0, group-title="glsh.eu",SHOWCASE
+http://glsh.eu:8080/live/Layla/1234/73589.ts
+#EXTINF:0, group-title="glsh.eu",SIKH CHANNEL
+http://glsh.eu:8080/live/Layla/1234/73588.ts
+#EXTINF:0, group-title="glsh.eu",SKY NEWS FHD
+http://glsh.eu:8080/live/Layla/1234/73715.ts
+#EXTINF:0, group-title="glsh.eu",TIMES NOW
+http://glsh.eu:8080/live/Layla/1234/73722.ts
+#EXTINF:0, group-title="glsh.eu",BABY TV
+http://glsh.eu:8080/live/Layla/1234/73713.ts
+#EXTINF:0, group-title="glsh.eu",AIT
+http://glsh.eu:8080/live/Layla/1234/73740.ts
+#EXTINF:0, group-title="glsh.eu",BBC News
+http://glsh.eu:8080/live/Layla/1234/73737.ts
+#EXTINF:0, group-title="glsh.eu",BBC NEWS HD
+http://glsh.eu:8080/live/Layla/1234/73720.ts
+#EXTINF:0, group-title="glsh.eu",BBC WORLD NEWS
+http://glsh.eu:8080/live/Layla/1234/73736.ts
+#EXTINF:0, group-title="glsh.eu",A&E (US)
+http://glsh.eu:8080/live/Layla/1234/79754.ts
+#EXTINF:0, group-title="glsh.eu",ABC EAST (US)
+http://glsh.eu:8080/live/Layla/1234/79729.ts
+#EXTINF:0, group-title="glsh.eu",AMC (US)
+http://glsh.eu:8080/live/Layla/1234/79730.ts
+#EXTINF:0, group-title="glsh.eu",BBC America (US)
+http://glsh.eu:8080/live/Layla/1234/79741.ts
+#EXTINF:0, group-title="glsh.eu",BET (US)
+http://glsh.eu:8080/live/Layla/1234/79705.ts
+#EXTINF:0, group-title="glsh.eu",BRAVO (US)
+http://glsh.eu:8080/live/Layla/1234/79753.ts
+#EXTINF:0, group-title="glsh.eu",CARTOON NETWORK (US)
+http://glsh.eu:8080/live/Layla/1234/79768.ts
+#EXTINF:0, group-title="glsh.eu",CBS EAST
+http://glsh.eu:8080/live/Layla/1234/79835.ts
+#EXTINF:0, group-title="glsh.eu",CBS Sports Network (US)
+http://glsh.eu:8080/live/Layla/1234/79860.ts
+#EXTINF:0, group-title="glsh.eu",Comedy Central (US)
+http://glsh.eu:8080/live/Layla/1234/79726.ts
+#EXTINF:0, group-title="glsh.eu",COOKING CHANNEL (US)
+http://glsh.eu:8080/live/Layla/1234/79747.ts
+#EXTINF:0, group-title="glsh.eu",CW NETWORK HD(US)
+http://glsh.eu:8080/live/Layla/1234/79732.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY CHANNEL (US)
+http://glsh.eu:8080/live/Layla/1234/79763.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY JR  (US)
+http://glsh.eu:8080/live/Layla/1234/79765.ts
+#EXTINF:0, group-title="glsh.eu",DISNEY XD (US)
+http://glsh.eu:8080/live/Layla/1234/79764.ts
+#EXTINF:0, group-title="glsh.eu",DogTV (US)
+http://glsh.eu:8080/live/Layla/1234/79737.ts
+#EXTINF:0, group-title="glsh.eu",E! HD (US)
+http://glsh.eu:8080/live/Layla/1234/79745.ts
+#EXTINF:0, group-title="glsh.eu",American Hero Channel (US)
+http://glsh.eu:8080/live/Layla/1234/85074.ts
+#EXTINF:0, group-title="glsh.eu",EL REY (US)
+http://glsh.eu:8080/live/Layla/1234/79743.ts
+#EXTINF:0, group-title="glsh.eu",Food Network HD (US)
+http://glsh.eu:8080/live/Layla/1234/79746.ts
+#EXTINF:0, group-title="glsh.eu",FOX BUSINESS HD
+http://glsh.eu:8080/live/Layla/1234/79831.ts
+#EXTINF:0, group-title="glsh.eu",FOX HD (US)
+http://glsh.eu:8080/live/Layla/1234/79728.ts
+#EXTINF:0, group-title="glsh.eu",FOX NEWS HD
+http://glsh.eu:8080/live/Layla/1234/79832.ts
+#EXTINF:0, group-title="glsh.eu",FREEFORM HD
+http://glsh.eu:8080/live/Layla/1234/79708.ts
+#EXTINF:0, group-title="glsh.eu",FX HD (US)
+http://glsh.eu:8080/live/Layla/1234/79714.ts
+#EXTINF:0, group-title="glsh.eu",FXX HD (US)
+http://glsh.eu:8080/live/Layla/1234/79711.ts
+#EXTINF:0, group-title="glsh.eu",GSN (US)
+http://glsh.eu:8080/live/Layla/1234/79742.ts
+#EXTINF:0, group-title="glsh.eu",Hallmark Movies & Mysteries HD
+http://glsh.eu:8080/live/Layla/1234/79771.ts
+#EXTINF:0, group-title="glsh.eu",HGTV HD (US)
+http://glsh.eu:8080/live/Layla/1234/80324.ts
+#EXTINF:0, group-title="glsh.eu",HBO 2 East (US)
+http://glsh.eu:8080/live/Layla/1234/79778.ts
+#EXTINF:0, group-title="glsh.eu",ION TV
+http://glsh.eu:8080/live/Layla/1234/79756.ts
+#EXTINF:0, group-title="glsh.eu",LIFETIME HD (US)
+http://glsh.eu:8080/live/Layla/1234/79748.ts
+#EXTINF:0, group-title="glsh.eu",LIFETIME MOVIE NETWORK HD (US)
+http://glsh.eu:8080/live/Layla/1234/79770.ts
+#EXTINF:0, group-title="glsh.eu",MAV TV (US)
+http://glsh.eu:8080/live/Layla/1234/79750.ts
+#EXTINF:0, group-title="glsh.eu",MSNBC
+http://glsh.eu:8080/live/Layla/1234/79830.ts
+#EXTINF:0, group-title="glsh.eu",NBC HD EAST
+http://glsh.eu:8080/live/Layla/1234/79834.ts
+#EXTINF:0, group-title="glsh.eu",NBCSN
+http://glsh.eu:8080/live/Layla/1234/79845.ts
+#EXTINF:0, group-title="glsh.eu",NICK Jr (US)
+http://glsh.eu:8080/live/Layla/1234/79766.ts
+#EXTINF:0, group-title="glsh.eu",NICKELODEN (US)
+http://glsh.eu:8080/live/Layla/1234/79767.ts
+#EXTINF:0, group-title="glsh.eu",OWN Directs
+http://glsh.eu:8080/live/Layla/1234/79707.ts
+#EXTINF:0, group-title="glsh.eu",Oxygen HD (US)
+http://glsh.eu:8080/live/Layla/1234/79749.ts
+#EXTINF:0, group-title="glsh.eu",SHOWTIME 2
+http://glsh.eu:8080/live/Layla/1234/79775.ts
+#EXTINF:0, group-title="glsh.eu",Paramount Network (US)
+http://glsh.eu:8080/live/Layla/1234/79717.ts
+#EXTINF:0, group-title="glsh.eu",STARZ EAST
+http://glsh.eu:8080/live/Layla/1234/79773.ts
+#EXTINF:0, group-title="glsh.eu",CINEMAX ACTION MAX (US)
+http://glsh.eu:8080/live/Layla/1234/84811.ts
+#EXTINF:0, group-title="glsh.eu",CINEMAX HD (US)
+http://glsh.eu:8080/live/Layla/1234/84814.ts
+#EXTINF:0, group-title="glsh.eu",Cinemax MoreMax HD (US)
+http://glsh.eu:8080/live/Layla/1234/84813.ts
+#EXTINF:0, group-title="glsh.eu",CINEMAX OUTER MAX (US)
+http://glsh.eu:8080/live/Layla/1234/84810.ts
+#EXTINF:0, group-title="glsh.eu",Cinemax Thriller Max HD (US)
+http://glsh.eu:8080/live/Layla/1234/84812.ts
+#EXTINF:0, group-title="glsh.eu",HBO Comedy HD (US)
+http://glsh.eu:8080/live/Layla/1234/84805.ts
+#EXTINF:0, group-title="glsh.eu",HBO Family HD (US)
+http://glsh.eu:8080/live/Layla/1234/84804.ts
+#EXTINF:0, group-title="glsh.eu",PPV HBO HD
+http://glsh.eu:8080/live/Layla/1234/84807.ts
+#EXTINF:0, group-title="glsh.eu",HBO HD 2 (US)
+http://glsh.eu:8080/live/Layla/1234/84801.ts
+#EXTINF:0, group-title="glsh.eu",HBO Signature HD (US)
+http://glsh.eu:8080/live/Layla/1234/84803.ts
+#EXTINF:0, group-title="glsh.eu",HBO Zone HD (US)
+http://glsh.eu:8080/live/Layla/1234/84806.ts
+#EXTINF:0, group-title="glsh.eu",SHOWTIME HD
+http://glsh.eu:8080/live/Layla/1234/90888.ts
+#EXTINF:0, group-title="glsh.eu",SUNDANCE TV
+http://glsh.eu:8080/live/Layla/1234/79759.ts
+#EXTINF:0, group-title="glsh.eu",SYFY HD (US)
+http://glsh.eu:8080/live/Layla/1234/79751.ts
+#EXTINF:0, group-title="glsh.eu",TBS HD (US)
+http://glsh.eu:8080/live/Layla/1234/79760.ts
+#EXTINF:0, group-title="glsh.eu",Hallmark HD (US)
+http://glsh.eu:8080/live/Layla/1234/79870.ts
+#EXTINF:0, group-title="glsh.eu",ANIMAL PLANET (US) (Direct)
+http://glsh.eu:8080/live/Layla/1234/79883.ts
+#EXTINF:0, group-title="glsh.eu",Destination America (US)
+http://glsh.eu:8080/live/Layla/1234/79881.ts
+#EXTINF:0, group-title="glsh.eu",Discovery Channel HD (US)
+http://glsh.eu:8080/live/Layla/1234/79880.ts
+#EXTINF:0, group-title="glsh.eu",DISCOVERY SCIENCE CHANNEL HD (US)
+http://glsh.eu:8080/live/Layla/1234/79879.ts
+#EXTINF:0, group-title="glsh.eu",DIY NETWORK (US)
+http://glsh.eu:8080/live/Layla/1234/79872.ts
+#EXTINF:0, group-title="glsh.eu",History (US)
+http://glsh.eu:8080/live/Layla/1234/79873.ts
+#EXTINF:0, group-title="glsh.eu",INVESTIGATION DISCOVERY HD (US)
+http://glsh.eu:8080/live/Layla/1234/79884.ts
+#EXTINF:0, group-title="glsh.eu",NAT GEO WILD HD (US)
+http://glsh.eu:8080/live/Layla/1234/79875.ts
+#EXTINF:0, group-title="glsh.eu",National Geographic Channel(US)
+http://glsh.eu:8080/live/Layla/1234/79877.ts
+#EXTINF:0, group-title="glsh.eu",Discovery Velocity HD (US)
+http://glsh.eu:8080/live/Layla/1234/79874.ts
+#EXTINF:0, group-title="glsh.eu",CNBC (US)
+http://glsh.eu:8080/live/Layla/1234/90755.ts
+#EXTINF:0, group-title="glsh.eu",TCM (US)
+http://glsh.eu:8080/live/Layla/1234/79761.ts
+#EXTINF:0, group-title="glsh.eu",The Weather Channel HD
+http://glsh.eu:8080/live/Layla/1234/79807.ts
+#EXTINF:0, group-title="glsh.eu",TLC (US)
+http://glsh.eu:8080/live/Layla/1234/79715.ts
+#EXTINF:0, group-title="glsh.eu",TNT HD (US)
+http://glsh.eu:8080/live/Layla/1234/79757.ts
+#EXTINF:0, group-title="glsh.eu",TruTV HD (US)
+http://glsh.eu:8080/live/Layla/1234/79758.ts
+#EXTINF:0, group-title="glsh.eu",TV Land HD (US)
+http://glsh.eu:8080/live/Layla/1234/79723.ts
+#EXTINF:0, group-title="glsh.eu",TV ONE (US)
+http://glsh.eu:8080/live/Layla/1234/79752.ts
+#EXTINF:0, group-title="glsh.eu",USA NETWORK HD
+http://glsh.eu:8080/live/Layla/1234/79755.ts
+#EXTINF:0, group-title="glsh.eu",VH1 HD (US)
+http://glsh.eu:8080/live/Layla/1234/79719.ts
+#EXTINF:0, group-title="glsh.eu",VICELAND HD(US)
+http://glsh.eu:8080/live/Layla/1234/79744.ts
+#EXTINF:0, group-title="glsh.eu",Big Ten Network (US)
+http://glsh.eu:8080/live/Layla/1234/88611.ts
+#EXTINF:0, group-title="glsh.eu",WE TV (US)
+http://glsh.eu:8080/live/Layla/1234/79762.ts
+#EXTINF:0, group-title="glsh.eu",C-SPAN 1
+http://glsh.eu:8080/live/Layla/1234/79805.ts
+#EXTINF:0, group-title="glsh.eu",C-SPAN 2
+http://glsh.eu:8080/live/Layla/1234/79804.ts
+#EXTINF:0, group-title="glsh.eu",C-SPAN 3
+http://glsh.eu:8080/live/Layla/1234/79803.ts
+#EXTINF:0, group-title="glsh.eu",ESPN
+http://glsh.eu:8080/live/Layla/1234/79852.ts
+#EXTINF:0, group-title="glsh.eu",ESPN 2 HD
+http://glsh.eu:8080/live/Layla/1234/79851.ts
+#EXTINF:0, group-title="glsh.eu",ESPN U HD
+http://glsh.eu:8080/live/Layla/1234/79850.ts
+#EXTINF:0, group-title="glsh.eu",FOX SPORTS 1 HD (US)
+http://glsh.eu:8080/live/Layla/1234/79859.ts
+#EXTINF:0, group-title="glsh.eu",FOX SPORTS 2  HD(US)
+http://glsh.eu:8080/live/Layla/1234/79858.ts
+#EXTINF:0, group-title="glsh.eu",GOLF CHANNEL HD (US)
+http://glsh.eu:8080/live/Layla/1234/79857.ts
+#EXTINF:0, group-title="glsh.eu",CBS 11 DALLAS
+http://glsh.eu:8080/live/Layla/1234/90856.ts
+#EXTINF:0, group-title="glsh.eu",CBS 2 CHICAGO
+http://glsh.eu:8080/live/Layla/1234/90857.ts
+#EXTINF:0, group-title="glsh.eu",CBS 2 NEW YORK
+http://glsh.eu:8080/live/Layla/1234/90852.ts
+#EXTINF:0, group-title="glsh.eu",CBS 4 MIAMI
+http://glsh.eu:8080/live/Layla/1234/90853.ts
+#EXTINF:0, group-title="glsh.eu",CBS 5 SAN FRANSISCO
+http://glsh.eu:8080/live/Layla/1234/90850.ts
+#EXTINF:0, group-title="glsh.eu",CSN BAY AREA
+http://glsh.eu:8080/live/Layla/1234/90886.ts
+#EXTINF:0, group-title="glsh.eu",CSN BOSTON
+http://glsh.eu:8080/live/Layla/1234/90885.ts
+#EXTINF:0, group-title="glsh.eu",CSN CALIFORNIA
+http://glsh.eu:8080/live/Layla/1234/90884.ts
+#EXTINF:0, group-title="glsh.eu",CSN CHICAGO
+http://glsh.eu:8080/live/Layla/1234/90883.ts
+#EXTINF:0, group-title="glsh.eu",CSN NORTHWEST
+http://glsh.eu:8080/live/Layla/1234/90880.ts
+#EXTINF:0, group-title="glsh.eu",CSN PHILADELPHIA
+http://glsh.eu:8080/live/Layla/1234/90881.ts
+#EXTINF:0, group-title="glsh.eu",CSN WASHINGTON
+http://glsh.eu:8080/live/Layla/1234/90882.ts
+#EXTINF:0, group-title="glsh.eu",FOX 11 LOS ANGELES
+http://glsh.eu:8080/live/Layla/1234/90873.ts
+#EXTINF:0, group-title="glsh.eu",FOX 2 SAN FRANCISCO
+http://glsh.eu:8080/live/Layla/1234/90867.ts
+#EXTINF:0, group-title="glsh.eu",FOX 26 HOUSTON
+http://glsh.eu:8080/live/Layla/1234/90874.ts
+#EXTINF:0, group-title="glsh.eu",FOX 29 PHILADELPHIA
+http://glsh.eu:8080/live/Layla/1234/90869.ts
+#EXTINF:0, group-title="glsh.eu",FOX 32 CHICAGO
+http://glsh.eu:8080/live/Layla/1234/90878.ts
+#EXTINF:0, group-title="glsh.eu",FOX 4 DALLAS
+http://glsh.eu:8080/live/Layla/1234/90876.ts
+#EXTINF:0, group-title="glsh.eu",FOX 43 VA BEACH
+http://glsh.eu:8080/live/Layla/1234/90868.ts
+#EXTINF:0, group-title="glsh.eu",FOX 5 ATLANTA
+http://glsh.eu:8080/live/Layla/1234/90879.ts
+#EXTINF:0, group-title="glsh.eu",FOX 5 D.C.
+http://glsh.eu:8080/live/Layla/1234/90875.ts
+#EXTINF:0, group-title="glsh.eu",FOX 5 NEW YORK
+http://glsh.eu:8080/live/Layla/1234/90870.ts
+#EXTINF:0, group-title="glsh.eu",FOX 5 SAN DIEGO
+http://glsh.eu:8080/live/Layla/1234/90866.ts
+#EXTINF:0, group-title="glsh.eu",FOX 7 MIAMI
+http://glsh.eu:8080/live/Layla/1234/90872.ts
+#EXTINF:0, group-title="glsh.eu",FOX 8 CLEVELAND
+http://glsh.eu:8080/live/Layla/1234/90877.ts
+#EXTINF:0, group-title="glsh.eu",FOX 8 NEW ORLEANS
+http://glsh.eu:8080/live/Layla/1234/90871.ts
+#EXTINF:0, group-title="glsh.eu",FOX SOCCER PLUS
+http://glsh.eu:8080/live/Layla/1234/90887.ts
+#EXTINF:0, group-title="glsh.eu",NBC 10 PHILADELPHIA
+http://glsh.eu:8080/live/Layla/1234/90859.ts
+#EXTINF:0, group-title="glsh.eu",NBC 2 HOUSTON
+http://glsh.eu:8080/live/Layla/1234/90855.ts
+#EXTINF:0, group-title="glsh.eu",NBC 4 D.C.
+http://glsh.eu:8080/live/Layla/1234/90863.ts
+#EXTINF:0, group-title="glsh.eu",NBC 4 LOS ANGELES
+http://glsh.eu:8080/live/Layla/1234/90862.ts
+#EXTINF:0, group-title="glsh.eu",NBC 4 NEW YORK
+http://glsh.eu:8080/live/Layla/1234/90860.ts
+#EXTINF:0, group-title="glsh.eu",NBC 5 CHICAGO
+http://glsh.eu:8080/live/Layla/1234/90865.ts
+#EXTINF:0, group-title="glsh.eu",NBC 5 DALLAS
+http://glsh.eu:8080/live/Layla/1234/90864.ts
+#EXTINF:0, group-title="glsh.eu",NBC 6 MIAMI
+http://glsh.eu:8080/live/Layla/1234/90861.ts
+#EXTINF:0, group-title="glsh.eu",NBC 7 SAN DIEGO
+http://glsh.eu:8080/live/Layla/1234/90858.ts
+#EXTINF:0, group-title="glsh.eu",SEC NETWORK
+http://glsh.eu:8080/live/Layla/1234/79849.ts
+#EXTINF:0, group-title="glsh.eu",NHL NETWORK HD
+http://glsh.eu:8080/live/Layla/1234/79702.ts
+#EXTINF:0, group-title="glsh.eu",Directs : NHL HD 1
+http://glsh.eu:8080/live/Layla/1234/79868.ts
+#EXTINF:0, group-title="glsh.eu",Directs : NHL HD 2
+http://glsh.eu:8080/live/Layla/1234/79697.ts
+#EXTINF:0, group-title="glsh.eu",Directs : NHL HD 3
+http://glsh.eu:8080/live/Layla/1234/79696.ts
+#EXTINF:0, group-title="glsh.eu",Directs : NHL HD 4
+http://glsh.eu:8080/live/Layla/1234/79695.ts
+#EXTINF:0, group-title="glsh.eu",NFL NETWORK HD
+http://glsh.eu:8080/live/Layla/1234/79688.ts
+#EXTINF:0, group-title="glsh.eu",NFL NOW HD
+http://glsh.eu:8080/live/Layla/1234/79687.ts
+#EXTINF:0, group-title="glsh.eu",NBA TV HD
+http://glsh.eu:8080/live/Layla/1234/79668.ts
+#EXTINF:0, group-title="glsh.eu",Directs : NBA PASS 2 HD
+http://glsh.eu:8080/live/Layla/1234/79663.ts
+#EXTINF:0, group-title="glsh.eu",Directs : NBA PASS 3 HD
+http://glsh.eu:8080/live/Layla/1234/79662.ts
+#EXTINF:0, group-title="glsh.eu",Directs : NBA PASS 4 HD
+http://glsh.eu:8080/live/Layla/1234/79661.ts
+#EXTINF:0, group-title="glsh.eu",MLB NETWORK HD
+http://glsh.eu:8080/live/Layla/1234/79685.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 1
+http://glsh.eu:8080/live/Layla/1234/79684.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 12
+http://glsh.eu:8080/live/Layla/1234/79681.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 13
+http://glsh.eu:8080/live/Layla/1234/79680.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 15
+http://glsh.eu:8080/live/Layla/1234/79678.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 2
+http://glsh.eu:8080/live/Layla/1234/79676.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 3
+http://glsh.eu:8080/live/Layla/1234/79675.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 4
+http://glsh.eu:8080/live/Layla/1234/79674.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 5
+http://glsh.eu:8080/live/Layla/1234/79673.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 6
+http://glsh.eu:8080/live/Layla/1234/79672.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 8
+http://glsh.eu:8080/live/Layla/1234/79670.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 9
+http://glsh.eu:8080/live/Layla/1234/79669.ts
+#EXTINF:0, group-title="glsh.eu",WWE NETWORK HD
+http://glsh.eu:8080/live/Layla/1234/79854.ts
+#EXTINF:0, group-title="glsh.eu",MLB EXTRA HD 11
+http://glsh.eu:8080/live/Layla/1234/79682.ts
+#EXTINF:0, group-title="glsh.eu",DUNYA NEWS
+http://glsh.eu:8080/live/Layla/1234/73731.ts
+#EXTINF:0, group-title="glsh.eu",CA :  OLN HD
+http://glsh.eu:8080/live/Layla/1234/79655.ts
+#EXTINF:0, group-title="glsh.eu",CA : ABC HD
+http://glsh.eu:8080/live/Layla/1234/79654.ts
+#EXTINF:0, group-title="glsh.eu",CA : ABC SPARK
+http://glsh.eu:8080/live/Layla/1234/79653.ts
+#EXTINF:0, group-title="glsh.eu",CA : AMC HD
+http://glsh.eu:8080/live/Layla/1234/79652.ts
+#EXTINF:0, group-title="glsh.eu",CA : BNN HD
+http://glsh.eu:8080/live/Layla/1234/79651.ts
+#EXTINF:0, group-title="glsh.eu",CA : BRAVO HD
+http://glsh.eu:8080/live/Layla/1234/79650.ts
+#EXTINF:0, group-title="glsh.eu",CA : CBC ATLANTIC HD
+http://glsh.eu:8080/live/Layla/1234/79649.ts
+#EXTINF:0, group-title="glsh.eu",CA : CBC HD
+http://glsh.eu:8080/live/Layla/1234/79648.ts
+#EXTINF:0, group-title="glsh.eu",CA : CBC NEWS HD
+http://glsh.eu:8080/live/Layla/1234/79647.ts
+#EXTINF:0, group-title="glsh.eu",CA : CBS FHD
+http://glsh.eu:8080/live/Layla/1234/79646.ts
+#EXTINF:0, group-title="glsh.eu",CA : CHCH HD
+http://glsh.eu:8080/live/Layla/1234/79645.ts
+#EXTINF:0, group-title="glsh.eu",CA : CITY FHD
+http://glsh.eu:8080/live/Layla/1234/79644.ts
+#EXTINF:0, group-title="glsh.eu",CA : CNN HD
+http://glsh.eu:8080/live/Layla/1234/79643.ts
+#EXTINF:0, group-title="glsh.eu",CA : COMEDY HD
+http://glsh.eu:8080/live/Layla/1234/79642.ts
+#EXTINF:0, group-title="glsh.eu",CA : CP 24 HD
+http://glsh.eu:8080/live/Layla/1234/79641.ts
+#EXTINF:0, group-title="glsh.eu",CA : CPAC HD
+http://glsh.eu:8080/live/Layla/1234/79640.ts
+#EXTINF:0, group-title="glsh.eu",CA : CREATE HD
+http://glsh.eu:8080/live/Layla/1234/79639.ts
+#EXTINF:0, group-title="glsh.eu",CA : CTV ATLANTIC
+http://glsh.eu:8080/live/Layla/1234/79638.ts
+#EXTINF:0, group-title="glsh.eu",CA : CTV NEWS HD
+http://glsh.eu:8080/live/Layla/1234/79636.ts
+#EXTINF:0, group-title="glsh.eu",CA : CW HD
+http://glsh.eu:8080/live/Layla/1234/79635.ts
+#EXTINF:0, group-title="glsh.eu",CA : DISNEY HD
+http://glsh.eu:8080/live/Layla/1234/79634.ts
+#EXTINF:0, group-title="glsh.eu",CA : DISNEY JR HD
+http://glsh.eu:8080/live/Layla/1234/79633.ts
+#EXTINF:0, group-title="glsh.eu",CA : DISNEY XD HD
+http://glsh.eu:8080/live/Layla/1234/79632.ts
+#EXTINF:0, group-title="glsh.eu",CA : DIY NETWORK HD
+http://glsh.eu:8080/live/Layla/1234/79631.ts
+#EXTINF:0, group-title="glsh.eu",CA : E! HD
+http://glsh.eu:8080/live/Layla/1234/79630.ts
+#EXTINF:0, group-title="glsh.eu",CA : Food Network HD
+http://glsh.eu:8080/live/Layla/1234/79629.ts
+#EXTINF:0, group-title="glsh.eu",CA : FOX HD
+http://glsh.eu:8080/live/Layla/1234/79628.ts
+#EXTINF:0, group-title="glsh.eu",CA : FX HD
+http://glsh.eu:8080/live/Layla/1234/79627.ts
+#EXTINF:0, group-title="glsh.eu",CA : FXX HD
+http://glsh.eu:8080/live/Layla/1234/79626.ts
+#EXTINF:0, group-title="glsh.eu",CA : GLOBAL FHD
+http://glsh.eu:8080/live/Layla/1234/79625.ts
+#EXTINF:0, group-title="glsh.eu",CA : GSN HD
+http://glsh.eu:8080/live/Layla/1234/79624.ts
+#EXTINF:0, group-title="glsh.eu",CA : HBO 2 HD
+http://glsh.eu:8080/live/Layla/1234/79623.ts
+#EXTINF:0, group-title="glsh.eu",CA : HBO HD
+http://glsh.eu:8080/live/Layla/1234/79622.ts
+#EXTINF:0, group-title="glsh.eu",CA : HGTV HD
+http://glsh.eu:8080/live/Layla/1234/79621.ts
+#EXTINF:0, group-title="glsh.eu",CA : HISTORY HD
+http://glsh.eu:8080/live/Layla/1234/79620.ts
+#EXTINF:0, group-title="glsh.eu",CA : HLN HD
+http://glsh.eu:8080/live/Layla/1234/79619.ts
+#EXTINF:0, group-title="glsh.eu",CA : Lifetime HD
+http://glsh.eu:8080/live/Layla/1234/79618.ts
+#EXTINF:0, group-title="glsh.eu",CA : ME TV HD
+http://glsh.eu:8080/live/Layla/1234/79617.ts
+#EXTINF:0, group-title="glsh.eu",CA : MSNBC HD
+http://glsh.eu:8080/live/Layla/1234/79615.ts
+#EXTINF:0, group-title="glsh.eu",CA : NAT GEO HD
+http://glsh.eu:8080/live/Layla/1234/79614.ts
+#EXTINF:0, group-title="glsh.eu",CA : NAT GEO WILD HD
+http://glsh.eu:8080/live/Layla/1234/79613.ts
+#EXTINF:0, group-title="glsh.eu",CA : NBC FHD
+http://glsh.eu:8080/live/Layla/1234/79612.ts
+#EXTINF:0, group-title="glsh.eu",CA : OWN HD
+http://glsh.eu:8080/live/Layla/1234/79611.ts
+#EXTINF:0, group-title="glsh.eu",CA : PBS HD
+http://glsh.eu:8080/live/Layla/1234/79610.ts
+#EXTINF:0, group-title="glsh.eu",CA : PEACH TREE HD
+http://glsh.eu:8080/live/Layla/1234/79609.ts
+#EXTINF:0, group-title="glsh.eu",CA : SHOWCASE HD
+http://glsh.eu:8080/live/Layla/1234/79608.ts
+#EXTINF:0, group-title="glsh.eu",CA : SLICE HD
+http://glsh.eu:8080/live/Layla/1234/79607.ts
+#EXTINF:0, group-title="glsh.eu",CA : SPACE HD
+http://glsh.eu:8080/live/Layla/1234/79606.ts
+#EXTINF:0, group-title="glsh.eu",CA : SPORTSNET 360 HD
+http://glsh.eu:8080/live/Layla/1234/79605.ts
+#EXTINF:0, group-title="glsh.eu",CA : SPORTSNET EAST HD
+http://glsh.eu:8080/live/Layla/1234/79604.ts
+#EXTINF:0, group-title="glsh.eu",CA : SPORTSNET ONE HD
+http://glsh.eu:8080/live/Layla/1234/79603.ts
+#EXTINF:0, group-title="glsh.eu",CA : SPORTSNET ONTARIO HD
+http://glsh.eu:8080/live/Layla/1234/79602.ts
+#EXTINF:0, group-title="glsh.eu",CA : SPORTSNET PACIFIC HD
+http://glsh.eu:8080/live/Layla/1234/79601.ts
+#EXTINF:0, group-title="glsh.eu",CA : SPORTSNET WEST HD
+http://glsh.eu:8080/live/Layla/1234/79600.ts
+#EXTINF:0, group-title="glsh.eu",CA : TLC HD
+http://glsh.eu:8080/live/Layla/1234/79598.ts
+#EXTINF:0, group-title="glsh.eu",CA : TSN HD 1
+http://glsh.eu:8080/live/Layla/1234/79597.ts
+#EXTINF:0, group-title="glsh.eu",CA : TSN HD 2
+http://glsh.eu:8080/live/Layla/1234/79596.ts
+#EXTINF:0, group-title="glsh.eu",CA : TSN HD 3
+http://glsh.eu:8080/live/Layla/1234/79595.ts
+#EXTINF:0, group-title="glsh.eu",CA : TSN HD 4
+http://glsh.eu:8080/live/Layla/1234/79594.ts
+#EXTINF:0, group-title="glsh.eu",CA : TSN HD 5
+http://glsh.eu:8080/live/Layla/1234/79593.ts
+#EXTINF:0, group-title="glsh.eu",CA : WEATHER CHANNEL HD
+http://glsh.eu:8080/live/Layla/1234/79592.ts
+#EXTINF:0, group-title="glsh.eu",CA : WORLD HD
+http://glsh.eu:8080/live/Layla/1234/79591.ts
+#EXTINF:0, group-title="glsh.eu",BRIT ASIA
+http://glsh.eu:8080/live/Layla/1234/73989.ts
+#EXTINF:0, group-title="glsh.eu",NOW MUSIC
+http://glsh.eu:8080/live/Layla/1234/73978.ts
+#EXTINF:0, group-title="glsh.eu",VENUS
+http://glsh.eu:8080/live/Layla/1234/73982.ts
+#EXTINF:0, group-title="glsh.eu",VH1
+http://glsh.eu:8080/live/Layla/1234/73981.ts
+#EXTINF:0, group-title="glsh.eu",VINTAGE TV
+http://glsh.eu:8080/live/Layla/1234/73980.ts
+#EXTINF:0, group-title="glsh.eu",PAC 12 ARIZONA HD
+http://glsh.eu:8080/live/Layla/1234/79891.ts
+#EXTINF:0, group-title="glsh.eu",PAC 12 BAY AREA HD
+http://glsh.eu:8080/live/Layla/1234/79890.ts
+#EXTINF:0, group-title="glsh.eu",PAC 12 LA HD
+http://glsh.eu:8080/live/Layla/1234/79889.ts
+#EXTINF:0, group-title="glsh.eu",PAC 12 MOUNTAIN HD
+http://glsh.eu:8080/live/Layla/1234/79888.ts
+#EXTINF:0, group-title="glsh.eu",PAC 12 NATIONAL HD
+http://glsh.eu:8080/live/Layla/1234/79887.ts
+#EXTINF:0, group-title="glsh.eu",PAC 12 OREGON HD
+http://glsh.eu:8080/live/Layla/1234/79886.ts
+#EXTINF:0, group-title="glsh.eu",BBC - Radio 1
+http://glsh.eu:8080/live/Layla/1234/80050.ts
+#EXTINF:0, group-title="glsh.eu",BBC - Radio 2
+http://glsh.eu:8080/live/Layla/1234/80049.ts
+#EXTINF:0, group-title="glsh.eu",BBC - Radio 4
+http://glsh.eu:8080/live/Layla/1234/80047.ts
+#EXTINF:0, group-title="glsh.eu",BBC - Radio 5 live
+http://glsh.eu:8080/live/Layla/1234/80046.ts
+#EXTINF:0, group-title="glsh.eu",BBC - Radio 6
+http://glsh.eu:8080/live/Layla/1234/80045.ts
+#EXTINF:0, group-title="glsh.eu",24/7 | Family Guy
+http://glsh.eu:8080/live/Layla/1234/80145.ts
+#EXTINF:0, group-title="glsh.eu",24/7 | Paw Patrol
+http://glsh.eu:8080/live/Layla/1234/80194.ts
+#EXTINF:0, group-title="glsh.eu",24/7 | Angry Beavers
+http://glsh.eu:8080/live/Layla/1234/80268.ts
+#EXTINF:0, group-title="glsh.eu",24/7 | Cow & Chicken
+http://glsh.eu:8080/live/Layla/1234/80272.ts
+#EXTINF:0, group-title="glsh.eu",24/7 | Topsy & Tim
+http://glsh.eu:8080/live/Layla/1234/80273.ts
+#EXTINF:0, group-title="glsh.eu",24/7 | The Peter Kay Thing
+http://glsh.eu:8080/live/Layla/1234/80289.ts
+#EXTINF:0, group-title="glsh.eu",MTV HD (US)
+http://glsh.eu:8080/live/Layla/1234/80302.ts
+#EXTINF:0, group-title="glsh.eu",24/7 | Captain Pugwash
+http://glsh.eu:8080/live/Layla/1234/83995.ts
+#EXTINF:0, group-title="glsh.eu",CTV 8
+http://iptv.matthuisman.nz/nz/tv.21.m3u8
+#EXTINF:0, group-title="glsh.eu",Parliament TV
+http://iptv.matthuisman.nz/nz/tv.18.m3u8
+#EXTINF:0, group-title="glsh.eu",Redbull TV
+http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:0, group-title="glsh.eu",Shine TV
+http://iptv.matthuisman.nz/nz/tv.7.m3u8
+#EXTINF:0, group-title="glsh.eu",TVSN Shopping
+http://iptv.matthuisman.nz/nz/tv.45.m3u8
+#EXTINF:0, group-title="glsh.eu",Wairarapa TV
+http://iptv.matthuisman.nz/nz/tv.60.m3u8
+#EXTINF:0, group-title="glsh.eu",CNN (US)
+http://glsh.eu:8080/live/Layla/1234/84706.ts
+#EXTINF:0, group-title="glsh.eu",ESPN LONGHORN NETWORK
+http://glsh.eu:8080/live/Layla/1234/84710.ts
+#EXTINF:0, group-title="glsh.eu",ESPN NEWS
+http://glsh.eu:8080/live/Layla/1234/84709.ts
+#EXTINF:0, group-title="glsh.eu",Bein Sports USA
+http://glsh.eu:8080/live/Layla/1234/84799.ts
+#EXTINF:0, group-title="glsh.eu",CMT (US)
+http://glsh.eu:8080/live/Layla/1234/84800.ts
+#EXTINF:0, group-title="glsh.eu",EPIX
+http://glsh.eu:8080/live/Layla/1234/84819.ts
+#EXTINF:0, group-title="glsh.eu",EPIX 2
+http://glsh.eu:8080/live/Layla/1234/84818.ts
+#EXTINF:0, group-title="glsh.eu",977 The 80s
+http://glsh.eu:8080/live/Layla/1234/88710.ts
+#EXTINF:0, group-title="glsh.eu",Absolute 00's
+http://glsh.eu:8080/live/Layla/1234/88709.ts
+#EXTINF:0, group-title="glsh.eu",Absolute 60's
+http://glsh.eu:8080/live/Layla/1234/88708.ts
+#EXTINF:0, group-title="glsh.eu",Absolute 70's
+http://glsh.eu:8080/live/Layla/1234/88707.ts
+#EXTINF:0, group-title="glsh.eu",Absolute 80's
+http://glsh.eu:8080/live/Layla/1234/88706.ts
+#EXTINF:0, group-title="glsh.eu",Absolute 90's
+http://glsh.eu:8080/live/Layla/1234/88705.ts
+#EXTINF:0, group-title="glsh.eu",Absolute Classic Rock
+http://glsh.eu:8080/live/Layla/1234/88704.ts
+#EXTINF:0, group-title="glsh.eu",BBC Radio 1
+http://glsh.eu:8080/live/Layla/1234/88703.ts
+#EXTINF:0, group-title="glsh.eu",BBC Radio 1 Xtra
+http://glsh.eu:8080/live/Layla/1234/88702.ts
+#EXTINF:0, group-title="glsh.eu",BBC Radio 2
+http://glsh.eu:8080/live/Layla/1234/88701.ts
+#EXTINF:0, group-title="glsh.eu",BBC Radio 3
+http://glsh.eu:8080/live/Layla/1234/88700.ts
+#EXTINF:0, group-title="glsh.eu",BBC Radio 4
+http://glsh.eu:8080/live/Layla/1234/88699.ts
+#EXTINF:0, group-title="glsh.eu",BBC Radio 4 Extra
+http://glsh.eu:8080/live/Layla/1234/88698.ts
+#EXTINF:0, group-title="glsh.eu",BBC Radio 5 Live
+http://glsh.eu:8080/live/Layla/1234/88697.ts
+#EXTINF:0, group-title="glsh.eu",BBC Radio 6
+http://glsh.eu:8080/live/Layla/1234/88695.ts
+#EXTINF:0, group-title="glsh.eu",Capital London
+http://glsh.eu:8080/live/Layla/1234/88694.ts
+#EXTINF:0, group-title="glsh.eu",Classic Radio
+http://glsh.eu:8080/live/Layla/1234/88683.ts
+#EXTINF:0, group-title="glsh.eu",Classical WETA 90.9 FM
+http://glsh.eu:8080/live/Layla/1234/88680.ts
+#EXTINF:0, group-title="glsh.eu",Crooner Radio
+http://glsh.eu:8080/live/Layla/1234/88677.ts
+#EXTINF:0, group-title="glsh.eu",Cult Radio A-Go-Go!
+http://glsh.eu:8080/live/Layla/1234/88676.ts
+#EXTINF:0, group-title="glsh.eu",Da Urban Jungle Radio
+http://glsh.eu:8080/live/Layla/1234/88674.ts
+#EXTINF:0, group-title="glsh.eu",DanceWave Radio
+http://glsh.eu:8080/live/Layla/1234/88651.ts
+#EXTINF:0, group-title="glsh.eu",Deep House Lounge
+http://glsh.eu:8080/live/Layla/1234/88673.ts
+#EXTINF:0, group-title="glsh.eu",Despacito
+http://glsh.eu:8080/live/Layla/1234/88693.ts
+#EXTINF:0, group-title="glsh.eu",Gold London
+http://glsh.eu:8080/live/Layla/1234/88692.ts
+#EXTINF:0, group-title="glsh.eu",Heart London
+http://glsh.eu:8080/live/Layla/1234/88691.ts
+#EXTINF:0, group-title="glsh.eu",Horror   Halloween Radio
+http://glsh.eu:8080/live/Layla/1234/88671.ts
+#EXTINF:0, group-title="glsh.eu",Hot Radio
+http://glsh.eu:8080/live/Layla/1234/88641.ts
+#EXTINF:0, group-title="glsh.eu",HTZ FM
+http://glsh.eu:8080/live/Layla/1234/88690.ts
+#EXTINF:0, group-title="glsh.eu",iHeartRadio X-Mas
+http://glsh.eu:8080/live/Layla/1234/88687.ts
+#EXTINF:0, group-title="glsh.eu",InfoWars - Alex Jones Show
+http://glsh.eu:8080/live/Layla/1234/88670.ts
+#EXTINF:0, group-title="glsh.eu",Jazz 91.7 FM San Antonio
+http://glsh.eu:8080/live/Layla/1234/88666.ts
+#EXTINF:0, group-title="glsh.eu",Jesse Lee Peterson Radio Show
+http://glsh.eu:8080/live/Layla/1234/88669.ts
+#EXTINF:0, group-title="glsh.eu",KCGP 106.7 FM Grants Pass
+http://glsh.eu:8080/live/Layla/1234/88667.ts
+#EXTINF:0, group-title="glsh.eu",Kiss FM
+http://glsh.eu:8080/live/Layla/1234/88686.ts
+#EXTINF:0, group-title="glsh.eu",KSGN 89.7 FM Riverside
+http://glsh.eu:8080/live/Layla/1234/88668.ts
+#EXTINF:0, group-title="glsh.eu",La Reina 1260 AM Des Moines
+http://glsh.eu:8080/live/Layla/1234/88621.ts
+#EXTINF:0, group-title="glsh.eu",Leading Edge Radio Network - Oldies
+http://glsh.eu:8080/live/Layla/1234/88642.ts
+#EXTINF:0, group-title="glsh.eu",Lite 98 FM Richmond
+http://glsh.eu:8080/live/Layla/1234/88624.ts
+#EXTINF:0, group-title="glsh.eu",Lite FM 106.7 New York
+http://glsh.eu:8080/live/Layla/1234/88643.ts
+#EXTINF:0, group-title="glsh.eu",Magic 80s Florida
+http://glsh.eu:8080/live/Layla/1234/88613.ts
+#EXTINF:0, group-title="glsh.eu",Neighborhood FM Cleveland
+http://glsh.eu:8080/live/Layla/1234/88625.ts
+#EXTINF:0, group-title="glsh.eu",News Radio 1450 AM Wilmington
+http://glsh.eu:8080/live/Layla/1234/88629.ts
+#EXTINF:0, group-title="glsh.eu",NonStop Dance Radio
+http://glsh.eu:8080/live/Layla/1234/88682.ts
+#EXTINF:0, group-title="glsh.eu",Old Time Radio - Amazing Tales
+http://glsh.eu:8080/live/Layla/1234/88628.ts
+#EXTINF:0, group-title="glsh.eu",Old Time Radio - Crimetime
+http://glsh.eu:8080/live/Layla/1234/88627.ts
+#EXTINF:0, group-title="glsh.eu",Pulso Digital
+http://glsh.eu:8080/live/Layla/1234/88658.ts
+#EXTINF:0, group-title="glsh.eu",Radio Ashour
+http://glsh.eu:8080/live/Layla/1234/88657.ts
+#EXTINF:0, group-title="glsh.eu",Radio Paradise
+http://glsh.eu:8080/live/Layla/1234/88678.ts
+#EXTINF:0, group-title="glsh.eu",Reggae Jam Radio
+http://glsh.eu:8080/live/Layla/1234/88675.ts
+#EXTINF:0, group-title="glsh.eu",Silk Fm
+http://glsh.eu:8080/live/Layla/1234/88630.ts
+#EXTINF:0, group-title="glsh.eu",Smooth Fm
+http://glsh.eu:8080/live/Layla/1234/88635.ts
+#EXTINF:0, group-title="glsh.eu",Smooth Fm Xtra
+http://glsh.eu:8080/live/Layla/1234/88634.ts
+#EXTINF:0, group-title="glsh.eu",SmoothJazz.com Global Radio
+http://glsh.eu:8080/live/Layla/1234/88660.ts
+#EXTINF:0, group-title="glsh.eu",Sun Fm
+http://glsh.eu:8080/live/Layla/1234/88631.ts
+#EXTINF:0, group-title="glsh.eu",Talk Radio
+http://glsh.eu:8080/live/Layla/1234/88615.ts
+#EXTINF:0, group-title="glsh.eu",Talk Sport
+http://glsh.eu:8080/live/Layla/1234/88655.ts
+#EXTINF:0, group-title="glsh.eu",Talk Sport 2
+http://glsh.eu:8080/live/Layla/1234/88654.ts
+#EXTINF:0, group-title="glsh.eu",The Arrow Radio
+http://glsh.eu:8080/live/Layla/1234/88616.ts
+#EXTINF:0, group-title="glsh.eu",The Bee Radio
+http://glsh.eu:8080/live/Layla/1234/88617.ts
+#EXTINF:0, group-title="glsh.eu",The Jazz Groove
+http://glsh.eu:8080/live/Layla/1234/88659.ts
+#EXTINF:0, group-title="glsh.eu",The Source Fm
+http://glsh.eu:8080/live/Layla/1234/88619.ts
+#EXTINF:0, group-title="glsh.eu",Touch Fm 96.2
+http://glsh.eu:8080/live/Layla/1234/88622.ts
+#EXTINF:0, group-title="glsh.eu",WBNC Break-N-Chainz Radio
+http://glsh.eu:8080/live/Layla/1234/88661.ts
+#EXTINF:0, group-title="glsh.eu",WCPN 90.3 FM Cleveland
+http://glsh.eu:8080/live/Layla/1234/88662.ts
+#EXTINF:0, group-title="glsh.eu",WLOY Loyola Radio
+http://glsh.eu:8080/live/Layla/1234/88663.ts
+#EXTINF:0, group-title="glsh.eu",Z100 100.1 FM Redding
+http://glsh.eu:8080/live/Layla/1234/88623.ts
+#EXTINF:0, group-title="glsh.eu",Z100 Radio New York
+http://glsh.eu:8080/live/Layla/1234/88664.tshttp://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg",Pac 12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1,Sky Sport Bundesliga 1
