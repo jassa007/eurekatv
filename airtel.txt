@@ -137,7 +137,7 @@ http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Bangladesh",Bangla
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226361/01.m3u8
 #EXTINF:0, group-title="Bangladesh",Colors Bengali HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/254.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/254.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",CTVN Plus
 http://209.58.180.52/ctvnhls/live.m3u8
 #EXTINF:0, group-title="Bangladesh",CTVN Plus
@@ -147,11 +147,11 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Bangladesh",Dhoom
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8
 #EXTINF:0, group-title="Bangladesh",Discovery Channel (Bengali)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/394.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/394.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",ETV Bangla News
-http://hdstreamz.ddns.net:8000/live/24684/84981981/473.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/473.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Jalsha Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/703.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/703.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Kolkatta TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8
 #EXTINF:0, group-title="Bangladesh",Music Fatafati
@@ -167,23 +167,23 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Bangladesh",Sony Aath
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/01.m3u8
 #EXTINF:0, group-title="Bangladesh",Sony aath
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1348.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/1348.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Star Jalsha HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1444.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/1444.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Uttar Bangla
 http://209.58.164.245/uttarBangladeshhls/live.m3u8
 #EXTINF:0, group-title="Bangladesh",Zee Bangla
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/01.m3u8
 #EXTINF:0, group-title="Bangladesh",Zee Bangla
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1809.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/1809.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Zee Bangla Cinema
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/01.m3u8
 #EXTINF:0, group-title="Bangladesh",Zee Bangla Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1812.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/1812.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Zee Bangla HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/01.m3u8
 #EXTINF:0, group-title="Nepal",Nepal One
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1019.ts|User-Agent=HD-STM/3.0
+http://139.59.81.43:8000/live/24684/84981981/1019.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Nepal",Nepal One
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8
 #EXTINF:0, group-title="Nepal",Nepali TV
