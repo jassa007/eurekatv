@@ -1006,8 +1006,6 @@ http://glsh.eu:8080/live/Layla/1234/79669.ts
 http://glsh.eu:8080/live/Layla/1234/79854.ts
 #EXTINF:0, group-title="USA",MLB EXTRA HD 11
 http://glsh.eu:8080/live/Layla/1234/79682.ts
-#EXTINF:0, group-title="PAK",DUNYA NEWS
-http://glsh.eu:8080/live/Layla/1234/73731.ts
 #EXTINF:0, group-title="UK",BRIT ASIA
 http://glsh.eu:8080/live/Layla/1234/73989.ts
 #EXTINF:0, group-title="UK",NOW MUSIC
