@@ -625,6 +625,8 @@ http://139.59.74.143/j/Only_Music.m3u8|User-Agent=stagefright
 http://139.59.74.143/j/PBN_Music.m3u8|User-Agent=stagefright
 #EXTINF:0, group-title="Punjabi",Pitaara
 http://139.59.74.143/j/Pitaara.m3u8|User-Agent=stagefright
+#EXTINF:0, group-title="Punjabi",Sangat TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7914.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha TV
 http://139.59.74.143/j/Sanjha_TV.m3u8|User-Agent=stagefright
 #EXTINF:0, group-title="Punjabi",Zee PB HP HR
