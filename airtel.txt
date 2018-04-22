@@ -126,6 +126,127 @@ https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/115.m3u8
 https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/147.m3u8
 #EXTINF:0, group-title="Pakistan",Waseb
 https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/49.m3u8
+
+#EXTINF:0, group-title="Pakistan",24 News
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5616.ts
+#EXTINF:0, group-title="Pakistan",92 NEws
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5615.ts
+#EXTINF:0, group-title="Pakistan",Abbtak News
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5614.ts
+#EXTINF:0, group-title="Pakistan",Apna Channel
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5612.ts
+#EXTINF:0, group-title="Pakistan",Ary Digital
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5553.ts
+#EXTINF:0, group-title="Pakistan",Ary Music Pk
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5611.ts
+#EXTINF:0, group-title="Pakistan",ARY News HD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5554.ts
+#EXTINF:0, group-title="Pakistan",ARY Qtv
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5609.ts
+#EXTINF:0, group-title="Pakistan",Ary Zauq
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5608.ts
+#EXTINF:0, group-title="Pakistan",Ary Zindagi
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5555.ts
+#EXTINF:0, group-title="Pakistan",ATV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5607.ts
+#EXTINF:0, group-title="Pakistan",AWAZ TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5606.ts
+#EXTINF:0, group-title="Pakistan",Bol News
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/8043.ts
+#EXTINF:0, group-title="Pakistan",Capital News
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5605.ts
+#EXTINF:0, group-title="Pakistan",City 42
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5604.ts
+#EXTINF:0, group-title="Pakistan",Dawn News
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5603.ts
+#EXTINF:0, group-title="Pakistan",Dunya news
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5562.ts
+#EXTINF:0, group-title="Pakistan",Dunya News Live
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5561.ts
+#EXTINF:0, group-title="Pakistan",Express Entertainment
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5602.ts
+#EXTINF:0, group-title="Pakistan",Express news
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5556.ts
+#EXTINF:0, group-title="Pakistan",FILM WORLD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/8045.ts
+#EXTINF:0, group-title="Pakistan",FILMAZIA
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/8044.ts
+#EXTINF:0, group-title="Pakistan",Geo Kahani
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5600.ts
+#EXTINF:0, group-title="Pakistan",Geo News
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5599.ts
+#EXTINF:0, group-title="Pakistan",Geo Sports
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5570.ts
+#EXTINF:0, group-title="Pakistan",Geo Super HD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5563.ts
+#EXTINF:0, group-title="Pakistan",Geo Super SD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5569.ts
+#EXTINF:0, group-title="Pakistan",Geo TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5598.ts
+#EXTINF:0, group-title="Pakistan",Hadi TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5597.ts
+#EXTINF:0, group-title="Pakistan",Hidayat TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5595.ts
+#EXTINF:0, group-title="Pakistan",Hum TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5593.ts
+#EXTINF:0, group-title="Pakistan",HUM TV WORLD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/17648.ts
+#EXTINF:0, group-title="Pakistan",Islam Channel
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5592.ts
+#EXTINF:0, group-title="Pakistan",Islam Channel Urdu
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5591.ts
+#EXTINF:0, group-title="Pakistan",Jalwa TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5590.ts
+#EXTINF:0, group-title="Pakistan",Kay 2
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5589.ts
+#EXTINF:0, group-title="Pakistan",Khyber News Pashto
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5588.ts
+#EXTINF:0, group-title="Pakistan",Khyber TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5587.ts
+#EXTINF:0, group-title="Pakistan",KTN TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5586.ts
+#EXTINF:0, group-title="Pakistan",Madina Live
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5571.ts
+#EXTINF:0, group-title="Pakistan",Makkah Live
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5572.ts
+#EXTINF:0, group-title="Pakistan",Metro One News
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5585.ts
+#EXTINF:0, group-title="Pakistan",MTA URDU
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/8681.ts
+#EXTINF:0, group-title="Pakistan",News One
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5584.ts
+#EXTINF:0, group-title="Pakistan",Noor TV UK
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/8954.ts
+#EXTINF:0, group-title="Pakistan",PTV Global
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5583.ts
+#EXTINF:0, group-title="Pakistan",Ptv home
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5558.ts
+#EXTINF:0, group-title="Pakistan",PTV Prime
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5559.ts
+#EXTINF:0, group-title="Pakistan",PTV Sports
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5582.ts
+#EXTINF:0, group-title="Pakistan",PTV Sports
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/315.ts
+#EXTINF:0, group-title="Pakistan",PTV Sports HD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5568.ts
+#EXTINF:0, group-title="Pakistan",PTV Sports SD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5567.ts
+#EXTINF:0, group-title="Pakistan",Samaa TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5579.ts
+#EXTINF:0, group-title="Pakistan",Such TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5578.ts
+#EXTINF:0, group-title="Pakistan",Tehzeeb TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5577.ts
+#EXTINF:0, group-title="Pakistan",TV One
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5575.ts
+#EXTINF:0, group-title="Pakistan",Urdu 1
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5574.ts
+#EXTINF:0, group-title="Pakistan",Waqt News
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5573.ts
+#EXTINF:0, group-title="Pakistan",Waseeb TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5565.ts
+
+
 #EXTINF:0, group-title="Bangladesh",24 Ghanta
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/01.m3u8
 #EXTINF:0, group-title="Bangladesh",Aakaash
@@ -182,9 +303,113 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://139.59.81.43:8000/live/24684/84981981/1812.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Zee Bangla HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/01.m3u8
+#EXTINF:0, group-title="Bangladesh",Aamar Bangla
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7704.ts
+#EXTINF:0, group-title="Bangladesh",Asian TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7705.ts
+#EXTINF:0, group-title="Bangladesh",ATN Bangla
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7706.ts
+#EXTINF:0, group-title="Bangladesh",ATN NEWS
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7707.ts
+#EXTINF:0, group-title="Bangladesh",Bangala ABP Ananda
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7908.ts
+#EXTINF:0, group-title="Bangladesh",BANGLA VISION
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7708.ts
+#EXTINF:0, group-title="Bangladesh",BTV World
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7899.ts
+#EXTINF:0, group-title="Bangladesh",CHANNEL 24
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7907.ts
+#EXTINF:0, group-title="Bangladesh",Channel 9
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7912.ts
+#EXTINF:0, group-title="Bangladesh",Colors Bangla
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7903.ts
+#EXTINF:0, group-title="Bangladesh",DEEPTO TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7913.ts
+#EXTINF:0, group-title="Bangladesh",DESH TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7904.ts
+#EXTINF:0, group-title="Bangladesh",Dhoom Music
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7916.ts
+#EXTINF:0, group-title="Bangladesh",Ekattor tv
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7909.ts
+#EXTINF:0, group-title="Bangladesh",Gaan Bangla
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7898.ts
+#EXTINF:0, group-title="Bangladesh",Jamuna tv
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7910.ts
+#EXTINF:0, group-title="Bangladesh",MAASRANGA TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7902.ts
+#EXTINF:0, group-title="Bangladesh",MOVIE BANGLA
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7911.ts
+#EXTINF:0, group-title="Bangladesh",Sangat TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7914.ts
+#EXTINF:0, group-title="Bangladesh",TARA MUSIK
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7905.ts
+#EXTINF:0, group-title="Bangladesh",ZEE BANGLA Cinema HD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/7906.ts
+
+
+#EXTINF:0, group-title="Afgan",1TV AFGHAN
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5528.ts
+#EXTINF:0, group-title="Afgan",Arezo
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5539.ts
+#EXTINF:0, group-title="Afgan",ARIANA INTERNATIONAL
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5546.ts
+#EXTINF:0, group-title="Afgan",Aryana TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5542.ts
+#EXTINF:0, group-title="Afgan",ATN AFGHAN
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5535.ts
+#EXTINF:0, group-title="Afgan",ATN EUROPE
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5534.ts
+#EXTINF:0, group-title="Afgan",ATN NEWS
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5533.ts
+#EXTINF:0, group-title="Afgan",ATN USA
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5532.ts
+#EXTINF:0, group-title="Afgan",ATV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5531.ts
+#EXTINF:0, group-title="Afgan",Jawan TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5540.ts
+#EXTINF:0, group-title="Afgan",KHURSHID TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5545.ts
+#EXTINF:0, group-title="Afgan",LEMAR
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5544.ts
+#EXTINF:0, group-title="Afgan",NEGAAH
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5543.ts
+#EXTINF:0, group-title="Afgan",PASHTO TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5541.ts
+#EXTINF:0, group-title="Afgan",SHAMSHAD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5538.ts
+#EXTINF:0, group-title="Afgan",SROOD
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5537.ts
+#EXTINF:0, group-title="Afgan",TAMADON TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5536.ts
+#EXTINF:0, group-title="Afgan",TOLO
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5529.ts
+#EXTINF:0, group-title="Afgan",TOLO NEWS
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5530.ts
+
+
 #EXTINF:0, group-title="Nepal",Nepal One
 http://139.59.81.43:8000/live/24684/84981981/1019.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Nepal",Nepal One
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8
 #EXTINF:0, group-title="Nepal",Nepali TV
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+
+#EXTINF:0, group-title="Nepal",HIMALAYA TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9135.ts
+#EXTINF:0, group-title="Nepal",IMAGE CHANNEL
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9136.ts
+#EXTINF:0, group-title="Nepal",KANTIPUR
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9137.ts
+#EXTINF:0, group-title="Nepal",MOUNTAIN TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9138.ts
+#EXTINF:0, group-title="Nepal",NEWS 24
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9140.ts
+#EXTINF:0, group-title="Nepal",NTV NEPAL
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9141.ts
+#EXTINF:0, group-title="Nepal",NTV PLUS
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9142.ts
+#EXTINF:0, group-title="Nepal",TV FILMY
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9144.ts
+#EXTINF:0, group-title="Nepal",VISION NEPAL
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/9145.ts
+
