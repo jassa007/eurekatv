@@ -1204,8 +1204,7 @@ https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//master.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/01.m3u8
 #EXTINF:0, group-title="Business",Zee Business
 http://139.59.81.43:8000/live/24684/84981981/1815.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Devotional",God TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226325/1.m3u8
+
 #EXTINF:0, group-title="Devotional",Aastha
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226069/01.m3u8
 #EXTINF:0, group-title="Devotional",Arihant
@@ -1216,6 +1215,18 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226211/1.m3u8
 #EXTINF:0, group-title="Devotional",Divyavani TV
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226230/1.m3u8
+#EXTINF:0, group-title="Devotional",Fateh
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:0, group-title="Infotainment",84 TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/16971.ts
+#EXTINF:0, group-title="Music",9X TASHAN
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/16972.ts
+#EXTINF:0, group-title="Devotional",JUS ONE TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/16984.ts
+#EXTINF:0, group-title="Entertainment",JUS PUNJABI
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/16985.ts
+#EXTINF:0, group-title="Devotional",God TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226325/1.m3u8
 #EXTINF:0, group-title="Devotional",Ishwar TV
 http://z43wrz2proxe-hls-live.wmncdn.net/399/ishwartv10/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Devotional",Jinvani
@@ -1226,6 +1237,10 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:0, group-title="Devotional",Prarthana Bhawan
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226223/1.m3u8
+#EXTINF:0, group-title="News",PTC News 	
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5707.ts
+#EXTINF:0, group-title="Entertainment",PTC Punjabi
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5706.ts
 #EXTINF:0, group-title="Devotional",Sadhana TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226328/1.m3u8
 #EXTINF:0, group-title="Devotional",Sankara TV
