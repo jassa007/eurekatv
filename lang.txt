@@ -691,7 +691,7 @@ http://139.59.74.143/j/Puthu_Yugam.m3u8|User-Agent=stagefright
 http://139.59.74.143/j/Raj_Digital_Plus.m3u8|User-Agent=stagefright
 #EXTINF:0, group-title="Tamil",Raj Musix
 http://139.59.74.143/j/Raj_Musix.m3u8|User-Agent=stagefright
-#EXTINF:0, group-title="Tamil",Raj News 24x7
+#EXTINF:0, group-title="Tamil",Raj News 24x7
 http://139.59.74.143/j/Raj_News_24x7.m3u8|User-Agent=stagefright
 #EXTINF:0, group-title="Tamil",Sahana Music
 http://139.59.74.143/j/Sahana_Music.m3u8|User-Agent=stagefright
@@ -1181,6 +1181,14 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cdn.samtv.ca/anntv/index.m3u8
 #EXTINF:0, group-title="Punjabi",Akaal
 http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:0, group-title="Punjabi",84 TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/16971.ts
+#EXTINF:0, group-title="Punjabi",9X TASHAN
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/16972.ts
+#EXTINF:0, group-title="Punjabi",JUS ONE TV
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/16984.ts
+#EXTINF:0, group-title="Punjabi",JUS PUNJABI
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/16985.ts
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Punjabi
@@ -1211,6 +1219,8 @@ http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
 http://cdn.samtv.ca/e9punjabi/index.m3u8
 #EXTINF:0, group-title="Punjabi",Fastway TV
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Fateh
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Garv Punjab
 http://sknwz08.skandha.tv/live/smil:Gpunjab.smil/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Garv Punjab Gurbani
@@ -1253,6 +1263,10 @@ http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Pitaara
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226122/01.m3u8
+#EXTINF:0, group-title="Punjabi",PTC News 	
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5707.ts
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://premium-iptv.link:6969/live/NPnS3TAFFB/pMpsazXjjb/5706.ts
 #EXTINF:0, group-title="Punjabi",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTN 24
