@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:0, group-title="Canada",ABC
+#EXTINF:0, group-title="Canada",ABC
 http://universeiptv.com:8000/live/jed123/jed123/4812.ts
 #EXTINF:0, group-title="Canada",AMC
 http://universeiptv.com:8000/live/jed123/jed123/4813.ts
