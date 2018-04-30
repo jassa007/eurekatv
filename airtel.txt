@@ -1,121 +1,5 @@
 #EXTM3U
 
-#EXTINF:0, group-title="Pakistan",Ary News
-http://158.69.229.30:1935/newslive/myStream/chunklist_w846372067.m3u8
-#EXTINF:0, group-title="Pakistan",Dunya News
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
-#EXTINF:0, group-title="Pakistan",PTV World
-http://app.pakistanvision.tv:1935/live/8090/player.m3u8
-#EXTINF:0, group-title="Pakistan",PTV Home
-http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
-#EXTINF:0, group-title="Pakistan",PTV News
-http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
-#EXTINF:0, group-title="Pakistan",Geo News
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",Geo TV
-http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
-#EXTINF:0, group-title="Pakistan",KTN
-http://103.24.96.74/ktn/ktn/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",Samaa TV
-https://samaatr-hls.secdn.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",???
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/141.m3u8
-#EXTINF:0, group-title="Pakistan",24 News HD
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/145.m3u8
-#EXTINF:0, group-title="Pakistan",7 News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/121.m3u8
-#EXTINF:0, group-title="Pakistan",8XM
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/54.m3u8
-#EXTINF:0, group-title="Pakistan",92 News HD
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",A Plus
-http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/chunklist_w1071879192.m3u8
-#EXTINF:0, group-title="Pakistan",Aaj Ent
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/131.m3u8
-#EXTINF:0, group-title="Pakistan",Aaj News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/130.m3u8
-#EXTINF:0, group-title="Pakistan",Abb Tak News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/58.m3u8
-#EXTINF:0, group-title="Pakistan",Afghan TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/140.m3u8
-#EXTINF:0, group-title="Pakistan",Afghan TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/133.m3u8
-#EXTINF:0, group-title="Pakistan",APlus
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/129.m3u8
-#EXTINF:0, group-title="Pakistan",Apna Channel
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/60.m3u8
-#EXTINF:0, group-title="Pakistan",Aruj TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/149.m3u8
-#EXTINF:0, group-title="Pakistan",ARY Digital
-http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",ARY News
-http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",ARY Zindagi
-http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8
-#EXTINF:0, group-title="Pakistan",ATV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/154.m3u8
-#EXTINF:0, group-title="Pakistan",City 41
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/158.m3u8
-#EXTINF:0, group-title="Pakistan",City 42
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/159.m3u8
-#EXTINF:0, group-title="Pakistan",City 44
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/160.m3u8
-#EXTINF:0, group-title="Pakistan",Dunya News
-http://glsh.eu:8080/live/Layla/1234/73731.ts
-#EXTINF:0, group-title="Pakistan",Dunya News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/126.m3u8
-#EXTINF:0, group-title="Pakistan",Dunya TV
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",Film World
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/132.m3u8
-#EXTINF:0, group-title="Pakistan",Filmax
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/68.m3u8
-#EXTINF:0, group-title="Pakistan",Filmazia
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/123.m3u8
-#EXTINF:0, group-title="Pakistan",Geo News
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",Hot FM 105 Karachi
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/173.m3u8
-#EXTINF:0, group-title="Pakistan",Hot FM 105-Karachi
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/175.m3u8
-#EXTINF:0, group-title="Pakistan",Jalwa TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/139.m3u8
-#EXTINF:0, group-title="Pakistan",K21
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/128.m3u8
-#EXTINF:0, group-title="Pakistan",Kashish
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/166.m3u8
-#EXTINF:0, group-title="Pakistan",Kay 2 
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/155.m3u8
-#EXTINF:0, group-title="Pakistan",Khyber News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/51.m3u8
-#EXTINF:0, group-title="Pakistan",KTN
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/164.m3u8
-#EXTINF:0, group-title="Pakistan",KTN News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/168.m3u8
-#EXTINF:0, group-title="Pakistan",Kyber
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/148.m3u8
-#EXTINF:0, group-title="Pakistan",Lahore News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/127.m3u8
-#EXTINF:0, group-title="Pakistan",Lahore News
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",Neo News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/124.m3u8
-#EXTINF:0, group-title="Pakistan",Oxygene
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/56.m3u8
-#EXTINF:0, group-title="Pakistan",Pashto 1
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/151.m3u8
-#EXTINF:0, group-title="Pakistan",PTV Home
-http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
-#EXTINF:0, group-title="Pakistan",PTV News
-http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
-#EXTINF:0, group-title="Pakistan",PTV World
-http://app.pakistanvision.tv:1935/live/8090/player.m3u8
-#EXTINF:0, group-title="Pakistan",Punjab TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/153.m3u8
-#EXTINF:0, group-title="Pakistan",Rohi
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/161.m3u8
-#EXTINF:0, group-title="Pakistan",Roze News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/157.m3u8
 #EXTINF:0, group-title="Pakistan",Sach TV
 https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/152.m3u8
 #EXTINF:0, group-title="Pakistan",Samaa
@@ -130,10 +14,6 @@ https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/125.m3u8
 https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/100.m3u8
 #EXTINF:0, group-title="Pakistan",See TV Radio
 https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/103.m3u8
-#EXTINF:0, group-title="Pakistan",Tez
-http://stream.jeem.tv/geo/geotezz/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",TV One
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/116.m3u8
 #EXTINF:0, group-title="Pakistan",TV One
 https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/134.m3u8
 #EXTINF:0, group-title="Pakistan",TV One Int
@@ -146,62 +26,138 @@ https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/115.m3u8
 https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/147.m3u8
 #EXTINF:0, group-title="Pakistan",Waseb
 https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/49.m3u8
-#EXTINF:0, group-title="Bangladesh",24 Ghanta
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Aakaash
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/01.m3u8
-#EXTINF:0, group-title="Bangladesh",ABP Ananda
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Arijan
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Bangla
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226361/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Colors Bengali HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/254.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",CTVN Plus
 http://209.58.180.52/ctvnhls/live.m3u8
-#EXTINF:0, group-title="Bangladesh",CTVN Plus
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226250/index.m3u8
-#EXTINF:0, group-title="Bangladesh",DD Bangla
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226374/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Dhoom
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8
-#EXTINF:0, group-title="Bangladesh",Discovery Channel (Bengali)
-http://hdstreamz.ddns.net:8000/live/24684/84981981/394.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangladesh",ETV Bangla News
-http://hdstreamz.ddns.net:8000/live/24684/84981981/473.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangladesh",Jalsha Movies HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/703.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangladesh",Kolkatta TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Music Fatafati
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226360/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Naaptol (Bangla)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226271/1.m3u8
-#EXTINF:0, group-title="Bangladesh",News Time
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226287/1.m3u8
-#EXTINF:0, group-title="Bangladesh",Ruposhi Bangla
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Sangeet Bangla
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226333/1.m3u8
-#EXTINF:0, group-title="Bangladesh",Sony Aath
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Sony aath
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1348.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Bangladesh",Star Jalsha HD
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1444.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Uttar Bangla
 http://209.58.164.245/uttarBangladeshhls/live.m3u8
-#EXTINF:0, group-title="Bangladesh",Zee Bangla
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Zee Bangla
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1809.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Aakash Bangla
+http://109.200.6.72:8081/bang/AAKASHBANGLA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Asian TV
+http://109.200.6.72:8081/bang/ASIANTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ATN Bangla
+http://109.200.6.72:8081/bang/ATNBANGLA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ATN Bangla UK
+http://109.200.6.72:8081/bang/ATNBANGLAUK/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ATN Music TV
+http://109.200.6.72:8081/bang/ATNMUSICTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ATN News
+http://109.200.6.72:8081/bang/ATNNEWS/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Bangla Vision
+http://109.200.6.72:8081/bang/BANGLAVISION/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Bijoy TV
+http://109.200.6.72:8081/bang/BIJOY/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Boishakhi TV
+http://109.200.6.72:8081/bang/BOISHAKHI/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",BTV
+http://109.200.6.72:8081/bang/BTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Channel 9
+http://109.200.6.72:8081/bang/CHANNEL9/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Channel i
+http://109.200.6.72:8081/bang/CHANNELIEU/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Channel S
+http://109.200.6.72:8081/bang/CHANNELS/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Colors Bangla HD
+http://109.200.6.72:8081/bang/COLORSBANGLA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",DBC News
+http://109.200.6.72:8081/bang/DBCNEWS/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",DD Bangla
+http://109.200.6.72:8081/bang/DDBANGLA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Deepto HD
+http://109.200.6.72:8081/bang/DEEPTOHD/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Desh Bideshe TV
+http://109.200.6.72:8081/bang/DESHEBIDESHETV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Desh TV
+http://109.200.6.72:8081/bang/DESHTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Deshi TV
+http://109.200.6.72:8081/bang/DESHITV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Dhoom Music
+http://109.200.6.72:8081/bang/DHOOMMUSIC/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Ekattor TV
+http://109.200.6.72:8081/bang/EKATOORTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",ETV Bangla
+http://109.200.6.72:8081/bang/ETV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Express
+http://109.200.6.72:8081/bang/RPLUSNEWS/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Gaan Bangla
+http://109.200.6.72:8081/bang/GAANBANGLA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",GTV
+http://109.200.6.72:8081/bang/GTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Independent
+http://109.200.6.72:8081/bang/INDEPENDENT/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",iTV
+http://109.200.6.72:8081/bang/iTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Jamuna TV
+http://109.200.6.72:8081/bang/JAMUNATV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Maasaranga
+http://109.200.6.72:8081/bang/MASRANGATV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Millenium TV
+http://109.200.6.72:8081/bang/MILLENNIUMTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Mohana TV
+http://109.200.6.72:8081/bang/MOHANA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Movies Bangla
+http://109.200.6.72:8081/bang/MOVIEBANGLA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",My TV
+http://109.200.6.72:8081/bang/MYTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",News 24 HD
+http://109.200.6.72:8081/bang/NEWS24HD/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",NRB TV
+http://109.200.6.72:8081/bang/NRBTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",NTV Bangla
+http://109.200.6.72:8081/bang/NTVBANGLA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",RTV
+http://109.200.6.72:8081/bang/RTV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Sangeet Bangla
+http://109.200.6.72:8081/bang/SANGEETBANGLA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",SATV
+http://109.200.6.72:8081/bang/SATV/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Star Bangla Movies
+http://109.200.6.72:8081/bang/TARAMUZIK/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Star Jhalsa Movies
+http://109.200.6.72:8081/bang/STARJHALSAMOVIES/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Times TV
+http://109.200.6.72:8081/bang/TIMETELEVISION/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Zee Bangla Cinema
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/01.m3u8
-#EXTINF:0, group-title="Bangladesh",Zee Bangla Cinema
-http://hdstreamz.ddns.net:8000/live/24684/84981981/1812.ts|User-Agent=HD-STM/3.0
+http://109.200.6.72:8081/bang/ZEEBANGLACENIMA/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",24 Ghanta
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",Aakaash
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",ABP Ananda
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",Arijan
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",Colors Bengali HD
+http://159.89.165.220:8000/live/01234/56789/58.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Dhoom
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",Discovery Channel (Bengali)
+http://159.89.165.220:8000/live/01234/56789/95.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",ETV Bangla News
+http://159.89.165.220:8000/live/01234/56789/138.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Jalsha Movies HD
+http://159.89.165.220:8000/live/01234/56789/223.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Kolkatta TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",Music Fatafati
+http://109.200.6.72:8081/Ind/MUSICXPRESS/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",Naaptol (Bangla)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226271/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",Nepal One
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",News Time
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226287/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",News18 Bangla News 
+http://159.89.165.220:8000/live/01234/56789/334.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Ruposhi Bangla
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangladesh",Sony Aath
+http://159.89.165.220:8000/live/01234/56789/383.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Star Jalsha HD
+http://159.89.165.220:8000/live/01234/56789/456.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Bangladesh",Zee Bangla
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Zee Bangla HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/01.m3u8
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Sri Lanka",ITN
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
 #EXTINF:0, group-title="Sri Lanka",Rupavahini TV
@@ -216,7 +172,5 @@ http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8
 http://live.siyathatv.lk:19904/hls/test.m3u8
 #EXTINF:0, group-title="Nepal",Nepal One
 http://hdstreamz.ddns.net:8000/live/24684/84981981/1019.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Nepal",Nepal One
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8
 #EXTINF:0, group-title="Nepal",Nepali TV
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
