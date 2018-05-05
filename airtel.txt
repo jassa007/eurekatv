@@ -133,93 +133,93 @@ http://209.58.180.52/ctvnhls/live.m3u8
 #EXTINF:0, group-title="Bangladesh",Uttar Bangla
 http://209.58.164.245/uttarBangladeshhls/live.m3u8
 #EXTINF:0, group-title="Bangladesh",Aakash Bangla
-http://109.200.6.72:8081/bang/AAKASHBANGLA/playlist.m3u8
+http://5.152.223.14:8081/bang/AAKASHBANGLA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Asian TV
-http://109.200.6.72:8081/bang/ASIANTV/playlist.m3u8
+http://5.152.223.14:8081/bang/ASIANTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ATN Bangla
-http://109.200.6.72:8081/bang/ATNBANGLA/playlist.m3u8
+http://5.152.223.14:8081/bang/ATNBANGLA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ATN Bangla UK
-http://109.200.6.72:8081/bang/ATNBANGLAUK/playlist.m3u8
+http://5.152.223.14:8081/bang/ATNBANGLAUK/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ATN Music TV
-http://109.200.6.72:8081/bang/ATNMUSICTV/playlist.m3u8
+http://5.152.223.14:8081/bang/ATNMUSICTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ATN News
-http://109.200.6.72:8081/bang/ATNNEWS/playlist.m3u8
+http://5.152.223.14:8081/bang/ATNNEWS/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Bangla Vision
-http://109.200.6.72:8081/bang/BANGLAVISION/playlist.m3u8
+http://5.152.223.14:8081/bang/BANGLAVISION/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Bijoy TV
-http://109.200.6.72:8081/bang/BIJOY/playlist.m3u8
+http://5.152.223.14:8081/bang/BIJOY/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Boishakhi TV
-http://109.200.6.72:8081/bang/BOISHAKHI/playlist.m3u8
+http://5.152.223.14:8081/bang/BOISHAKHI/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",BTV
-http://109.200.6.72:8081/bang/BTV/playlist.m3u8
+http://5.152.223.14:8081/bang/BTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Channel 9
-http://109.200.6.72:8081/bang/CHANNEL9/playlist.m3u8
+http://5.152.223.14:8081/bang/CHANNEL9/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Channel i
-http://109.200.6.72:8081/bang/CHANNELIEU/playlist.m3u8
+http://5.152.223.14:8081/bang/CHANNELIEU/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Channel S
-http://109.200.6.72:8081/bang/CHANNELS/playlist.m3u8
+http://5.152.223.14:8081/bang/CHANNELS/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Colors Bangla HD
-http://109.200.6.72:8081/bang/COLORSBANGLA/playlist.m3u8
+http://5.152.223.14:8081/bang/COLORSBANGLA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",DBC News
-http://109.200.6.72:8081/bang/DBCNEWS/playlist.m3u8
+http://5.152.223.14:8081/bang/DBCNEWS/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",DD Bangla
-http://109.200.6.72:8081/bang/DDBANGLA/playlist.m3u8
+http://5.152.223.14:8081/bang/DDBANGLA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Deepto HD
-http://109.200.6.72:8081/bang/DEEPTOHD/playlist.m3u8
+http://5.152.223.14:8081/bang/DEEPTOHD/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Desh Bideshe TV
-http://109.200.6.72:8081/bang/DESHEBIDESHETV/playlist.m3u8
+http://5.152.223.14:8081/bang/DESHEBIDESHETV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Desh TV
-http://109.200.6.72:8081/bang/DESHTV/playlist.m3u8
+http://5.152.223.14:8081/bang/DESHTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Deshi TV
-http://109.200.6.72:8081/bang/DESHITV/playlist.m3u8
+http://5.152.223.14:8081/bang/DESHITV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Dhoom Music
-http://109.200.6.72:8081/bang/DHOOMMUSIC/playlist.m3u8
+http://5.152.223.14:8081/bang/DHOOMMUSIC/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Ekattor TV
-http://109.200.6.72:8081/bang/EKATOORTV/playlist.m3u8
+http://5.152.223.14:8081/bang/EKATOORTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ETV Bangla
-http://109.200.6.72:8081/bang/ETV/playlist.m3u8
+http://5.152.223.14:8081/bang/ETV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Express
-http://109.200.6.72:8081/bang/RPLUSNEWS/playlist.m3u8
+http://5.152.223.14:8081/bang/RPLUSNEWS/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Gaan Bangla
-http://109.200.6.72:8081/bang/GAANBANGLA/playlist.m3u8
+http://5.152.223.14:8081/bang/GAANBANGLA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",GTV
-http://109.200.6.72:8081/bang/GTV/playlist.m3u8
+http://5.152.223.14:8081/bang/GTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Independent
-http://109.200.6.72:8081/bang/INDEPENDENT/playlist.m3u8
+http://5.152.223.14:8081/bang/INDEPENDENT/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",iTV
-http://109.200.6.72:8081/bang/iTV/playlist.m3u8
+http://5.152.223.14:8081/bang/iTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Jamuna TV
-http://109.200.6.72:8081/bang/JAMUNATV/playlist.m3u8
+http://5.152.223.14:8081/bang/JAMUNATV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Maasaranga
-http://109.200.6.72:8081/bang/MASRANGATV/playlist.m3u8
+http://5.152.223.14:8081/bang/MASRANGATV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Millenium TV
-http://109.200.6.72:8081/bang/MILLENNIUMTV/playlist.m3u8
+http://5.152.223.14:8081/bang/MILLENNIUMTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Mohana TV
-http://109.200.6.72:8081/bang/MOHANA/playlist.m3u8
+http://5.152.223.14:8081/bang/MOHANA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Movies Bangla
-http://109.200.6.72:8081/bang/MOVIEBANGLA/playlist.m3u8
+http://5.152.223.14:8081/bang/MOVIEBANGLA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",My TV
-http://109.200.6.72:8081/bang/MYTV/playlist.m3u8
+http://5.152.223.14:8081/bang/MYTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",News 24 HD
-http://109.200.6.72:8081/bang/NEWS24HD/playlist.m3u8
+http://5.152.223.14:8081/bang/NEWS24HD/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",NRB TV
-http://109.200.6.72:8081/bang/NRBTV/playlist.m3u8
+http://5.152.223.14:8081/bang/NRBTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",NTV Bangla
-http://109.200.6.72:8081/bang/NTVBANGLA/playlist.m3u8
+http://5.152.223.14:8081/bang/NTVBANGLA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",RTV
-http://109.200.6.72:8081/bang/RTV/playlist.m3u8
+http://5.152.223.14:8081/bang/RTV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Sangeet Bangla
-http://109.200.6.72:8081/bang/SANGEETBANGLA/playlist.m3u8
+http://5.152.223.14:8081/bang/SANGEETBANGLA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",SATV
-http://109.200.6.72:8081/bang/SATV/playlist.m3u8
+http://5.152.223.14:8081/bang/SATV/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Star Bangla Movies
-http://109.200.6.72:8081/bang/TARAMUZIK/playlist.m3u8
+http://5.152.223.14:8081/bang/TARAMUZIK/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Star Jhalsa Movies
-http://109.200.6.72:8081/bang/STARJHALSAMOVIES/playlist.m3u8
+http://5.152.223.14:8081/bang/STARJHALSAMOVIES/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Times TV
-http://109.200.6.72:8081/bang/TIMETELEVISION/playlist.m3u8
+http://5.152.223.14:8081/bang/TIMETELEVISION/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Zee Bangla Cinema
-http://109.200.6.72:8081/bang/ZEEBANGLACENIMA/playlist.m3u8
+http://5.152.223.14:8081/bang/ZEEBANGLACENIMA/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",24 Ghanta
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Aakaash
@@ -241,7 +241,7 @@ http://159.89.165.220:8000/live/01234/56789/223.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Bangladesh",Kolkatta TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Music Fatafati
-http://109.200.6.72:8081/Ind/MUSICXPRESS/playlist.m3u8
+http://5.152.223.14:8081/Ind/MUSICXPRESS/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Naaptol (Bangla)
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226271/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Nepal One
