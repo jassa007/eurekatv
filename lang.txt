@@ -1,1186 +1,1191 @@
 #EXTM3U
 
 #EXTINF:0, group-title="Hindi",& Pictures HD
-https://pankajbd.com/live/And_Pictures_HD/And_Pictures_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=And_Pictures_HD&q=1200
 #EXTINF:0, group-title="Hindi",& TV HD
-https://pankajbd.com/live/And_TV_HD/And_TV_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=And_TV_HD&q=1200
 #EXTINF:0, group-title="Hindi",1st India News
-https://pankajbd.com/live/First_India_News/First_India_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=First_India_News&q=1200
 #EXTINF:0, group-title="Hindi",9X Jalwa
-https://pankajbd.com/live/9X_Jalwa/9X_Jalwa_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=9X_Jalwa&q=1200
 #EXTINF:0, group-title="Hindi",9XM
-https://pankajbd.com/live/9XM/9XM_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=9XM&q=1200
 #EXTINF:0, group-title="Hindi",A1 TV RJ
-https://pankajbd.com/live/A1_TV_Rajasthan/A1_TV_Rajasthan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=A1_TV_Rajasthan&q=1200
 #EXTINF:0, group-title="Hindi",Aaj Tak
-https://pankajbd.com/live/Aaj_Tak/Aaj_Tak_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Aaj_Tak&q=1200
 #EXTINF:0, group-title="Hindi",Aastha
-https://pankajbd.com/live/Aastha/Aastha_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Aastha&q=1200
 #EXTINF:0, group-title="Hindi",Aastha Bhajan
-https://pankajbd.com/live/Aastha_Bhajan/Aastha_Bhajan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Aastha_Bhajan&q=1200
 #EXTINF:0, group-title="Hindi",ABP News India
-https://pankajbd.com/live/ABP_News_India/ABP_News_India_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ABP_News_India&q=1200
 #EXTINF:0, group-title="Hindi",Adhyatam
-https://pankajbd.com/live/Adhyatam/Adhyatam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Adhyatam&q=1200
 #EXTINF:0, group-title="Hindi",Animal Planet Hindi
-https://pankajbd.com/live/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Animal_Planet_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",APN News
-https://pankajbd.com/live/APN_News/APN_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=APN_News&q=1200
 #EXTINF:0, group-title="Hindi",Aradhana TV
-https://pankajbd.com/live/Aradhana_TV/Aradhana_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Aradhana_TV&q=1200
 #EXTINF:0, group-title="Hindi",Arihant TV
-https://pankajbd.com/live/Arihant_TV/Arihant_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Arihant_TV&q=1200
 #EXTINF:0, group-title="Hindi",B4U Movies
-https://pankajbd.com/live/B4U_Movies/B4U_Movies_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=B4U_Movies&q=1200
 #EXTINF:0, group-title="Hindi",B4U Music
-https://pankajbd.com/live/B4U_Music/B4U_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=B4U_Music&q=1200
 #EXTINF:0, group-title="Hindi",Bhakti Sagar
-https://pankajbd.com/live/Bhaktisagar_2/Bhaktisagar_2_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Bhaktisagar_2&q=1200
 #EXTINF:0, group-title="Hindi",Bharat Samachar
-https://pankajbd.com/live/Bharat_Samachar/Bharat_Samachar_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Bharat_Samachar&q=1200
 #EXTINF:0, group-title="Hindi",Brilliant TV Hindi
-https://pankajbd.com/live/Brilliant_TV_Hindi/Brilliant_TV_Hindi_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Brilliant_TV_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",Care World
-https://pankajbd.com/live/Care_World/Care_World_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Care_World&q=1200
 #EXTINF:0, group-title="Hindi",Channel One News
-https://pankajbd.com/live/Channel_One_News/Channel_One_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Channel_One_News&q=1200
 #EXTINF:0, group-title="Hindi",Channel V HD
-https://pankajbd.com/live/Channel_V/Channel_V_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Channel_V&q=1200
 #EXTINF:0, group-title="Hindi",CN Hindi
-https://pankajbd.com/live/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Cartoon_Network_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",CNBC Awaaz
-https://pankajbd.com/live/CNBC_Awaaz/CNBC_Awaaz_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CNBC_Awaaz&q=1200
 #EXTINF:0, group-title="Hindi",Colors HD
-https://pankajbd.com/live/Colors_HD/Colors_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_HD&q=1200
 #EXTINF:0, group-title="Hindi",Dabangg
-https://pankajbd.com/live/Dabangg/Dabangg_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Dabangg&q=1200
 #EXTINF:0, group-title="Hindi",Darshan 24
-https://pankajbd.com/live/Darshan_24/Darshan_24_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Darshan_24&q=1200
 #EXTINF:0, group-title="Hindi",DD Bharati
-https://pankajbd.com/live/DD_bharati/DD_bharati_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_bharati&q=1200
 #EXTINF:0, group-title="Hindi",DD Bihar
-https://pankajbd.com/live/DD_Bihar/DD_Bihar_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Bihar&q=1200
 #EXTINF:0, group-title="Hindi",DD India
-https://pankajbd.com/live/DD_India/DD_India_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_India&q=1200
 #EXTINF:0, group-title="Hindi",DD Kisan
-https://pankajbd.com/live/DD_Kisan/DD_Kisan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Kisan&q=1200
 #EXTINF:0, group-title="Hindi",DD MP
-https://pankajbd.com/live/DD_Madhya_Pradesh/DD_Madhya_Pradesh_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Madhya_Pradesh&q=1200
 #EXTINF:0, group-title="Hindi",DD National
-https://pankajbd.com/live/DD_National/DD_National_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_National&q=1200
 #EXTINF:0, group-title="Hindi",DD News
-https://pankajbd.com/live/DD_News/DD_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_News&q=1200
 #EXTINF:0, group-title="Hindi",DD Raj
-https://pankajbd.com/live/DD_Rajasthan_Jaipur/DD_Rajasthan_Jaipur_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Rajasthan_Jaipur&q=1200
 #EXTINF:0, group-title="Hindi",DD Sports
-https://pankajbd.com/live/DD_Sports/DD_Sports_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Sports&q=1200
 #EXTINF:0, group-title="Hindi",Delhi Aaj Tak
-https://pankajbd.com/live/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Aaj_Tak_Delhi&q=1200
 #EXTINF:0, group-title="Hindi",Dhamaal TV
-https://pankajbd.com/live/Dhamaal_TV/Dhamaal_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Dhamaal_TV&q=1200
 #EXTINF:0, group-title="Hindi",Dighvijay TV
-https://pankajbd.com/live/Dighvijay_TV/Dighvijay_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Dighvijay_TV&q=1200
 #EXTINF:0, group-title="Hindi",Dillagi TV
-https://pankajbd.com/live/Dillagi_TV/Dillagi_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Dillagi_TV&q=1200
 #EXTINF:0, group-title="Hindi",Discovery Channel Hindi
-https://pankajbd.com/live/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Channel_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",Discovery Jeet
-https://pankajbd.com/live/ID/ID_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ID&q=1200
 #EXTINF:0, group-title="Hindi",Discovery Kids 2
-https://pankajbd.com/live/Discovery_Kids_2/Discovery_Kids_2_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Kids_2&q=1200
 #EXTINF:0, group-title="Hindi",Discovery Veer HD
-https://pankajbd.com/live/DiscoveryVeerHD/DiscoveryVeerHD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DiscoveryVeerHD&q=1200
 #EXTINF:0, group-title="Hindi",Disha TV
-https://pankajbd.com/live/Disha_tv/Disha_tv_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Disha_tv&q=1200
 #EXTINF:0, group-title="Hindi",Divya TV
-https://pankajbd.com/live/Divya_TV/Divya_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Divya_TV&q=1200
 #EXTINF:0, group-title="Hindi",Divya Vani
-https://pankajbd.com/live/Divya_Vani/Divya_Vani_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Divya_Vani&q=1200
 #EXTINF:0, group-title="Hindi",DNN
-https://pankajbd.com/live/DNN/DNN_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DNN&q=1200
 #EXTINF:0, group-title="Hindi",E 24
-https://pankajbd.com/live/E_24/E_24_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=E_24&q=1200
 #EXTINF:0, group-title="Hindi",Enterr 10
-https://pankajbd.com/live/Enterr_10/Enterr_10_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Enterr_10&q=1200
 #EXTINF:0, group-title="Hindi",Epic HD
-https://pankajbd.com/live/Epic_HD/Epic_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Epic_HD&q=1200
 #EXTINF:0, group-title="Hindi",Food Food
-https://pankajbd.com/live/Food_Food/Food_Food_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Food_Food&q=1200
 #EXTINF:0, group-title="Hindi",Hare Krsna
-https://pankajbd.com/live/Harekrsna/Harekrsna__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Harekrsna&q=1200
 #EXTINF:0, group-title="Hindi",Hindi Khabar
-https://pankajbd.com/live/Hindi_Khabar/Hindi_Khabar_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Hindi_Khabar&q=1200
 #EXTINF:0, group-title="Hindi",History 18 Hindi
-https://pankajbd.com/live/History_18_Hindi/History_18_Hindi_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=History_18_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",HNN 24x7
-https://pankajbd.com/live/HNN_24x7/HNN_24x7_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=HNN_24x7&q=1200
 #EXTINF:0, group-title="Hindi",Home Shop 18
-https://pankajbd.com/live/home_shop_18/home_shop_18_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=home_shop_18&q=1200
 #EXTINF:0, group-title="Hindi",Housefull Action
-https://pankajbd.com/live/Housefull_Action/Housefull_Action_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Housefull_Action&q=1200
 #EXTINF:0, group-title="Hindi",Housefull Movies
-https://pankajbd.com/live/Housefull_Movies/Housefull_Movies_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Housefull_Movies&q=1200
 #EXTINF:0, group-title="Hindi",I Plus News
-https://pankajbd.com/live/I_Plus_News/I_Plus_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=I_Plus_News&q=1200
 #EXTINF:0, group-title="Hindi",IBC-24
-https://pankajbd.com/live/IBC-24/IBC-24_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=IBC-24&q=1200
 #EXTINF:0, group-title="Hindi",India news
-https://pankajbd.com/live/India_news/India_news_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=India_news&q=1200
 #EXTINF:0, group-title="Hindi",India News HR
-https://pankajbd.com/live/India_News_Haryana/India_News_Haryana_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=India_News_Haryana&q=1200
 #EXTINF:0, group-title="Hindi",India News MP
-https://pankajbd.com/live/India_News_MP/India_News_MP_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=India_News_MP&q=1200
 #EXTINF:0, group-title="Hindi",India News RJ
-https://pankajbd.com/live/India_News_Rajasthan/India_News_Rajasthan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=India_News_Rajasthan&q=1200
 #EXTINF:0, group-title="Hindi",India News UP
-https://pankajbd.com/live/India_News_UP/India_News_UP_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=India_News_UP&q=1200
 #EXTINF:0, group-title="Hindi",India TV
-https://pankajbd.com/live/India_TV/India_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=India_TV&q=1200
 #EXTINF:0, group-title="Hindi",India Voice
-https://pankajbd.com/live/India_Voice/India_Voice_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=India_Voice&q=1200
 #EXTINF:0, group-title="Hindi",INH 24x7
-https://pankajbd.com/live/INH_24x7/INH_24x7_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=INH_24x7&q=1200
 #EXTINF:0, group-title="Hindi",IPL 2018 Hindi
-https://pankajbd.com/live/IPL_HINDI/IPL_HINDI_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=IPL_HINDI&q=1200
 #EXTINF:0, group-title="Hindi",Ishwar TV
-https://pankajbd.com/live/Ishwar_TV/Ishwar_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ishwar_TV&q=1200
 #EXTINF:0, group-title="Hindi",Jan TV
-https://pankajbd.com/live/Jan_TV/Jan_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jan_TV&q=1200
 #EXTINF:0, group-title="Hindi",Janta TV
-https://pankajbd.com/live/Janta_TV/Janta_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Janta_TV&q=1200
 #EXTINF:0, group-title="Hindi",Jantantra
-https://pankajbd.com/live/Jantantra/Jantantra_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jantantra&q=1200
 #EXTINF:0, group-title="Hindi",Jinvani TV
-https://pankajbd.com/live/Jinvani_TV/Jinvani_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jinvani_TV&q=1200
 #EXTINF:0, group-title="Hindi",Jio DDD
-https://pankajbd.com/live/Jio_Exclusive/Jio_Exclusive_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jio_Exclusive&q=1200
 #EXTINF:0, group-title="Hindi",JK 24x7 News
-https://pankajbd.com/live/JK_24x7_News/JK_24x7_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=JK_24x7_News&q=1200
 #EXTINF:0, group-title="Hindi",Kashish News
-https://pankajbd.com/live/Kashish_News/Kashish_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kashish_News&q=1200
 #EXTINF:0, group-title="Hindi",Katyayani
-https://pankajbd.com/live/Katyayani/Katyayani_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Katyayani&q=1200
 #EXTINF:0, group-title="Hindi",Khabar Fast
-https://pankajbd.com/live/Khabar_Fast/Khabar_Fast_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Khabar_Fast&q=1200
 #EXTINF:0, group-title="Hindi",Live Today
-https://pankajbd.com/live/Live_Today/Live_Today_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Live_Today&q=1200
 #EXTINF:0, group-title="Hindi",Living India News
-https://pankajbd.com/live/Living_India_News/Living_India_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Living_India_News&q=1200
 #EXTINF:0, group-title="Hindi",Lok Sabha TV
-https://pankajbd.com/live/Loksabha_TV/Loksabha_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Loksabha_TV&q=1200
 #EXTINF:0, group-title="Hindi",Maha Cartoon
-https://pankajbd.com/live/Maha_Cartoon/Maha_Cartoon_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Maha_Cartoon&q=1200
 #EXTINF:0, group-title="Hindi",Maha Movies
-https://pankajbd.com/live/Maha_Movies/Maha_Movies_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Maha_Movies&q=1200
 #EXTINF:0, group-title="Hindi",Mastiii
-https://pankajbd.com/live/Mastiii/Mastiii_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Mastiii&q=1200
 #EXTINF:0, group-title="Hindi",Movies OK HD
-https://pankajbd.com/live/Movies_OK/Movies_OK_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Movies_OK&q=1200
 #EXTINF:0, group-title="Hindi",MTV
-https://pankajbd.com/live/MTV/MTV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=MTV&q=1200
 #EXTINF:0, group-title="Hindi",MTV Beats HD
-https://pankajbd.com/live/MTV_Beats_HD/MTV_Beats_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=MTV_Beats_HD&q=1200
 #EXTINF:0, group-title="Hindi",Music India
-https://pankajbd.com/live/Music_India/Music_India_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Music_India&q=1200
 #EXTINF:0, group-title="Hindi",National Voice
-https://pankajbd.com/live/National_Voice/National_Voice_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=National_Voice&q=1200
 #EXTINF:0, group-title="Hindi",Navagraha
-https://pankajbd.com/live/Navagraha/Navagraha_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Navagraha&q=1200
 #EXTINF:0, group-title="Hindi",NDTV India
-https://pankajbd.com/live/NDTV_India/NDTV_India_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=NDTV_India&q=1200
 #EXTINF:0, group-title="Hindi",News 1 India
-https://pankajbd.com/live/News_1_India/News_1_India_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_1_India&q=1200
 #EXTINF:0, group-title="Hindi",News 18 HP HR
-https://pankajbd.com/live/ETV_Haryana_and_HP_News/ETV_Haryana_and_HP_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Haryana_and_HP_News&q=1200
 #EXTINF:0, group-title="Hindi",News 18 India
-https://pankajbd.com/live/IBN_7/IBN_7_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=IBN_7&q=1200
 #EXTINF:0, group-title="Hindi",News 18 MP
-https://pankajbd.com/live/ETV_MP/ETV_MP_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_MP&q=1200
 #EXTINF:0, group-title="Hindi",News 18 RJ
-https://pankajbd.com/live/ETV_RAJASTHAN/ETV_RAJASTHAN_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_RAJASTHAN&q=1200
 #EXTINF:0, group-title="Hindi",News 18 UP
-https://pankajbd.com/live/ETV_UP/ETV_UP_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_UP&q=1200
 #EXTINF:0, group-title="Hindi",News 24
-https://pankajbd.com/live/News_24/News_24_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_24&q=1200
 #EXTINF:0, group-title="Hindi",News India 24x7
-https://pankajbd.com/live/News_India_24_X_7/News_India_24_X_7_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_India_24_X_7&q=1200
 #EXTINF:0, group-title="Hindi",News Nation
-https://pankajbd.com/live/News_Nation/News_Nation_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_Nation&q=1200
 #EXTINF:0, group-title="Hindi",News State UP UK
-https://pankajbd.com/live/News_State_UK_UP/News_State_UK_UP_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_State_UK_UP&q=1200
 #EXTINF:0, group-title="Hindi",News World India
-https://pankajbd.com/live/News_World_India/News_World_India_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_World_India&q=1200
 #EXTINF:0, group-title="Hindi",News11
-https://pankajbd.com/live/News11/News11_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News11&q=1200
 #EXTINF:0, group-title="Hindi",Nick Hindi
-https://pankajbd.com/live/Nick_Hindi/Nick_Hindi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Nick_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",Nick Junior
-https://pankajbd.com/live/Nick_Junior/Nick_Junior_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Nick_Junior&q=1200
 #EXTINF:0, group-title="Hindi",Om Shanti
-https://pankajbd.com/live/Om_Shanti/Om_Shanti_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Om_Shanti&q=1200
 #EXTINF:0, group-title="Hindi",Paras TV
-https://pankajbd.com/live/Paras_tv/Paras_tv_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Paras_tv&q=1200
 #EXTINF:0, group-title="Hindi",Peace of Mind
-https://pankajbd.com/live/Peace_of_Mind/Peace_of_Mind_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Peace_of_Mind&q=1200
 #EXTINF:0, group-title="Hindi",Play My Play
-https://pankajbd.com/live/PlayMyPlay/PlayMyPlay_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=PlayMyPlay&q=1200
 #EXTINF:0, group-title="Hindi",Pogo Hindi
-https://pankajbd.com/live/Pogo_Hindi/Pogo_Hindi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Pogo_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",Prime News
-https://pankajbd.com/live/Prime_News/Prime_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Prime_News&q=1200
 #EXTINF:0, group-title="Hindi",Prudent
-https://pankajbd.com/live/PrudentHD/PrudentHD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=PrudentHD&q=1200
 #EXTINF:0, group-title="Hindi",Raj Pariwar
-https://pankajbd.com/live/Raj_Pariwar/Raj_Pariwar_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_Pariwar&q=1200
 #EXTINF:0, group-title="Hindi",Rajya Sabha TV
-https://pankajbd.com/live/DD_Rajyasabha/DD_Rajyasabha_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Rajyasabha&q=1200
 #EXTINF:0, group-title="Hindi",Rishtey
-https://pankajbd.com/live/Rishtey/Rishtey_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Rishtey&q=1200
 #EXTINF:0, group-title="Hindi",Rishtey Cineplex
-https://pankajbd.com/live/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Rishtey_Cineplex&q=1200
 #EXTINF:0, group-title="Hindi",Sadhna
-https://pankajbd.com/live/Sadhna/Sadhna_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sadhna&q=1200
 #EXTINF:0, group-title="Hindi",Sadhna News Plus
-https://pankajbd.com/live/Sadhna_News_Plus/Sadhna_News_Plus_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sadhna_News_Plus&q=1200
 #EXTINF:0, group-title="Hindi",Sahara MP
-https://pankajbd.com/live/SAHARA_SAMAY_MP/SAHARA_SAMAY_MP_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=SAHARA_SAMAY_MP&q=1200
 #EXTINF:0, group-title="Hindi",Sahara Mumbai
-https://pankajbd.com/live/Sahara_Samay_Mumbai/Sahara_Samay_Mumbai_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sahara_Samay_Mumbai&q=1200
 #EXTINF:0, group-title="Hindi",Sahara Rastriya
-https://pankajbd.com/live/Sahara_Samay_Rastriya/Sahara_Samay_Rastriya_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sahara_Samay_Rastriya&q=1200
 #EXTINF:0, group-title="Hindi",Sahara UP
-https://pankajbd.com/live/SAHARA_SAMAY_UP/SAHARA_SAMAY_UP_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=SAHARA_SAMAY_UP&q=1200
 #EXTINF:0, group-title="Hindi",Samachar Plus
-https://pankajbd.com/live/Samachar_Plus/Samachar_Plus_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Samachar_Plus&q=1200
 #EXTINF:0, group-title="Hindi",Samachar Plus RJ
-https://pankajbd.com/live/Samachar_Plus_Rajasthan/Samachar_Plus_Rajasthan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Samachar_Plus_Rajasthan&q=1200
 #EXTINF:0, group-title="Hindi",Samay HR RJ NCR
-https://pankajbd.com/live/Samay_Rajasthan/Samay_Rajasthan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Samay_Rajasthan&q=1200
 #EXTINF:0, group-title="Hindi",Sanskar
-https://pankajbd.com/live/Sanskar/Sanskar_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sanskar&q=1200
 #EXTINF:0, group-title="Hindi",Sarv Dharam Sangam
-https://pankajbd.com/live/Sarv_Dharam_Sangam/Sarv_Dharam_Sangam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sarv_Dharam_Sangam&q=1200
 #EXTINF:0, group-title="Hindi",Satsang TV
-https://pankajbd.com/live/Satsang_TV/Satsang_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Satsang_TV&q=1200
 #EXTINF:0, group-title="Hindi",Shubh TV
-https://pankajbd.com/live/Shubh_TV/Shubh_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Shubh_TV&q=1200
 #EXTINF:0, group-title="Hindi",Shubhsandesh TV
-https://pankajbd.com/live/Shubhsandesh_TV/Shubhsandesh_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Shubhsandesh_TV&q=1200
 #EXTINF:0, group-title="Hindi",Sonic Hindi
-https://pankajbd.com/live/sonic_Hindi/sonic_Hindi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=sonic_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",Sony BBC Earth
-https://pankajbd.com/live/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_BBC_Earth_SD&q=1200
 #EXTINF:0, group-title="Hindi",Sony BBC Earth HD
-https://pankajbd.com/live/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_BBC_Earth_HD&q=1200
 #EXTINF:0, group-title="Hindi",Sony HD
-https://pankajbd.com/live/Sony_HD/Sony_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_HD&q=1200
 #EXTINF:0, group-title="Hindi",Sony Max HD
-https://pankajbd.com/live/Sony_Max_HD/Sony_Max_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Max_HD&q=1200
 #EXTINF:0, group-title="Hindi",Sony Mix
-https://pankajbd.com/live/Sony_Mix/Sony_Mix_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Mix&q=1200
 #EXTINF:0, group-title="Hindi",Sony Pal
-https://pankajbd.com/live/Sony_Pal/Sony_Pal_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Pal&q=1200
 #EXTINF:0, group-title="Hindi",Sony Rox HD
-https://pankajbd.com/live/Sony_Rox_HD/Sony_Rox_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Rox_HD&q=1200
 #EXTINF:0, group-title="Hindi",Sony SAB
-https://pankajbd.com/live/Sony_SAB/Sony_SAB_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_SAB&q=1200
 #EXTINF:0, group-title="Hindi",Sony SAB HD
-https://pankajbd.com/live/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_SAB_HD&q=1200
 #EXTINF:0, group-title="Hindi",Sony Yay Hindi
-https://pankajbd.com/live/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Yay_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",Star Bharat HD
-https://pankajbd.com/live/Star_Bharat_HD/Star_Bharat_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Bharat_HD&q=1200
 #EXTINF:0, group-title="Hindi",Star Gold HD
-https://pankajbd.com/live/Star_Gold_HD/Star_Gold_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Gold_HD&q=1200
 #EXTINF:0, group-title="Hindi",Star Plus HD
-https://pankajbd.com/live/Star_Plus_HD/Star_Plus_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Plus_HD&q=1200
 #EXTINF:0, group-title="Hindi",Star Utsav HD
-https://pankajbd.com/live/Star_Utsav/Star_Utsav_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Utsav&q=1200
 #EXTINF:0, group-title="Hindi",Sudarshan
-https://pankajbd.com/live/Sudarshan/Sudarshan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sudarshan&q=1200
 #EXTINF:0, group-title="Hindi",Swaraj Express
-https://pankajbd.com/live/SMBC_TV/SMBC_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=SMBC_TV&q=1200
 #EXTINF:0, group-title="Hindi",Taaza TV
-https://pankajbd.com/live/Taaza_TV/Taaza_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Taaza_TV&q=1200
 #EXTINF:0, group-title="Hindi",Tez
-https://pankajbd.com/live/Tez/Tez_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Tez&q=1200
 #EXTINF:0, group-title="Hindi",TLC Hindi
-https://pankajbd.com/live/TLC_Hindi/TLC_Hindi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TLC_Hindi&q=1200
 #EXTINF:0, group-title="Hindi",Total TV
-https://pankajbd.com/live/Total_TV/Total_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Total_TV&q=1200
 #EXTINF:0, group-title="Hindi",TV 100
-https://pankajbd.com/live/TV_100/TV_100_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TV_100&q=1200
 #EXTINF:0, group-title="Hindi",Vedic TV
-https://pankajbd.com/live/Vedic_TV/Vedic_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Vedic_TV&q=1200
 #EXTINF:0, group-title="Hindi",Zee Action
-https://pankajbd.com/live/Zee_Action/Zee_Action_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Action&q=1200
 #EXTINF:0, group-title="Hindi",Zee Anmol
-https://pankajbd.com/live/Zee_Anmol/Zee_Anmol_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Anmol&q=1200
 #EXTINF:0, group-title="Hindi",Zee Anmol Cinema
-https://pankajbd.com/live/Zee_Anmol_Cinema/Zee_Anmol_Cinema_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Anmol_Cinema&q=1200
 #EXTINF:0, group-title="Hindi",Zee Business
-https://pankajbd.com/live/Zee_Business/Zee_Business_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Business&q=1200
 #EXTINF:0, group-title="Hindi",Zee Cinema
-https://pankajbd.com/live/Zee_Cinema/Zee_Cinema_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Cinema&q=1200
 #EXTINF:0, group-title="Hindi",Zee Cinema HD
-https://pankajbd.com/live/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Cinema_HD&q=1200
 #EXTINF:0, group-title="Hindi",Zee Classic
-https://pankajbd.com/live/Zee_Classic/Zee_Classic_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Classic&q=1200
 #EXTINF:0, group-title="Hindi",Zee etc
-https://pankajbd.com/live/etc/etc_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=etc&q=1200
 #EXTINF:0, group-title="Hindi",Zee Hindustan
-https://pankajbd.com/live/Zee_SANGAM/Zee_SANGAM_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_SANGAM&q=1200
 #EXTINF:0, group-title="Hindi",Zee MP CG
-https://pankajbd.com/live/Zee_News_MP_Chattisgarh/Zee_News_MP_Chattisgarh_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_News_MP_Chattisgarh&q=1200
 #EXTINF:0, group-title="Hindi",Zee News
-https://pankajbd.com/live/Zee_News/Zee_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_News&q=1200
 #EXTINF:0, group-title="Hindi",Zee RJ
-https://pankajbd.com/live/Zee_Rajasthan/Zee_Rajasthan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Rajasthan&q=1200
 #EXTINF:0, group-title="Hindi",Zee TV HD
-https://pankajbd.com/live/Zee_TV_HD/Zee_TV_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_TV_HD&q=1200
 #EXTINF:0, group-title="Hindi",Zing
-https://pankajbd.com/live/Zing/Zing_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zing&q=1200
 #EXTINF:0, group-title="Hindi",ZOOM
-https://pankajbd.com/live/ZOOM/ZOOM_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ZOOM&q=1200
+#EXTINF:0, group-title="English",& Prive HD
+https://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="English",Al Jazeera
-https://pankajbd.com/live/AL_Jazeera/AL_Jazeera_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=AL_Jazeera&q=1200
 #EXTINF:0, group-title="English",Animal Planet English
-https://pankajbd.com/live/Animal_Planet_English/Animal_Planet_English_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Animal_Planet_English&q=1200
 #EXTINF:0, group-title="English",Animal Planet HD World
-https://pankajbd.com/live/Animal_Planet_HD/Animal_Planet_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Animal_Planet_HD&q=1200
 #EXTINF:0, group-title="English",Arre
-https://pankajbd.com/live/Arre/Arre_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Arre&q=1200
 #EXTINF:0, group-title="English",AXN HD
-https://pankajbd.com/live/AXN_HD/AXN_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=AXN_HD&q=1200
 #EXTINF:0, group-title="English",BBC World News
-https://pankajbd.com/live/BBC_World_News/BBC_World_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=BBC_World_News&q=1200
 #EXTINF:0, group-title="English",Brilliant TV English
-https://pankajbd.com/live/Brilliant_TV_English/Brilliant_TV_English_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Brilliant_TV_English&q=1200
 #EXTINF:0, group-title="English",BTVI
-https://pankajbd.com/live/BTVi/BTVi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=BTVi&q=1200
 #EXTINF:0, group-title="English",CNBC TV 18
-https://pankajbd.com/live/CNBC_Tv_18/CNBC_Tv_18_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CNBC_Tv_18&q=1200
 #EXTINF:0, group-title="English",CNBC TV18 Prime HD
-https://pankajbd.com/live/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CNBC_Tv18_Prime_HD&q=1200
 #EXTINF:0, group-title="English",CNN
-https://pankajbd.com/live/CNN/CNN_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CNN&q=1200
 #EXTINF:0, group-title="English",CNN News 18
-https://pankajbd.com/live/CNN_NEWS_18/CNN_NEWS_18_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CNN_NEWS_18&q=1200
 #EXTINF:0, group-title="English",CVR English
-https://pankajbd.com/live/CVR_English/CVR_English_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CVR_English&q=1200
 #EXTINF:0, group-title="English",Deutshe Welle
-https://pankajbd.com/live/dw/dw_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=dw&q=1200
 #EXTINF:0, group-title="English",Discovery
-https://pankajbd.com/live/Discovery/Discovery_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery&q=1200
 #EXTINF:0, group-title="English",Discovery HD World
-https://pankajbd.com/live/Discovery_HD_World/Discovery_HD_World_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_HD_World&q=1200
 #EXTINF:0, group-title="English",Discovery Kids 1
-https://pankajbd.com/live/Discovery_Kids_1/Discovery_Kids_1_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Kids_1&q=1200
 #EXTINF:0, group-title="English",Discovery Science
-https://pankajbd.com/live/Discovery_Science/Discovery_Science_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Science&q=1200
 #EXTINF:0, group-title="English",Discovery Turbo
-https://pankajbd.com/live/Discovery_Turbo/Discovery_Turbo_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Turbo&q=1200
 #EXTINF:0, group-title="English",Dsports HD
-https://pankajbd.com/live/Dsports_HD/Dsports_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Dsports_HD&q=1200
 #EXTINF:0, group-title="English",Entertainment
 https://z5ams.akamaized.net/zeecafehd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="English",ET Now
-https://pankajbd.com/live/ET_Now/ET_Now_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ET_Now&q=1200
 #EXTINF:0, group-title="English",Euro News
-https://pankajbd.com/live/Euro_News/Euro_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Euro_News&q=1200
 #EXTINF:0, group-title="English",France 24
-https://pankajbd.com/live/France_24/France_24_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=France_24&q=1200
 #EXTINF:0, group-title="English",FYI TV18 HD
-https://pankajbd.com/live/FYI_TV18/FYI_TV18_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=FYI_TV18&q=1200
 #EXTINF:0, group-title="English",GOA365
-https://pankajbd.com/live/Goa365/Goa365_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Goa365&q=1200
 #EXTINF:0, group-title="English",HBO HD
-https://pankajbd.com/live/HBO_HD/HBO_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=HBO_HD&q=1200
 #EXTINF:0, group-title="English",History HD
-https://pankajbd.com/live/History_HD/History_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=History_HD&q=1200
 #EXTINF:0, group-title="English",India Today
-https://pankajbd.com/live/India_Today/India_Today_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=India_Today&q=1200
 #EXTINF:0, group-title="English",Insight
-https://pankajbd.com/live/Insight/Insight__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Insight&q=1200
 #EXTINF:0, group-title="English",IPL 2018 English
-https://pankajbd.com/live/IPL_ENGLISH/IPL_ENGLISH_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=IPL_ENGLISH&q=1200
 #EXTINF:0, group-title="English",J Movies
-https://pankajbd.com/live/J_Movies/J_Movies_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=J_Movies&q=1200
 #EXTINF:0, group-title="English",Jio Cricket English
-https://pankajbd.com/live/Jio_Cricket_English/Jio_Cricket_English_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jio_Cricket_English&q=1200
 #EXTINF:0, group-title="English",Jio Events
-https://pankajbd.com/live/Jio_Events/Jio_Events_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jio_Events&q=1200
 #EXTINF:0, group-title="English",Jio Olympics
-https://pankajbd.com/live/Winter_Olympic_Ch1/Winter_Olympic_Ch1_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Winter_Olympic_Ch1&q=1200
 #EXTINF:0, group-title="English",Jio Sports
-https://pankajbd.com/live/Jio_Sports/Jio_Sports_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jio_Sports&q=1200
 #EXTINF:0, group-title="English",Living Foodz
-https://pankajbd.com/live/Living_Foodz/Living_Foodz_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Living_Foodz&q=1200
 #EXTINF:0, group-title="English",Million Lights
-https://pankajbd.com/live/Millionlights/Millionlights_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Millionlights&q=1200
 #EXTINF:0, group-title="English",Mirror Now
-https://pankajbd.com/live/Magic_bricks_Now/Magic_bricks_Now_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Magic_bricks_Now&q=1200
 #EXTINF:0, group-title="English",MN+
-https://pankajbd.com/live/MNPLUS/MNPLUS_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=MNPLUS&q=1200
 #EXTINF:0, group-title="English",MNX
-https://pankajbd.com/live/Movies_Now2/Movies_Now2_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Movies_Now2&q=1200
 #EXTINF:0, group-title="English",MNX HD
-https://pankajbd.com/live/Movies_Now2_HD/Movies_Now2_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Movies_Now2_HD&q=1200
 #EXTINF:0, group-title="English",Movies
 http://z5ams.akamaized.net/zeestudiohd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="English",Movies Now HD
-https://pankajbd.com/live/Movies_Now_HD/Movies_Now_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Movies_Now_HD&q=1200
 #EXTINF:0, group-title="English",NDTV 24x7
-https://pankajbd.com/live/NDTV_24x7/NDTV_24x7_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=NDTV_24x7&q=1200
 #EXTINF:0, group-title="English",NDTV Good Times
-https://pankajbd.com/live/NDTV_Good_Times/NDTV_Good_Times_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=NDTV_Good_Times&q=1200
 #EXTINF:0, group-title="English",NDTV Profit
-https://pankajbd.com/live/NDTV_Profit/NDTV_Profit_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=NDTV_Profit&q=1200
 #EXTINF:0, group-title="English",Neo Prime
-https://pankajbd.com/live/Neo_Prime/Neo_Prime_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Neo_Prime&q=1200
 #EXTINF:0, group-title="English",Neo Sports
-https://pankajbd.com/live/Neo_Sports/Neo_Sports_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Neo_Sports&q=1200
 #EXTINF:0, group-title="English",News 9
-https://pankajbd.com/live/News_9/News_9_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_9&q=1200
 #EXTINF:0, group-title="English",News Asia Int.
-https://pankajbd.com/live/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Channel_News_Asia_International&q=1200
 #EXTINF:0, group-title="English",News X
-https://pankajbd.com/live/News_X/News_X_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_X&q=1200
 #EXTINF:0, group-title="English",Nickelodeon
-https://pankajbd.com/live/Nickelodeon/Nickelodeon_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Nickelodeon&q=1200
 #EXTINF:0, group-title="English",Nickelodeon Jr.
-https://pankajbd.com/live/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Nickelodeon_Jr&q=1200
 #EXTINF:0, group-title="English",Republic TV
-https://pankajbd.com/live/Republic_TV/Republic_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Republic_TV&q=1200
 #EXTINF:0, group-title="English",RIL Results
-https://pankajbd.com/live/RIL_AGM_2017/RIL_AGM_2017_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=RIL_AGM_2017&q=1200
 #EXTINF:0, group-title="English",Romedy Now HD
-https://pankajbd.com/live/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Romedy_Now_HD&q=1200
 #EXTINF:0, group-title="English",Shop CJ Alive
-https://pankajbd.com/live/Shop_CJ_Alive/Shop_CJ_Alive_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Shop_CJ_Alive&q=1200
 #EXTINF:0, group-title="English",Sonic Nickelodeon
-https://pankajbd.com/live/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sonic_Nickelodeon&q=1200
 #EXTINF:0, group-title="English",Sony BBC Earth HD English
-https://pankajbd.com/live/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_BBC_Earth_HD_English&q=1200
 #EXTINF:0, group-title="English",Sony ESPN
-https://pankajbd.com/live/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_ESPN_SD&q=1200
 #EXTINF:0, group-title="English",Sony ESPN HD
-https://pankajbd.com/live/Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_ESPN_HD&q=1200
 #EXTINF:0, group-title="English",Sony Le PLEX HD
-https://pankajbd.com/live/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Le_PLEX_HD&q=1200
 #EXTINF:0, group-title="English",Sony MAX2
-https://pankajbd.com/live/Sony_MAX2/Sony_MAX2_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_MAX2&q=1200
 #EXTINF:0, group-title="English",Sony Pix HD
-https://pankajbd.com/live/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Pix_HD&q=1200
 #EXTINF:0, group-title="English",Sony Six
-https://pankajbd.com/live/Sony_Six_SD/Sony_Six_SD_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Six_SD&q=1200
 #EXTINF:0, group-title="English",Sony Six HD
-https://pankajbd.com/live/Six_HD/Six_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Six_HD&q=1200
 #EXTINF:0, group-title="English",Star Sports 1
-https://pankajbd.com/live/Star_Sports_HD_1/Star_Sports_HD_1_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Sports_HD_1&q=1200
 #EXTINF:0, group-title="English",Star Sports 2
-https://pankajbd.com/live/Star_Sports_HD_2/Star_Sports_HD_2_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Sports_HD_2&q=1200
 #EXTINF:0, group-title="English",Star Sports Hindi 1
-https://pankajbd.com/live/Star_Sports_3/Star_Sports_3_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Sports_3&q=1200
 #EXTINF:0, group-title="English",Star Sports Select HD1
-https://pankajbd.com/live/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Sports_Select_HD_1&q=1200
 #EXTINF:0, group-title="English",Star Sports Select HD2
-https://pankajbd.com/live/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Sports_Select_HD_2&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 01
-https://pankajbd.com/live/Swayam_Prabha_01/Swayam_Prabha_01_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_01&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 02
-https://pankajbd.com/live/Swayam_Prabha_02/Swayam_Prabha_02_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_02&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 03
-https://pankajbd.com/live/Swayam_Prabha_03/Swayam_Prabha_03_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_03&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 04
-https://pankajbd.com/live/Swayam_Prabha_04/Swayam_Prabha_04_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_04&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 05
-https://pankajbd.com/live/Swayam_Prabha_05/Swayam_Prabha_05_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_05&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 06
-https://pankajbd.com/live/Swayam_Prabha_06/Swayam_Prabha_06_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_06&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 07
-https://pankajbd.com/live/Swayam_Prabha_07/Swayam_Prabha_07_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_07&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 08
-https://pankajbd.com/live/Swayam_Prabha_08/Swayam_Prabha_08_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_08&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 09
-https://pankajbd.com/live/Swayam_Prabha_09/Swayam_Prabha_09_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_09&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 10
-https://pankajbd.com/live/Swayam_Prabha_10/Swayam_Prabha_10_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_10&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 11
-https://pankajbd.com/live/Swayam_Prabha_11/Swayam_Prabha_11_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_11&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 12
-https://pankajbd.com/live/Swayam_Prabha_12/Swayam_Prabha_12_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_12&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 13
-https://pankajbd.com/live/Swayam_Prabha_13/Swayam_Prabha_13_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_13&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 14
-https://pankajbd.com/live/Swayam_Prabha_14/Swayam_Prabha_14_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_14&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 15
-https://pankajbd.com/live/Swayam_Prabha_15/Swayam_Prabha_15_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_15&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 16
-https://pankajbd.com/live/Swayam_Prabha_16/Swayam_Prabha_16_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_16&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 17
-https://pankajbd.com/live/Swayam_Prabha_17/Swayam_Prabha_17_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_17&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 18
-https://pankajbd.com/live/Swayam_Prabha_18/Swayam_Prabha_18_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_18&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 19
-https://pankajbd.com/live/Swayam_Prabha_19/Swayam_Prabha_19_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_19&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 20
-https://pankajbd.com/live/Swayam_Prabha_20/Swayam_Prabha_20_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_20&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 21
-https://pankajbd.com/live/Swayam_Prabha_21/Swayam_Prabha_21_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_21&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 22
-https://pankajbd.com/live/Swayam_Prabha_22/Swayam_Prabha_22_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_22&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 23
-https://pankajbd.com/live/Swayam_Prabha_23/Swayam_Prabha_23_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_23&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 24
-https://pankajbd.com/live/Swayam_Prabha_24/Swayam_Prabha_24_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_24&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 25
-https://pankajbd.com/live/Swayam_Prabha_25/Swayam_Prabha_25_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_25&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 26
-https://pankajbd.com/live/Swayam_Prabha_26/Swayam_Prabha_26_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_26&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 27
-https://pankajbd.com/live/Swayam_Prabha_27/Swayam_Prabha_27_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_27&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 28
-https://pankajbd.com/live/Swayam_Prabha_28/Swayam_Prabha_28_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_28&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 29
-https://pankajbd.com/live/Swayam_Prabha_29/Swayam_Prabha_29_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_29&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 30
-https://pankajbd.com/live/Swayam_Prabha_30/Swayam_Prabha_30_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_30&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 31
-https://pankajbd.com/live/Swayam_Prabha_31/Swayam_Prabha_31_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_31&q=1200
 #EXTINF:0, group-title="English",Swayam Prabha 32
-https://pankajbd.com/live/Swayam_Prabha_32/Swayam_Prabha_32_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Swayam_Prabha_32&q=1200
 #EXTINF:0, group-title="English",Ten 1
-https://pankajbd.com/live/Ten_1/Ten_1_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ten_1&q=1200
 #EXTINF:0, group-title="English",Ten 1 HD
-https://pankajbd.com/live/Ten_HD/Ten_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ten_HD&q=1200
 #EXTINF:0, group-title="English",Ten 2
-https://pankajbd.com/live/Ten_2/Ten_2_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ten_2&q=1200
 #EXTINF:0, group-title="English",Ten 2 HD
-https://pankajbd.com/live/Ten2_HD/Ten2_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ten2_HD&q=1200
 #EXTINF:0, group-title="English",Ten 3
-https://pankajbd.com/live/Ten_3/Ten_3_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ten_3&q=1200
 #EXTINF:0, group-title="English",Ten 3 HD
-https://pankajbd.com/live/Ten3_HD/Ten3_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ten3_HD&q=1200
 #EXTINF:0, group-title="English",Ten Golf HD
-https://pankajbd.com/live/Ten_Golf_HD/Ten_Golf_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ten_Golf_HD&q=1200
 #EXTINF:0, group-title="English",The Q India
-https://pankajbd.com/live/QYOUHD/QYOUHD_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=QYOUHD&q=1200
 #EXTINF:0, group-title="English",Times NOW
-https://pankajbd.com/live/Times_NOW/Times_NOW_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Times_NOW&q=1200
 #EXTINF:0, group-title="English",Times Now HD
-https://pankajbd.com/live/Times_Now_HD/Times_Now_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Times_Now_HD&q=1200
 #EXTINF:0, group-title="English",TLC English
-https://pankajbd.com/live/TLC_English/TLC_English_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TLC_English&q=1200
 #EXTINF:0, group-title="English",TLC HD World
-https://pankajbd.com/live/TLC_HD_World/TLC_HD_World_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TLC_HD_World&q=1200
 #EXTINF:0, group-title="English",Toonami
-https://pankajbd.com/live/Toonami/Toonami_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Toonami&q=1200
 #EXTINF:0, group-title="English",Travel XP
-https://pankajbd.com/live/Travel_XP/Travel_XP_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Travel_XP&q=1200
 #EXTINF:0, group-title="English",Travel XP HD
-https://pankajbd.com/live/Travel_XP_HD/Travel_XP_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Travel_XP_HD&q=1200
 #EXTINF:0, group-title="English",TV5 Monde
-https://pankajbd.com/live/TV_5_Monde/TV_5_Monde_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TV_5_Monde&q=1200
 #EXTINF:0, group-title="English",WB
-https://pankajbd.com/live/WB/WB_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=WB&q=1200
 #EXTINF:0, group-title="English",Wion
-https://pankajbd.com/live/Wion/Wion_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Wion&q=1200
 #EXTINF:0, group-title="Punjabi",9X Tashan
-https://pankajbd.com/live/9X_Tashan/9X_Tashan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=9X_Tashan&q=1200
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood
-https://pankajbd.com/live/Boogle_Bollywood/Boogle_Bollywood__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Boogle_Bollywood&q=1200
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
-https://pankajbd.com/live/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Chardikla_Time_TV&q=1200
 #EXTINF:0, group-title="Punjabi",DD Punjabi
-https://pankajbd.com/live/DD_Punjabi/DD_Punjabi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Punjabi&q=1200
 #EXTINF:0, group-title="Punjabi",Desi Channel
-https://pankajbd.com/live/Desi_Channel/Desi_Channel_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Desi_Channel&q=1200
 #EXTINF:0, group-title="Punjabi",Garv  Gurbani
-https://pankajbd.com/live/Garv_Gurbani/Garv_Gurbani__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Garv_Gurbani&q=1200
 #EXTINF:0, group-title="Punjabi",Garv Punjabi
-https://pankajbd.com/live/Garv_Punjabi/Garv_Punjabi__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Garv_Punjabi&q=1200
 #EXTINF:0, group-title="Punjabi",JUS 24x7
-https://pankajbd.com/live/JUS24x7/JUS24x7__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=JUS24x7&q=1200
 #EXTINF:0, group-title="Punjabi",JUS One
-https://pankajbd.com/live/JUSOne/JUSOne__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=JUSOne&q=1200
 #EXTINF:0, group-title="Punjabi",JUS Punjabi
-https://pankajbd.com/live/JUSPunjabi/JUSPunjabi__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=JUSPunjabi&q=1200
 #EXTINF:0, group-title="Punjabi",mh1 Music
-https://pankajbd.com/live/mh1_Music/mh1_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=mh1_Music&q=1200
 #EXTINF:0, group-title="Punjabi",Mh1 News
-https://pankajbd.com/live/Mh_One_News/Mh_One_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Mh_One_News&q=1200
 #EXTINF:0, group-title="Punjabi",mh1 Shraddha
-https://pankajbd.com/live/mh1_Shraddha/mh1_Shraddha_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=mh1_Shraddha&q=1200
 #EXTINF:0, group-title="Punjabi",Only Music
-https://pankajbd.com/live/Only_Music/Only_Music__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Only_Music&q=1200
 #EXTINF:0, group-title="Punjabi",PBN Music
-https://pankajbd.com/live/PBN_Music/PBN_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=PBN_Music&q=1200
 #EXTINF:0, group-title="Punjabi",Pitaara
-https://pankajbd.com/live/Pitaara/Pitaara_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Pitaara&q=1200
 #EXTINF:0, group-title="Punjabi",Sanjha TV
-https://pankajbd.com/live/Sanjha_TV/Sanjha_TV__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sanjha_TV&q=1200
 #EXTINF:0, group-title="Punjabi",Zee PB HP HR
-https://pankajbd.com/live/Zee_Punjabi_HP_Haryana/Zee_Punjabi_HP_Haryana_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Punjabi_HP_Haryana&q=1200
 #EXTINF:0, group-title="Tamil",Adithya TV
-https://pankajbd.com/live/Adithya_TV/Adithya_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Adithya_TV&q=1200
 #EXTINF:0, group-title="Tamil",Angel TV HD
-https://pankajbd.com/live/Angel_TV_HD/Angel_TV_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Angel_TV_HD&q=1200
 #EXTINF:0, group-title="Tamil",Captain News
-https://pankajbd.com/live/Captain_News/Captain_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Captain_News&q=1200
 #EXTINF:0, group-title="Tamil",Captain TV
-https://pankajbd.com/live/Captain_tv/Captain_tv_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Captain_tv&q=1200
 #EXTINF:0, group-title="Tamil",Cauvery News
-https://pankajbd.com/live/Cauvery_News/Cauvery_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Cauvery_News&q=1200
 #EXTINF:0, group-title="Tamil",Chutti TV
-https://pankajbd.com/live/Chutti_TV/Chutti_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Chutti_TV&q=1200
 #EXTINF:0, group-title="Tamil",CN Tamil
-https://pankajbd.com/live/Cartoon_Network_Tamil/Cartoon_Network_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Cartoon_Network_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Colors Tamil HD
-https://pankajbd.com/live/Colors_Tamil_HD/Colors_Tamil_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_Tamil_HD&q=1200
 #EXTINF:0, group-title="Tamil",Discovery Channel Tamil
-https://pankajbd.com/live/Discovery_Channel_Tamil/Discovery_Channel_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Channel_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Discovery Kids Tamil
-https://pankajbd.com/live/Discovery_Kids_Tamil/Discovery_Kids_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Kids_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Good News
-https://pankajbd.com/live/GoodNews_Channel/GoodNews_Channel_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=GoodNews_Channel&q=1200
 #EXTINF:0, group-title="Tamil",History 18 Tamil
-https://pankajbd.com/live/History_18_Tamil/History_18_Tamil_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=History_18_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",K TV
-https://pankajbd.com/live/K1_TV/K1_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=K1_TV&q=1200
 #EXTINF:0, group-title="Tamil",KTV HD
-https://pankajbd.com/live/KTV_HD/KTV_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=KTV_HD&q=1200
 #EXTINF:0, group-title="Tamil",Lotus News
-https://pankajbd.com/live/Lotus_News/Lotus_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Lotus_News&q=1200
 #EXTINF:0, group-title="Tamil",Madhimugam TV
-https://pankajbd.com/live/Madhimugam_TV/Madhimugam_TV_600.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Madhimugam_TV&q=1200
 #EXTINF:0, group-title="Tamil",Makkal TV
-https://pankajbd.com/live/Makkal_TV/Makkal_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Makkal_TV&q=1200
 #EXTINF:0, group-title="Tamil",Malai Murasu
-https://pankajbd.com/live/Malai_Murasu/Malai_Murasu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Malai_Murasu&q=1200
 #EXTINF:0, group-title="Tamil",MK Music
-https://pankajbd.com/live/MK_Music/MK_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=MK_Music&q=1200
 #EXTINF:0, group-title="Tamil",MK News
-https://pankajbd.com/live/MK_News/MK_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=MK_News&q=1200
 #EXTINF:0, group-title="Tamil",MK TV
-https://pankajbd.com/live/MK_TV/MK_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=MK_TV&q=1200
 #EXTINF:0, group-title="Tamil",Nambikkai
-https://pankajbd.com/live/Nambikkai/Nambikkai_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Nambikkai&q=1200
 #EXTINF:0, group-title="Tamil",News 18 TN
-https://pankajbd.com/live/News_18_Tamilnadu/News_18_Tamilnadu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_18_Tamilnadu&q=1200
 #EXTINF:0, group-title="Tamil",News 7 
-https://pankajbd.com/live/News7_Tamil/News7_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News7_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Nick Tamil
-https://pankajbd.com/live/Nick_Tamil/Nick_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Nick_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Peppers TV
-https://pankajbd.com/live/Peppers_TV/Peppers_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Peppers_TV&q=1200
 #EXTINF:0, group-title="Tamil",Pogo Tamil
-https://pankajbd.com/live/Pogo_Tamil/Pogo_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Pogo_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Polimer News
-https://pankajbd.com/live/Polimer_News/Polimer_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Polimer_News&q=1200
 #EXTINF:0, group-title="Tamil",Polimer TV
-https://pankajbd.com/live/Polimer_TV/Polimer_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Polimer_TV&q=1200
 #EXTINF:0, group-title="Tamil",Puthiya Thalimurai
-https://pankajbd.com/live/Puthiya_Thalimurai/Puthiya_Thalimurai_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Puthiya_Thalimurai&q=1200
 #EXTINF:0, group-title="Tamil",Puthu Yugam
-https://pankajbd.com/live/Puthu_Yugam/Puthu_Yugam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Puthu_Yugam&q=1200
 #EXTINF:0, group-title="Tamil",Raj Digital Plus
-https://pankajbd.com/live/Raj_Digital_Plus/Raj_Digital_Plus_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_Digital_Plus&q=1200
 #EXTINF:0, group-title="Tamil",Raj Musix
-https://pankajbd.com/live/Raj_Musix/Raj_Musix_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_Musix&q=1200
 #EXTINF:0, group-title="Tamil",Raj News 24x7
-https://pankajbd.com/live/Raj_News_24x7/Raj_News_24x7_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_News_24x7&q=1200
 #EXTINF:0, group-title="Tamil",Sahana Music
-https://pankajbd.com/live/Sahana_Music/Sahana_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sahana_Music&q=1200
 #EXTINF:0, group-title="Tamil",Sai TV
-https://pankajbd.com/live/SaiTV/SaiTV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=SaiTV&q=1200
 #EXTINF:0, group-title="Tamil",Sathiyam TV
-https://pankajbd.com/live/Sathiyam/Sathiyam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sathiyam&q=1200
 #EXTINF:0, group-title="Tamil",sonic Tamil
-https://pankajbd.com/live/sonic_Tamil/sonic_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=sonic_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Sony BBC Earth HD Tamil
-https://pankajbd.com/live/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_BBC_Earth_HD_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Sony Yay Tamil
-https://pankajbd.com/live/Sony_Yay_Tamil/Sony_Yay_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Yay_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Star Vijay HD
-https://pankajbd.com/live/Star_Vijay/Star_Vijay_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Vijay&q=1200
 #EXTINF:0, group-title="Tamil",Sun Life
-https://pankajbd.com/live/Sun_Life/Sun_Life_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sun_Life&q=1200
 #EXTINF:0, group-title="Tamil",Sun Music
-https://pankajbd.com/live/Sun_Music/Sun_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sun_Music&q=1200
 #EXTINF:0, group-title="Tamil",Sun Music HD
-https://pankajbd.com/live/Sun_Music_HD/Sun_Music_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sun_Music_HD&q=1200
 #EXTINF:0, group-title="Tamil",Sun News
-https://pankajbd.com/live/Sun_News/Sun_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sun_News&q=1200
 #EXTINF:0, group-title="Tamil",Sun TV
-https://pankajbd.com/live/Sun_TV/Sun_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sun_TV&q=1200
 #EXTINF:0, group-title="Tamil",Sun TV HD
-https://pankajbd.com/live/Sun_TV_HD/Sun_TV_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sun_TV_HD&q=1200
 #EXTINF:0, group-title="Tamil",Thanthi TV
-https://pankajbd.com/live/Thanthi_TV/Thanthi_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Thanthi_TV&q=1200
 #EXTINF:0, group-title="Tamil",Travel XP Tamil
-https://pankajbd.com/live/Travel_XP_Tamil/Travel_XP_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Travel_XP_Tamil&q=1200
 #EXTINF:0, group-title="Tamil",Tunes 6
-https://pankajbd.com/live/Tunes_6/Tunes_6_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Tunes_6&q=1200
 #EXTINF:0, group-title="Tamil",Vasanth TV
-https://pankajbd.com/live/Vasanth_TV/Vasanth_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Vasanth_TV&q=1200
 #EXTINF:0, group-title="Tamil",Vendhar TV
-https://pankajbd.com/live/Vendhar_TV/Vendhar_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Vendhar_TV&q=1200
 #EXTINF:0, group-title="Tamil",Win TV
-https://pankajbd.com/live/Win_TV/Win_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Win_TV&q=1200
 #EXTINF:0, group-title="Tamil",Zee Tamil
-https://pankajbd.com/live/Zee_Tamil/Zee_Tamil_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Tamil&q=1200
 #EXTINF:0, group-title="Telugu",10 TV
-https://pankajbd.com/live/10_TV/10_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=10_TV&q=1200
 #EXTINF:0, group-title="Telugu",ABN Andhra Jyothi
-https://pankajbd.com/live/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ABN_Andhra_Jyothi&q=1200
 #EXTINF:0, group-title="Telugu",Bhakti TV
-https://pankajbd.com/live/Bhakti_TV/Bhakti_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Bhakti_TV&q=1200
 #EXTINF:0, group-title="Telugu",Calvary
-https://pankajbd.com/live/Calvary/Calvary_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Calvary&q=1200
 #EXTINF:0, group-title="Telugu",CN Telugu
-https://pankajbd.com/live/Cartoon_Network_Telugu/Cartoon_Network_Telugu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Cartoon_Network_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",CVR Health
-https://pankajbd.com/live/CVR_Health/CVR_Health_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CVR_Health&q=1200
 #EXTINF:0, group-title="Telugu",CVR News
-https://pankajbd.com/live/CVR_News/CVR_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CVR_News&q=1200
 #EXTINF:0, group-title="Telugu",CVR OM Spiritual
-https://pankajbd.com/live/CVR_OM_Spiritual/CVR_OM_Spiritual_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CVR_OM_Spiritual&q=1200
 #EXTINF:0, group-title="Telugu",DD Podhigai
-https://pankajbd.com/live/DD5_Podhigai/DD5_Podhigai_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD5_Podhigai&q=1200
 #EXTINF:0, group-title="Telugu",DD Saptagiri
-https://pankajbd.com/live/DD_Saptagiri/DD_Saptagiri_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Saptagiri&q=1200
 #EXTINF:0, group-title="Telugu",Discovery Channel Telugu
-https://pankajbd.com/live/Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Channel_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",ETV Abhiruchi
-https://pankajbd.com/live/ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Abhiruchi&q=1200
 #EXTINF:0, group-title="Telugu",ETV AP
-https://pankajbd.com/live/ETV_Andhra_pradesh/ETV_Andhra_pradesh_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Andhra_pradesh&q=1200
 #EXTINF:0, group-title="Telugu",ETV Cinema
-https://pankajbd.com/live/ETV_Cinema/ETV_Cinema_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Cinema&q=1200
 #EXTINF:0, group-title="Telugu",ETV Life
-https://pankajbd.com/live/ETV_Life/ETV_Life_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Life&q=1200
 #EXTINF:0, group-title="Telugu",ETV Plus
-https://pankajbd.com/live/ETV_Plus/ETV_Plus_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Plus&q=1200
 #EXTINF:0, group-title="Telugu",ETV Telangana
-https://pankajbd.com/live/ETV_Telangana/ETV_Telangana_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Telangana&q=1200
 #EXTINF:0, group-title="Telugu",ETV Telugu
-https://pankajbd.com/live/ETV_Telugu/ETV_Telugu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",Gemini Comedy
-https://pankajbd.com/live/Gemini_Comedy/Gemini_Comedy_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_Comedy&q=1200
 #EXTINF:0, group-title="Telugu",Gemini Life
-https://pankajbd.com/live/Gemini_Life/Gemini_Life_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_Life&q=1200
 #EXTINF:0, group-title="Telugu",Gemini Movies
-https://pankajbd.com/live/Gemini_Movies/Gemini_Movies_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_Movies&q=1200
 #EXTINF:0, group-title="Telugu",Gemini Movies HD
-https://pankajbd.com/live/Gemini_Movies_HD/Gemini_Movies_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_Movies_HD&q=1200
 #EXTINF:0, group-title="Telugu",Gemini Music
-https://pankajbd.com/live/Gemini_Music/Gemini_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_Music&q=1200
 #EXTINF:0, group-title="Telugu",Gemini Music HD
-https://pankajbd.com/live/Gemini_Music_HD/Gemini_Music_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_Music_HD&q=1200
 #EXTINF:0, group-title="Telugu",Gemini News
-https://pankajbd.com/live/Gemini_News/Gemini_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_News&q=1200
 #EXTINF:0, group-title="Telugu",Gemini TV
-https://pankajbd.com/live/Gemini_TV/Gemini_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_TV&q=1200
 #EXTINF:0, group-title="Telugu",Gemini TV HD
-https://pankajbd.com/live/Gemini_TV_HD/Gemini_TV_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gemini_TV_HD&q=1200
 #EXTINF:0, group-title="Telugu",Gyana Yogi
-https://pankajbd.com/live/Gyana_Yogi/Gyana_Yogi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gyana_Yogi&q=1200
 #EXTINF:0, group-title="Telugu",Hindu Dharmam
-https://pankajbd.com/live/Hindu_Dharmam/Hindu_Dharmam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Hindu_Dharmam&q=1200
 #EXTINF:0, group-title="Telugu",History 18 Telugu
-https://pankajbd.com/live/History_18_Telugu/History_18_Telugu_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=History_18_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",HM TV
-https://pankajbd.com/live/HM_TV/HM_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=HM_TV&q=1200
 #EXTINF:0, group-title="Telugu",I News
-https://pankajbd.com/live/I_News/I_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=I_News&q=1200
 #EXTINF:0, group-title="Telugu",Jaya Jaya Shankara TV
-https://pankajbd.com/live/Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jaya_Jaya_Shankara_TV&q=1200
 #EXTINF:0, group-title="Telugu",Jaya Max
-https://pankajbd.com/live/Jaya_Max/Jaya_Max_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jaya_Max&q=1200
 #EXTINF:0, group-title="Telugu",Jaya Plus
-https://pankajbd.com/live/Jaya_Plus/Jaya_Plus_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jaya_Plus&q=1200
 #EXTINF:0, group-title="Telugu",Jaya TV HD
-https://pankajbd.com/live/Jaya_TV_HD/Jaya_TV_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jaya_TV_HD&q=1200
 #EXTINF:0, group-title="Telugu",Kushi TV
-https://pankajbd.com/live/Kushi_TV/Kushi_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kushi_TV&q=1200
 #EXTINF:0, group-title="Telugu",Maa Gold HD
-https://pankajbd.com/live/Maa_Gold/Maa_Gold_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Maa_Gold&q=1200
 #EXTINF:0, group-title="Telugu",Maa Movies HD
-https://pankajbd.com/live/Maa_Movies/Maa_Movies_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Maa_Movies&q=1200
 #EXTINF:0, group-title="Telugu",Maa TV HD
-https://pankajbd.com/live/Maa_TV/Maa_TV_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Maa_TV&q=1200
 #EXTINF:0, group-title="Telugu",Maha News
-https://pankajbd.com/live/Maha_News/Maha_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Maha_News&q=1200
 #EXTINF:0, group-title="Telugu",Nick Telugu
-https://pankajbd.com/live/Nick_Telugu/Nick_Telugu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Nick_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",NTV
-https://pankajbd.com/live/NTV/NTV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=NTV&q=1200
 #EXTINF:0, group-title="Telugu",Raj Music Telugu
-https://pankajbd.com/live/Raj_Music_Telugu/Raj_Music_Telugu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_Music_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",Raj News Telugu
-https://pankajbd.com/live/Raj_News_Telugu/Raj_News_Telugu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_News_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",Raj TV
-https://pankajbd.com/live/Raj_TV/Raj_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_TV&q=1200
 #EXTINF:0, group-title="Telugu",Rujumargam TV
-https://pankajbd.com/live/Rujumargam_TV/Rujumargam_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Rujumargam_TV&q=1200
 #EXTINF:0, group-title="Telugu",Sakshi TV
-https://pankajbd.com/live/Sakshi_tv/Sakshi_tv_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sakshi_tv&q=1200
 #EXTINF:0, group-title="Telugu",Shiva Shakti Sai TV
-https://pankajbd.com/live/Shiva_Shakti_Sai_TV/Shiva_Shakti_Sai_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Shiva_Shakti_Sai_TV&q=1200
 #EXTINF:0, group-title="Telugu",Sony BBC Earth HD Telugu
-https://pankajbd.com/live/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_BBC_Earth_HD_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",Sony Yay Telugu
-https://pankajbd.com/live/Sony_Yay_Telugu/Sony_Yay_Telugu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_Yay_Telugu&q=1200
 #EXTINF:0, group-title="Telugu",Sri Venkateshwar Bhakti
-https://pankajbd.com/live/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sri_Venkateshwar_Bhakti&q=1200
 #EXTINF:0, group-title="Telugu",Studio N News
-https://pankajbd.com/live/Studio_n/Studio_n_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Studio_n&q=1200
 #EXTINF:0, group-title="Telugu",Subhavartha TV
-https://pankajbd.com/live/Subhavartha_TV/Subhavartha_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Subhavartha_TV&q=1200
 #EXTINF:0, group-title="Telugu",T News
-https://pankajbd.com/live/T_News/T_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=T_News&q=1200
 #EXTINF:0, group-title="Telugu",TV 5 News
-https://pankajbd.com/live/TV_5_News/TV_5_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TV_5_News&q=1200
 #EXTINF:0, group-title="Telugu",TV1
-https://pankajbd.com/live/TV1/TV1_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TV1&q=1200
 #EXTINF:0, group-title="Telugu",TV9 AP
-https://pankajbd.com/live/TV9_Telugu_News/TV9_Telugu_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TV9_Telugu_News&q=1200
 #EXTINF:0, group-title="Telugu",V6 News
-https://pankajbd.com/live/V6_News/V6_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=V6_News&q=1200
 #EXTINF:0, group-title="Telugu",Vanitha
-https://pankajbd.com/live/Vanitha/Vanitha_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Vanitha&q=1200
 #EXTINF:0, group-title="Telugu",Vissa TV
-https://pankajbd.com/live/Vissa_TV/Vissa_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Vissa_TV&q=1200
 #EXTINF:0, group-title="Telugu",Zee Cinemalu
-https://pankajbd.com/live/Zee_Cinemalu/Zee_Cinemalu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Cinemalu&q=1200
 #EXTINF:0, group-title="Telugu",Zee Telugu
-https://pankajbd.com/live/Zee_Telugu/Zee_Telugu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Telugu&q=1200
 #EXTINF:0, group-title="Malayalam",Amrita TV
-https://pankajbd.com/live/Amrita_TV/Amrita_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Amrita_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Asianet HD
-https://pankajbd.com/live/Asianet/Asianet_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Asianet&q=1200
 #EXTINF:0, group-title="Malayalam",Asianet Movies HD
-https://pankajbd.com/live/Asianet_Movies_HD/Asianet_Movies_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Asianet_Movies_HD&q=1200
 #EXTINF:0, group-title="Malayalam",Asianet News
-https://pankajbd.com/live/Asianet_News/Asianet_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Asianet_News&q=1200
 #EXTINF:0, group-title="Malayalam",Asianet Plus HD
-https://pankajbd.com/live/Asianet_Plus/Asianet_Plus_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Asianet_Plus&q=1200
 #EXTINF:0, group-title="Malayalam",Channel D
-https://pankajbd.com/live/ChannelDHD/ChannelDHD_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ChannelDHD&q=1200
 #EXTINF:0, group-title="Malayalam",DD Malayalam
-https://pankajbd.com/live/DD_Malayalam/DD_Malayalam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Malayalam&q=1200
 #EXTINF:0, group-title="Malayalam",Flower TV
-https://pankajbd.com/live/Flower_TV/Flower_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Flower_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Jai Hind TV
-https://pankajbd.com/live/Jaihind_tv/Jaihind_tv_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jaihind_tv&q=1200
 #EXTINF:0, group-title="Malayalam",Janam TV
-https://pankajbd.com/live/Janam_TV/Janam_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Janam_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Jeevan TV
-https://pankajbd.com/live/Jeevan_TV/Jeevan_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jeevan_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Kairali People TV
-https://pankajbd.com/live/Kairali_People_TV/Kairali_People_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kairali_People_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Kairali TV
-https://pankajbd.com/live/Kairali_TV/Kairali_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kairali_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Kairali WE TV
-https://pankajbd.com/live/Kairali_WE_TV/Kairali_WE_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kairali_WE_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Kappa TV
-https://pankajbd.com/live/Kappa_TV/Kappa_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kappa_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Kaumudy TV
-https://pankajbd.com/live/Kaumudy_TV/Kaumudy_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kaumudy_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Kiran TV
-https://pankajbd.com/live/Kiran_TV/Kiran_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kiran_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Kochu TV
-https://pankajbd.com/live/Kochu_TV/Kochu_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kochu_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Manorama News
-https://pankajbd.com/live/Manorama_News/Manorama_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Manorama_News&q=1200
 #EXTINF:0, group-title="Malayalam",Mathrubhumi News
-https://pankajbd.com/live/Mathrubhumi_News/Mathrubhumi_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Mathrubhumi_News&q=1200
 #EXTINF:0, group-title="Malayalam",Mazavali Manorama HD
-https://pankajbd.com/live/Mazavali_Manorama_HD/Mazavali_Manorama_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Mazavali_Manorama_HD&q=1200
 #EXTINF:0, group-title="Malayalam",Mazhavil Manorama
-https://pankajbd.com/live/Mazhavil_Manorama/Mazhavil_Manorama_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Mazhavil_Manorama&q=1200
 #EXTINF:0, group-title="Malayalam",Media One TV
-https://pankajbd.com/live/Media_One_TV/Media_One_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Media_One_TV&q=1200
 #EXTINF:0, group-title="Malayalam",News 18 Kerala
-https://pankajbd.com/live/News_18_Kerala/News_18_Kerala_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_18_Kerala&q=1200
 #EXTINF:0, group-title="Malayalam",Propex TV
-https://pankajbd.com/live/Propex_TV/Propex_TV__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Propex_TV&q=1200
 #EXTINF:0, group-title="Malayalam",Raj Music Malayalam
-https://pankajbd.com/live/Raj_Music_Malayalam/Raj_Music_Malayalam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_Music_Malayalam&q=1200
 #EXTINF:0, group-title="Malayalam",Raj News Malayalam
-https://pankajbd.com/live/Raj_News_Malayalam/Raj_News_Malayalam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_News_Malayalam&q=1200
 #EXTINF:0, group-title="Malayalam",Shalom
-https://pankajbd.com/live/Shalom/Shalom_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Shalom&q=1200
 #EXTINF:0, group-title="Malayalam",Surya HD
-https://pankajbd.com/live/Surya_HD/Surya_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Surya_HD&q=1200
 #EXTINF:0, group-title="Malayalam",Surya Music
-https://pankajbd.com/live/Surya_Music/Surya_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Surya_Music&q=1200
 #EXTINF:0, group-title="Malayalam",Surya TV
-https://pankajbd.com/live/Surya_TV/Surya_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Surya_TV&q=1200
 #EXTINF:0, group-title="Kannada",BTV
-https://pankajbd.com/live/BTV/BTV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=BTV&q=1200
 #EXTINF:0, group-title="Kannada",Chintu TV
-https://pankajbd.com/live/Chintu_TV/Chintu_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Chintu_TV&q=1200
 #EXTINF:0, group-title="Kannada",Colors Kannada HD
-https://pankajbd.com/live/Colors_Kannada_HD/Colors_Kannada_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_Kannada_HD&q=1200
 #EXTINF:0, group-title="Kannada",Colors Super
-https://pankajbd.com/live/Colors_Super/Colors_Super_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_Super&q=1200
 #EXTINF:0, group-title="Kannada",DD Chandana
-https://pankajbd.com/live/DD9_chandana_kannada/DD9_chandana_kannada_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD9_chandana_kannada&q=1200
 #EXTINF:0, group-title="Kannada",Janasri News
-https://pankajbd.com/live/Janasri_News/Janasri_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Janasri_News&q=1200
 #EXTINF:0, group-title="Kannada",Janataa TV
-https://pankajbd.com/live/Janataa_TV/Janataa_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Janataa_TV&q=1200
 #EXTINF:0, group-title="Kannada",Kasturi
-https://pankajbd.com/live/Kasturi/Kasturi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kasturi&q=1200
 #EXTINF:0, group-title="Kannada",News 18 Kannada
-https://pankajbd.com/live/ETV_Kannada_News/ETV_Kannada_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Kannada_News&q=1200
 #EXTINF:0, group-title="Kannada",Prajaa TV
-https://pankajbd.com/live/Prajaa_TV/Prajaa_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Prajaa_TV&q=1200
 #EXTINF:0, group-title="Kannada",Public Music
-https://pankajbd.com/live/Public_Music/Public_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Public_Music&q=1200
 #EXTINF:0, group-title="Kannada",Public TV
-https://pankajbd.com/live/Public_TV/Public_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Public_TV&q=1200
 #EXTINF:0, group-title="Kannada",Raj Music Kannada
-https://pankajbd.com/live/Raj_Music_Kannada/Raj_Music_Kannada_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_Music_Kannada&q=1200
 #EXTINF:0, group-title="Kannada",Raj News Kannada
-https://pankajbd.com/live/Raj_News_Kannada/Raj_News_Kannada_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Raj_News_Kannada&q=1200
 #EXTINF:0, group-title="Kannada",Saral Jeevan
-https://pankajbd.com/live/Saral_Jeevan/Saral_Jeevan_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Saral_Jeevan&q=1200
 #EXTINF:0, group-title="Kannada",Sri Sankara
-https://pankajbd.com/live/Sri_Sankara/Sri_Sankara_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sri_Sankara&q=1200
 #EXTINF:0, group-title="Kannada",Suddi TV
-https://pankajbd.com/live/Suddi_TV/Suddi_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Suddi_TV&q=1200
 #EXTINF:0, group-title="Kannada",Suvarna HD
-https://pankajbd.com/live/Suvarna/Suvarna_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Suvarna&q=1200
 #EXTINF:0, group-title="Kannada",Suvarna News
-https://pankajbd.com/live/Suvarna_News/Suvarna_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Suvarna_News&q=1200
 #EXTINF:0, group-title="Kannada",Suvarna Plus HD
-https://pankajbd.com/live/Asianet_Suvarna_HD/Asianet_Suvarna_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Asianet_Suvarna_HD&q=1200
 #EXTINF:0, group-title="Kannada",TV 5 Kannada
-https://pankajbd.com/live/TV_5_Kannada/TV_5_Kannada_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TV_5_Kannada&q=1200
 #EXTINF:0, group-title="Kannada",TV9 KA
-https://pankajbd.com/live/TV9_Karnataka/TV9_Karnataka_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TV9_Karnataka&q=1200
 #EXTINF:0, group-title="Kannada",Udaya Comedy
-https://pankajbd.com/live/Udaya_Comedy/Udaya_Comedy_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Udaya_Comedy&q=1200
 #EXTINF:0, group-title="Kannada",Udaya HD
-https://pankajbd.com/live/Udaya_HD/Udaya_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Udaya_HD&q=1200
 #EXTINF:0, group-title="Kannada",Udaya Movies
-https://pankajbd.com/live/Udaya_Movies/Udaya_Movies_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Udaya_Movies&q=1200
 #EXTINF:0, group-title="Kannada",Udaya Music
-https://pankajbd.com/live/Udaya_Music/Udaya_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Udaya_Music&q=1200
 #EXTINF:0, group-title="Kannada",Udaya News
-https://pankajbd.com/live/Udaya_News/Udaya_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Udaya_News&q=1200
 #EXTINF:0, group-title="Kannada",Udaya TV
-https://pankajbd.com/live/Udaya_TV/Udaya_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Udaya_TV&q=1200
 #EXTINF:0, group-title="Kannada",Zee Kannada
-https://pankajbd.com/live/Zee_Kannada/Zee_Kannada_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Kannada&q=1200
 #EXTINF:0, group-title="Gujarati",ABP Asmita
-https://pankajbd.com/live/ABP_Asmita/ABP_Asmita_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ABP_Asmita&q=1200
 #EXTINF:0, group-title="Gujarati",CNBC Bazaar
-https://pankajbd.com/live/CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=CNBC_Bazaar_MNO&q=1200
 #EXTINF:0, group-title="Gujarati",Colors Gujarati
-https://pankajbd.com/live/Colors_Gujarati/Colors_Gujarati_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_Gujarati&q=1200
 #EXTINF:0, group-title="Gujarati",DD Girnar
-https://pankajbd.com/live/DD_Girnar/DD_Girnar_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Girnar&q=1200
 #EXTINF:0, group-title="Gujarati",Garv Shree Swaminarayan
-https://pankajbd.com/live/Garv/Garv__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Garv&q=1200
 #EXTINF:0, group-title="Gujarati",GS TV
-https://pankajbd.com/live/GS_TV/GS_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=GS_TV&q=1200
 #EXTINF:0, group-title="Gujarati",Lakshya TV
-https://pankajbd.com/live/Lakshya_TV/Lakshya_TV__800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Lakshya_TV&q=1200
 #EXTINF:0, group-title="Gujarati",Mantavya News
-https://pankajbd.com/live/Mantavya_News/Mantavya_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Mantavya_News&q=1200
 #EXTINF:0, group-title="Gujarati",News 18 Gujarati
-https://pankajbd.com/live/ETV_News_Gujarati/ETV_News_Gujarati_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_News_Gujarati&q=1200
 #EXTINF:0, group-title="Gujarati",Sandesh News
-https://pankajbd.com/live/Sandesh_News/Sandesh_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sandesh_News&q=1200
 #EXTINF:0, group-title="Gujarati",TV 9 GJ
-https://pankajbd.com/live/Tv_9_Gujarat/Tv_9_Gujarat_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Tv_9_Gujarat&q=1200
 #EXTINF:0, group-title="Gujarati",Vande Gujarat 1
-https://pankajbd.com/live/Vande_Gujarat_1/Vande_Gujarat_1_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Vande_Gujarat_1&q=1200
 #EXTINF:0, group-title="Gujarati",Vande Gujarat 2
-https://pankajbd.com/live/Vande_Gujarat_2/Vande_Gujarat_2_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Vande_Gujarat_2&q=1200
 #EXTINF:0, group-title="Gujarati",Vande Gujarat 4
-https://pankajbd.com/live/Vande_Gujarat_4/Vande_Gujarat_4_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Vande_Gujarat_4&q=1200
 #EXTINF:0, group-title="Gujarati",VTV Gujarati
-https://pankajbd.com/live/VTV_Gujarati/VTV_Gujarati_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=VTV_Gujarati&q=1200
 #EXTINF:0, group-title="Gujarati",Zee 24 Kalak
-https://pankajbd.com/live/Zee_24_Kalak/Zee_24_Kalak_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_24_Kalak&q=1200
 #EXTINF:0, group-title="Marathi",Colors Marathi
-https://pankajbd.com/live/Colors_Marathi/Colors_Marathi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_Marathi&q=1200
 #EXTINF:0, group-title="Marathi",Colors Marathi HD
-https://pankajbd.com/live/Colors_Marathi_HD/Colors_Marathi_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_Marathi_HD&q=1200
 #EXTINF:0, group-title="Marathi",DD Sahayadri
-https://pankajbd.com/live/DD_Sahayadri/DD_Sahayadri_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Sahayadri&q=1200
 #EXTINF:0, group-title="Marathi",Fakt Marathi
-https://pankajbd.com/live/Fakt_Marathi/Fakt_Marathi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Fakt_Marathi&q=1200
 #EXTINF:0, group-title="Marathi",IBN Lokmat
-https://pankajbd.com/live/IBN_Lokmat/IBN_Lokmat_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=IBN_Lokmat&q=1200
 #EXTINF:0, group-title="Marathi",In Goa 24x7
-https://pankajbd.com/live/InGoa24x7/InGoa24x7_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=InGoa24x7&q=1200
 #EXTINF:0, group-title="Marathi",Maiboli
-https://pankajbd.com/live/Maiboli/Maiboli_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Maiboli&q=1200
 #EXTINF:0, group-title="Marathi",Star Pravah HD
-https://pankajbd.com/live/Star_Pravah/Star_Pravah_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Pravah&q=1200
 #EXTINF:0, group-title="Marathi",TV9 MH
-https://pankajbd.com/live/TV9_Maharashtra/TV9_Maharashtra_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=TV9_Maharashtra&q=1200
 #EXTINF:0, group-title="Marathi",Zee 24 Taas
-https://pankajbd.com/live/Zee_24_Taas/Zee_24_Taas_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_24_Taas&q=1200
 #EXTINF:0, group-title="Marathi",Zee Marathi
-https://pankajbd.com/live/Zee_Marathi/Zee_Marathi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Marathi&q=1200
 #EXTINF:0, group-title="Marathi",Saam TV
-https://pankajbd.com/live/Saam_Tv/Saam_Tv_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Saam_Tv&q=1200
 #EXTINF:0, group-title="Marathi",Sangeet Marathi
-https://pankajbd.com/live/Sangeet_Marathi/Sangeet_Marathi_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sangeet_Marathi&q=1200
 #EXTINF:0, group-title="Marathi",ABP Majha
-https://pankajbd.com/live/ABP_Majha/ABP_Majha_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ABP_Majha&q=1200
 #EXTINF:0, group-title="Marathi",9x Jhakaas
-https://pankajbd.com/live/9x_Jhakaas/9x_Jhakaas_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=9x_Jhakaas&q=1200
 #EXTINF:0, group-title="Marathi",Zee Talkies
-https://pankajbd.com/live/Zee_Talkies/Zee_Talkies_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Talkies&q=1200
 #EXTINF:0, group-title="Marathi",Zee Yuva
-https://pankajbd.com/live/Zee_Yuva/Zee_Yuva_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Yuva&q=1200
 #EXTINF:0, group-title="Bangla",24 Ghanta TV
-https://pankajbd.com/live/24_Ghanta_TV/24_Ghanta_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=24_Ghanta_TV&q=1200
 #EXTINF:0, group-title="Bangla",Aakash Aath
-https://pankajbd.com/live/Aakaash_bangla/Aakaash_bangla_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Aakaash_bangla&q=1200
 #EXTINF:0, group-title="Bangla",ABP Ananda
-https://pankajbd.com/live/ABP_Ananda/ABP_Ananda_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ABP_Ananda&q=1200
 #EXTINF:0, group-title="Bangla",Artage News
-https://pankajbd.com/live/Zeal_News/Zeal_News_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zeal_News&q=1200
 #EXTINF:0, group-title="Bangla",Bangla Time
-https://pankajbd.com/live/Bangla_Time/Bangla_Time_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Bangla_Time&q=1200
 #EXTINF:0, group-title="Bangla",Colors Bengali HD
-https://pankajbd.com/live/Colors_Bengali_HD/Colors_Bengali_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_Bengali_HD&q=1200
 #EXTINF:0, group-title="Bangla",DD Bangla
-https://pankajbd.com/live/DD_Bangla/DD_Bangla_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Bangla&q=1200
 #EXTINF:0, group-title="Bangla",Discovery Channel Bengali
-https://pankajbd.com/live/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Discovery_Channel_Bengali&q=1200
 #EXTINF:0, group-title="Bangla",Jalsha Movies HD
-https://pankajbd.com/live/Jalsa_Movies_HD/Jalsa_Movies_HD_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jalsa_Movies_HD&q=1200
 #EXTINF:0, group-title="Bangla",Music Fatafati
-https://pankajbd.com/live/Music_Fatafati/Music_Fatafati_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Music_Fatafati&q=1200
 #EXTINF:0, group-title="Bangla",Nepal one
-https://pankajbd.com/live/Nepal_one/Nepal_one_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Nepal_one&q=1200
 #EXTINF:0, group-title="Bangla",News 18 Bangla News
-https://pankajbd.com/live/ETV_Bangla_News/ETV_Bangla_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Bangla_News&q=1200
 #EXTINF:0, group-title="Bangla",News Time TV
-https://pankajbd.com/live/News_Time_TV/News_Time_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_Time_TV&q=1200
 #EXTINF:0, group-title="Bangla",Onkar Only Truth
-https://pankajbd.com/live/Onkar_Only_Truth/Onkar_Only_Truth_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Onkar_Only_Truth&q=1200
 #EXTINF:0, group-title="Bangla",R Plus
-https://pankajbd.com/live/RPLUS/RPLUS_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=RPLUS&q=1200
 #EXTINF:0, group-title="Bangla",Sangeet Bangla
-https://pankajbd.com/live/Sangeet_Bangla/Sangeet_Bangla_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sangeet_Bangla&q=1200
 #EXTINF:0, group-title="Bangla",Sony Aath
-https://pankajbd.com/live/Sony_aath/Sony_aath_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sony_aath&q=1200
 #EXTINF:0, group-title="Bangla",Star Jalsha HD
-https://pankajbd.com/live/Star_Jalsha/Star_Jalsha_1200.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Star_Jalsha&q=1200
 #EXTINF:0, group-title="Bangla",Zee Bangla
-https://pankajbd.com/live/Zee_Bangla/Zee_Bangla_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Bangla&q=1200
 #EXTINF:0, group-title="Bangla",Zee Bangla Cinema
-https://pankajbd.com/live/Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Bangla_Cinema&q=1200
 #EXTINF:0, group-title="Oriya",Alankar TV
-https://pankajbd.com/live/Alankar_TV/Alankar_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Alankar_TV&q=1200
 #EXTINF:0, group-title="Oriya",Colors Oriya
-https://pankajbd.com/live/Colors_Oriya/Colors_Oriya_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Colors_Oriya&q=1200
 #EXTINF:0, group-title="Oriya",DD Oriya
-https://pankajbd.com/live/DD_Oriya/DD_Oriya_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Oriya&q=1200
 #EXTINF:0, group-title="Oriya",Kalinga TV
-https://pankajbd.com/live/Kalinga_TV/Kalinga_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kalinga_TV&q=1200
 #EXTINF:0, group-title="Oriya",Kanak News
-https://pankajbd.com/live/Kanak_TV/Kanak_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Kanak_TV&q=1200
 #EXTINF:0, group-title="Oriya",MBC
-https://pankajbd.com/live/MBC/MBC_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=MBC&q=1200
 #EXTINF:0, group-title="Oriya",Naxatra News
-https://pankajbd.com/live/Naxatra_News/Naxatra_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Naxatra_News&q=1200
 #EXTINF:0, group-title="Oriya",News 18 Oriya
-https://pankajbd.com/live/ETV_News_Oriya/ETV_News_Oriya_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_News_Oriya&q=1200
 #EXTINF:0, group-title="Oriya",News World Odisha
-https://pankajbd.com/live/News_World_Odisha/News_World_Odisha_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_World_Odisha&q=1200
 #EXTINF:0, group-title="Oriya",OTV- Odisha TV
-https://pankajbd.com/live/OTV_Odisha_TV/OTV_Odisha_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=OTV_Odisha_TV&q=1200
 #EXTINF:0, group-title="Oriya",Prameya News 7
-https://pankajbd.com/live/Prameya_News_7/Prameya_News_7_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Prameya_News_7&q=1200
 #EXTINF:0, group-title="Oriya",Prathana TV
-https://pankajbd.com/live/Prathana_TV/Prathana_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Prathana_TV&q=1200
 #EXTINF:0, group-title="Oriya",Sarthak TV
-https://pankajbd.com/live/Sarthak_TV/Sarthak_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sarthak_TV&q=1200
 #EXTINF:0, group-title="Oriya",Tarang Music
-https://pankajbd.com/live/Tarang_Music/Tarang_Music_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Tarang_Music&q=1200
 #EXTINF:0, group-title="Oriya",Tarang TV
-https://pankajbd.com/live/Tarang_TV/Tarang_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Tarang_TV&q=1200
 #EXTINF:0, group-title="Oriya",Zee Kalinga
-https://pankajbd.com/live/Zee_Kalinga/Zee_Kalinga_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Kalinga&q=1200
 #EXTINF:0, group-title="Assamese",Assam Talks
-https://pankajbd.com/live/Assam_Talks/Assam_Talks_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Assam_Talks&q=1200
 #EXTINF:0, group-title="Assamese",DD AS NE
-https://pankajbd.com/live/DD13_Guwahati_NE/DD13_Guwahati_NE_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD13_Guwahati_NE&q=1200
 #EXTINF:0, group-title="Assamese",DY 365
-https://pankajbd.com/live/DY_365/DY_365_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DY_365&q=1200
 #EXTINF:0, group-title="Assamese",Indradhanu
-https://pankajbd.com/live/Indradhanu/Indradhanu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Indradhanu&q=1200
 #EXTINF:0, group-title="Assamese",Jonack
-https://pankajbd.com/live/Jonack/Jonack_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Jonack&q=1200
 #EXTINF:0, group-title="Assamese",News 18 Assam
-https://pankajbd.com/live/News_18_Assam/News_18_Assam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=News_18_Assam&q=1200
 #EXTINF:0, group-title="Assamese",News Live
-https://pankajbd.com/live/Newslive/Newslive_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Newslive&q=1200
 #EXTINF:0, group-title="Assamese",North East Live
-https://pankajbd.com/live/North_East_Live/North_East_Live_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=North_East_Live&q=1200
 #EXTINF:0, group-title="Assamese",Prag News
-https://pankajbd.com/live/Prag_News/Prag_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Prag_News&q=1200
 #EXTINF:0, group-title="Assamese",Pratidin News
-https://pankajbd.com/live/Pratidin_News/Pratidin_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Pratidin_News&q=1200
 #EXTINF:0, group-title="Assamese",Ramdhenu
-https://pankajbd.com/live/Ramdhenu/Ramdhenu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Ramdhenu&q=1200
 #EXTINF:0, group-title="Assamese",Rang
-https://pankajbd.com/live/Rang/Rang_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Rang&q=1200
 #EXTINF:0, group-title="Assamese",Rengoni
-https://pankajbd.com/live/Rengoni/Rengoni_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Rengoni&q=1200
 #EXTINF:0, group-title="Bhojpuri",Anjan TV
-https://pankajbd.com/live/Anjan_TV/Anjan_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Anjan_TV&q=1200
 #EXTINF:0, group-title="Bhojpuri",Bhojpuri Cinema
-https://pankajbd.com/live/Bhojpuri_Cinema/Bhojpuri_Cinema_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Bhojpuri_Cinema&q=1200
 #EXTINF:0, group-title="Bhojpuri",Dangal
-https://pankajbd.com/live/Dangal/Dangal_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Dangal&q=1200
 #EXTINF:0, group-title="Bhojpuri",Mahua Plus
-https://pankajbd.com/live/Mahua_Plus/Mahua_Plus_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Mahua_Plus&q=1200
 #EXTINF:0, group-title="Bhojpuri",News 18 BR
-https://pankajbd.com/live/ETV_BIHAR/ETV_BIHAR_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_BIHAR&q=1200
 #EXTINF:0, group-title="Bhojpuri",Oscar Movies
-https://pankajbd.com/live/Osar_Movies/Osar_Movies_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Osar_Movies&q=1200
 #EXTINF:0, group-title="Bhojpuri",Sahara BR
-https://pankajbd.com/live/Sahara_Samay_Bihar/Sahara_Samay_Bihar_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sahara_Samay_Bihar&q=1200
 #EXTINF:0, group-title="Bhojpuri",Sangeet Bhojpuri
-https://pankajbd.com/live/Sangeet_Bhojpuri/Sangeet_Bhojpuri_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Sangeet_Bhojpuri&q=1200
 #EXTINF:0, group-title="Bhojpuri",Zee Purvaiya
-https://pankajbd.com/live/Zee_Purvaiya/Zee_Purvaiya_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Purvaiya&q=1200
 #EXTINF:0, group-title="Urdu",4 TV
-https://pankajbd.com/live/4_TV/4_TV_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=4_TV&q=1200
 #EXTINF:0, group-title="Urdu",Channel Win
-https://pankajbd.com/live/Channel_Win/Channel_Win_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Channel_Win&q=1200
 #EXTINF:0, group-title="Urdu",DD Kashir
-https://pankajbd.com/live/DD_Kashir/DD_Kashir_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_Kashir&q=1200
 #EXTINF:0, group-title="Urdu",DD Urdu
-https://pankajbd.com/live/DD_urdu/DD_urdu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=DD_urdu&q=1200
 #EXTINF:0, group-title="Urdu",Gulistan News
-https://pankajbd.com/live/Gulistan_News/Gulistan_News_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Gulistan_News&q=1200
 #EXTINF:0, group-title="Urdu",News 18 Urdu
-https://pankajbd.com/live/ETV_Urdu/ETV_Urdu_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=ETV_Urdu&q=1200
 #EXTINF:0, group-title="Urdu",Zee Salaam
-https://pankajbd.com/live/Zee_Salaam/Zee_Salaam_800.m3u8|User-Agent=ExoPlayerDemo/5.2.0.biNu (Linux;Android 5.1) ExoPlayerLib/2.3.0
+http://proxy2.freeiptv.ga/jio/m3u8.php?c=Zee_Salaam&q=1200
+				
 				
 #EXTINF:0, group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",9X Tashan
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/9X_Tashan/9X_Tashan_800.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Punjabi",Aan News
 http://cdn.samtv.ca/anntv/index.m3u8
 #EXTINF:0, group-title="Punjabi",Akaal
 http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:0, group-title="Punjabi",Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Music
 http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Punjabi
@@ -1189,32 +1194,38 @@ http://live.wmncdn.net/abr/797ce155156c55b75be98e9a764cefb7.m3u8
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",BnB
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Boogle Bollywood
+#EXTINF:0, group-title="Punjabi",Boogle Bollywood 
 http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Chakde TV
 http://streamer3.ultapulta.com:7050/
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Chardikla_Time_TV/Chardikla_Time_TV_800.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226087/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Punjabi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",DD Punjabi
 http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
 #EXTINF:0, group-title="Punjabi",Desi Channel
 http://em4qj6medyvg-hls-live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",E9 Punjabi
 http://cdn.samtv.ca/e9punjabi/index.m3u8
 #EXTINF:0, group-title="Punjabi",Fastway TV
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Fateh
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Garv Punjab
 http://sknwz08.skandha.tv/live/smil:Gpunjab.smil/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Garv Punjab Gurbani
 http://sknwz08.skandha.tv/live/smil:GurbaniVA.smil/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
-http://104.237.59.106/live/Global_punjab.m3u8
+http://104.237.59.106/live/Global_web.m3u8
 #EXTINF:0, group-title="Punjabi",Global Sanjh
 http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gurbaani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",Gurbaani TV
 http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",Gurmit Channel
@@ -1222,52 +1233,64 @@ http://fastway.ddns.net:6421/fastway/live/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:0, group-title="Punjabi",Jhanjar HD
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535546/index_150_av-p.m3u8?sd=6&rebase=on
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:0, group-title="Punjabi",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:0, group-title="Punjabi",Kids Punjabi
 http://fastway.ddns.net:6421/fastway/live11/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",KTV
+http://188.138.57.234:1935/ktv/live/chunklist_w546360823.m3u8
 #EXTINF:0, group-title="Punjabi",Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Living India News
-http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Masti TV
 http://cdn.samtv.ca/mastitv/index.m3u8
-#EXTINF:0, group-title="Punjabi",Mh1 Music
-http://capcobroadcaststream.in:1935/edge1/mhmusic.stream_aac/chunklist_w140119054.m3u8
-#EXTINF:0, group-title="Punjabi",Mh1 News
+#EXTINF:0, group-title="Punjabi",mh1 Music
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Punjabi",mh1 News
 http://capcobroadcaststream.in:1935/edge1/mhone_news.stream_aac/chunklist_w1873206187.m3u8
-#EXTINF:0, group-title="Punjabi",Mh1 Sharda
+#EXTINF:0, group-title="Punjabi",mh1 Shardha
 http://capcobroadcaststream.in:1935/edge1/mhsharda.stream_aac/chunklist_w856920087.m3u8
+#EXTINF:0, group-title="Punjabi",Mirror Punjab
+http://cdn.samtv.ca/mirrorpunjab/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Namdhari TV
+http://namdhari.tv/live/sbs1.m3u8
 #EXTINF:0, group-title="Punjabi",NDA Channel
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Only Music
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Only_Music/Only_Music_800.m3u8
+#EXTINF:0, group-title="Punjabi",Only Music HD
+http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Pitaara
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Pitaara/Pitaara_800.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226122/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Punjabi",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTN 24
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:0, group-title="Punjabi",Punjabi TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Sabrang TV
+http://sydney.live247stream.com/sabrang/ls/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Sanjha TV
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sanjha_TV/Sanjha_TV_800.m3u8
+#EXTINF:0, group-title="Punjabi",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:0, group-title="Punjabi",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sikh Channel
 http://api.new.livestream.com/accounts/5296919/events/4847426/videos/166122157.m3u8
-#EXTINF:0, group-title="Punjabi",Sikh Channel USA
-http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",SSTV
-http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Trucking Today
+http://capcobroadcaststream.in:1935/capco/ttt.sdp/chunklist_w694526904.m3u8
+#EXTINF:0, group-title="Punjabi",TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 #EXTINF:0, group-title="Punjabi",Virsa Live
 http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Zee PB HP HR
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225923/01.m3u8|User-Agent=ExoPlayerDemo/4.4
