@@ -1183,7 +1183,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Punjabi",Aan News
 http://cdn.samtv.ca/anntv/index.m3u8
 #EXTINF:0, group-title="Punjabi",Akaal
-http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
 #EXTINF:0, group-title="Punjabi",Amar Ujala 
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Aone Music
@@ -1269,7 +1269,7 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:0, group-title="Punjabi",Punjabi TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sabrang TV
-http://sydney.live247stream.com/sabrang/ls/playlist.m3u8
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Saint TV
