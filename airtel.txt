@@ -295,7 +295,7 @@ http://202.45.147.19:1937/live/livestream/playlist.m3u8
 #EXTINF:0, group-title="Nepal",Nepal One
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Nepal",News 24
-http://api.new.livestream.com/accounts/22626132/events/6759012/videos/174480874.m3u8
+https://secure-playlist.livestream.com/streams/22626132_6759012_lsiffn8m8rbh1nfxgzb_1/media/22626132_6759012_lsiffn8m8rbh1nfxgzb_1@678000p.m3u8?dw=14400&token=1528055282_44539d61c4a76b552d0f132b7ff0bb9071846980&ts=1527879600
 #EXTINF:0, group-title="Indonesia",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia",TVRI 3
