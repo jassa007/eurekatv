@@ -20,12 +20,24 @@ http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",ARY Zindagi
 http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8
+#EXTINF:0, group-title="Pakistan",ATV
+http://stream.tapmad.com:1935/pitvlive/atv3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Business Plus
+http://stream.tapmad.com:1935/pitvlive/business3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",C42
+http://stream.tapmad.com:1935/pitvlive/city423.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Capital TV
 http://live.pockettv.com.pk:1755/live/capitaltvweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Channel 5
+http://stream.tapmad.com:1935/pitvlive/channel53_240p.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Dawn News
 http://live.pockettv.com.pk:1935/live/dawnnewsweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Dawn News
 https://live.pockettv.com.pk:4444/live/dawnnewsweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Dharti TV
+http://stream.tapmad.com:1935/pitvlive/dhartitv3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Din News
+http://stream.tapmad.com:1935/pitvlive/dinnews3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
 #EXTINF:0, group-title="Pakistan",Dunya TV
@@ -38,12 +50,20 @@ https://live.pockettv.com.pk:4447/live/expressnewsweb_720p/index.m3u8
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Geo TV
 http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+#EXTINF:0, group-title="Pakistan",Health TV
+http://stream.tapmad.com:1935/pitvlive/healthtv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Hum Sitaray
 http://live.pockettv.com.pk:1935/live/humsitarayweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Hum TV
 https://live.pockettv.com.pk:4444/live/humtvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Hum TV Masala
 https://live.pockettv.com.pk:4444/live/hummasalaweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Indus Vision
+http://stream.tapmad.com:1935/pitvlive/indus3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Jaag TV
+http://stream.tapmad.com:1935/pitvlive/jaagtv3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",K21 News
+http://stream.tapmad.com:1935/pitvlive/k213.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Khyber News
 http://live.pockettv.com.pk:1755/live/khybernewsweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Khyber TV
@@ -60,10 +80,20 @@ http://live.pockettv.com.pk:1936/live/madinaweb_720p/index.m3u8
 http://live.pockettv.com.pk:1938/live/madnitvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Makkah TV
 http://live.pockettv.com.pk:1936/live/makkahweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Mehran TV
+http://stream.tapmad.com:1935/pitvlive/mehran3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Metro One
+http://stream.tapmad.com:1935/pitvlive/metro3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Neo TV
+http://stream.tapmad.com:1935/pitvlive/neo3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",News One
 http://live.pockettv.com.pk:1935/live/newsoneweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Play TV
 http://live.pockettv.com.pk:1938/live/playtvweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",PTV Bolan
+http://stream.tapmad.com:1935/pitvlive/ptvbolan3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",PTV Global
+http://stream.tapmad.com:1935/pitvlive/ptvglobal3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",PTV Home
 http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
 #EXTINF:0, group-title="Pakistan",PTV News
@@ -72,16 +102,30 @@ http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
 http://live.pockettv.com.pk:1935/live/ptvsportsweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",PTV World
 http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+#EXTINF:0, group-title="Pakistan",Punjab TV
+http://stream.tapmad.com:1935/pitvlive/punjabtv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Pushto 1
-http://live.pockettv.com.pk:1935/live/pashtutvweb_720p/index.m3u8
+http://154.50.202.82:1935/live/pashtutvweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Sach TV
+http://stream.tapmad.com:1935/pitvlive/sachtv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Samaa News
 http://live.pockettv.com.pk:1938/live/samaaweb_720p/index.m3u8
-#EXTINF:0, group-title="Pakistan",Tez
-http://stream.jeem.tv/geo/geotezz/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",TV One
-http://live.pockettv.com.pk:1935/live/tvoneweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Samaa TV
 https://samaatr-hls.secdn.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
+#EXTINF:0, group-title="Pakistan",Tez
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+#EXTINF:0, group-title="Pakistan",TNN TV
+http://tnntv.flashmediacast.com:1935/TNNTV/livestream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",TRT World
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-b.m3u8
+#EXTINF:0, group-title="Pakistan",TV One
+http://live.pockettv.com.pk:1935/live/tvoneweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Waqt News
+http://stream.tapmad.com:1935/pitvlive/waqtnews3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Waseeb
+http://stream.tapmad.com:1935/pitvlive/waseeb3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",Zaiqa TV
+http://stream.tapmad.com:1935/pitvlive/zaiqatv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Bangladesh",CTVN Plus
 http://209.58.180.52/ctvnhls/live.m3u8
 #EXTINF:0, group-title="Bangladesh",Uttar Bangla
@@ -276,5 +320,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Riau
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:0, group-title="Indonesia", Bangka Belitung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Bangka Belitung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
