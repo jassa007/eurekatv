@@ -1,145 +1,87 @@
 #EXTM3U
 
-#EXTINF:0, group-title="Pakistan",???
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/141.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",24 News HD
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/145.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",7 News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/121.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",8XM
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/54.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0, group-title="Pakistan",8xM HD
+http://live.pockettv.com.pk:1938/live/8xmweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",92 News HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",A Plus
 http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/chunklist_w1071879192.m3u8
-#EXTINF:0, group-title="Pakistan",Aab Tak
-https://vod.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=138&extension=m3u8&token=HhRYVEEKQF9BVVcAVQMBAA1WV1JQU1AHCFdUAFUPUVsDBQhQUFEEUgYVTxUVRBBdWVg5XldHDgIKDB5DQUVWSjpfVBcIQFNVQRtBQw9dBxoCBUoVQwxQEQMWA1MHDgAaSRRVTUYHEAsCWzxTA0YLW10XXFlGCVgfG1tcPlBTXlkLUhIPEFJASUFeEEdECkBrUFQRF3AKWV5MWlsCVUJaVwtFEHxcAUxHTxUBXhJCA0xdF1wVBVUMERUWUQ5BWEdKHBQKF3EjQElBUhtDA14RUVdbRA0RCAdGARYeQ11FbEoARURHVwMPABEVWRVWEk4aVVQeaFAKWl1cV0YIW1hAGl8UABceQA8KDV4XWBRvElFcF1wVAlQABQwWTw==
-#EXTINF:0, group-title="Pakistan",Aaj Ent
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/131.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0, group-title="Pakistan",Aaj Ent.
+http://live.pockettv.com.pk:1755/live/aajentweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Aaj News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/130.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Abb Tak News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/57.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Afghan TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/140.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",APlus
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/129.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Apna Channel
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/60.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Aruj TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/149.m3u8|User-Agent=Mozilla/5.0
+http://live.pockettv.com.pk:1755/live/aajtvweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Abb Tak
+http://live.pockettv.com.pk:1755/live/abbtakkweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Apna TV
+http://live.pockettv.com.pk:1755/live/apnatvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",ARY Digital
 http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Ary News
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",ARY Zindagi
 http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8
-#EXTINF:0, group-title="Pakistan",ATV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/154.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",City 41
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/158.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",City 42
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/159.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",City 44
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/160.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0, group-title="Pakistan",Capital TV
+http://live.pockettv.com.pk:1755/live/capitaltvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Dawn News
-https://live.pockettv.com.pk:4444/live/dawnnewsweb.m3u8
+http://live.pockettv.com.pk:1935/live/dawnnewsweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Dawn News
+https://live.pockettv.com.pk:4444/live/dawnnewsweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
 #EXTINF:0, group-title="Pakistan",Dunya TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+#EXTINF:0, group-title="Pakistan",Express Ent.
+http://live.pockettv.com.pk:1938/live/expressentweb_1720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Express News
-https://live.pockettv.com.pk:4447/live/expressnewsweb.m3u8
-#EXTINF:0, group-title="Pakistan",Film World
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/132.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Filmax
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/68.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Filmazia
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/123.m3u8|User-Agent=Mozilla/5.0
+https://live.pockettv.com.pk:4447/live/expressnewsweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Geo TV
 http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+#EXTINF:0, group-title="Pakistan",Hum Sitaray
+http://live.pockettv.com.pk:1935/live/humsitarayweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Hum TV
-https://live.pockettv.com.pk:4444/live/humtvweb.m3u8
+https://live.pockettv.com.pk:4444/live/humtvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Hum TV Masala
-https://live.pockettv.com.pk:4444/live/hummasalaweb.m3u8 
-#EXTINF:0, group-title="Pakistan",Hot FM 105 Karachi
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/175.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Jalwa TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/139.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",K21
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/128.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Kashish
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/166.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Kay 2 
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/155.m3u8|User-Agent=Mozilla/5.0
+https://live.pockettv.com.pk:4444/live/hummasalaweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Khyber News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/51.m3u8|User-Agent=Mozilla/5.0
+http://live.pockettv.com.pk:1755/live/khybernewsweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Khyber TV
+http://live.pockettv.com.pk:1755/live/khybertvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",KN News
 http://streamer12.dstreamone.com/dsone/kohenoortv/chunklist_w304906892.m3u8
-#EXTINF:0, group-title="Pakistan",KTN
+#EXTINF:+14:230, group-title="Pakistan",KTN
 http://103.24.96.74/ktn/ktn/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",KTN News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/168.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Kyber
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/148.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Lahore News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/127.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0, group-title="Pakistan",Lahore News HD
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",Neo News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/124.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0, group-title="Pakistan",Madina TV
+http://live.pockettv.com.pk:1936/live/madinaweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Madni TV
+http://live.pockettv.com.pk:1938/live/madnitvweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Makkah TV
+http://live.pockettv.com.pk:1936/live/makkahweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",News One
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/133.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Oxygene
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/56.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Pashto 1
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/151.m3u8|User-Agent=Mozilla/5.0
+http://live.pockettv.com.pk:1935/live/newsoneweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Play TV
+http://live.pockettv.com.pk:1938/live/playtvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",PTV Home
 http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
 #EXTINF:0, group-title="Pakistan",PTV News
 http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
+#EXTINF:0, group-title="Pakistan",PTV Sports
+http://live.pockettv.com.pk:1935/live/ptvsportsweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",PTV World
 http://app.pakistanvision.tv:1935/live/8090/player.m3u8
-#EXTINF:0, group-title="Pakistan",Punjab TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/153.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Radio FM
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/173.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Rohi
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/161.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Roze News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/157.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Sach TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/152.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Samaa
-http://samaatr.videocdn.scaleengine.net/samaatr-live/play/samaatr.stream/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",Samaa TV
-https://samaatr-hls.secdn.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
-#EXTINF:0, group-title="Pakistan",Saudi Quran TV HD
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/75.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Saudi Sunnah TV HD
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/77.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",See TV
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/125.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",See TV 2017 
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/100.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",See TV Radio
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/103.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0, group-title="Pakistan",Pushto 1
+http://live.pockettv.com.pk:1935/live/pashtutvweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Samaa News
+http://live.pockettv.com.pk:1938/live/samaaweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",TV One
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/134.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",TV One Int
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/117.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",TV One News
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/46.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Urdu 1
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/115.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",VSH
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/147.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0, group-title="Pakistan",Waseb
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/49.m3u8|User-Agent=Mozilla/5.0
+http://live.pockettv.com.pk:1935/live/tvoneweb_720p/index.m3u8
+#EXTINF:0, group-title="Pakistan",Samaa TV
+https://samaatr-hls.secdn.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",CTVN Plus
 http://209.58.180.52/ctvnhls/live.m3u8
 #EXTINF:0, group-title="Bangladesh",Uttar Bangla
