@@ -397,7 +397,7 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",BnB
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Boogle Bollywood 
-http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",Chakde TV
 http://streamer3.ultapulta.com:7050/
 #EXTINF:0, group-title="Punjabi",Chardikla Time TV
