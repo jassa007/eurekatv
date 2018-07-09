@@ -962,3 +962,36 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226355/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Urdu",Zee Salaam
 https://z5ams.akamaized.net/zeesalaam/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Hindi",Star Plus
+http://163.172.24.253:8000/nnneindi/jkhdkef/15.ch				
+#EXTINF:0, group-title="Hindi",Sab TV
+http://163.172.24.253:8000/nnneindi/jkhdkef/3.ch				
+#EXTINF:0, group-title="Hindi",Star Bharat
+http://163.172.24.253:8000/nnneindi/jkhdkef/1.ch				
+#EXTINF:0, group-title="English",Animal Planet
+http://163.172.24.253:8000/nnneindi/jkhdkef/2.ch				
+#EXTINF:0, group-title="Hindi",Sony TV
+http://163.172.24.253:8000/nnneindi/jkhdkef/4.ch				
+#EXTINF:0, group-title="Hindi",Zee Classic
+http://163.172.24.253:8000/nnneindi/jkhdkef/5.ch				
+#EXTINF:0, group-title="Hindi",Zee TV HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/6.ch				
+#EXTINF:0, group-title="Hindi",& Pictures HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/10.ch				
+#EXTINF:0, group-title="Hindi",Colors HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/7.ch				
+#EXTINF:0, group-title="Hindi",Set Max
+http://163.172.24.253:8000/nnneindi/jkhdkef/11.ch				
+#EXTINF:0, group-title="Hindi",Star Gold HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/8.ch				
+#EXTINF:0, group-title="Hindi",Zee Cinema HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/9.ch				
+#EXTINF:0, group-title="Hindi",Zee News
+http://163.172.24.253:8000/nnneindi/jkhdkef/16.ch				
+#EXTINF:0, group-title="English",HBO HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/12.ch				
+#EXTINF:0, group-title="English",Nat Geo
+http://163.172.24.253:8000/nnneindi/jkhdkef/14.ch				
+#EXTINF:0, group-title="English",Sky Movie
+http://163.172.24.253:8000/nnneindi/jkhdkef/13.ch				
