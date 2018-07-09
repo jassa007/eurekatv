@@ -282,8 +282,6 @@ https://z5ams.akamaized.net/zeenews/tracks-v2a1/index.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225923/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="News",Zee Raj
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225928/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",DD Sports
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Sports",D Sport
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Sports",D Sports HD
@@ -302,21 +300,20 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Sports",Sony Six HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony Ten 1
+#EXTINF:0, group-title="Sports",Ten 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony Ten 1 HD
+#EXTINF:0, group-title="Sports",Ten 1 HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony Ten 2
+#EXTINF:0, group-title="Sports",Ten 2
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony Ten 2 HD
+#EXTINF:0, group-title="Sports",Ten 2 HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony Ten 3
+#EXTINF:0, group-title="Sports",Ten 3
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony Ten 3 HD
+#EXTINF:0, group-title="Sports",Ten 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Willow HD
-http://flu1.podzone.net:9091/Willow/Tv/index.m3u8
-
+#EXTINF:0, group-title="Sports",DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Movies",??
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Movies",& Prive HD
@@ -408,7 +405,7 @@ http://live.wmncdn.net/abr/427465884a9ed96e990f8c78942eee80.m3u8
 #EXTINF:0, group-title="Music",B4U Music
 http://125.17.129.13/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Music",Boogle Bollywood 
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/playlist.m3u8
 #EXTINF:0, group-title="Music",Chakde TV
 http://streamer3.ultapulta.com:7050/
 #EXTINF:0, group-title="Music",Cine Voice
@@ -643,7 +640,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",Sony Sab HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Sony TV
+#EXTINF:0, group-title="Entertainment",Sony SD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",Sony TV HD
 http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -897,3 +894,36 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 #EXTINF:0, group-title="Devotional",Munsif
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226267/index.m3u8|User-Agent=ExoPlayerDemo/4.4
+
+#EXTINF:0, group-title="Entertainment",Star Plus
+http://163.172.24.253:8000/nnneindi/jkhdkef/15.ch				
+#EXTINF:0, group-title="Entertainment",Sab TV
+http://163.172.24.253:8000/nnneindi/jkhdkef/3.ch				
+#EXTINF:0, group-title="Entertainment",Star Bharat
+http://163.172.24.253:8000/nnneindi/jkhdkef/1.ch				
+#EXTINF:0, group-title="Infotainment",Animal Planet
+http://163.172.24.253:8000/nnneindi/jkhdkef/2.ch				
+#EXTINF:0, group-title="Entertainment",Sony TV SD
+http://163.172.24.253:8000/nnneindi/jkhdkef/4.ch				
+#EXTINF:0, group-title="Movies",Zee Classic
+http://163.172.24.253:8000/nnneindi/jkhdkef/5.ch				
+#EXTINF:0, group-title="Entertainment",Zee TV HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/6.ch				
+#EXTINF:0, group-title="Movies",& Pictures HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/10.ch				
+#EXTINF:0, group-title="Entertainment",Colors HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/7.ch				
+#EXTINF:0, group-title="Entertainment",Set Max
+http://163.172.24.253:8000/nnneindi/jkhdkef/11.ch				
+#EXTINF:0, group-title="Movies",Star Gold HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/8.ch				
+#EXTINF:0, group-title="Movies",Zee Cinema HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/9.ch				
+#EXTINF:0, group-title="News",Zee News
+http://163.172.24.253:8000/nnneindi/jkhdkef/16.ch				
+#EXTINF:0, group-title="Movies",HBO HD
+http://163.172.24.253:8000/nnneindi/jkhdkef/12.ch				
+#EXTINF:0, group-title="Infotainment",Nat Geo
+http://163.172.24.253:8000/nnneindi/jkhdkef/14.ch				
+#EXTINF:0, group-title="Movies,Sky Movie
+http://163.172.24.253:8000/nnneindi/jkhdkef/13.ch				
