@@ -1283,3 +1283,13 @@ https://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 https://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Music",Zing
 https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Music",Brit Asia
+http://izgemma.ddns.net:8000/live/shaun/shaun/11306.ts
+#EXTINF:0, group-title="Infotainment",PTC Punjabi
+http://izgemma.ddns.net:8000/live/shaun/shaun/11737.ts
+#EXTINF:0, group-title="Devotional",Jus Punjabi
+http://izgemma.ddns.net:8000/live/shaun/shaun/21852.ts
+
+
+
