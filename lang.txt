@@ -1284,3 +1284,14 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226355/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Urdu",Zee Salaam
 https://z5ams.akamaized.net/zeesalaam/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Punjabi",Brit Asia
+http://izgemma.ddns.net:8000/live/shaun/shaun/11306.ts
+#EXTINF:0, group-title="Punjabi",PTC Punjabi
+http://izgemma.ddns.net:8000/live/shaun/shaun/11737.ts
+#EXTINF:0, group-title="Punjabi",Jus Punjabi
+http://izgemma.ddns.net:8000/live/shaun/shaun/21852.ts
+
+
+
+
