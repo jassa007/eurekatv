@@ -271,6 +271,8 @@ http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",Bulland TV
 http://94krv9bxqb6p-hls-live.wmncdn.net/1237/buland/b04de4cdf2ceee6b13f7270be87a23f2.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Entertainment",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Chakde TV
 http://streamer3.ultapulta.com:7050/
 #EXTINF:0, group-title="Punjabi",Chardikala Gurbani TV
@@ -393,8 +395,12 @@ http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:0, group-title="Entertainment",Subrang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:0, group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Entertainment",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Trucking Today
 http://capcobroadcaststream.in:1935/capco/ttt.sdp/chunklist_w694526904.m3u8
 #EXTINF:0, group-title="Punjabi",TV 16 Toronto
