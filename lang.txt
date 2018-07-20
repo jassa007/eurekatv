@@ -1262,9 +1262,7 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8|User-Agent=stagefright/1.2
 #EXTINF:0, group-title="Punjabi",Sikh Channel
 http://api.new.livestream.com/accounts/5296919/events/4847426/videos/166122157.m3u8
-#EXTINF:0, group-title="Punjabi",Sikh Channel-1 USA
-http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Punjabi",Sikh Channel-2 USA
+#EXTINF:0, group-title="Punjabi",Sikh Channel USA
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
