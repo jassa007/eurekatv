@@ -386,8 +386,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226098/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Movies",Zee Classic
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226067/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Zee Studio HD
-http://z5ams.akamaized.net/zeestudiohd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Movies",Zee Talkies
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225921/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Movies",Zee Talkies HD
@@ -442,8 +440,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Music",Music Fatafati
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226360/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Only Music HD
-http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:0, group-title="Music",PBN Music
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:0, group-title="Music",Polimer Music
@@ -666,7 +662,7 @@ http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Subrang TV
+#EXTINF:0, group-title="Entertainment",Subrang TV USA
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:0, group-title="Entertainment",Tamilian Television
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226342/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -872,7 +868,8 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226088/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Devotional",BnB
 http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
-#EXTINF:0, group-title="Devotional",Channel Win	 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="Devotional",Channel Win
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 #EXTINF:0, group-title="Devotional",Chardikala Gurbani TV
 http://173.255.140.23:8081/live/gtv/chunks.m3u8
 #EXTINF:0, group-title="Devotional",Divya TV
@@ -885,10 +882,6 @@ http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams
 http://175.176.184.11:1935/live/fatehtvapp_360p/playlist.m3u8
 #EXTINF:0, group-title="Devotional",Fateh TV Int.
 http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
-#EXTINF:0, group-title="Devotional",Garv Punjab
-http://sknwz08.skandha.tv/live/smil:Gpunjab.smil/playlist.m3u8
-#EXTINF:0, group-title="Devotional",Garv Punjab Gurbani
-http://sknwz08.skandha.tv/live/smil:GurbaniVA.smil/playlist.m3u8
 #EXTINF:0, group-title="Devotional",Garv Swani Narayan
 http://sknwz08.skandha.tv/live/smil:Swaminarayan.smil/playlist.m3u8
 #EXTINF:0, group-title="Devotional",God TV
@@ -939,9 +932,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226228/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Devotional",Sikh Channel
 http://api.new.livestream.com/accounts/5296919/events/4847426/videos/166122157.m3u8
-#EXTINF:0, group-title="Devotional",Sikh Channel-1 USA
-http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Devotional",Sikh Channel-2 USA
+#EXTINF:0, group-title="Devotional",Sikh Channel USA
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Devotional",Sri Sankara
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226320/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -981,8 +972,6 @@ https://z5ams.akamaized.net/zeecafesd/tracks-v2a1/index.m3u8
 https://z5ams.akamaized.net/zeenews/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Entertainment",Zee Salaam
 https://z5ams.akamaized.net/zeesalaam/tracks-v2a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Studio
-https://z5ams.akamaized.net/zeestudiosd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Movies",Zee Talkies
 https://z5ams.akamaized.net/zeetalkies/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Entertainment",Zee Tamil
