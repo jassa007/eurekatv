@@ -1,3 +1,5 @@
+#EXTM3U 
+
 #EXTINF:0, group-title="Hindi",And Pictures HD
 http://mhdtvlive.online/delta/m3u8.php?c=And_Pictures_HD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",And TV HD
@@ -286,6 +288,14 @@ http://mhdtvlive.online/delta/m3u8.php?c=Sony_SAB&q=800&e=.m3u8|Referer=http://m
 http://mhdtvlive.online/delta/m3u8.php?c=Sony_SAB_HD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",Sony Yay Hindi
 http://mhdtvlive.online/delta/m3u8.php?c=Sony_Yay_Hindi&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Hindi",Star Bharat HD
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Bharat_HD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Hindi",Star Gold HD
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Gold_HD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Hindi",Star Plus HD
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Plus_HD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Hindi",Star Utsav HD
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Utsav&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",Sudarshan
 http://mhdtvlive.online/delta/m3u8.php?c=Sudarshan&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",Swaraj Express
@@ -479,6 +489,16 @@ http://mhdtvlive.online/delta/m3u8.php?c=Sony_Pix_HD&q=800&e=.m3u8|Referer=http:
 http://mhdtvlive.online/delta/m3u8.php?c=Sony_Six_SD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="English",Sony Six HD
 http://mhdtvlive.online/delta/m3u8.php?c=Six_HD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="English",Star Sports 1
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Sports_HD_1&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="English",Star Sports 2
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Sports_HD_2&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="English",Star Sports Hindi 1
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Sports_3&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="English",Star Sports Select HD1
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Sports_Select_HD_1&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="English",Star Sports Select HD2
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Sports_Select_HD_2&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="English",Swayam Prabha 01
 http://mhdtvlive.online/delta/m3u8.php?c=Swayam_Prabha_01&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="English",Swayam Prabha 02
@@ -577,8 +597,6 @@ http://mhdtvlive.online/delta/m3u8.php?c=Travel_XP_HD&q=800&e=.m3u8|Referer=http
 http://mhdtvlive.online/delta/m3u8.php?c=TV_5_Monde&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="English",WB
 http://mhdtvlive.online/delta/m3u8.php?c=WB&q=800&e=.m3u8|Referer=http://mhdtvlive.online
-#EXTINF:0, group-title="English",Willow HD
-http://flu1.podzone.net:9091/Willow/Tv/index.m3u8
 #EXTINF:0, group-title="English",Wion
 http://mhdtvlive.online/delta/m3u8.php?c=Wion&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Punjabi",9X Tashan
@@ -701,6 +719,8 @@ http://mhdtvlive.online/delta/m3u8.php?c=Sony_BBC_Earth_HD_Tamil&q=800&e=.m3u8|R
 http://mhdtvlive.online/delta/m3u8.php?c=Sony_ESPN_Tamil_SD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Tamil",Sony Yay Tamil
 http://mhdtvlive.online/delta/m3u8.php?c=Sony_Yay_Tamil&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Tamil",Star Vijay HD
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Vijay&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Tamil",Sun Life
 http://mhdtvlive.online/delta/m3u8.php?c=Sun_Life&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Tamil",Sun Music
@@ -859,8 +879,14 @@ http://mhdtvlive.online/delta/m3u8.php?c=Zee_Cinemalu&q=800&e=.m3u8|Referer=http
 http://mhdtvlive.online/delta/m3u8.php?c=Zee_Telugu&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Malayalam",Amrita TV
 http://mhdtvlive.online/delta/m3u8.php?c=Amrita_TV&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Malayalam",Asianet HD
+http://mhdtvlive.online/delta/m3u8.php?c=Asianet&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Malayalam",Asianet Movies HD
+http://mhdtvlive.online/delta/m3u8.php?c=Asianet_Movies_HD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Malayalam",Asianet News
-http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+http://mhdtvlive.online/delta/m3u8.php?c=Asianet_News&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Malayalam",Asianet Plus HD
+http://mhdtvlive.online/delta/m3u8.php?c=Asianet_Plus&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Malayalam",Channel D
 http://mhdtvlive.online/delta/m3u8.php?c=ChannelDHD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Malayalam",DD Malayalam
@@ -957,6 +983,8 @@ http://mhdtvlive.online/delta/m3u8.php?c=Suddi_TV&q=800&e=.m3u8|Referer=http://m
 http://mhdtvlive.online/delta/m3u8.php?c=Suvarna&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Kannada",Suvarna News
 http://mhdtvlive.online/delta/m3u8.php?c=Suvarna_News&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Kannada",Suvarna Plus HD
+http://mhdtvlive.online/delta/m3u8.php?c=Asianet_Suvarna_HD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Kannada",TV 5 Kannada
 http://mhdtvlive.online/delta/m3u8.php?c=TV_5_Kannada&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Kannada",TV9 KA
@@ -1049,6 +1077,8 @@ http://mhdtvlive.online/delta/m3u8.php?c=IBN_Lokmat&q=800&e=.m3u8|Referer=http:/
 http://mhdtvlive.online/delta/m3u8.php?c=InGoa24x7&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Marathi",Maiboli
 http://mhdtvlive.online/delta/m3u8.php?c=Maiboli&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Marathi",Star Pravah HD
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Pravah&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Marathi",TV9 MH
 http://mhdtvlive.online/delta/m3u8.php?c=TV9_Maharashtra&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Marathi",Zee 24 Taas
@@ -1105,6 +1135,8 @@ http://mhdtvlive.online/delta/m3u8.php?c=Sangeet_Bangla&q=800&e=.m3u8|Referer=ht
 http://mhdtvlive.online/delta/m3u8.php?c=Sony_aath&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Bangla",Sony ESPN Bangla
 http://mhdtvlive.online/delta/m3u8.php?c=Sony_ESPN_Bangla_SD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
+#EXTINF:0, group-title="Bangla",Star Jalsha HD
+http://mhdtvlive.online/delta/m3u8.php?c=Star_Jalsha&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Bangla",Zee Bangla
 http://mhdtvlive.online/delta/m3u8.php?c=Zee_Bangla&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Bangla",Zee Bangla Cinema
@@ -1272,8 +1304,6 @@ http://fastway.ddns.net:6421/fastway/live/index.m3u8?token=fastwaytvstreams
 http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:0, group-title="Punjabi",India News PB
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/master.m3u8
-#EXTM3U 
-
 #EXTINF:0, group-title="Punjabi",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:0, group-title="Punjabi",Jhanjar Music
