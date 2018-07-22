@@ -1382,3 +1382,100 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
 http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",Wah Punjabi
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
+
+#EXTINF:0, group-title="Tamil",1Yes TV
+http://150.242.21.2/oneyes.m3u8
+#EXTINF:0, group-title="Tamil",Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+#EXTINF:0, group-title="Tamil",Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",Analai Express HD
+http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+#EXTINF:0, group-title="Hindi",Anand Media HD
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:0, group-title="Tamil",Canada Tamils
+http://live.streamjo.com:1935/cctv/live/playlist.m3u8
+#EXTINF:0, group-title="Malayalam",Channe 4U
+http://150.242.21.2/channel4you.m3u8
+#EXTINF:0, group-title="Tamil",Deepam TV
+http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
+#EXTINF:0, group-title="Tamil",Engada TV
+http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
+#EXTINF:0, group-title="Malayalam",GoSree Vision
+http://150.242.21.2/gosree.m3u8
+#EXTINF:0, group-title="Tamil",IBC Bakthi
+https://cdn.ibctamil.com/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
+#EXTINF:0, group-title="Tamil",IBC Tamil
+https://5928f90056f31.streamlock.net/ibc-test/smil:ibc_tamiltv.smil/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",IBC Tamil Comedy
+https://cdn.ibctamil.com/ibc-comedy/smil:ibccomedy.smil/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",IBC Tamil Music
+https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
+#EXTINF:0, group-title="Tamil",Jaal TV
+http://209.58.160.112/jaaltvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",Jaffna TV
+http://stmv3.srvstm.com/matheus/matheus/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Jawahar TV
+http://137.74.115.81/jawaharchannelhls/jc.m3u8
+#EXTINF:0, group-title="Hindi",Kadak Hangama Hit
+https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:0, group-title="Malayalam",KCV
+http://cdn.live5.in:1935/live/kcv/index.m3u8
+#EXTINF:0, group-title="Tamil",MalaiMurasu TV
+http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
+#EXTINF:0, group-title="Malayalam",Media Net
+http://150.242.21.2/medianet.m3u8
+#EXTINF:0, group-title="Malayalam",Media Orange
+http://150.242.21.2/mediaorange.m3u8
+#EXTINF:0, group-title="Tamil",MGR TV HD
+http://livematrix.in:1935/live/mgrtv/index.m3u8
+#EXTINF:0, group-title="Tamil",Naagan TV
+http://nagantv.livebox.co.in/nagantvhls/nagantv.m3u8
+#EXTINF:0, group-title="Tamil",Namadhu TV
+http://d3jo7lhb81t2hz.cloudfront.net/namadhutv/ngrp:live_all/index.m3u8
+#EXTINF:0, group-title="Tamil",Nethra TV
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:0, group-title="Tamil",NettriKann TV
+http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
+#EXTINF:0, group-title="Tamil",Peppers
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Pogo
+https://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Pop Hungama Hit
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:0, group-title="Malayalam",Pravasi Vision
+http://cdn.live5.in:1935/live/pravasi/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Sana TV HD
+http://209.58.160.22/Sanatvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",Sangamam HD
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Selfie TV HD
+http://198.144.158.41:8080/MOVIES_LIVE_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Tamil",SKTAT TV
+http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
+#EXTINF:0, group-title="Tamil",Tamil TV
+http://150.242.21.2/tamiltv.m3u8
+#EXTINF:0, group-title="Tamil",Tamil Vision HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Tamilan24
+http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
+#EXTINF:0, group-title="Malayalam",TCV
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0, group-title="Tamil",Vaigai TV
+http://209.58.164.113/vaigaihls/live.m3u8
+#EXTINF:0, group-title="Tamil",Vanavil Plus TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Vani TV
+http://150.242.21.2/vanitv.m3u8
+#EXTINF:0, group-title="Tamil",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Velicham TV
+http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="Malayalam",Vismaya TV
+http://150.242.21.2/vismaya.m3u8
+#EXTINF:0, group-title="Hindi",Zee Talkies HD
+https://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
