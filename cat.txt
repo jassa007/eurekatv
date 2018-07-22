@@ -318,9 +318,9 @@ http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 #EXTINF:0, group-title="Entertainment",Amrita
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226310/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",And  TV
+#EXTINF:0, group-title="Entertainment",And TV
 https://z5ams.akamaized.net/andtvsd/tracks-v2a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",And  TV HD
+#EXTINF:0, group-title="Entertainment",And TV HD
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Entertainment",Anjan
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/01.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -584,7 +584,7 @@ http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f3
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="Infotainment",Canada Star TV
 http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Channe 4U
+#EXTINF:0, group-title="Infotainment",Channel4U
 http://150.242.21.2/channel4you.m3u8
 #EXTINF:0, group-title="Infotainment",CVR Health
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226248/index.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -678,16 +678,17 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Movies",Alankar
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226042/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",And  Flix	z5ams.akamaized.net/andflix/tracks-v2a1/index.m3u8
-#EXTINF:0, group-title="Movies",And  Flix HD
+#EXTINF:0, group-title="Movies",And Flix	
+http://z5ams.akamaized.net/andflix/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="Movies",And Flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v2a1/index.m3u8
-#EXTINF:0, group-title="Movies",And  Pictures
+#EXTINF:0, group-title="Movies",And Pictures
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/01.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",And  Pictures
+#EXTINF:0, group-title="Movies",And Pictures
 https://z5ams.akamaized.net/andpicssd/tracks-v2a1/index.m3u8
-#EXTINF:0, group-title="Movies",And  Pictures HD
+#EXTINF:0, group-title="Movies",And Pictures HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
-#EXTINF:0, group-title="Movies",And  Prive HD
+#EXTINF:0, group-title="Movies",And Prive HD
 https://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Movies",B4U Movies
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/01.m3u8|User-Agent=ExoPlayerDemo/4.4
