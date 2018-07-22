@@ -348,7 +348,8 @@ http://mhdtvlive.online/delta/m3u8.php?c=Zee_TV_HD&q=800&e=.m3u8|Referer=http://
 http://mhdtvlive.online/delta/m3u8.php?c=Zing&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",ZOOM
 http://mhdtvlive.online/delta/m3u8.php?c=ZOOM&q=800&e=.m3u8|Referer=http://mhdtvlive.online
-#EXTINF:0, group-title="English",And Flix	z5ams.akamaized.net/andflix/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="English",And Flix
+http://z5ams.akamaized.net/andflix/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="English",And Flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="English",And Prive HD
