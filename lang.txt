@@ -1368,7 +1368,7 @@ http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist
 http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 #EXTINF:0, group-title="Tamil",Canada Tamils
 http://live.streamjo.com:1935/cctv/live/playlist.m3u8
-#EXTINF:0, group-title="Malayalam",Channe 4U
+#EXTINF:0, group-title="Malayalam",Channel4U
 http://150.242.21.2/channel4you.m3u8
 #EXTINF:0, group-title="Tamil",Deepam TV
 http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
