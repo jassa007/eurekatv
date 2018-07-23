@@ -164,7 +164,7 @@ http://mhdtvlive.online/delta/m3u8.php?c=Khabar_Fast&q=800&e=.m3u8|Referer=http:
 http://mhdtvlive.online/delta/m3u8.php?c=Live_Today&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",Living India News
 http://mhdtvlive.online/delta/m3u8.php?c=Living_India_News&q=800&e=.m3u8|Referer=http://mhdtvlive.online
-#EXTINF:0, group-title="Hindi",Lok sabha TV
+#EXTINF:0, group-title="Hindi",LSTV
 http://mhdtvlive.online/delta/m3u8.php?c=Loksabha_TV&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",Lord Buddha
 http://mhdtvlive.online/delta/m3u8.php?c=Lord_Buddha&q=800&e=.m3u8|Referer=http://mhdtvlive.online
@@ -230,7 +230,7 @@ http://mhdtvlive.online/delta/m3u8.php?c=Prime_News&q=800&e=.m3u8|Referer=http:/
 http://mhdtvlive.online/delta/m3u8.php?c=PrudentHD&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",Raj Pariwar
 http://mhdtvlive.online/delta/m3u8.php?c=Raj_Pariwar&q=800&e=.m3u8|Referer=http://mhdtvlive.online
-#EXTINF:0, group-title="Hindi",Rajyasabha TV
+#EXTINF:0, group-title="Hindi",RSTV
 http://mhdtvlive.online/delta/m3u8.php?c=DD_Rajyasabha&q=800&e=.m3u8|Referer=http://mhdtvlive.online
 #EXTINF:0, group-title="Hindi",Rishtey
 http://mhdtvlive.online/delta/m3u8.php?c=Rishtey&q=800&e=.m3u8|Referer=http://mhdtvlive.online
