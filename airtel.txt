@@ -132,7 +132,7 @@ http://stream.tapmad.com:1935/pitvlive/waseeb3.stream/chunklist.m3u8
 http://178.162.221.228/wazirahls/live.m3u8
 #EXTINF:0, group-title="Pakistan",Zaiqa TV
 http://stream.tapmad.com:1935/pitvlive/zaiqatv3.stream/chunklist.m3u8
-#EXTINF:0, group-title="Afghanistan		1 TV
+#EXTINF:0, group-title="Afghanistan",1 TV
 http://173.208.166.178:80/1tv-live-ca7a6c579c8763664be7c2df49a4e29fuckoff/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Afghav Javan
 http://o2nbyj76y53k-hls-live.5centscdn.com/459/459_push_211/ad0234829205b9033196ba818f7a872b.sdp/tracks-v1a1/index.m3u8
@@ -142,7 +142,7 @@ http://iptv.afghantimetv.com/afghantime/playlist2/index.m3u8
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=65&extension=m3u8
 #EXTINF:0, group-title="Afghanistan",AMC
 http://173.208.166.178:80/amc_tv_live-1c104aabcdef123a3b6599d1935f99f6e409d/tracks-v1a1/mono.m3u8
-#EXTINF:0, group-title="Afghanistan		Arezo TV
+#EXTINF:0, group-title="Afghanistan",Arezo TV
 http://173.208.166.178/arezo_tv_live-1c104a64648b6599d1935f9f6e409z257f562/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Afghanistan",ATN News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1082433098.m3u8
