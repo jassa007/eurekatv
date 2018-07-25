@@ -66,10 +66,6 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8
 http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
 #EXTINF:0, group-title="Pakistan",Health TV
 http://stream.tapmad.com:1935/pitvlive/healthtv3.stream/chunklist.m3u8
-#EXTINF:0, group-title="Pakistan",Hum Sitaray
-https://www.youtube.com/watch?v=-cKBuwi33fE
-#EXTINF:0, group-title="Pakistan",Hum Tnews
-https://www.youtube.com/watch?v=GMNJAruCO5I
 #EXTINF:0, group-title="Pakistan",Hum TV Masala
 https://live.pockettv.com.pk:4444/live/hummasalaweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Jaag TV
@@ -116,8 +112,6 @@ http://live.pockettv.com.pk:1935/live/newsoneweb_720p/index.m3u8
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=137&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Pashto 1
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=151&extension=m3u8
-#EXTINF:0, group-title="Pakistan",Play TV
-https://www.youtube.com/watch?v=87JWDWoKAco&feature=youtu.be&list=PLMu1Aej030eE5J0F0N3aFi6xod7MkFLYU
 #EXTINF:0, group-title="Pakistan",PTV Home
 http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
 #EXTINF:0, group-title="Pakistan",PTV News
@@ -134,8 +128,6 @@ http://154.50.202.82:1935/live/pashtutvweb_720p/index.m3u8
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=161&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Roze News
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=157&extension=m3u8
-#EXTINF:0, group-title="Pakistan",Samaa TV
-https://www.youtube.com/watch?v=yRQoHeufuUU&feature=youtu.be
 #EXTINF:0, group-title="Pakistan",See TV HD
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=100&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Such News
