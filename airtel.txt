@@ -3,11 +3,9 @@
 #EXTINF:0, group-title="Pakistan",? News
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=147&extension=m3u8
 #EXTINF:0, group-title="Pakistan",24 News HD
-https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=111&extension=m3u8
-#EXTINF:0, group-title="Pakistan",6 News
-http://cdn.ebound.tv/tv/7news/playlist.m3u8
+https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=145&extension=m3u8
 #EXTINF:0, group-title="Pakistan",7 News
-https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=121&extension=m3u8
+http://cdn.ebound.tv/tv/7news/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",8XM HD
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=136&extension=m3u8
 #EXTINF:0, group-title="Pakistan",92 News HD
@@ -36,8 +34,6 @@ http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b13
 http://stream.tapmad.com:1935/pitvlive/atv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Awaz News
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=150&extension=m3u8
-#EXTINF:0, group-title="Pakistan",C 42
-https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=105&extension=m3u8
 #EXTINF:0, group-title="Pakistan",C41
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=158&extension=m3u8
 #EXTINF:0, group-title="Pakistan",C42
@@ -51,10 +47,8 @@ http://live.pockettv.com.pk:1935/live/dawnnewsweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Dharti TV
 http://stream.tapmad.com:1935/pitvlive/dhartitv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Din News
-https://youtu.be/b2Wj-N2-FHQ
+https://youtu.be/a3KKrzBjCuY
 #EXTINF:0, group-title="Pakistan",Dunya News
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
-#EXTINF:0, group-title="Pakistan",Dunya TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Express News
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=195&extension=m3u8
@@ -73,9 +67,9 @@ http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
 #EXTINF:0, group-title="Pakistan",Health TV
 http://stream.tapmad.com:1935/pitvlive/healthtv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Hum Sitaray
-http://live.pockettv.com.pk:1935/live/humsitarayweb_720p/index.m3u8
-#EXTINF:0, group-title="Pakistan",Hum TV
-https://live.pockettv.com.pk:4444/live/humtvweb_720p/index.m3u8
+https://www.youtube.com/watch?v=-cKBuwi33fE&feature=youtu.be
+#EXTINF:0, group-title="Pakistan",Hum Tnews
+https://www.youtube.com/watch?v=GMNJAruCO5I&feature=youtu.be
 #EXTINF:0, group-title="Pakistan",Hum TV Masala
 https://live.pockettv.com.pk:4444/live/hummasalaweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Jaag TV
@@ -116,10 +110,6 @@ http://stream.tapmad.com:1935/pitvlive/mehran3.stream/chunklist.m3u8
 http://stream.tapmad.com:1935/pitvlive/metro3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Neo HD
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=124&extension=m3u8
-#EXTINF:0, group-title="Pakistan",Neo TV
-http://stream.tapmad.com:1935/pitvlive/neo3.stream/chunklist.m3u8
-#EXTINF:0, group-title="Pakistan",News 24 HD
-https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=145&extension=m3u8
 #EXTINF:0, group-title="Pakistan",News One
 http://live.pockettv.com.pk:1935/live/newsoneweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Oxygene
@@ -127,9 +117,7 @@ https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&pas
 #EXTINF:0, group-title="Pakistan",Pashto 1
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=151&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Play TV
-https://youtu.be/87JWDWoKAco?list=PLMu1Aej030eE5J0F0N3aFi6xod7MkFLYU
-#EXTINF:0, group-title="Pakistan",PTV Global
-http://stream.tapmad.com:1935/pitvlive/ptvglobal3.stream/chunklist.m3u8
+https://www.youtube.com/watch?v=87JWDWoKAco&feature=youtu.be&list=PLMu1Aej030eE5J0F0N3aFi6xod7MkFLYU
 #EXTINF:0, group-title="Pakistan",PTV Home
 http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
 #EXTINF:0, group-title="Pakistan",PTV News
@@ -137,7 +125,7 @@ http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
 #EXTINF:0, group-title="Pakistan",PTV Sports
 http://live.pockettv.com.pk:1935/live/ptvsportsweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",PTV World
-http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+https://59aeddfe9f01c.streamlock.net/live/PTVworld/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Punjab TV
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=153&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Pushto 1
@@ -146,10 +134,8 @@ http://154.50.202.82:1935/live/pashtutvweb_720p/index.m3u8
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=161&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Roze News
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=157&extension=m3u8
-#EXTINF:0, group-title="Pakistan",Sach TV
-https://youtu.be/yRQoHeufuUU
 #EXTINF:0, group-title="Pakistan",Samaa TV
-https://samaatr-hls.secdn.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
+https://www.youtube.com/watch?v=yRQoHeufuUU&feature=youtu.be
 #EXTINF:0, group-title="Pakistan",See TV HD
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=100&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Such News
@@ -167,8 +153,6 @@ https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&pas
 #EXTINF:0, group-title="Pakistan",Waqt News
 http://stream.tapmad.com:1935/pitvlive/waqtnews3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Waseb
-https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=135&extension=m3u8
-#EXTINF:0, group-title="Pakistan",Waseeb
 http://stream.tapmad.com:1935/pitvlive/waseeb3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Wasirabad TV
 http://178.162.221.228/wazirahls/live.m3u8
