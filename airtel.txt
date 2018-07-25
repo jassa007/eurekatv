@@ -67,9 +67,9 @@ http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
 #EXTINF:0, group-title="Pakistan",Health TV
 http://stream.tapmad.com:1935/pitvlive/healthtv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Hum Sitaray
-https://www.youtube.com/watch?v=-cKBuwi33fE&feature=youtu.be
+https://www.youtube.com/watch?v=-cKBuwi33fE
 #EXTINF:0, group-title="Pakistan",Hum Tnews
-https://www.youtube.com/watch?v=GMNJAruCO5I&feature=youtu.be
+https://www.youtube.com/watch?v=GMNJAruCO5I
 #EXTINF:0, group-title="Pakistan",Hum TV Masala
 https://live.pockettv.com.pk:4444/live/hummasalaweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Jaag TV
