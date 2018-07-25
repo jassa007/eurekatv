@@ -353,3 +353,23 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTINF:0, group-title="Indonesia",TVRI 4
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
+
+
+#EXTINF:0, group-title="Afganistan",BBC Persian
+https://www.youtube.com/watch?v=FCKruF2LZNs
+#EXTINF:0, group-title="Pakistan",Hum TV Live
+https://www.youtube.com/watch?v=GMNJAruCO5I
+#EXTINF:0, group-title="Bangladesh",NTV
+https://www.youtube.com/watch?v=71ctDohcROQ
+#EXTINF:0, group-title="Bangladesh",RTV Live
+https://www.youtube.com/watch?v=rFXV7sYNmS4
+#EXTINF:0, group-title="Pakistan",Samaa News
+https://www.youtube.com/watch?v=yRQoHeufuUU
+#EXTINF:0, group-title="Pakistan",Tehlka News
+https://www.youtube.com/watch?v=ws9hsoaEy-E
+#EXTINF:0, group-title="Sri Lanka",The Buddhist
+https://www.youtube.com/watch?v=rRI1hZ2aFWQ
+#EXTINF:0, group-title="Sri Lanka",TV Derana
+https://www.youtube.com/watch?v=btqfAWIfTsM
+#EXTINF:0, group-title="Sri Lanka",TV1
+https://www.youtube.com/watch?v=CuT0Srfs07g
