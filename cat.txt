@@ -996,3 +996,22 @@ https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/et
 https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//master.m3u8
 #EXTINF:0, group-title="Business",Zee Business
 https://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Devotional",Dhadrianwale Live
+https://www.youtube.com/watch?v=KGnVpdwMy6U
+#EXTINF:0, group-title="Devotional",Darbar Sahib Live
+https://www.youtube.com/watch?v=sMQIOTh6eyg
+#EXTINF:0, group-title="Devotional",Dukh Niwaran Live
+https://www.youtube.com/watch?v=4O1_Dntxwbw
+#EXTINF:0, group-title="Kids",Nursery Rhymes
+https://www.youtube.com/watch?v=YjqC2gOiwvc
+#EXTINF:0, group-title="Devotional",TV1 Shirdi Live
+https://www.youtube.com/watch?v=Mwf3ByNX0YY
+#EXTINF:0, group-title="News",Sun News
+https://www.youtube.com/watch?v=6jtgomeiB2o
+#EXTINF:0, group-title="Entertainemnt",BollyWood Masala TV
+https://www.youtube.com/watch?v=Bif339RnpVk
+#EXTINF:0, group-title="News",Media One TV
+https://www.youtube.com/watch?v=jqlTLLbc4YU
+#EXTINF:0, group-title="News",YoYoNews
+https://www.youtube.com/watch?v=EOa2VKMw3k8
