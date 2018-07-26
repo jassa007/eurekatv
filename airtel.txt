@@ -355,7 +355,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
 
 
-#EXTINF:0, group-title="Afganistan",BBC Persian
+#EXTINF:0, group-title="Afghanistan",BBC Persian
 https://www.youtube.com/watch?v=FCKruF2LZNs
 #EXTINF:0, group-title="Pakistan",Hum TV Live
 https://www.youtube.com/watch?v=GMNJAruCO5I
