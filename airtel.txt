@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 
 #EXTINF:0, group-title="Pakistan",24 News HD
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=145&extension=m3u8
@@ -106,6 +106,8 @@ http://live.pockettv.com.pk:1936/live/makkahweb_720p/index.m3u8
 http://stream.tapmad.com:1935/pitvlive/mehran3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Metro One
 http://stream.tapmad.com:1935/pitvlive/metro3.stream/chunklist.m3u8
+#EXTINF:0, group-title="Pakistan",MTA Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 #EXTINF:0, group-title="Pakistan",Neo News HD
 https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=124&extension=m3u8
 #EXTINF:0, group-title="Pakistan",News One
@@ -272,6 +274,8 @@ http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Millennium TV	103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Movie Bangla
 http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:0, group-title="Bangladesh",MTA Bangla
+http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/index_1400_av-p.m3u8
 #EXTINF:0, group-title="Bangladesh",Naaptol (Bangla)
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226271/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Nandan
@@ -300,12 +304,6 @@ http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Sony Ahat
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/03.m3u8
-#EXTINF:0, group-title="Bangladesh",Ten 1
-http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/04.m3u8
-#EXTINF:0, group-title="Bangladesh",Ten 2
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/03.m3u8
-#EXTINF:0, group-title="Bangladesh",Ten 3
-http://mhms8.airtel.tv/wh7f454c46tw2266972042_1041721119/PLTV/88888888/224/3221226330/01.m3u8
 #EXTINF:0, group-title="Bangladesh",Time
 http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",TV Asia HD
@@ -315,7 +313,7 @@ http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:0, group-title="Bangladesh",Zee Bangla
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/03.m3u8
 #EXTINF:0, group-title="Bangladesh",Zee Bangla HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+https://z5ams.akamaized.net/zeebanglahd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Sri Lanka",ITN
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
 #EXTINF:0, group-title="Sri Lanka",Rupavahini TV
@@ -329,7 +327,7 @@ http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8
 #EXTINF:0, group-title="Sri Lanka",Siyatha TV
 http://live.siyathatv.lk:19904/hls/test.m3u8
 #EXTINF:0, group-title="Nepal",Kantipur TV
-http://broadcast2.kantipurtv.com:8081/edgektvcdnx1/ktvlive/playlist.m3u8
+http://ktvhd88249.ekantipur.com:8081/fifaktvhdedgecdn/live_720p/chunks.m3u8
 #EXTINF:0, group-title="Nepal",Makalu
 http://202.166.207.18:1935/live/makalu_2/playlist.m3u8
 #EXTINF:0, group-title="Nepal",Nepal One
@@ -372,3 +370,28 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTINF:0, group-title="Indonesia",TVRI 4
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
+				
+#EXTINF:0, group-title="Nepal",ABC News
+https://www.youtube.com/watch?v=ULk_uAQbFII
+#EXTINF:0, group-title="Sri Lanka",ATN News
+https://www.youtube.com/watch?v=I8qjJypQVUo
+#EXTINF:0, group-title="Afganistan",BBC Persian
+https://www.youtube.com/watch?v=FCKruF2LZNs
+#EXTINF:0, group-title="Pakistan",Hum TV Live
+https://www.youtube.com/watch?v=GMNJAruCO5I
+#EXTINF:0, group-title="Bangladesh",NTV
+https://www.youtube.com/watch?v=Gmmd4Q7nW98
+#EXTINF:0, group-title="Bangladesh",RTV Live
+https://www.youtube.com/watch?v=BEgK3AOAwO0
+#EXTINF:0, group-title="Pakistan",Samaa News
+https://www.youtube.com/watch?v=C8Aoxj5C_4U
+#EXTINF:0, group-title="Sri Lanka",Swarnavahini TV
+https://www.youtube.com/watch?v=E0NU_464u2A
+#EXTINF:0, group-title="Pakistan",Tehlka News
+https://www.youtube.com/watch?v=ws9hsoaEy-E
+#EXTINF:0, group-title="Sri Lanka",The Buddhist
+https://www.youtube.com/watch?v=rRI1hZ2aFWQ
+#EXTINF:0, group-title="Sri Lanka",TV Derana
+https://www.youtube.com/watch?v=cr6M-MUZT2c
+#EXTINF:0, group-title="Sri Lanka",TV1
+https://www.youtube.com/watch?v=lgLzj2ljJ8Y
