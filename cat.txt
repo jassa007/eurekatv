@@ -81,7 +81,7 @@ http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="News",Garshom News
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:0, group-title="News",Global Punjab
-http://104.237.59.106/live/Global_web.m3u8
+http://207.244.112.71/globalpunjabhls/live.m3u8
 #EXTINF:0, group-title="News",Gulistan New
 rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
 #EXTINF:0, group-title="News",Hindi Khabar
