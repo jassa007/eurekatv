@@ -1,3 +1,5 @@
+#EXTM3U 
+
 #EXTINF:0, group-title="English",Al Jazeera
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="English",9XO
@@ -12,8 +14,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="English",Bloomberg
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="English",BollyWood Masala TV
-https://www.youtube.com/watch?v=Bif339RnpVk
 #EXTINF:0, group-title="English",BTVi
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="English",CNN News 18 
@@ -42,6 +42,8 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 https://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="English",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:0, group-title="English",MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
 #EXTINF:0, group-title="English",NDTV 24x7
 https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
 #EXTINF:0, group-title="English",NDTV Good Times
@@ -58,8 +60,6 @@ https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-p.m3u8
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
 #EXTINF:0, group-title="English",NHK World
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226408/index.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="English",Nursery Rhymes
-https://www.youtube.com/watch?v=YjqC2gOiwvc
 #EXTINF:0, group-title="English",Republic TV
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="English",RT
@@ -384,16 +384,12 @@ http://173.255.140.23:8081/live/gtv/chunks.m3u8
 http://fastway.ddns.net:6421/fastway/live5/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Darbar Sahib Live
-https://www.youtube.com/watch?v=sMQIOTh6eyg
 #EXTINF:0, group-title="Punjabi",DD Punjabi
 http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
 #EXTINF:0, group-title="Punjabi",Desi Channel
 https://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Dhadrianwale Live
-https://www.youtube.com/watch?v=KGnVpdwMy6U
 #EXTINF:0, group-title="Punjabi",DIP
 http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",DPD Punjabi HD
@@ -406,7 +402,7 @@ http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
 http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",Fastway TV
 http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Punjabi",Fastway TV-1
+#EXTINF:0, group-title="Punjabi",Fastway Ent.
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",Fateh TV
 https://wowzaprod142-i.akamaihd.net/hls/live/592898/387dc47a/playlist.m3u8
@@ -414,6 +410,10 @@ https://wowzaprod142-i.akamaihd.net/hls/live/592898/387dc47a/playlist.m3u8
 http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:0, group-title="Punjabi",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:0, group-title="Punjabi",GDNS Surrey
+http://live.agmediachandigarh.com/dukhnivaransahib/bfc254e2e8c0e9cb0f8318c493e8c78d.sdp/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
 http://207.244.112.71/globalpunjabhls/live.m3u8
 #EXTINF:0, group-title="Punjabi",Global Sanjh
@@ -438,8 +438,6 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 http://live-23.viewer.dacast.com/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Punjabi",Jujhar TV
 http://172.104.54.227:1935/capco/jujhartv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Kids Punjabi
-http://fastway.ddns.net:6421/fastway/live11/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",KTV
 http://188.138.57.234:1935/ktv/live/chunklist_w546360823.m3u8
 #EXTINF:0, group-title="Punjabi",Life Punjabi
@@ -518,8 +516,6 @@ http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/in
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
 #EXTINF:0, group-title="Punjabi",Zee Punjabi
 https://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Dukh Niwaran Live
-https://www.youtube.com/watch?v=4O1_Dntxwbw
 #EXTINF:0, group-title="Tamil",EET TV Canada
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",1Yes TV
@@ -632,8 +628,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://198.144.158.41:8080/MOVIES_LIVE_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Tamil",SKTAT TV
 http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
-#EXTINF:0, group-title="Tamil",Sun News
-https://www.youtube.com/watch?v=6jtgomeiB2o
 #EXTINF:0, group-title="Tamil",Tamil TV
 http://150.242.21.2/tamiltv.m3u8
 #EXTINF:0, group-title="Tamil",Tamil Vision HD
@@ -718,8 +712,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226399/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Telugu",Thanthi TV
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226219/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Telugu",TV1 Shirdi Live
-https://www.youtube.com/watch?v=Mwf3ByNX0YY
 #EXTINF:0, group-title="Telugu",TV5 Telugu
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226350/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Telugu",TV9 News
@@ -732,8 +724,6 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226255/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Telugu",Yoga TV -Swamiji
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:0, group-title="Telugu",YoYo News
-https://www.youtube.com/watch?v=EOa2VKMw3k8
 #EXTINF:0, group-title="Telugu",Zee Cinemalu
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226098/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Telugu",Zee Telugu
@@ -806,8 +796,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://150.242.21.2/medianet.m3u8
 #EXTINF:0, group-title="Malayalam",Media One
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Malayalam",Media One TV
-https://www.youtube.com/watch?v=jqlTLLbc4YU
 #EXTINF:0, group-title="Malayalam",Media Orange
 http://150.242.21.2/mediaorange.m3u8
 #EXTINF:0, group-title="Malayalam",News 18 Malayalam
@@ -918,8 +906,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226302/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Oriya",Dhoom Music
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTM3U 
-
 #EXTINF:0, group-title="Oriya",Kanak News
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226224/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Oriya",Kalinga TV
@@ -974,7 +960,7 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226386/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Urdu",DD Urdu
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226384/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Urdu",Gulistan New
+#EXTINF:0, group-title="Urdu",Gulistan News
 rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
 #EXTINF:0, group-title="Urdu",Munsif
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226267/index.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -1000,3 +986,32 @@ http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/pl
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226064/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bhojpuri",Zee Bihar JH
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226241/index.m3u8|User-Agent=ExoPlayerDemo/4.4
+				
+#EXTINF:0, group-title="English",BollyWood Masala TV
+https://www.youtube.com/watch?v=Bif339RnpVk
+#EXTINF:0, group-title="Punjabi",Darbar Sahib Live
+https://www.youtube.com/watch?v=UryBoDYHFP4
+#EXTINF:0, group-title="Punjabi",Dhadrianwale Live
+https://www.youtube.com/watch?v=KGnVpdwMy6U
+#EXTINF:0, group-title="Punjabi",GNSG Surrey
+https://www.youtube.com/watch?v=0M-_VN60C-Q
+#EXTINF:0, group-title="Punjabi",GPMKC Moga
+https://www.youtube.com/watch?v=c3GjYDSDv64
+#EXTINF:0, group-title="Punjabi",GSS Malton
+https://www.youtube.com/watch?v=DiMEZZWZ268
+#EXTINF:0, group-title="Punjabi",GSS Seattle
+https://www.youtube.com/watch?v=TTmQNwEnYMA
+#EXTINF:0, group-title="Punjabi",Kabbadi Cup 2018
+https://www.youtube.com/watch?v=uZfOT7HgXY0
+#EXTINF:0, group-title="Punjabi",Kaldighar Ludhiana
+https://www.youtube.com/watch?v=bq2JUbUj54Q
+#EXTINF:0, group-title="Punjabi",Live Kirtan 24x7 
+https://www.youtube.com/watch?v=2ExIWCM56Ek
+#EXTINF:0, group-title="English",Nursery Rhymes
+https://www.youtube.com/watch?v=YjqC2gOiwvc
+#EXTINF:0, group-title="Punjabi",SBS Bhucho
+https://www.youtube.com/watch?v=pcu_TJn-pH8
+#EXTINF:0, group-title="Tamil",Sun News
+https://www.youtube.com/watch?v=emRhC_bJUtg
+#EXTINF:0, group-title="Telugu",YoYo News
+https://www.youtube.com/watch?v=EOa2VKMw3k8
