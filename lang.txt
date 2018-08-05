@@ -417,7 +417,7 @@ http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
 http://104.237.59.106/live/Global_web.m3u8
 #EXTINF:0, group-title="Punjabi",Global Sanjh
-http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8
+http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",Go Punjabi HD
 http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Gurbaani Healing
