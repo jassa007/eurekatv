@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 
 #EXTINF:0, group-title="News",10 TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/01.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -76,13 +76,11 @@ https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3
 https://etv-up.akamaized.net/i/etv_up_hls_1@175735/index_5_av-p.m3u8
 #EXTINF:0, group-title="News",ETV Urdu
 https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
-#EXTINF:0, group-title="News",Fastway TV
-http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="News",Garshom News
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:0, group-title="News",Global Punjab
 http://207.244.112.71/globalpunjabhls/live.m3u8
-#EXTINF:0, group-title="News",Gulistan New
+#EXTINF:0, group-title="News",Gulistan News
 rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
 #EXTINF:0, group-title="News",Hindi Khabar
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226249/index.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -400,7 +398,7 @@ http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
 http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Entertainment",Engada TV
 http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Fastway TV-1
+#EXTINF:0, group-title="Entertainment",Fastway Ent.
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Entertainment",Flowers TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225838/01.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -904,10 +902,16 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226230/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Devotional",Ekta TV Gurbani
 http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Devotional",Fastway TV
+http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Devotional",Fateh TV
 https://wowzaprod142-i.akamaihd.net/hls/live/592898/387dc47a/playlist.m3u8
 #EXTINF:0, group-title="Devotional",Fateh TV Int.
 http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:0, group-title="Devotional",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:0, group-title="Devotional",GDNS Surrey
+http://live.agmediachandigarh.com/dukhnivaransahib/bfc254e2e8c0e9cb0f8318c493e8c78d.sdp/mono.m3u8
 #EXTINF:0, group-title="Devotional",God TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226325/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Devotional",Gurbaani Healing
@@ -926,6 +930,8 @@ http://188.138.57.234:1935/ktv/live/chunklist_w546360823.m3u8
 http://capcobroadcaststream.in:1935/edge1/mhsharda.stream_aac/chunklist_w856920087.m3u8
 #EXTINF:0, group-title="Devotional",Munsif
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226267/index.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Devotional",MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
 #EXTINF:0, group-title="Devotional",Namdhari TV
 http://namdhari.tv/live/sbs1.m3u8
 #EXTINF:0, group-title="Devotional",Om Spiritual
@@ -968,8 +974,6 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:0, group-title="Kids",Discovery Kids
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Kids",Kids Punjabi
-http://fastway.ddns.net:6421/fastway/live11/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Kids",Kushi TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226405/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Kids",Pogo
@@ -984,3 +988,32 @@ https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/et
 https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//master.m3u8
 #EXTINF:0, group-title="Business",Zee Business
 https://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+				
+#EXTINF:0, group-title="News",YoYo News
+https://www.youtube.com/watch?v=EOa2VKMw3k8
+#EXTINF:0, group-title="News",Sun News
+https://www.youtube.com/watch?v=emRhC_bJUtg
+#EXTINF:0, group-title="Devotional",SBS Bhucho
+https://www.youtube.com/watch?v=pcu_TJn-pH8
+#EXTINF:0, group-title="Kids",Nursery Rhymes
+https://www.youtube.com/watch?v=YjqC2gOiwvc
+#EXTINF:0, group-title="Devotional",Live Kirtan 24x7 
+https://www.youtube.com/watch?v=2ExIWCM56Ek
+#EXTINF:0, group-title="Devotional",Kaldighar Ludhiana
+https://www.youtube.com/watch?v=bq2JUbUj54Q
+#EXTINF:0, group-title="Sports",Kabbadi Cup 2018
+https://www.youtube.com/watch?v=uZfOT7HgXY0
+#EXTINF:0, group-title="Devotional",GSS Seattle
+https://www.youtube.com/watch?v=TTmQNwEnYMA
+#EXTINF:0, group-title="Devotional",GSS Malton
+https://www.youtube.com/watch?v=DiMEZZWZ268
+#EXTINF:0, group-title="Devotional",GPMKC Moga
+https://www.youtube.com/watch?v=c3GjYDSDv64
+#EXTINF:0, group-title="Devotional",GNSG Surrey
+https://www.youtube.com/watch?v=0M-_VN60C-Q
+#EXTINF:0, group-title="Devotional",Dhadrianwale Live
+https://www.youtube.com/watch?v=KGnVpdwMy6U
+#EXTINF:0, group-title="Devotional",Darbar Sahib Live
+https://www.youtube.com/watch?v=UryBoDYHFP4
+#EXTINF:0, group-title="Entertainemnt",BollyWood Masala TV
+https://www.youtube.com/watch?v=Bif339RnpVk
