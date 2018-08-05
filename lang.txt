@@ -415,7 +415,7 @@ http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:0, group-title="Punjabi",Global Punjab
-http://104.237.59.106/live/Global_web.m3u8
+http://207.244.112.71/globalpunjabhls/live.m3u8
 #EXTINF:0, group-title="Punjabi",Global Sanjh
 http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/index.m3u8?token=fastwaytvstreams
 #EXTINF:0, group-title="Punjabi",Go Punjabi HD
