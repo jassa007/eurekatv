@@ -1,1018 +1,1019 @@
 #EXTM3U 
 
-
-#EXTINF:0, group-title="News",10 TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Aaj Tak
-https://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Abhi Tak
-http://mhms9.airtel.tv/wh7f454c46tw1905050219_753085836/PLTV/88888888/224/3221226252/1.m3u8
-#EXTINF:0, group-title="News",ABN News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226140/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",ABP Ananda
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",ABP Asmita
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226264/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",ABP Majha
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",ABP News
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:0, group-title="News",ABP News Gujarati
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226264/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Al Jazeera
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Amar Ujala 
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:0, group-title="News",Aone Punjabi
-http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
-#EXTINF:0, group-title="News",Asianet News
-http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:0, group-title="News",Assam Talks
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226339/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Bangla
-https://etv-bangla-news.akamaized.net/i/etv_bangla_news_live_1@2289/index_5_av-p.m3u8
-#EXTINF:0, group-title="News",Bansal News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",BBC World News
-https://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Bharat Samachar
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226268/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Bharat Today TV
-http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
-#EXTINF:0, group-title="News",Bloomberg
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",BTV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226341/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Cauvery News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226276/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Chardikla Time TV
-http://fastway.ddns.net:6421/fastway/live5/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="News",CN News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226285/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",CNN News 18 
-http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
-#EXTINF:0, group-title="News",CVR English News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226253/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",CVR News
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226247/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",DD News
-https://z5ams.akamaized.net/ddnews/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Dighvijay News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226240/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Drisya
-http://150.242.21.2/drisya.m3u8
-#EXTINF:0, group-title="News",DW
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226323/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",DY365
-http://125.17.129.8/PLTV/88888888/224/3221226198/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",E9 Punjabi
-http://cdn.samtv.ca/e9punjabi/index.m3u8
-#EXTINF:0, group-title="News",EET TV Canada
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:0, group-title="News",ETV MP
-https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
-#EXTINF:0, group-title="News",ETV Raj
-https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8
-#EXTINF:0, group-title="News",ETV UP
-https://etv-up.akamaized.net/i/etv_up_hls_1@175735/index_5_av-p.m3u8
-#EXTINF:0, group-title="News",ETV Urdu
-https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
-#EXTINF:0, group-title="News",Garshom News
-http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0, group-title="News",Global Punjab
-http://207.244.112.71/globalpunjabhls/live.m3u8
-#EXTINF:0, group-title="News",Gulistan News
-rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
-#EXTINF:0, group-title="News",Hindi Khabar
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226249/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",IBC 24
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226102/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",India News
-https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
-#EXTINF:0, group-title="News",India News Haryana
-https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsharyana_all/master.m3u8
-#EXTINF:0, group-title="News",India News MP CG
-https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsmp_all/master.m3u8
-#EXTINF:0, group-title="News",India News PB
-https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/master.m3u8
-#EXTINF:0, group-title="News",India News Rajasthan
-https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsrajasthan_all/master.m3u8
-#EXTINF:0, group-title="News",India News UP
-https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsup_all/master.m3u8
-#EXTINF:0, group-title="News",India Today
-https://z5ams.akamaized.net/indiatoday/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",India TV
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
-#EXTINF:0, group-title="News",Jaihind TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226402/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Janam TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226111/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Janta TV
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:0, group-title="News",Jaya Plus
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226282/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Kalinga TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226016/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Kalingar News
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226318/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Kanak News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226224/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Kolkatta TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Life Punjabi
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:0, group-title="News",Living India News
-http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Malai Murasu
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226261/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",MalaiMurasu TV
-http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
-#EXTINF:0, group-title="News",Mathrubhumi News
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226314/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Media Net
-http://150.242.21.2/medianet.m3u8
-#EXTINF:0, group-title="News",Media One
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",mh1 News
-http://capcobroadcaststream.in:1935/edge1/mhone_news.stream_aac/chunklist_w1873206187.m3u8
-#EXTINF:0, group-title="News",Murasu
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226290/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",National Voice UP UK
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226236/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",NDTV 24x7
-https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
-#EXTINF:0, group-title="News",NDTV India
-https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
-#EXTINF:0, group-title="News",News 18 India
-https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-p.m3u8
-#EXTINF:0, group-title="News",News 18 Lokmat
-http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
-#EXTINF:0, group-title="News",News 18 Malayalam
-https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_3_av-p.m3u8
-#EXTINF:0, group-title="News",News 24
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",News 7
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226308/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",News Live
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226108/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",News Nation
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",News Time
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226287/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",News World
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226034/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",News X
-https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
-#EXTINF:0, group-title="News",NTV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226141/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",OK India
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226286/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Patrika TV Raj
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226389/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Polimer News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226283/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Prag News
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226110/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Prajaa TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226234/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Prameya News 7
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226410/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Pratidin Time
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226288/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Prime Asia
-http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Public TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226139/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Puthiya Thalamurai
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226304/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Raj News (Tamil)
-https://z5ams.akamaized.net/rajnews/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Raj News (Kannada)
-https://z5ams.akamaized.net/rajnewskan/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Raj News (Malayalam)
-https://z5ams.akamaized.net/rajnewsmal/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Raj News (Telugu)
-https://z5ams.akamaized.net/rajnewstel/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Republic TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",RT
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226334/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Sadhana Plus News
-http://live.wmncdn.net/sadhanaplus1/live.stream/index.m3u8
-#EXTINF:0, group-title="News",Sakshi TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226306/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Sandesh News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225852/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Sanjha Punjab
-http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="News",Sathiyam
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226340/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Seithigal 24x7
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226318/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Sudarsana News
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226380/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Suvarna News
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226414/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",SVBC TTD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226415/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",T News
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226307/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Tez
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226432/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Thanthi TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226219/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Times Now HD
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:0, group-title="News",Total TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226242/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Trucking Today
-http://capcobroadcaststream.in:1935/capco/ttt.sdp/chunklist_w694526904.m3u8
-#EXTINF:0, group-title="News",TV 100
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226382/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",TV5 Monde Asia
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",TV5 News
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226350/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",TV5 Telugu
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226350/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",TV9 Gujarati
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226113/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",TV9 Kannada
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",TV9 Marathi
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226370/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",TV9 News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226142/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",TV9 Telugu
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226094/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",V News
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",V6 News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226197/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",VTV News
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Wion
-https://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Zee 24 Ghanta
-https://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Zee 24 Kalak
-https://z5ams.akamaized.net/kalak/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Zee 24 Taas
-https://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Zee Bihar JH
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226241/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Zee Hindustan
-https://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Zee Kalinga
-https://z5ams.akamaized.net/kalinga/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Zee MP
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225927/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",Zee News
-https://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Zee Punjabi
-https://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="News",Zee Rajasthan
-https://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Sports",D Sports
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",D Sports HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:0, group-title="Sports",DD Sports
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Neo Prime
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Neo Sports
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",NHK World
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226408/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony ESPN
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony ESPN HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony Six
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Sony Six HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Ten 1
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Ten 1 HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Ten 2
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Ten 2 HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Ten 3
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Sports",Ten 3 HD
-http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:0, group-title="Entertainment",& TV
-https://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",& TV HD
-https://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Aakaash
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Aarya TV
-http://150.242.21.2/aaryaa.m3u8
-#EXTINF:0, group-title="Entertainment",Akaram Gallata TV
-http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
-#EXTINF:0, group-title="Entertainment",Akaram Mix TV
-http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
-#EXTINF:0, group-title="Entertainment",Amrita
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226310/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Anjan
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Aradana TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226229/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Arijan
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",AXN
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Big Magic
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225745/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Boss TV
-http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
-#EXTINF:0, group-title="Entertainment",Bulland TV
-http://94krv9bxqb6p-hls-live.wmncdn.net/1237/buland/b04de4cdf2ceee6b13f7270be87a23f2.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Canada Tamils
-http://live.streamjo.com:1935/cctv/live/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Captain TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226312/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",CTVN Plus
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226250/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Dabangg
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226097/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Dangal
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226029/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Deepam TV
-http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
-#EXTINF:0, group-title="Entertainment",DIP
-http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Discovery Jeet
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226447/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Dishum
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226269/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",DPD Punjabi HD
-http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
-#EXTINF:0, group-title="Entertainment",Ekta TV
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Entertainment",Engada TV
-http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Fastway Ent.
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Entertainment",Flowers TV
-https://z5ams.akamaized.net/flowerstv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:0, group-title="Entertainment",Go Punjabi HD
-http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Hamdard TV
-http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:0, group-title="Entertainment",IBC Tamil Comedy
-https://cdn.ibctamil.com/ibc-comedy/smil:ibccomedy.smil/chunklist.m3u8
-#EXTINF:0, group-title="Entertainment",IBC Tamil Music
-https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
-#EXTINF:0, group-title="Entertainment",Jawahar TV
-http://137.74.115.81/jawaharchannelhls/jc.m3u8
-#EXTINF:0, group-title="Entertainment",Jaya TV HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Jhanjar HD
-http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:0, group-title="Entertainment",Jonack
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226367/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Jujhar TV
-http://172.104.54.227:1935/capco/jujhartv/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Kadak Hangama Hit
-https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
-#EXTINF:0, group-title="Entertainment",Kairali People TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226359/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Kairali TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Kairali We
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226019/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Kalingar
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",KCV
-http://cdn.live5.in:1935/live/kcv/index.m3u8
-#EXTINF:0, group-title="Entertainment",Mahua Plus
-http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Maiboli
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226332/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Makkal TV
-https://z5ams.akamaized.net/makkaltv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Manoranjan TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226227/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Media Orange
-http://150.242.21.2/mediaorange.m3u8
-#EXTINF:0, group-title="Entertainment",Megnavision TV
-http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
-#EXTINF:0, group-title="Entertainment",MK Six
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226239/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",MK TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226196/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",NDA Channel
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Nepal One
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",NettriKann TV
-http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
-#EXTINF:0, group-title="Entertainment",OTV
-http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
-#EXTINF:0, group-title="Entertainment",Pop Hungama Hit
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
-#EXTINF:0, group-title="Entertainment",Power Vision
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226258/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Property Buzz
-http://cdn.live247stream.com/propertybuzz/tv/propertybuzz/buzz1/chunks.m3u8
-#EXTINF:0, group-title="Entertainment",Puthu Yugam
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Raj TV
-https://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Rang
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226106/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Rengoni
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226364/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Ruposhi Bangla
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Saam
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226366/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Sabrang TV
-http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
-#EXTINF:0, group-title="Entertainment",Sangamam HD
-http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Shan Punjabi TV
-http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8|User-Agent=stagefright/1.2
-#EXTINF:0, group-title="Entertainment",Sirippoli
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226221/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",SKTAT TV
-http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
-#EXTINF:0, group-title="Entertainment",Sony Aath
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Sony Pal
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Sony Sab
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Sony Sab HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Sony TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Sony TV HD
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Sony Wah
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",SSTV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Subrang TV USA
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:0, group-title="Entertainment",Tamil TV
-http://150.242.21.2/tamiltv.m3u8
-#EXTINF:0, group-title="Entertainment",Tamil Vision HD
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",Tamilan24
-http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
-#EXTINF:0, group-title="Entertainment",Tamilian Television
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226342/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Tarang TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226032/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Telungu
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226399/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Ten Digital
-http://150.242.21.2/tendigital.m3u8
-#EXTINF:0, group-title="Entertainment",Toronto 360
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:0, group-title="Entertainment",TV Punjab
-http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:0, group-title="Entertainment",Unitech TV
-http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:0, group-title="Entertainment",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
-#EXTINF:0, group-title="Entertainment",Vani TV
-http://150.242.21.2/vanitv.m3u8
-#EXTINF:0, group-title="Entertainment",Vasanth
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226321/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Virsa Live
-http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
-#EXTINF:0, group-title="Entertainment",Vissa TV
-https://z5ams.akamaized.net/vissatv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Wah Punjabi
-http://cdn.samtv.ca/wahpunjabi/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Anmol
-https://z5ams.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Bangla
-https://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Bangla HD
-https://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Cafe HD
-https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Kannada
-https://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Magic
-https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Marathi
-https://z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Marathi HD
-https://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Salaam
-https://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Sarthak
-https://z5ams.akamaized.net/sarthaktv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Tamil
-https://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Telugu
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225936/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Zee TV
-https://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee TV HD
-https://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Entertainment",Zee Yuva
-https://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",??
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Alankar
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226042/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",& Flix
-http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",& Flix HD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",& Pictures
-https://z5ams.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",& Pictures HD
-https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",& Prive HD
+#EXTINF:0, group-title="English",& Prive HD
 https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",B4U Movies
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Bhojpuri Cinema
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226056/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Cinema TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226246/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Enterr 10 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Fakt Marathi
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226305/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",J Movie
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Maha Movie
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226225/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Manoranjan Movies
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226226/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Multiplex
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226209/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Pitaara
-https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:0, group-title="Movies",Punjabi Cinema
-http://d2w8elu3rhz5vi.cloudfront.net/3d991c0c-13a7-47b7-8045-98e4e830cbae.m3u8
-#EXTINF:0, group-title="Movies",Raj Digital Plus
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226316/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Selfie TV HD
-http://198.144.158.41:8080/MOVIES_LIVE_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0, group-title="Movies",Skystar Movies
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226215/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Sony Le Plex HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Sony Max
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Sony Max HD
-http://125.17.129.13/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Sony Pix
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Wow Cinema
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226263/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Zee Action
-https://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",Zee Bangla Cinema
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Movies",Zee Cafe 
-https://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",Zee Cinema
-https://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",Zee Cinema HD
-https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",Zee Cinemalu
-https://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",Zee Classic
-http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",Zee Talkies
-https://z5ams.akamaized.net/zeetalkies/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",Zee Talkies HD
-https://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Movies",Zee Telugu Cinema
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music", Isai Aruvi
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226303/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",7S Music
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226213/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",9X Jalwa
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",9X Jhakaas
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",9X Tashan
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",9xM
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",9XO
+#EXTINF:0, group-title="English",9XO
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/1.m3u8
-#EXTINF:0, group-title="Music",Aone Music
-http://live.wmncdn.net/aonelive/0d142bc338dc444eb1a4206d0f636d0c.sdp/index.m3u8
-#EXTINF:0, group-title="Music",B4U Music
-http://125.17.129.13/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Boogle Bollywood 
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:0, group-title="Music",Chakde TV
-http://streamer3.ultapulta.com:7050/
-#EXTINF:0, group-title="Music",Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:0, group-title="Music",Desi Beats HD
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:0, group-title="Music",Desi Plus
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:0, group-title="Music",Dhoom
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Dhoom Music
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Jaya Max
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:0, group-title="Music",Kappa TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226319/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Masti TV
-http://cdn.samtv.ca/mastitv/index.m3u8
-#EXTINF:0, group-title="Music",mh1 Music
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",MK Tunes
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Music Fatafati
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226360/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Naagan TV
-http://nagantv.livebox.co.in/nagantvhls/nagantv.m3u8
-#EXTINF:0, group-title="Music",PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
-#EXTINF:0, group-title="Music",Polimer Music
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Punjab TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:0, group-title="Music",Punjabi Beats Live
-http://165.227.140.6/live/beats/index.m3u8
-#EXTINF:0, group-title="Music",Raj Musix (Kannada)
-https://z5ams.akamaized.net/rajmusic/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Music",Raj Musix (Malayalam)
-https://z5ams.akamaized.net/rajmusixmal/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Music",Raj Musix (Tamil)
-https://z5ams.akamaized.net/rajmusix/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Music",Raj Musix (Telugu)
-https://z5ams.akamaized.net/rajmusixtel/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Music",Ramdhenu
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226358/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Sangeet Bangla
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226333/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Sangeet Bhojpuri
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226064/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Sangeet Marathi
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Sony Mix
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Sony Rox HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:0, group-title="Music",Tarang Music
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226023/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Music",Tunes 6
-http://5k8q8pjzdy4v-hls-live.wmncdn.net/717/tunes61/live1.stream/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Music",Zee Etc
-https://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Music",Zing
-https://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Music",Zing UK
-https://z5ams.akamaized.net/zinguk/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Music",ZOOM
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:0, group-title="Infotainment",1Yes TV
-http://150.242.21.2/oneyes.m3u8
-#EXTINF:0, group-title="Infotainment",5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Analai Express HD
-http://live.streamjo.com:1935/sarastv/sarastv.m3u8
-#EXTINF:0, group-title="Infotainment",Anand Media HD
-http://mcdn-play-290.5centscdn.com/amsqanandmedia/anandmedialive.stream/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",Animal Planet
+#EXTINF:0, group-title="English",Al Jazeera
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Animal Planet
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Apna Punjab
-http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Apna Punjab TV
-http://cdn5.live247stream.com/apnapunjab/tv/apnapunjab/stream1/chunks.m3u8
-#EXTINF:0, group-title="Infotainment",Apna Punjab USA
-http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",BBC Toronto
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Canada Star TV
-http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Channel 4U
-http://150.242.21.2/channel4you.m3u8
-#EXTINF:0, group-title="Infotainment",CVR Health
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226248/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Bangla
-https://z5ams.akamaized.net/ddbangla/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Bihar
-https://z5ams.akamaized.net/ddbihar/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Chandana
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226375/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Girnar
-https://z5ams.akamaized.net/ddgirnar/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD India
-https://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Kashir
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226386/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Kisan
-https://z5ams.akamaized.net/ddkisan/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Madhya Pradesh
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226376/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Malayalam
-https://z5ams.akamaized.net/ddmalayalam/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Marathi
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226344/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD North East
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226300/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Odia
-https://z5ams.akamaized.net/ddodia/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Podhigai
-https://z5ams.akamaized.net/ddpodhigai/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Punjabi
-https://z5ams.akamaized.net/ddpunjabi/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Rajasthan
-https://z5ams.akamaized.net/ddrajasthan/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",DD Saptagiri
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226345/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Tamil
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226381/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Urdu
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226384/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Uttar Pradesh
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226383/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",DD Yadagiri 
-https://z5ams.akamaized.net/ddyadagiri/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",Desi Channel
-https://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",Discovery
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Discovery (Tamil)
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Discovery HD World
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/1.m3u8
-#EXTINF:0, group-title="Infotainment",Discovery Science
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Discovery Turbo
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",E24
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Global Sanjh
-http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Infotainment",Goodness
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226336/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",GoSree Vision
-http://150.242.21.2/gosree.m3u8
-#EXTINF:0, group-title="Infotainment",Harvest TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226233/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",IBC Tamil
-https://5928f90056f31.streamlock.net/ibc-test/smil:ibc_tamiltv.smil/chunklist.m3u8
-#EXTINF:0, group-title="Infotainment",Jaal TV
-http://209.58.160.112/jaaltvhls/live.m3u8
-#EXTINF:0, group-title="Infotainment",Jaffna TV
-http://stmv3.srvstm.com/matheus/matheus/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Jhumar TV
-http://live-23.viewer.dacast.com/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:0, group-title="Infotainment",Living Foodz
-https://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",LSTV
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:0, group-title="Infotainment",Madha TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226327/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Mega TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",MGR TV HD
-http://livematrix.in:1935/live/mgrtv/index.m3u8
-#EXTINF:0, group-title="Infotainment",Namadhu TV
-http://d3jo7lhb81t2hz.cloudfront.net/namadhutv/ngrp:live_all/index.m3u8
-#EXTINF:0, group-title="Infotainment",Nambikkai TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Nethra TV
-http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Peppers
-http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Infotainment",Pravasi Vision
-http://cdn.live5.in:1935/live/pravasi/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:0, group-title="Infotainment",PTN 24
-http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:0, group-title="Infotainment",Punjabi Sargarmia
-http://45.248.164.243:8080/pbisargarmian/index.m3u8
-#EXTINF:0, group-title="Infotainment",Punjabi Zindabad
-https://ssh101.com/m3u8/dyn/PZLIVE/index.m3u8
-#EXTINF:0, group-title="Infotainment",RSTV
-http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:0, group-title="Infotainment",Sana TV HD
-http://209.58.160.22/Sanatvhls/live.m3u8
-#EXTINF:0, group-title="Infotainment",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Shalom TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226412/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Sony BBC Earth
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Sony BBC Earth HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Subhavaartha TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226352/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",TCV
-http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0, group-title="Infotainment",Vaigai TV
-http://209.58.164.113/vaigaihls/live.m3u8
-#EXTINF:0, group-title="Infotainment",Vanavil Plus TV
-http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Vasantham TV
-http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Velicham TV
-http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
-#EXTINF:0, group-title="Infotainment",Vismaya TV
-http://150.242.21.2/vismaya.m3u8
-#EXTINF:0, group-title="Infotainment",Win TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226251/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Zingaat
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226371/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Kids",Discovery Kids
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Kids",Kushi TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226405/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Kids",Pogo
-https://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Kids",Sony Yay
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",EZ mall
-https://z5ams.akamaized.net/ezmall/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Lifestyle",Fashion TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226086/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Food Food
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Gemporia
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226337/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Home Shop 18
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Kaumudy
-http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Lifestyle",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:0, group-title="Lifestyle",NDTV Good Times
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Rose TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226265/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Safari TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225854/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Saral Jeevan
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226411/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Shop CJ
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226266/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Tag TV
-http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
-#EXTINF:0, group-title="Lifestyle",TLC
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",TLC HD World
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",Travel XP
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Business",BTVi
+#EXTINF:0, group-title="English",AXN
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",BBC World News
+https://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Bloomberg
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",BTVi
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Business",Et Now
+#EXTINF:0, group-title="English",CNN News 18 
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+#EXTINF:0, group-title="English",CVR English News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226253/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",D Sports
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",D Sports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:0, group-title="English",Discovery HD World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/1.m3u8
+#EXTINF:0, group-title="English",Discovery Turbo
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",DW
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226323/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Et Now
 https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/chunklist_w1103706317_b512000.m3u8
-#EXTINF:0, group-title="Business",NDTV Prime
-https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//master.m3u8
-#EXTINF:0, group-title="Business",Zee Business
-https://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Devotional",Aastha
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226069/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Akaal
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
-#EXTINF:0, group-title="Devotional",Angel TV HD
-http://mhms6.airtel.tv/wh7f454c46tw770814039_644498929/PLTV/88888888/224/3221226400/1.m3u8
-#EXTINF:0, group-title="Devotional",Arihant
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226396/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Ashirvatham TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226262/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Bhakti TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226357/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Big Ganga
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226088/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",BnB
-http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
-#EXTINF:0, group-title="Devotional",Channel Win
-http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
-#EXTINF:0, group-title="Devotional",Chardikala Gurbani TV
-http://173.255.140.23:8081/live/gtv/chunks.m3u8
-#EXTINF:0, group-title="Devotional",Divya
-https://z5ams.akamaized.net/divyatv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Devotional",Divyavani TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226230/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Ekta TV Gurbani
-http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Devotional",Fastway TV
-http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Devotional",Fateh TV
-https://wowzaprod142-i.akamaihd.net/hls/live/592898/387dc47a/playlist.m3u8
-#EXTINF:0, group-title="Devotional",Fateh TV Int.
-http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
-#EXTINF:0, group-title="Devotional",GDNS Ludhiana
-http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:0, group-title="Devotional",GDNS Surrey
-http://live.agmediachandigarh.com/dukhnivaransahib/bfc254e2e8c0e9cb0f8318c493e8c78d.sdp/mono.m3u8
-#EXTINF:0, group-title="Devotional",God TV
+#EXTINF:0, group-title="English",Fashion TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226086/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",God TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226325/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Gurbaani Healing
-http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-#EXTINF:0, group-title="Devotional",Gurbaani TV
-http://173.255.140.23:8081/live/gtvna/playlist.m3u8
-#EXTINF:0, group-title="Devotional",Gurmit Channel
-http://fastway.ddns.net:6421/fastway/live/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Devotional",IBC Bakthi
-https://cdn.ibctamil.com/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
-#EXTINF:0, group-title="Devotional",Jinvani
+#EXTINF:0, group-title="English",India Today
+https://z5ams.akamaized.net/indiatoday/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Living Foodz
+https://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:0, group-title="English",NDTV 24x7
+https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+#EXTINF:0, group-title="English",NDTV Good Times
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",NDTV Prime
+https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//master.m3u8
+#EXTINF:0, group-title="English",Neo Prime
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Neo Sports
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",News 18 India
+https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-p.m3u8
+#EXTINF:0, group-title="English",News X
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
+#EXTINF:0, group-title="English",NHK World
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226408/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Republic TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",RT
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226334/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Sony BBC Earth HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Sony ESPN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Sony ESPN HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Sony Le Plex HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Sony Six
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Sony Six HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Ten 1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Ten 1 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Ten 2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Ten 2 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Ten 3
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Ten 3 HD
+http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:0, group-title="English",Times Now HD
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:0, group-title="English",TLC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",TLC HD World
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Travel XP
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",TV5 Monde Asia
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="English",Wion
+https://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Zee Cafe 
+https://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Zee Cafe HD
+https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0, group-title="Hindi",& Flix
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",& Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",& Pictures
+https://z5ams.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",& Pictures HD
+https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",& TV
+https://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",& TV HD
+https://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",9X Jalwa
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",9xM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Aaj Tak
+https://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Aastha
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226069/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Abhi Tak
+http://mhms9.airtel.tv/wh7f454c46tw1905050219_753085836/PLTV/88888888/224/3221226252/1.m3u8
+#EXTINF:0, group-title="Hindi",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0, group-title="Hindi",Anand Media HD
+http://mcdn-play-290.5centscdn.com/amsqanandmedia/anandmedialive.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Arihant
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226396/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",B4U Movies
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",B4U Music
+http://125.17.129.13/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Bansal News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Bharat Samachar
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226268/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Bharat Today TV
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+#EXTINF:0, group-title="Hindi",Big Magic
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225745/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Cinema TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226246/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Dabangg
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226097/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",DD Bihar
+https://z5ams.akamaized.net/ddbihar/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",DD India
+https://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",DD Kisan
+https://z5ams.akamaized.net/ddkisan/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",DD Madhya Pradesh
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226376/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",DD News
+https://z5ams.akamaized.net/ddnews/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",DD Rajasthan
+https://z5ams.akamaized.net/ddrajasthan/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",DD Uttar Pradesh
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226383/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Dighvijay News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226240/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Discovery
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Discovery Jeet
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226447/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Discovery Kids
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Discovery Science
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Divya
+https://z5ams.akamaized.net/divyatv/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Divyavani TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226230/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",E24
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Enterr 10 
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",ETV MP
+https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
+#EXTINF:0, group-title="Hindi",ETV Raj
+https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8
+#EXTINF:0, group-title="Hindi",ETV UP
+https://etv-up.akamaized.net/i/etv_up_hls_1@175735/index_5_av-p.m3u8
+#EXTINF:0, group-title="Hindi",EZ mall
+https://z5ams.akamaized.net/ezmall/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Food Food
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Gemporia
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226337/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Hindi Khabar
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226249/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Home Shop 18
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",IBC 24
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226102/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",India News
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+#EXTINF:0, group-title="Hindi",India News Haryana
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsharyana_all/master.m3u8
+#EXTINF:0, group-title="Hindi",India News MP CG
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsmp_all/master.m3u8
+#EXTINF:0, group-title="Hindi",India News Rajasthan
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsrajasthan_all/master.m3u8
+#EXTINF:0, group-title="Hindi",India News UP
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsup_all/master.m3u8
+#EXTINF:0, group-title="Hindi",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0, group-title="Hindi",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0, group-title="Hindi",Jinvani
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226326/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",KTV
-http://188.138.57.234:1935/ktv/live/chunklist_w546360823.m3u8
-#EXTINF:0, group-title="Devotional",mh1 Shardha
-http://capcobroadcaststream.in:1935/edge1/mhsharda.stream_aac/chunklist_w856920087.m3u8
-#EXTINF:0, group-title="Devotional",MTA English
-http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:0, group-title="Devotional",Munsif
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226267/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Namdhari TV
-http://namdhari.tv/live/sbs1.m3u8
-#EXTINF:0, group-title="Devotional",Om Spiritual
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226403/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Paras TV
+#EXTINF:0, group-title="Hindi",Kadak Hangama Hit
+https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:0, group-title="Hindi",Living India News
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",LSTV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:0, group-title="Hindi",Maha Movie
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226225/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Manoranjan Movies
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226226/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Manoranjan TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226227/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Multiplex
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226209/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",National Voice UP UK
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226236/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",NDTV India
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+#EXTINF:0, group-title="Hindi",News 24
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",News Nation
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",OK India
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226286/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Paras TV
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226289/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Peace of Mind
+#EXTINF:0, group-title="Hindi",Patrika TV Raj
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226389/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Peace of Mind
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226409/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Prarthana Bhawan
+#EXTINF:0, group-title="Hindi",Pogo
+https://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Pop Hungama Hit
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:0, group-title="Hindi",Prarthana Bhawan
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226223/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Prathna TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226033/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Sadhana TV
+#EXTINF:0, group-title="Hindi",Rose TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226265/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",RSTV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:0, group-title="Hindi",Sadhana Plus News
+http://live.wmncdn.net/sadhanaplus1/live.stream/index.m3u8
+#EXTINF:0, group-title="Hindi",Sadhana TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226328/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Saint TV
-http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
-#EXTINF:0, group-title="Devotional",Sangat TV
-http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
-#EXTINF:0, group-title="Devotional",Sanskar
+#EXTINF:0, group-title="Hindi",Sanskar
 https://z5ams.akamaized.net/sanskartv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Devotional",Sarthi
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226284/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Satsang
+#EXTINF:0, group-title="Hindi",Satsang
 https://z5ams.akamaized.net/satsangtv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Devotional",Shiva Shakthi Sai TV
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226382/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Shubh TV
+#EXTINF:0, group-title="Hindi",Shop CJ
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226266/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Shubh TV
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226235/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Shubhsandesh TV
+#EXTINF:0, group-title="Hindi",Shubhsandesh TV
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226228/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",Sikh Channel USA
-http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Devotional",Sri Sankara
+#EXTINF:0, group-title="Hindi",Skystar Movies
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226215/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony BBC Earth
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Max
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Max HD
+http://125.17.129.13/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Mix
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Pal
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Pix
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Rox HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Sab
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Sab HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony TV HD
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Wah
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sony Yay
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Sri Sankara
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226320/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Devotional",TV84
+#EXTINF:0, group-title="Hindi",Sudarsana News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226380/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Tez
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226432/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Total TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226242/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",TV 100
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226382/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",V News
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Wow Cinema
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226263/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Zee Action
+https://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Anmol
+https://z5ams.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Business
+https://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Cinema
+https://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Cinema HD
+https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Classic
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Etc
+https://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Hindustan
+https://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Magic
+https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee MP
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225927/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Hindi",Zee News
+https://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Rajasthan
+https://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Talkies HD
+https://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee TV
+https://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee TV HD
+https://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zing
+https://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Zing UK
+https://z5ams.akamaized.net/zinguk/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",9X Tashan
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Punjabi",Akaal
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
+#EXTINF:0, group-title="Punjabi",Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Music
+http://live.wmncdn.net/aonelive/0d142bc338dc444eb1a4206d0f636d0c.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Aone Punjabi
+http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Apna Punjab TV
+http://cdn5.live247stream.com/apnapunjab/tv/apnapunjab/stream1/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Apna Punjab USA
+http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",BnB
+http://live.wmncdn.net/vaani/4c6a67731a3b12a9c3cd50a2d67d06d0.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Boogle Bollywood 
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Bulland TV
+http://94krv9bxqb6p-hls-live.wmncdn.net/1237/buland/b04de4cdf2ceee6b13f7270be87a23f2.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Canada Star TV
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Chakde TV
+http://streamer3.ultapulta.com:7050/
+#EXTINF:0, group-title="Punjabi",Chardikala Gurbani TV
+http://173.255.140.23:8081/live/gtv/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Chardikla Time TV
+http://fastway.ddns.net:6421/fastway/live5/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",DD Punjabi
+https://z5ams.akamaized.net/ddpunjabi/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Channel
+https://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",DIP
+http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",DPD Punjabi HD
+http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",E9 Punjabi
+http://cdn.samtv.ca/e9punjabi/index.m3u8
+#EXTINF:0, group-title="Punjabi",Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Ekta TV Gurbani
+http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Fastway Ent.
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Fastway TV
+http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Fateh TV
+https://wowzaprod142-i.akamaihd.net/hls/live/592898/387dc47a/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Fateh TV Int.
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:0, group-title="Punjabi",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:0, group-title="Punjabi",GDNS Surrey
+http://live.agmediachandigarh.com/dukhnivaransahib/bfc254e2e8c0e9cb0f8318c493e8c78d.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Global Punjab
+http://207.244.112.71/globalpunjabhls/live.m3u8
+#EXTINF:0, group-title="Punjabi",Global Sanjh
+http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Go Punjabi HD
+http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gurbaani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Gurbaani TV
+http://173.255.140.23:8081/live/gtvna/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gurmit Channel
+http://fastway.ddns.net:6421/fastway/live/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Hamdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:0, group-title="Punjabi",India News PB
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/master.m3u8
+#EXTINF:0, group-title="Punjabi",Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:0, group-title="Punjabi",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0, group-title="Punjabi",Jhumar TV
+http://live-23.viewer.dacast.com/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0, group-title="Punjabi",Jujhar TV
+http://172.104.54.227:1935/capco/jujhartv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",KTV
+http://188.138.57.234:1935/ktv/live/chunklist_w546360823.m3u8
+#EXTINF:0, group-title="Punjabi",Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Masti TV
+http://cdn.samtv.ca/mastitv/index.m3u8
+#EXTINF:0, group-title="Punjabi",mh1 Music
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Punjabi",mh1 News
+http://capcobroadcaststream.in:1935/edge1/mhone_news.stream_aac/chunklist_w1873206187.m3u8
+#EXTINF:0, group-title="Punjabi",mh1 Shardha
+http://capcobroadcaststream.in:1935/edge1/mhsharda.stream_aac/chunklist_w856920087.m3u8
+#EXTINF:0, group-title="Punjabi",Namdhari TV
+http://namdhari.tv/live/sbs1.m3u8
+#EXTINF:0, group-title="Punjabi",NDA Channel
+http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Pitaara
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:0, group-title="Punjabi",Prime Asia
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Property Buzz
+http://cdn.live247stream.com/propertybuzz/tv/propertybuzz/buzz1/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:0, group-title="Punjabi",Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Punjabi Beats Live
+http://165.227.140.6/live/beats/index.m3u8
+#EXTINF:0, group-title="Punjabi",Punjabi Cinema
+http://d2w8elu3rhz5vi.cloudfront.net/3d991c0c-13a7-47b7-8045-98e4e830cbae.m3u8
+#EXTINF:0, group-title="Punjabi",Punjabi Sargarmia
+http://45.248.164.243:8080/pbisargarmian/index.m3u8
+#EXTINF:0, group-title="Punjabi",Punjabi Zindabad
+https://ssh101.com/m3u8/dyn/PZLIVE/index.m3u8
+#EXTINF:0, group-title="Punjabi",Sabrang TV
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:0, group-title="Punjabi",Sangat TV
+http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Shan Punjabi TV
+http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8|User-Agent=stagefright/1.2
+#EXTINF:0, group-title="Punjabi",Sikh Channel USA
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Subrang TV USA
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:0, group-title="Punjabi",Tag TV
+http://cdn11.live247stream.com/tag/247/tag/720/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Trucking Today
+http://capcobroadcaststream.in:1935/capco/ttt.sdp/chunklist_w694526904.m3u8
+#EXTINF:0, group-title="Punjabi",TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:0, group-title="Punjabi",TV84
 http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
-#EXTINF:0, group-title="Devotional",Vendharm TV
+#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
+#EXTINF:0, group-title="Punjabi",Virsa Live
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
+#EXTINF:0, group-title="Punjabi",Wah Punjabi
+http://cdn.samtv.ca/wahpunjabi/index.m3u8
+#EXTINF:0, group-title="Punjabi",Zee Punjabi
+https://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",??
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",1Yes TV
+http://150.242.21.2/oneyes.m3u8
+#EXTINF:0, group-title="Tamil",7S Music
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226213/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+#EXTINF:0, group-title="Tamil",Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",Analai Express HD
+http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+#EXTINF:0, group-title="Tamil",Angel TV HD
+http://mhms6.airtel.tv/wh7f454c46tw770814039_644498929/PLTV/88888888/224/3221226400/1.m3u8
+#EXTINF:0, group-title="Tamil",Ashirvatham TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226262/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:0, group-title="Tamil",Canada Tamils
+http://live.streamjo.com:1935/cctv/live/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Captain TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226312/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Cauvery News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226276/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",DD Podhigai
+https://z5ams.akamaized.net/ddpodhigai/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",DD Tamil
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226381/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Deepam TV
+http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
+#EXTINF:0, group-title="Tamil",Discovery (Tamil)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",EET TV Canada
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Engada TV
+http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",IBC Bakthi
+https://cdn.ibctamil.com/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
+#EXTINF:0, group-title="Tamil",IBC Tamil
+https://5928f90056f31.streamlock.net/ibc-test/smil:ibc_tamiltv.smil/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",IBC Tamil Comedy
+https://cdn.ibctamil.com/ibc-comedy/smil:ibccomedy.smil/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",IBC Tamil Music
+https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
+#EXTINF:0, group-title="Tamil",Jaal TV
+http://209.58.160.112/jaaltvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",Jaffna TV
+http://stmv3.srvstm.com/matheus/matheus/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Jawahar TV
+http://137.74.115.81/jawaharchannelhls/jc.m3u8
+#EXTINF:0, group-title="Tamil",Jaya Max
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Kalingar News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226318/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Madha TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226327/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Makkal TV
+https://z5ams.akamaized.net/makkaltv/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Malai Murasu
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226261/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",MalaiMurasu TV
+http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Mega TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Megnavision TV
+http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+#EXTINF:0, group-title="Tamil",MGR TV HD
+http://livematrix.in:1935/live/mgrtv/index.m3u8
+#EXTINF:0, group-title="Tamil",MK Six
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226239/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",MK Tunes
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",MK TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226196/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Murasu
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226290/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Naagan TV
+http://nagantv.livebox.co.in/nagantvhls/nagantv.m3u8
+#EXTINF:0, group-title="Tamil",Namadhu TV
+http://d3jo7lhb81t2hz.cloudfront.net/namadhutv/ngrp:live_all/index.m3u8
+#EXTINF:0, group-title="Tamil",Nambikkai TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Nethra TV
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:0, group-title="Tamil",NettriKann TV
+http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
+#EXTINF:0, group-title="Tamil",News 7
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226308/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Peppers
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Polimer Music
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Polimer News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226283/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Puthu Yugam
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Raj Digital Plus
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226316/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Raj Musix (Tamil)
+https://z5ams.akamaized.net/rajmusix/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Raj News (Tamil)
+https://z5ams.akamaized.net/rajnews/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Raj TV
+https://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Sana TV HD
+http://209.58.160.22/Sanatvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",Sangamam HD
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Sathiyam
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226340/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Selfie TV HD
+http://198.144.158.41:8080/MOVIES_LIVE_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Tamil",SKTAT TV
+http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
+#EXTINF:0, group-title="Tamil",Tamil TV
+http://150.242.21.2/tamiltv.m3u8
+#EXTINF:0, group-title="Tamil",Tamil Vision HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Tamilan24
+http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",Tamilian Television
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226342/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Tunes 6
+http://5k8q8pjzdy4v-hls-live.wmncdn.net/717/tunes61/live1.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Vaigai TV
+http://209.58.164.113/vaigaihls/live.m3u8
+#EXTINF:0, group-title="Tamil",Vanavil Plus TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Vani TV
+http://150.242.21.2/vanitv.m3u8
+#EXTINF:0, group-title="Tamil",Vasanth
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226321/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Tamil",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Velicham TV
+http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Vendharm TV
 http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
-#EXTINF:0, group-title="Devotional",Yoga TV -Swamiji
+#EXTINF:0, group-title="Tamil",Zee Tamil
+https://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Telugu",10 TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",ABN News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226140/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Aradana TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226229/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Bhakti TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226357/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",CVR Health
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226248/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",CVR News
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226247/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",DD Saptagiri
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226345/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",DD Yadagiri 
+https://z5ams.akamaized.net/ddyadagiri/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Telugu",Isai Aruvi
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226303/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",J Movie
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Jaya Plus
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226282/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Jaya TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Kalingar
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Kushi TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226405/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",NTV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226141/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Om Spiritual
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226403/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Power Vision
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226258/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Puthiya Thalamurai
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226304/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Raj Musix (Telugu)
+https://z5ams.akamaized.net/rajmusixtel/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Telugu",Raj News (Telugu)
+https://z5ams.akamaized.net/rajnewstel/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Telugu",Sakshi TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226306/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Seithigal 24x7
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226318/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Shiva Shakthi Sai TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226382/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Sirippoli
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226221/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Subhavaartha TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226352/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",SVBC TTD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226415/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",T News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226307/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Telungu
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226399/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Thanthi TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226219/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",TV5 Telugu
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226350/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",TV9 News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226142/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",TV9 Telugu
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226094/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",V6 News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226197/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Vissa TV
+https://z5ams.akamaized.net/vissatv/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Telugu",Yoga TV -Swamiji
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:0, group-title="Telugu",Zee Cinemalu
+https://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Telugu",Zee Telugu
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225936/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Telugu",Zee Telugu Cinema
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Amrita
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226310/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Asianet News
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:0, group-title="Malayalam",Channel 4U
+http://150.242.21.2/channel4you.m3u8
+#EXTINF:0, group-title="Malayalam",DD Malayalam
+https://z5ams.akamaized.net/ddmalayalam/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",Drisya
+http://150.242.21.2/drisya.m3u8
+#EXTINF:0, group-title="Malayalam",Flowers TV
+https://z5ams.akamaized.net/flowerstv/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",Goodness
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226336/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",GoSree Vision
+http://150.242.21.2/gosree.m3u8
+#EXTINF:0, group-title="Malayalam",Harvest TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226233/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Jaihind TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226402/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Janam TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226111/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Kairali People TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226359/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Kairali TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Kairali We
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226019/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Kappa TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226319/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Kaumudy
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",KCV
+http://cdn.live5.in:1935/live/kcv/index.m3u8
+#EXTINF:0, group-title="Malayalam",Mathrubhumi News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226314/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Media Net
+http://150.242.21.2/medianet.m3u8
+#EXTINF:0, group-title="Malayalam",Media One
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Media Orange
+http://150.242.21.2/mediaorange.m3u8
+#EXTINF:0, group-title="Malayalam",News 18 Malayalam
+https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_3_av-p.m3u8
+#EXTINF:0, group-title="Malayalam",Pravasi Vision
+http://cdn.live5.in:1935/live/pravasi/playlist.m3u8
+#EXTINF:0, group-title="Malayalam",Raj Musix (Malayalam)
+https://z5ams.akamaized.net/rajmusixmal/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",Raj News (Malayalam)
+https://z5ams.akamaized.net/rajnewsmal/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",Safari TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225854/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",Shalom TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226412/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Malayalam",TCV
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0, group-title="Malayalam",Ten Digital
+http://150.242.21.2/tendigital.m3u8
+#EXTINF:0, group-title="Malayalam",Unitech TV
+http://livestream.5centscdn.com/unitechtvlive/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:0, group-title="Malayalam",Vismaya TV
+http://150.242.21.2/vismaya.m3u8
+#EXTINF:0, group-title="Kannada",DD Chandana
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226375/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Kannada",Prajaa TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226234/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Kannada",Public TV
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226139/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Kannada",Raj Musix (Kannada)
+https://z5ams.akamaized.net/rajmusic/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Kannada",Raj News (Kannada)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226243/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Kannada",Raj News (Kannada)
+https://z5ams.akamaized.net/rajnewskan/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Kannada",Saral Jeevan
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226411/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Kannada",Suvarna News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226414/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Kannada",TV5 News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226350/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Kannada",TV9 Kannada
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Kannada",Zee Kannada
+https://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Kannada",BTV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226341/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Aakaash
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",ABP Ananda
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Arijan
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Bangla
+https://etv-bangla-news.akamaized.net/i/etv_bangla_news_live_1@2289/index_5_av-p.m3u8
+#EXTINF:0, group-title="Bangla",CN News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226285/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",CTVN Plus
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226250/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",DD Bangla
+https://z5ams.akamaized.net/ddbangla/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Bangla",Dhoom
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Kolkatta TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Music Fatafati
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226360/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Nepal One
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",News Time
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226287/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Ruposhi Bangla
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Sangeet Bangla
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226333/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Sony Aath
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Zee 24 Ghanta
+https://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Bangla",Zee Bangla
+https://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Bangla",Zee Bangla Cinema
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bangla",Zee Bangla HD
+https://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Oriya",Alankar
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226042/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",DD Odia
+https://z5ams.akamaized.net/ddodia/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Oriya",Dhoom Music
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",Kalinga TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226016/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",Kanak News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226224/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",News World
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226034/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",OTV
+http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
+#EXTINF:0, group-title="Oriya",Prameya News 7
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226410/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",Prathna TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226033/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",Sarthi
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226284/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",Tarang Music
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226023/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",Tarang TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226032/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Oriya",Zee Kalinga
+https://z5ams.akamaized.net/kalinga/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Oriya",Zee Sarthak
+https://z5ams.akamaized.net/sarthaktv/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Oriya",Zingaat
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226371/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",Assam Talks
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226339/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",DD North East
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226300/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",DY365
+http://125.17.129.8/PLTV/88888888/224/3221226198/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",Garshom News
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0, group-title="Assamese",Jonack
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226367/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",News Live
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226108/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",Prag News
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226110/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",Pratidin Time
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226288/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",Ramdhenu
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226358/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",Rang
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226106/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Assamese",Rengoni
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226364/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",9X Jhakaas
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",ABP Majha
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",DD Marathi
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226344/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",Fakt Marathi
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226305/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",Maiboli
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226332/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",News 18 Lokmat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:0, group-title="Marathi",Saam
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226366/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",Sangeet Marathi
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",TV9 Marathi
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226370/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Marathi",Zee 24 Taas
+https://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Marathi
+https://z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Marathi HD
+https://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Talkies
+https://z5ams.akamaized.net/zeetalkies/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Yuva
+https://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Gujarati",ABP Asmita
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226264/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Gujarati",ABP News Gujarati
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226264/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Gujarati",DD Girnar
+https://z5ams.akamaized.net/ddgirnar/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Gujarati",Sandesh News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225852/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Gujarati",TV9 Gujarati
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226113/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Gujarati",VTV News
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Gujarati",Zee 24 Kalak
+https://z5ams.akamaized.net/kalak/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Bhojpuri",Anjan
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bhojpuri",Bhojpuri Cinema
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226056/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bhojpuri",Big Ganga
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226088/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bhojpuri",Dangal
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226029/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bhojpuri",Dishum
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226269/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bhojpuri",Mahua Plus
+http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
+#EXTINF:0, group-title="Bhojpuri",Sangeet Bhojpuri
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226064/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Bhojpuri",Zee Bihar JH
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226241/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Urdu",Channel Win
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:0, group-title="Urdu",DD Kashir
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226386/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Urdu",DD Urdu
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226384/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Urdu",ETV Urdu
+https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
+#EXTINF:0, group-title="Urdu",Gulistan News
+rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
+#EXTINF:0, group-title="Urdu",MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:0, group-title="Urdu",Munsif
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226267/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Urdu",Win TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226251/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Urdu",Zee Salaam
+https://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
 				
-#EXTINF:0, group-title="Entertainment",Bollywood Masala TV
+#EXTINF:0, group-title="English",Bollywood Masala TV
 https://www.youtube.com/watch?v=Bif339RnpVk
-#EXTINF:0, group-title="Devotional",Darbar Sahib Live
+#EXTINF:0, group-title="Punjabi",Darbar Sahib Live
 https://www.youtube.com/watch?v=UryBoDYHFP4
-#EXTINF:0, group-title="Devotional",Dhadrianwale Live
+#EXTINF:0, group-title="Punjabi",Dhadrianwale Live
 https://www.youtube.com/watch?v=KGnVpdwMy6U
-#EXTINF:0, group-title="Devotional",GNSG Surrey
+#EXTINF:0, group-title="Punjabi",GNSG Surrey
 https://www.youtube.com/watch?v=0M-_VN60C-Q
-#EXTINF:0, group-title="Devotional",GPMKC Moga
+#EXTINF:0, group-title="Punjabi",GPMKC Moga
 https://www.youtube.com/watch?v=c3GjYDSDv64
-#EXTINF:0, group-title="Devotional",GSS Malton
+#EXTINF:0, group-title="Punjabi",GSS Malton
 https://www.youtube.com/watch?v=DiMEZZWZ268
-#EXTINF:0, group-title="Devotional",GSS Seattle
+#EXTINF:0, group-title="Punjabi",GSS Seattle
 https://www.youtube.com/watch?v=TTmQNwEnYMA
-#EXTINF:0, group-title="Sports",Kabbadi Cup 2018
+#EXTINF:0, group-title="Punjabi",Kabbadi Cup 2018
 https://www.youtube.com/watch?v=uZfOT7HgXY0
-#EXTINF:0, group-title="Devotional",Kaldighar Ludhiana
+#EXTINF:0, group-title="Punjabi",Kaldighar Ludhiana
 https://www.youtube.com/watch?v=bq2JUbUj54Q
-#EXTINF:0, group-title="Devotional",Live Kirtan 24x7 
+#EXTINF:0, group-title="Punjabi",Live Kirtan 24x7 
 https://www.youtube.com/watch?v=2ExIWCM56Ek
-#EXTINF:0, group-title="Kids",Nursery Rhymes
+#EXTINF:0, group-title="English",Nursery Rhymes
 https://www.youtube.com/watch?v=YjqC2gOiwvc
-#EXTINF:0, group-title="Devotional",SBS Bhucho
+#EXTINF:0, group-title="Punjabi",SBS Bhucho
 https://www.youtube.com/watch?v=pcu_TJn-pH8
-#EXTINF:0, group-title="News",Sun News
+#EXTINF:0, group-title="Tamil",Sun News
 https://www.youtube.com/watch?v=emRhC_bJUtg
-#EXTINF:0, group-title="News",YoYo News
+#EXTINF:0, group-title="Telugu",YoYo News
 https://www.youtube.com/watch?v=EOa2VKMw3k8
