@@ -624,7 +624,8 @@ https://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4a
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Infotainment",Discovery (Tamil)
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Infotainment",Discovery Bangla	wh7f454c46tw3557803401_1431050255/PLTV/88888888/224/3221226493/04.m3u8
+#EXTINF:0, group-title="Infotainment",Discovery Bangla	
+http://mhms10.airtel.tv/wh7f454c46tw3557803401_1431050255/PLTV/88888888/224/3221226493/04.m3u8
 #EXTINF:0, group-title="Infotainment",Discovery HD World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/1.m3u8
 #EXTINF:0, group-title="Infotainment",Discovery HD World (Hindi)
@@ -889,7 +890,8 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 http://mhms10.airtel.tv/wh7f454c46tw1109653172_1933626915/PLTV/88888888/224/3221226535/04.m3u8
 #EXTINF:0, group-title="Music",Sun Music HD
 http://mhms11.airtel.tv/wh7f454c46tw1440050500_1983673813/PLTV/88888888/224/3221226518/04.m3u8
-#EXTINF:0, group-title="Music",Surya Music	mhms11.airtel.tv/wh7f454c46tw308151608_685722206/PLTV/88888888/224/3221226526/01.m3u8
+#EXTINF:0, group-title="Music",Surya Music
+http://mhms11.airtel.tv/wh7f454c46tw308151608_685722206/PLTV/88888888/224/3221226526/04.m3u8
 #EXTINF:0, group-title="Music",Tarang Music
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226023/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Music",Tunes 6
@@ -918,7 +920,8 @@ http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:0, group-title="Lifestyle",NDTV Good Times
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Lifestyle",NDTV Good Times (Tamil)	wh7f454c46tw3533208_1873284149/PLTV/88888888/224/3221226541/04.m3u8
+#EXTINF:0, group-title="Lifestyle",NDTV Good Times (Tamil)
+http://mhms10.airtel.tv/wh7f454c46tw3533208_1873284149/PLTV/88888888/224/3221226541/04.m3u8
 #EXTINF:0, group-title="Lifestyle",Saral Jeevan
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226411/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Lifestyle",Shop CJ
@@ -939,7 +942,8 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 http://mhms10.airtel.tv/wh7f454c46tw1831363875_1359619368/PLTV/88888888/224/3221226515/01.m3u8
 #EXTINF:0, group-title="Kids",Chutti TV (Kannda)
 http://mhms10.airtel.tv/wh7f454c46tw3743812631_1660472102/PLTV/88888888/224/3221226531/01.m3u8
-#EXTINF:0, group-title="Kids",Chutti TV (Tamil)	mhms10.airtel.tv/wh7f454c46tw3144453242_1191028588/PLTV/88888888/224/3221226525/04.m3u8
+#EXTINF:0, group-title="Kids",Chutti TV (Tamil)	
+http://mhms10.airtel.tv/wh7f454c46tw3144453242_1191028588/PLTV/88888888/224/3221226525/04.m3u8
 #EXTINF:0, group-title="Kids",Chutti TV (Telugu)
 http://mhms10.airtel.tv/wh7f454c46tw260343106_1322981252/PLTV/88888888/224/3221226515/01.m3u8
 #EXTINF:0, group-title="Kids",Discovery Kids
@@ -1066,7 +1070,7 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 				
 				
-#EXTINF:0, group-title="Entertainemnt",BollyWood Masala TV
+#EXTINF:0, group-title="Entertainment",BollyWood Masala TV
 https://www.youtube.com/watch?v=Bif339RnpVk
 #EXTINF:0, group-title="Devotional",GSS Seattle
 https://www.youtube.com/watch?v=OlsKO6cqkns
