@@ -537,7 +537,8 @@ http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 http://live.streamjo.com:1935/cctv/live/playlist.m3u8
 #EXTINF:0, group-title="Tamil",Cauvery News
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226276/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Tamil",Chutti TV (Tamil)	http://mhms10.airtel.tv/wh7f454c46tw3144453242_1191028588/PLTV/88888888/224/3221226525/04.m3u8
+#EXTINF:0, group-title="Tamil",Chutti TV (Tamil)
+http://mhms10.airtel.tv/wh7f454c46tw3144453242_1191028588/PLTV/88888888/224/3221226525/04.m3u8
 #EXTINF:0, group-title="Tamil",CTN
 http://45.79.203.234:1935/ctntv/myStream/index.m3u8
 #EXTINF:0, group-title="Tamil",DD Podhigai
