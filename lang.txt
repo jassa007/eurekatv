@@ -1,5 +1,6 @@
 #EXTM3U 
-
+#EXTINF:0, group-title="English",& Flix
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="English",& Flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="English",& Prive HD
@@ -536,7 +537,7 @@ http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 http://live.streamjo.com:1935/cctv/live/playlist.m3u8
 #EXTINF:0, group-title="Tamil",Cauvery News
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226276/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Tamil",Chutti TV (Tamil)	mhms10.airtel.tv/wh7f454c46tw3144453242_1191028588/PLTV/88888888/224/3221226525/04.m3u8
+#EXTINF:0, group-title="Tamil",Chutti TV (Tamil)	http://mhms10.airtel.tv/wh7f454c46tw3144453242_1191028588/PLTV/88888888/224/3221226525/04.m3u8
 #EXTINF:0, group-title="Tamil",CTN
 http://45.79.203.234:1935/ctntv/myStream/index.m3u8
 #EXTINF:0, group-title="Tamil",DD Podhigai
@@ -615,7 +616,8 @@ http://d3jo7lhb81t2hz.cloudfront.net/namadhutv/ngrp:live_all/index.m3u8
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Tamil",NBTV
 http://209.58.180.57/nbtvhls/nbtv.m3u8
-#EXTINF:0, group-title="Tamil",NDTV Good Times (Tamil)	wh7f454c46tw3533208_1873284149/PLTV/88888888/224/3221226541/04.m3u8
+#EXTINF:0, group-title="Tamil",NDTV Good Times (Tamil)
+http://mhms10.airtel.tv/wh7f454c46tw3533208_1873284149/PLTV/88888888/224/3221226541/04.m3u8
 #EXTINF:0, group-title="Tamil",Nethra TV
 http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 #EXTINF:0, group-title="Tamil",NettriKann TV
@@ -844,7 +846,8 @@ https://z5ams.akamaized.net/rajnewsmal/tracks-v1a1/index.m3u8
 https://playback.akamaized.net/streams/25038049_7483919_lsiprr0hnccnnlfvell_1/media/25038049_7483919_lsiprr0hnccnnlfvell_1@2756000pb.m3u8?dw=14400&ts=1533704400&hdnts=exp=1533879909~acl=/streams/25038049_7483919_lsiprr0hnccnnlfvell_1/media*~hmac=ab7ed0ee9c3ce4e9be6ab32cd203c2a0ecf73c0c8203e654a79ce8f5f75819d
 #EXTINF:0, group-title="Malayalam",Surya Movies
 http://mhms10.airtel.tv/wh7f454c46tw2555381044_1339920464/PLTV/88888888/224/3221226533/04.m3u8
-#EXTINF:0, group-title="Malayalam",Surya Music	mhms11.airtel.tv/wh7f454c46tw308151608_685722206/PLTV/88888888/224/3221226526/01.m3u8
+#EXTINF:0, group-title="Malayalam",Surya Music
+http://mhms11.airtel.tv/wh7f454c46tw308151608_685722206/PLTV/88888888/224/3221226526/04.m3u8
 #EXTINF:0, group-title="Malayalam",Surya TV
 http://mhms10.airtel.tv/wh7f454c46tw458566507_1825112917/PLTV/88888888/224/3221226527/01.m3u8
 #EXTINF:0, group-title="Malayalam",TCV
@@ -951,7 +954,8 @@ http://mhms6.airtel.tv/wh7f454c46tw3533051282_418903702/PLTV/88888888/224/322122
 https://z5ams.akamaized.net/ddbangla/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Bangla",Dhoom
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Bangla",Discovery Bangla	wh7f454c46tw3557803401_1431050255/PLTV/88888888/224/3221226493/04.m3u8
+#EXTINF:0, group-title="Bangla",Discovery Bangla
+http://mhms10.airtel.tv/wh7f454c46tw3557803401_1431050255/PLTV/88888888/224/3221226493/04.m3u8
 #EXTINF:0, group-title="Bangla",ETV Bangla
 https://etv-bangla-news.akamaized.net/i/etv_bangla_news_live_1@2289/index_5_av-p.m3u8
 #EXTINF:0, group-title="Bangla",Kolkatta TV
