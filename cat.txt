@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:0, group-title="News",Aaj Tak
-https://z5ams.akamaized.net/aajtak/tracks-v2a1/index.m3u8
+#EXTINF:0, group-title="News",10 TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Sports",D Sports
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/04.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",& TV
@@ -31,10 +31,10 @@ https://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Movies",??
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="News",10 TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="News",24x7 News
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
+#EXTINF:0, group-title="News",Aaj Tak
+https://z5ams.akamaized.net/aajtak/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Infotainment",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Music",9X Jalwa
@@ -698,23 +698,23 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Movies",Raj Digital Plus
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226316/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Music",Raj Musix (Kannada)
-https://z5ams.akamaized.net/rajmusic/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajmusic/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Music",Raj Musix (Malayalam)
-https://z5ams.akamaized.net/rajmusixmal/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajmusixmal/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Music",Raj Musix (Tamil)
-https://z5ams.akamaized.net/rajmusix/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajmusix/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Music",Raj Musix (Telugu)
-https://z5ams.akamaized.net/rajmusixtel/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajmusixtel/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="News",Raj News (Kannada)
-https://z5ams.akamaized.net/rajnewskan/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajnewskan/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="News",Raj News (Malayalam)
-https://z5ams.akamaized.net/rajnewsmal/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajnewsmal/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="News",Raj News (Telugu)
-https://z5ams.akamaized.net/rajnewstel/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajnewstel/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="News",Raj News 24x7
-https://z5ams.akamaized.net/rajnews/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajnews/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Entertainment",Raj TV
-https://z5ams.akamaized.net/rajtv/tracks-v2a1/index.m3u8
+https://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Music",Ramdhenu
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226358/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",Rang
