@@ -187,7 +187,7 @@ http://125.17.129.15/PLTV/88888888/224/3221226010/01.m3u8
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="News",ETV MP
 https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
-#EXTINF:0, group-title="News",ETV Orissa
+#EXTINF:0, group-title="News",ETV Odiya
 https://etv_oriya-lh.akamaihd.net/i/etv_odia_news_n_1@179753/index_5_av-p.m3u8
 #EXTINF:0, group-title="News",ETV Raj
 https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8
@@ -840,7 +840,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 https://z5ams.akamaized.net/flowerstv/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="News",Garshom News
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0, group-title="Enterinment",Gemini Comedy
+#EXTINF:0, group-title="Entertainment",Gemini Comedy
 http://mhms11.airtel.tv/wh7f454c46tw2793333123_1682756222/PLTV/88888888/224/3221226510/04.m3u8
 #EXTINF:0, group-title="Music",Gemini Life
 http://mhms11.airtel.tv/wh7f454c46tw1615167956_298914885/PLTV/88888888/224/3221226522/04.m3u8
@@ -852,7 +852,7 @@ http://mhms10.airtel.tv/wh7f454c46tw1988628988_1695487624/PLTV/88888888/224/3221
 http://mhms10.airtel.tv/wh7f454c46tw2176596396_1844960700/PLTV/88888888/224/3221226520/04.m3u8
 #EXTINF:0, group-title="Entertainment",Gemini TV
 http://mhms10.airtel.tv/wh7f454c46tw4133913513_809736806/PLTV/88888888/224/3221226532/04.m3u8
-#EXTINF:0, group-title="Enterinment",Gemini TV HD
+#EXTINF:0, group-title="Entertainment",Gemini TV HD
 http://mhms10.airtel.tv/wh7f454c46tw2717375159_749016567/PLTV/88888888/224/3221226517/04.m3u8
 #EXTINF:0, group-title="Infotainment",GoSree Vision
 http://150.242.21.2/gosree.m3u8
@@ -1087,7 +1087,7 @@ http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Entertainment",Zee Yuva
 https://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
 				
-#EXTINF:0, group-title="Entertainemnt",BollyWood Masala TV
+#EXTINF:0, group-title="Entertainment",BollyWood Masala TV
 https://www.youtube.com/watch?v=Bif339RnpVk
 #EXTINF:0, group-title="Devotional",GSS Seattle
 https://www.youtube.com/watch?v=OlsKO6cqkns
