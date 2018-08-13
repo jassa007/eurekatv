@@ -273,8 +273,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226240/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Music",Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:0, group-title="Entertainment",DIP
-http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
 #EXTINF:0, group-title="Infotainment",Discovery
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Infotainment",Discovery (Tamil)
@@ -689,8 +687,6 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:0, group-title="Music",Punjabi Beats Live
 http://165.227.140.6/live/beats/index.m3u8
-#EXTINF:0, group-title="Movies",Punjabi Cinema
-http://d2w8elu3rhz5vi.cloudfront.net/3d991c0c-13a7-47b7-8045-98e4e830cbae.m3u8
 #EXTINF:0, group-title="Infotainment",Punjabi Sargarmia
 http://45.248.164.243:8080/pbisargarmian/index.m3u8
 #EXTINF:0, group-title="Music",Punjabi Tadkaa
