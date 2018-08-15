@@ -14,6 +14,8 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Kids",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0, group-title="Lifestyle",EZ mall
+http://z5ams.akamaized.net/ezmall/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Devotional",Aastha
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226069/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 				
@@ -339,8 +341,6 @@ https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3
 https://etv-up.akamaized.net/i/etv_up_hls_1@175735/index_5_av-p.m3u8
 #EXTINF:0, group-title="News",ETV Urdu
 https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
-#EXTINF:0, group-title="Lifestyle",EZ mall
-http://z5ams.akamaized.net/ezmall/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Movies",Fakt Marathi
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226305/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Lifestyle",Fashion TV
