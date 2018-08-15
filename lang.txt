@@ -4,6 +4,8 @@
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& Pictures
 
+#EXTINF:0, group-title="Hindi",& Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",??
@@ -31,8 +33,7 @@ http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
 				
 #EXTINF:0, group-title="English",& Flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi",& Pictures HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
 #EXTINF:0, group-title="English",& Prive HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& TV
