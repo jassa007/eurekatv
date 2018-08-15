@@ -849,6 +849,10 @@ http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226320/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Punjabi",SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi",Star Plus
+http://216.144.250.174/Star_Plus_HD/track-v1a1/mono.m3u8
+#EXTINF:0, group-title="Tamil",Star Vijay
+http://216.144.250.174/Star_Vijay_hD/track-v1a1/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:0, group-title="Telugu",Subhavaartha TV
