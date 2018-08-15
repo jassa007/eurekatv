@@ -3,7 +3,6 @@
 #EXTINF:0, group-title="English",& Flix
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& Pictures
-
 #EXTINF:0, group-title="Hindi",& Pictures HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
