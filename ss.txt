@@ -3051,6 +3051,74 @@ https://secure-streams.akamaized.net/rt-uk/index.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/94/TLC_logo_2011.png" group-title="UK",TLC (UK)
 http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+
+#EXTINF:0, group-title="UK",BBC Parliament
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/22.ch
+#EXTINF:0, group-title="UK",BB1 NI
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/1.ch
+#EXTINF:0, group-title="UK",BBC 1 Cambridge
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/3.ch
+#EXTINF:0, group-title="UK",BBC 1 Islands
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/15.ch
+#EXTINF:0, group-title="UK",BBC 1 East
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/14.ch
+#EXTINF:0, group-title="UK",BBC 1 East Midlands
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/13.ch
+#EXTINF:0, group-title="UK",BBC 1 Easty Orkshire
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/9.ch
+#EXTINF:0, group-title="UK",BBC 1 NE
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/5.ch
+#EXTINF:0, group-title="UK",BBC 1 NW
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/4.ch
+#EXTINF:0, group-title="UK",BBC 1 Oxford
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/12.ch
+#EXTINF:0, group-title="UK",BBC 1 S
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/8.ch
+#EXTINF:0, group-title="UK",BBC 1 SC
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/2.ch
+#EXTINF:0, group-title="UK",BBC 1 SE
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/7.ch
+#EXTINF:0, group-title="UK",BBC 1 SW
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/6.ch
+#EXTINF:0, group-title="UK",BBC 1 West
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/11.ch
+#EXTINF:0, group-title="UK",BBC 1 Yorks
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/10.ch
+#EXTINF:0, group-title="UK",BBC 2 HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/25.ch
+#EXTINF:0, group-title="UK",BBC 2 NI
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/16.ch
+#EXTINF:0, group-title="UK",BBC 2 SC
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/17.ch
+#EXTINF:0, group-title="UK",BBC 2 Wales
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/24.ch
+#EXTINF:0, group-title="UK",BBC 3 
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/28.ch
+#EXTINF:0, group-title="UK",BBC 4 HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/26.ch
+#EXTINF:0, group-title="UK",BBC Alba
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/18.ch
+#EXTINF:0, group-title="UK",BBC News
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/27.ch
+#EXTINF:0, group-title="UK",BBC News HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/67.ch
+#EXTINF:0, group-title="UK",BBC 1 NI HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/68.ch
+#EXTINF:0, group-title="UK",BBC 1 
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/72.ch
+#EXTINF:0, group-title="UK",BBC 1 HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/73.ch
+#EXTINF:0, group-title="UK",BBC Kids
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/76.ch
+#EXTINF:0, group-title="UK",BBC Cbeebies
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/77.ch
+#EXTINF:0, group-title="USA",CNN News
+http://62.210.93.115:80/live?channelId=257&uid=1917&deviceMac=00:1A:79:15:34:33 
+#EXTINF:0, group-title="USA",CNN News
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/53.ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg" group-title="IRELAND",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTE News Now
