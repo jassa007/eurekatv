@@ -805,6 +805,33 @@ http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226320/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+
+
+#EXTINF:0, group-title="Entertainment",COLORS HD
+http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
+#EXTINF:0, group-title="Music",Brit Asia
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+#EXTINF:0, group-title="Entertainment",Jus One
+http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+#EXTINF:0, group-title="Music",MTV India
+http://50.7.198.170:8081/Ind/MTVINDIA/playlist.m3u8
+#EXTINF:0, group-title="Music",PTC Chakde
+http://50.7.198.170:8081/PB/PTCCHAKDE/playlist.m3u8
+#EXTINF:0, group-title="News",PTC News
+http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
+#EXTINF:0, group-title="Infotainment",PTC Punjabi
+http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
+#EXTINF:0, group-title="Movies",Star Gold
+http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
+#EXTINF:0, group-title="Movies",Star Gold HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
+#EXTINF:0, group-title="Entertainment",Star Plus
+http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
+#EXTINF:0, group-title="Entertainment",Star Plus HD
+http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+
+
+
 #EXTINF:0, group-title="Movies",Star Gold UK
 http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
 #EXTINF:0, group-title="Entertainment",Star Plus UK
