@@ -106,8 +106,6 @@ http://45.79.203.234:1935/apple6/myStream/index.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226229/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Devotional",Arihant
 http://cshms1.airtel.tv/wh7f454c46tw3347044050_48722815/PLTV/88888888/224/3221226396/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, group-title="Entertainment",Arijan
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Devotional",Ashirvatham TV
 http://mhms5.airtel.tv/wh7f454c46tw104135927_682645044/PLTV/88888888/224/3221226262/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="News",Asianet News
@@ -325,7 +323,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0, group-title="News",DY365
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
 #EXTINF:0, group-title="Infotainment",E24
-http://125.17.129.15/PLTV/88888888/224/3221226010/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226010/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="News",E9 Punjabi
 http://cdn.samtv.ca/e9punjabi/index.m3u8
 #EXTINF:0, group-title="News",EET TV Canada
@@ -784,7 +782,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Infotainment",Sana TV HD
 http://209.58.160.22/Sanatvhls/live.m3u8
 #EXTINF:0, group-title="News",Sandesh News
-http://125.17.129.15/wh7f454c46tw500451813_1277570516/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225852/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225852/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",Sangamam HD
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 #EXTINF:0, group-title="Devotional",Sangat TV
