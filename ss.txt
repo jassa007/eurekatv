@@ -391,6 +391,73 @@ http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams
 http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1200px-BBC_World_News_red.svg.png" group-title="UK",BBC World News
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
+#EXTINF:-1 group-title="UK-PREMIUM",BB1NI
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/1.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 Cambridge
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/3.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 Channel Islands
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/15.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 East
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/14.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 East Midlands
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/13.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 East Yorkshire
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/9.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 NE
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/5.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 NW
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/4.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 Oxford
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/12.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 S
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/8.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 SC
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/2.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 SE
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/7.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 SW
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/6.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 West
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/11.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 Yorks
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/10.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 2 HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/25.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 2 NI
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/16.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 2 SC
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/17.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 2 Wales
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/24.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 3
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/28.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 4 HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/26.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC Calba
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/18.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC News
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/27.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC Parl
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/22.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC News HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/67.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 NI HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/68.ch
+#EXTINF:-1 group-title="UK-PREMIUM",itvliveevents
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/70.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/72.ch
+#EXTINF:-1 group-title="UK-PREMIUM",BBC 1 HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/73.ch
+#EXTINF:-1 group-title="UK-PREMIUM",CBBC
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/76.ch
+#EXTINF:-1 group-title="UK-PREMIUM",C Beebies
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/77.ch
+#EXTINF:-1 group-title="UK-PREMIUM",GVC
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/20.ch
+#EXTINF:-1 group-title="UK-PREMIUM",S4C
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/23.ch
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="UK",Bloomberg TV UK
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
