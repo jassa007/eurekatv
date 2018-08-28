@@ -47,7 +47,7 @@ https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/index_2000_av-p.m3u8
 #EXTINF:0, group-title="Music",9XO
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="News",Aaj Tak
-http://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:0, group-title="Entertainment",Aakaash
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="News",Abhi Tak
@@ -447,7 +447,7 @@ https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsrajasthan_all/master.m3u8
 #EXTINF:0, group-title="News",India News UP
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsup_all/master.m3u8
 #EXTINF:0, group-title="News",India Today
-http://z5ams.akamaized.net/indiatoday/tracks-v1a1/index.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226423/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="News",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 #EXTINF:0, group-title="News",India Voice
@@ -1108,7 +1108,7 @@ http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Movies",Zee Cinemalu
 http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Movies",Zee Classic
-http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Music",Zee Etc
 http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="News",Zee Hindustan
