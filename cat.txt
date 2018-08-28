@@ -447,7 +447,7 @@ https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsrajasthan_all/master.m3u8
 #EXTINF:0, group-title="News",India News UP
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsup_all/master.m3u8
 #EXTINF:0, group-title="News",India Today
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226423/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+https://api.new.livestream.com/accounts/11965022/events/4086327/broadcasts/179505169.secure.m3u8
 #EXTINF:0, group-title="News",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 #EXTINF:0, group-title="News",India Voice
