@@ -862,7 +862,7 @@ http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 #EXTINF:0, group-title="Sports",Sony Six
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Sports",Sony Six HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+http://cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",Sony TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Entertainment",Sony TV HD
