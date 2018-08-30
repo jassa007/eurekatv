@@ -656,7 +656,8 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226403/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Infotainment",Osai TV
 http://209.58.180.53/osaihls/live.m3u8
-#EXTINF:0, group-title="Sports",OSN Cricket HD	1.http://163.172.218.205:8081/OSn/Cricket/index.m3u8?token=MTA5LjE3Ny42NS4xMTYtdG9rZW4zLTE1MzM5NDU4MzM=
+#EXTINF:0, group-title="Sports",OSN Cricket HD	
+http://163.172.218.205:8081/OSn/Cricket/index.m3u8?token=MTA5LjE3Ny42NS4xMTYtdG9rZW4zLTE1MzM5NDU4MzM=
 #EXTINF:0, group-title="Entertainment",OTV
 http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
 #EXTINF:0, group-title="Devotional",Paras TV
