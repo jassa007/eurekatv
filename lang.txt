@@ -122,7 +122,7 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0, group-title="English",BBC World News
 http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi",Bhakti SagarE24
+#EXTINF:0, group-title="Hindi",Bhakti Sagar
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
 #EXTINF:0, group-title="Telugu",Bhakti TV
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226357/1.m3u8|User-Agent=ExoPlayerDemo/4.4
