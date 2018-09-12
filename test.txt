@@ -1,0 +1,1082 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="Sri Krishna TV" tvg-logo="http://www.erodesrikrishnatv.com/img/logo.png" tvg-name="Sri Krishna TV"  group-title="INDIA",Sri Krishna TV
+http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
+
+#EXTINF:-1, tvg-id="Star Gold" tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" tvg-name="Star Gold"  group-title="INDIA",Star Gold
+http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sony Yay (Telugu)" tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/general_content/21_0_16_1_1521807420.jpg" tvg-name="Sony Yay (Telugu)"  group-title="INDIA",Sony Yay (Telugu)
+http://mhms11.airtel.tv/wh7f454c46tw1942416567_212728774/PLTV/88888888/224/3221226505/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony Yay!" tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/general_content/21_0_16_1_1521807420.jpg" tvg-name="Sony Yay!"  group-title="INDIA",Sony Yay!
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/1.m3u8
+
+#EXTINF:-1, tvg-id="Sony Yay! (Tamil)" tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/general_content/21_0_16_1_1521807420.jpg" tvg-name="Sony Yay! (Tamil)"  group-title="INDIA",Sony Yay! (Tamil)
+http://mhms11.airtel.tv/wh7f454c46tw1799333471_1357632319/PLTV/88888888/224/3221226502/04.m3u8
+
+#EXTINF:-1, tvg-id="Star Gold HD" tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" tvg-name="Star Gold HD"  group-title="INDIA",Star Gold HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Star Sports 2" tvg-logo="https://sportzwiki.com/wp-content/uploads/2016/07/Star-Sports.png" tvg-name="Star Sports 2"  group-title="INDIA",Star Sports 2
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Star TV" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/11/starutsav001.jpg" tvg-name="Star TV"  group-title="INDIA",Star TV
+http://216.144.250.174/Star_Plus_HD/track-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Star Sports 1" tvg-logo="https://sportzwiki.com/wp-content/uploads/2016/07/Star-Sports.png" tvg-name="Star Sports 1"  group-title="INDIA",Star Sports 1
+http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Star Plus" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg" tvg-name="Star Plus"  group-title="INDIA",Star Plus
+http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Star Plus HD" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg" tvg-name="Star Plus HD"  group-title="INDIA",Star Plus HD
+http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sony Sab (Opt-2)" tvg-logo="http://cms.businesswireindia.com/Uploads/companyLogo/Sony_8348.jpg" tvg-name="Sony Sab (Opt-2)"  group-title="INDIA",Sony Sab (Opt-2)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony Six (Opt-1)" tvg-logo="https://image3.mouthshut.com/images/imagesp/925740323s.png" tvg-name="Sony Six (Opt-1)"  group-title="INDIA",Sony Six (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/1.m3u8
+
+#EXTINF:-1, tvg-id="Sony Sab (Opt-1)" tvg-logo="http://cms.businesswireindia.com/Uploads/companyLogo/Sony_8348.jpg" tvg-name="Sony Sab (Opt-1)"  group-title="INDIA",Sony Sab (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/1.m3u8
+
+#EXTINF:-1, tvg-id="Sony Pix" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/34_181.png" tvg-name="Sony Pix"  group-title="INDIA",Sony Pix
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony Rox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Sonyrox.jpg" tvg-name="Sony Rox HD"  group-title="INDIA",Sony Rox HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony Six (Opt-2)" tvg-logo="https://image3.mouthshut.com/images/imagesp/925740323s.png" tvg-name="Sony Six (Opt-2)"  group-title="INDIA",Sony Six (Opt-2)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony TV (Opt-3)" tvg-logo="https://www.india-forums.com/tellybuzz/images/uploads/1AC_Sony_TV.png" tvg-name="Sony TV (Opt-3)"  group-title="INDIA",Sony TV (Opt-3)
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony Wah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" tvg-name="Sony Wah"  group-title="INDIA",Sony Wah
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
+
+#EXTINF:-1, tvg-id="Sony TV (Opt-2)" tvg-logo="https://www.india-forums.com/tellybuzz/images/uploads/1AC_Sony_TV.png" tvg-name="Sony TV (Opt-2)"  group-title="INDIA",Sony TV (Opt-2)
+http://mhms11.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/index.m3u8
+
+#EXTINF:-1, tvg-id="Sony TEN 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Sony-Ten2.png" tvg-name="Sony TEN 2"  group-title="INDIA",Sony TEN 2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/01.m3u8
+
+#EXTINF:-1, tvg-id="Sony TV (Opt-1)" tvg-logo="https://www.india-forums.com/tellybuzz/images/uploads/1AC_Sony_TV.png" tvg-name="Sony TV (Opt-1)"  group-title="INDIA",Sony TV (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/1.m3u8
+
+#EXTINF:-1, tvg-id="Star Vijay" tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" tvg-name="Star Vijay"  group-title="INDIA",Star Vijay
+http://216.144.250.174/Star_Vijay_hD/track-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Total TV" tvg-logo="http://totaltv.in/include/frontend/img/logo.png" tvg-name="Total TV"  group-title="INDIA",Total TV
+http://172.104.54.227:1935/trans/totaltv.stream_aac/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Tunes 6" tvg-logo="https://i.imgur.com/HqR8B1c.png" tvg-name="Tunes 6"  group-title="INDIA",Tunes 6
+http://5k8q8pjzdy4v-hls-live.wmncdn.net/717/tunes61/live1.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Toronto 360 TV" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-name="Toronto 360 TV"  group-title="INDIA",Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Tirur Cable Vision" tvg-logo="http://coakerala.com/wp-content/uploads/2015/09/tcv-tirur.jpg" tvg-name="Tirur Cable Vision"  group-title="INDIA",Tirur Cable Vision
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1, tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" tvg-name="TLC"  group-title="INDIA",TLC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/1.m3u8
+
+#EXTINF:-1, tvg-id="TV 100" tvg-logo="https://www.firstonetv.net/images/logos/in/TV100.png" tvg-name="TV 100"  group-title="INDIA",TV 100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Urdu TV Toronto" tvg-logo="https://i.imgur.com/dVDzRTu.jpg" tvg-name="Urdu TV Toronto"  group-title="INDIA",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Uttar Bangla" tvg-logo="http://www.uttarbangla.com/Images/CompanyLogo.jpg" tvg-name="Uttar Bangla"  group-title="INDIA",Uttar Bangla
+http://vm3.gloriatech.in:1935/ivb7/uttarbangla/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV84" tvg-logo="http://www.tv84.tv/Images/TV84-Logo.jpg" tvg-name="TV84"  group-title="INDIA",TV84
+http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV 16 Toronto" tvg-logo="https://i.imgur.com/brxkNbw.png" tvg-name="TV 16 Toronto"  group-title="INDIA",TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV Punjab" tvg-logo="https://tvpunjab.com/wp-content/uploads/2017/03/final-logo1-web-tv-punjab-1.png" tvg-name="TV Punjab"  group-title="INDIA",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+
+#EXTINF:-1, tvg-id="Swasthik TV" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/b46dfdf9-dfcd-4c14-8bb4-f0fb62e1f7a3.jpg" tvg-name="Swasthik TV"  group-title="INDIA",Swasthik TV
+rtmp://flash5.chennaistream.net/swasthiktv/_definst_/mp4:swasthiktvlive
+
+#EXTINF:-1, tvg-id="Tamil Vision" tvg-logo="https://d2d7xd1owstlh.cloudfront.net/static/2/Open/Samsung_Logos_1845/Source/13064/TamilVision.png" tvg-name="Tamil Vision"  group-title="INDIA",Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sur Sagar TV" tvg-logo="https://i.imgur.com/NLq17Q8.jpg" tvg-name="Sur Sagar TV"  group-title="INDIA",Sur Sagar TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Steelbird Music" tvg-logo="https://i.imgur.com/nwxCDxG.png" tvg-name="Steelbird Music"  group-title="INDIA",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Subrang TV" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2017/03/custom-logo.jpg" tvg-name="Subrang TV"  group-title="INDIA",Subrang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1, tvg-id="Tamilan24" tvg-logo="https://www.tamilan24.com/assets/img/section/events.png" tvg-name="Tamilan24"  group-title="INDIA",Tamilan24
+http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Times Now (Opt-1)" tvg-logo="http://asiapacificrealtysummit.com/images/times.jpg" tvg-name="Times Now (Opt-1)"  group-title="INDIA",Times Now (Opt-1)
+http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/index_600_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Times Now (Opt-2)" tvg-logo="http://asiapacificrealtysummit.com/images/times.jpg" tvg-name="Times Now (Opt-2)"  group-title="INDIA",Times Now (Opt-2)
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Ten 1" tvg-logo="http://smarttv.pk/wp-content/uploads/2016/11/tenSports1.jpg" tvg-name="Ten 1"  group-title="INDIA",Ten 1
+http://185.142.239.164:3135/Ten/1/index.m3u8
+
+#EXTINF:-1, tvg-id="Tamilan Television" tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" tvg-name="Tamilan Television"  group-title="INDIA",Tamilan Television
+http://8ovgdk34qmpw-hls-live.wmncdn.net/307/tamilan/live.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Tehlka" tvg-logo="http://www.tehlka.ca/wp-content/uploads/2017/06/logo.jpg" tvg-name="Tehlka"  group-title="INDIA",Tehlka
+http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Punjabi Sargarmia" tvg-logo="https://i.imgur.com/R0Rr0ZG.png" tvg-name="Punjabi Sargarmia"  group-title="INDIA",Punjabi Sargarmia
+http://45.248.164.243:8080/pbisargarmian/index.m3u8
+
+#EXTINF:-1, tvg-id="Punjabi Zindabad" tvg-logo="https://i.imgur.com/GuRusRP.jpg" tvg-name="Punjabi Zindabad"  group-title="INDIA",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="Punjabi Tadka" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-name="Punjabi Tadka"  group-title="INDIA",Punjabi Tadka
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+
+#EXTINF:-1, tvg-id="Punjab TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Punjab_TV_logo.png" tvg-name="Punjab TV"  group-title="INDIA",Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Punjabi Beats Live" tvg-logo="https://i.imgur.com/BYGeUtH.png" tvg-name="Punjabi Beats Live"  group-title="INDIA",Punjabi Beats Live
+http://165.227.140.6/live/beats/index.m3u8
+
+#EXTINF:-1, tvg-id="Puthiya Thalaimurai TV Tamil" tvg-logo="http://d2nkvue3wir2z1.cloudfront.net/ptv/images/puthiyathalaimurai-logo.png" tvg-name="Puthiya Thalaimurai TV Tamil"  group-title="INDIA",Puthiya Thalaimurai TV Tamil
+http://puthiyathalaimurai.live-s.cdn.bitgravity.com/cdn-live/_definst_/puthiyathalaimurai/live/ptm3/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="RPlus News" tvg-logo="http://livetv.freeiptv.in/image.php?img=images/RPLUS.png" tvg-name="RPlus News"  group-title="INDIA",RPlus News
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sabrang Channel" tvg-logo="http://www.sabrang.com.au/wp-content/uploads/2017/11/sabrang-channel-transparent-2.png" tvg-name="Sabrang Channel"  group-title="INDIA",Sabrang Channel
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Republic_TV.jpg" tvg-name="Republic TV"  group-title="INDIA",Republic TV
+http://sshds5-lh.akamaihd.net/i/pcrepublichs_3@503842/index_1300_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Rajya Sabha TV" tvg-logo="http://outofline.co.in/wp-content/uploads/2016/09/RSTV-678x381.jpg" tvg-name="Rajya Sabha TV"  group-title="INDIA",Rajya Sabha TV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-1, tvg-id="Rengoni" tvg-logo="http://www.rengonitv.com/admin/pdf/RENGONI%20white%20logo%20small.png" tvg-name="Rengoni"  group-title="INDIA",Rengoni
+http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Pratidin Time" tvg-logo="http://www.pratidintime.com/images/logo.png" tvg-name="Pratidin Time"  group-title="INDIA",Pratidin Time
+http://pratidintimestream.in:1935/unevent/timetv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Pravasi Vision" tvg-logo="https://img15.androidappsapk.co/300/8/1/7/tv.pravasivision.png" tvg-name="Pravasi Vision"  group-title="INDIA",Pravasi Vision
+http://cdn.live5.in:1935/live/pravasi/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Prajaa TV" tvg-logo="http://karthavya.com/wp-content/uploads/2017/04/praja-news-logo.jpg" tvg-name="Prajaa TV"  group-title="INDIA",Prajaa TV
+http://live.wowstream.in:1935/ka-prajaa/prajaa-news_live/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Pitaara TV" tvg-logo="https://i.imgur.com/tVwbDGE.jpg" tvg-name="Pitaara TV"  group-title="INDIA",Pitaara TV
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+
+#EXTINF:-1, tvg-id="Pop Pataka" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-name="Pop Pataka"  group-title="INDIA",Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+#EXTINF:-1, tvg-id="Prime Asia TV" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos%5B2%5D/prime-asia-300.png" tvg-name="Prime Asia TV"  group-title="INDIA",Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="PTV Pardesi TV" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-name="PTV Pardesi TV"  group-title="INDIA",PTV Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" tvg-name="PTV Sports"  group-title="INDIA",PTV Sports
+http://50.7.198.170:8081/abcd/ptvsports/playlist.m3u8
+
+#EXTINF:-1, tvg-id="PTN 24" tvg-logo="https://i.imgur.com/6L0gjes.jpg" tvg-name="PTN 24"  group-title="INDIA",PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+
+#EXTINF:-1, tvg-id="Prime Canada TV" tvg-logo="https://i.imgur.com/rEKsf20.jpg" tvg-name="Prime Canada TV"  group-title="INDIA",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+#EXTINF:-1, tvg-id="PTC News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ptc-news-black.png" tvg-name="PTC News"  group-title="INDIA",PTC News
+http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sadhna Plus News" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/8c48f0f0-5599-4d54-8688-b4fdd300c7c0.jpg" tvg-name="Sadhna Plus News"  group-title="INDIA",Sadhna Plus News
+http://live.wmncdn.net/sadhanaplus1/live.stream/index.m3u8
+
+#EXTINF:-1, tvg-id="Sony BBC Earth (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" tvg-name="Sony BBC Earth (Opt-2)"  group-title="INDIA",Sony BBC Earth (Opt-2)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony ESPN (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" tvg-name="Sony ESPN (Opt-1)"  group-title="INDIA",Sony ESPN (Opt-1)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/1.m3u8
+
+#EXTINF:-1, tvg-id="Sony BBC Earth (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" tvg-name="Sony BBC Earth (Opt-1)"  group-title="INDIA",Sony BBC Earth (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/1.m3u8
+
+#EXTINF:-1, tvg-id="SKTAT TV" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/29074612SKTAT%20TV.png" tvg-name="SKTAT TV"  group-title="INDIA",SKTAT TV
+http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
+
+#EXTINF:-1, tvg-id="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" tvg-name="Sony Aath"  group-title="INDIA",Sony Aath
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/1.m3u8
+
+#EXTINF:-1, tvg-id="Sony ESPN (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" tvg-name="Sony ESPN (Opt-2)"  group-title="INDIA",Sony ESPN (Opt-2)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony Mix" tvg-logo="https://i.imgur.com/gzRNB25.jpg" tvg-name="Sony Mix"  group-title="INDIA",Sony Mix
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/1.m3u8
+
+#EXTINF:-1, tvg-id="Sony Pal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png" tvg-name="Sony Pal"  group-title="INDIA",Sony Pal
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/1.m3u8
+
+#EXTINF:-1, tvg-id="Sony Max 2" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2016/03/Sony-Max-2.jpg" tvg-name="Sony Max 2"  group-title="INDIA",Sony Max 2
+http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/04.m3u8
+
+#EXTINF:-1, tvg-id="Sony Le Plex" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Le_PLEX_HD.png" tvg-name="Sony Le Plex"  group-title="INDIA",Sony Le Plex
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
+
+#EXTINF:-1, tvg-id="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="Sony Max"  group-title="INDIA",Sony Max
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/1.m3u8
+
+#EXTINF:-1, tvg-id="Sangamam TV" tvg-logo="https://i.imgur.com/viRVMKh.png" tvg-name="Sangamam TV"  group-title="INDIA",Sangamam TV
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sangat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Sangat_TV_logo.png" tvg-name="Sangat TV"  group-title="INDIA",Sangat TV
+http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sana TV" tvg-logo="https://i.imgur.com/qt05zzO.png" tvg-name="Sana TV"  group-title="INDIA",Sana TV
+http://209.58.160.22/Sanatvhls/live.m3u8
+
+#EXTINF:-1, tvg-id="Saint TV" tvg-logo="http://roku.jhanjartv.com/channels/saint.jpg" tvg-name="Saint TV"  group-title="INDIA",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+
+#EXTINF:-1, tvg-id="Sakkat" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-name="Sakkat"  group-title="INDIA",Sakkat
+http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+
+#EXTINF:-1, tvg-id="Sanjha Punjab" tvg-logo="https://i.imgur.com/xXi8HX2.png" tvg-name="Sanjha Punjab"  group-title="INDIA",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sikh Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Sikh_Channel_logo.png" tvg-name="Sikh Channel"  group-title="INDIA",Sikh Channel
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1, tvg-id="Sivan TV" tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" tvg-name="Sivan TV"  group-title="INDIA",Sivan TV
+https://sivan.vedge.infomaniak.com/livecast/sivan/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sardari TV" tvg-logo="https://i.imgur.com/6Q844bs.jpg" tvg-name="Sardari TV"  group-title="INDIA",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Sathiyam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" tvg-name="Sathiyam TV"  group-title="INDIA",Sathiyam TV
+http://live-10.viewer.dacast.com/i/dclive_1@139807/master.m3u8
+
+#EXTINF:-1, tvg-id="Santhora TV" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/120537591455517270-56c16e5608bd2.png" tvg-name="Santhora TV"  group-title="INDIA",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+
+#EXTINF:-1, tvg-id="Zee TV (Opt-1)" tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" tvg-name="Zee TV (Opt-1)"  group-title="INDIA",Zee TV (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee TV (Opt-2)" tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" tvg-name="Zee TV (Opt-2)"  group-title="INDIA",Zee TV (Opt-2)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Zee_Telugu_logo.jpeg" tvg-name="Zee Telugu"  group-title="INDIA",Zee Telugu
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225936/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Talkies (Opt-3)" tvg-logo="https://www.jalewa.com/wp-content/uploads/2018/08/Zee-Talkies.png" tvg-name="Zee Talkies (Opt-3)"  group-title="INDIA",Zee Talkies (Opt-3)
+http://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Tamil" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg" tvg-name="Zee Tamil"  group-title="INDIA",Zee Tamil
+http://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee TV (Opt-3)" tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" tvg-name="Zee TV (Opt-3)"  group-title="INDIA",Zee TV (Opt-3)
+http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Yuva (Opt-1)" tvg-logo="https://i1.wp.com/nrepl.in/wp-content/uploads/2017/11/ZY.jpg" tvg-name="Zee Yuva (Opt-1)"  group-title="INDIA",Zee Yuva (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Yuva (Opt-2)" tvg-logo="https://i1.wp.com/nrepl.in/wp-content/uploads/2017/11/ZY.jpg" tvg-name="Zee Yuva (Opt-2)"  group-title="INDIA",Zee Yuva (Opt-2)
+http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Uttar Pradesh Uttarakhand" tvg-logo="https://www.dishtracking.com/media/2017/12/Zee-Uttar-Pradesh-Logo.jpg" tvg-name="Zee Uttar Pradesh Uttarakhand"  group-title="INDIA",Zee Uttar Pradesh Uttarakhand
+http://z5ams.akamaized.net/zeenewsupuk/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee TV (Opt-4)" tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" tvg-name="Zee TV (Opt-4)"  group-title="INDIA",Zee TV (Opt-4)
+http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee TV (Opt-5)" tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" tvg-name="Zee TV (Opt-5)"  group-title="INDIA",Zee TV (Opt-5)
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Rajasthan (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Zee_rajasthan.jpg" tvg-name="Zee Rajasthan (Opt-1)"  group-title="INDIA",Zee Rajasthan (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225928/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Rajasthan (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Zee_rajasthan.jpg" tvg-name="Zee Rajasthan (Opt-2)"  group-title="INDIA",Zee Rajasthan (Opt-2)
+http://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Punjabi (Opt-2)" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" tvg-name="Zee Punjabi (Opt-2)"  group-title="INDIA",Zee Punjabi (Opt-2)
+http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee News (Opt-2)" tvg-logo="https://i.imgur.com/SAVmow8.png" tvg-name="Zee News (Opt-2)"  group-title="INDIA",Zee News (Opt-2)
+http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Punjabi (Opt-1)" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" tvg-name="Zee Punjabi (Opt-1)"  group-title="INDIA",Zee Punjabi (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225923/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Salaam (Opt-1)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/170x170/zeesalaam.png" tvg-name="Zee Salaam (Opt-1)"  group-title="INDIA",Zee Salaam (Opt-1)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226355/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Talkies (Opt-1)" tvg-logo="https://www.jalewa.com/wp-content/uploads/2018/08/Zee-Talkies.png" tvg-name="Zee Talkies (Opt-1)"  group-title="INDIA",Zee Talkies (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225921/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Talkies (Opt-2)" tvg-logo="https://www.jalewa.com/wp-content/uploads/2018/08/Zee-Talkies.png" tvg-name="Zee Talkies (Opt-2)"  group-title="INDIA",Zee Talkies (Opt-2)
+http://z5ams.akamaized.net/zeetalkies/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Sarthak (Opt-2)" tvg-logo="http://akamai.vidz.zeecdn.com/ozee/asset/logos/sarthaktv_new.png" tvg-name="Zee Sarthak (Opt-2)"  group-title="INDIA",Zee Sarthak (Opt-2)
+http://z5ams.akamaized.net/sarthaktv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Salaam (Opt-2)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/170x170/zeesalaam.png" tvg-name="Zee Salaam (Opt-2)"  group-title="INDIA",Zee Salaam (Opt-2)
+http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Sarthak (Opt-1)" tvg-logo="http://akamai.vidz.zeecdn.com/ozee/asset/logos/sarthaktv_new.png" tvg-name="Zee Sarthak (Opt-1)"  group-title="INDIA",Zee Sarthak (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/1.m3u8
+
+#EXTINF:-1, tvg-id="Zoom" tvg-logo="https://inkblingdesigns.files.wordpress.com/2015/07/endpage.jpg" tvg-name="Zoom"  group-title="INDIA",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:-1, tvg-id="Hum Masala" tvg-logo="https://tune.tv/desktop/images/live4.png" tvg-name="Hum Masala"  group-title="PAKISTAN",Hum Masala
+https://live.tune.tv/humasala/hum-asala/chunklist_w.m3u8
+
+#EXTINF:-1, tvg-id="Jwand TV" tvg-logo="http://jwand.tv/wp-content/uploads/2016/03/sehat-logo-2.png" tvg-name="Jwand TV"  group-title="PAKISTAN",Jwand TV
+http://dcunilive23-lh.akamaihd.net/i/dclive_1@48939/index_150_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Hum TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" tvg-name="Hum TV"  group-title="PAKISTAN",Hum TV
+https://live.tune.tv/humtv/hum-tv/chunklist_w.m3u8
+
+#EXTINF:-1, tvg-id="Eye 95 TV (US)" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" tvg-name="Eye 95 TV (US)"  group-title="PAKISTAN",Eye 95 TV (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+
+#EXTINF:-1, tvg-id="Geo News" tvg-logo="http://epaper.pknewspapers.com/images/epapers/pakistan/geo-news-urdu.jpg" tvg-name="Geo News"  group-title="PAKISTAN",Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Lahore News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" tvg-name="Lahore News"  group-title="PAKISTAN",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Samaa (Opt-2)" tvg-logo="http://www.loveislife.info/wp-content/uploads/2015/12/Samaa-News-TV-Logo-Pakistan.png" tvg-name="Samaa (Opt-2)"  group-title="PAKISTAN",Samaa (Opt-2)
+http://samaatr.videocdn.scaleengine.net/samaatr-live/play/samaatr.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Tez" tvg-logo="http://i65.tinypic.com/2hoemb9.png" tvg-name="Tez"  group-title="PAKISTAN",Tez
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Samaa (Opt-1)" tvg-logo="http://www.loveislife.info/wp-content/uploads/2015/12/Samaa-News-TV-Logo-Pakistan.png" tvg-name="Samaa (Opt-1)"  group-title="PAKISTAN",Samaa (Opt-1)
+http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="PTV News" tvg-logo="http://www.ptv.com.pk/public/user/assets/images/ptv-familyNews.jpg" tvg-name="PTV News"  group-title="PAKISTAN",PTV News
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+
+#EXTINF:-1, tvg-id="PTV Sports" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/4b/13/ef/4b13ef2077d5997ba53909d354392cd2.jpg" tvg-name="PTV Sports"  group-title="PAKISTAN",PTV Sports
+http://185.142.239.164:3135/Ptv/Sports/index.m3u8
+
+#EXTINF:-1, tvg-id="92 News (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" tvg-name="92 News (Opt-2)"  group-title="PAKISTAN",92 News (Opt-2)
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Aitmad TV" tvg-logo="http://s2.dmcdn.net/K8CsQ/1280x720-OMi.jpg" tvg-name="Aitmad TV"  group-title="PAKISTAN",Aitmad TV
+http://streamer12.dstreamone.com/live/aitmadtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="92 News (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" tvg-name="92 News (Opt-1)"  group-title="PAKISTAN",92 News (Opt-1)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="7 News" tvg-logo="http://www.citysearch.pk/UF/Companies/5956/7news-tv-logo.png" tvg-name="7 News"  group-title="PAKISTAN",7 News
+http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/10.m3u8
+
+#EXTINF:-1, tvg-id="24 News" tvg-logo="https://en.dailypakistan.com.pk/wp-content/uploads/2016/02/App-Icon.jpg" tvg-name="24 News"  group-title="PAKISTAN",24 News
+http://streamer12.dstreamone.com/ch24/channel24/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ARY Digital" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" tvg-name="ARY Digital"  group-title="PAKISTAN",ARY Digital
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Dunya News (Opt-2)" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" tvg-name="Dunya News (Opt-2)"  group-title="PAKISTAN",Dunya News (Opt-2)
+http://stream1.qtelmedia.com:1936/live/duniyanewsweb/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Dunya News (Opt-3)" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" tvg-name="Dunya News (Opt-3)"  group-title="PAKISTAN",Dunya News (Opt-3)
+http://199.167.151.237:1935/live/sp15_7.stream/gmswf.m3u8
+
+#EXTINF:-1, tvg-id="Dunya News (Opt-1)" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" tvg-name="Dunya News (Opt-1)"  group-title="PAKISTAN",Dunya News (Opt-1)
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ARY News" tvg-logo="https://i.imgsafe.org/99603b2597.png" tvg-name="ARY News"  group-title="PAKISTAN",ARY News
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Dawn News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" tvg-name="Dawn News"  group-title="PAKISTAN",Dawn News
+http://199.167.151.237:1935/live/sp15_23.stream/gmswf.m3u8
+
+#EXTINF:-1, tvg-id="Zee 24 Taas (Opt-1)" tvg-logo="http://ste.india.com/images/logo/24taaslogo_footer.png" tvg-name="Zee 24 Taas (Opt-1)"  group-title="INDIA",Zee 24 Taas (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee 24 Taas (Opt-2)" tvg-logo="http://ste.india.com/images/logo/24taaslogo_footer.png" tvg-name="Zee 24 Taas (Opt-2)"  group-title="INDIA",Zee 24 Taas (Opt-2)
+http://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee 24 Kalak" tvg-logo="http://yt3.ggpht.com/-S2w13fDEg24/AAAAAAAAAAI/AAAAAAAAAAA/9odnPdD6QUQ/s800-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="Zee 24 Kalak"  group-title="INDIA",Zee 24 Kalak
+http://z5ams.akamaized.net/kalak/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee 24 Ghanta (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/24_Ghanta_logo.JPG" tvg-name="Zee 24 Ghanta (Opt-1)"  group-title="INDIA",Zee 24 Ghanta (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee 24 Ghanta (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/24_Ghanta_logo.JPG" tvg-name="Zee 24 Ghanta (Opt-2)"  group-title="INDIA",Zee 24 Ghanta (Opt-2)
+http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Action (Opt-1)" tvg-logo="http://livetv.freeiptv.in/image.php?img=images/Zee_Action.png" tvg-name="Zee Action (Opt-1)"  group-title="INDIA",Zee Action (Opt-1)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Zeebanglalogo.png" tvg-name="Zee Bangla (Opt-2)"  group-title="INDIA",Zee Bangla (Opt-2)
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla (Opt-3)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Zeebanglalogo.png" tvg-name="Zee Bangla (Opt-3)"  group-title="INDIA",Zee Bangla (Opt-3)
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Zeebanglalogo.png" tvg-name="Zee Bangla (Opt-1)"  group-title="INDIA",Zee Bangla (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Action (Opt-2)" tvg-logo="http://livetv.freeiptv.in/image.php?img=images/Zee_Action.png" tvg-name="Zee Action (Opt-2)"  group-title="INDIA",Zee Action (Opt-2)
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Anmol" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Zee-Anmol-Logo.jpg" tvg-name="Zee Anmol"  group-title="INDIA",Zee Anmol
+http://mhms9.airtel.tv/wh7f454c46tw1308438910_1818714621/PLTV/88888888/224/3221226199/04.m3u8
+
+#EXTINF:-1, tvg-id="Vasantham TV" tvg-logo="http://www.tharunaya.us/tvchannels/assets/img/Vasantham-TV.png" tvg-name="Vasantham TV"  group-title="INDIA",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Velicham TV" tvg-logo="http://www.livedesitv.com/wp-content/uploads/2017/11/velicham-live-tv-channel.jpg" tvg-name="Velicham TV"  group-title="INDIA",Velicham TV
+http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Vasanth TV Tamil" tvg-logo="https://2.bp.blogspot.com/-HS1HOVc8Pco/V1KzBxqnwGI/AAAAAAAAPSk/jpsX35-SQegjSuSXmVJF3-oya_YL0-jpQCLcB/s1600/vasanth_tv.png" tvg-name="Vasanth TV Tamil"  group-title="INDIA",Vasanth TV Tamil
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+
+#EXTINF:-1, tvg-id="Vaigai TV" tvg-logo="http://www.vaigaitv.com/wp-content/uploads/2018/01/vaigai-logo-new.png" tvg-name="Vaigai TV"  group-title="INDIA",Vaigai TV
+http://209.58.164.113/vaigaihls/live.m3u8
+
+#EXTINF:-1, tvg-id="Vanavil Plus TV" tvg-logo="https://content.jdmagicbox.com/comp/karur/z8/9999p4324.4324.130814010940.e6z8/catalogue/vanavil-tv-9-north-pradakshanam-road-karur-satellite-channels-25tovrh.jpg" tvg-name="Vanavil Plus TV"  group-title="INDIA",Vanavil Plus TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Vendhar TV" tvg-logo="http://images.jdmagicbox.com/chennai/e6/044pxx44.xx44.121015162838.h7e6/logo/eb28694445bcefbea53fff28807770f5.jpg" tvg-name="Vendhar TV"  group-title="INDIA",Vendhar TV
+http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Wah Punjabi" tvg-logo="https://i.imgur.com/HSjk10W.png" tvg-name="Wah Punjabi"  group-title="INDIA",Wah Punjabi
+http://cdn.samtv.ca/wahpunjabi/index.m3u8
+
+#EXTINF:-1, tvg-id="Z Living Network" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODgwOTM4MTM2NjU4/z-living-networkjpg.jpg" tvg-name="Z Living Network"  group-title="INDIA",Z Living Network
+https://y5w8j4a9.ssl.hwcdn.net/zliving-ord/index.m3u8
+
+#EXTINF:-1, tvg-id="Vismaya TV" tvg-logo="https://i.imgur.com/aa5yNvc.png" tvg-name="Vismaya TV"  group-title="INDIA",Vismaya TV
+http://150.242.21.2/vismaya.m3u8
+
+#EXTINF:-1, tvg-id="Vendharm TV" tvg-logo="https://img9.downloadapk.net/9/9d/92c4e9_0.png" tvg-name="Vendharm TV"  group-title="INDIA",Vendharm TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+
+#EXTINF:-1, tvg-id="Virsa Live" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/ae4c0d0b-7005-4ee4-ae6f-99e0155e6f90.jpg" tvg-name="Virsa Live"  group-title="INDIA",Virsa Live
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla Cinema" tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-1024x486.png" tvg-name="Zee Bangla Cinema"  group-title="INDIA",Zee Bangla Cinema
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Kannada (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Zee-Kannada-Logo.png" tvg-name="Zee Kannada (Opt-2)"  group-title="INDIA",Zee Kannada (Opt-2)
+http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Marathi" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/54016/zeemarathi.png" tvg-name="Zee Marathi"  group-title="INDIA",Zee Marathi
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225881/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Kannada (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Zee-Kannada-Logo.png" tvg-name="Zee Kannada (Opt-1)"  group-title="INDIA",Zee Kannada (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225883/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Hindustan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Zee_Hindustan_logo.jpeg" tvg-name="Zee Hindustan"  group-title="INDIA",Zee Hindustan
+http://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Kalinga News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Zee_Kalinga_News.jpg/revision/latest?cb=20171123075354" tvg-name="Zee Kalinga News"  group-title="INDIA",Zee Kalinga News
+http://z5ams.akamaized.net/kalinga/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Madhya Pradesh Chhattisgarh (Opt-1)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/170x170/zeemadhyaprades_1222813324.png" tvg-name="Zee Madhya Pradesh Chhattisgarh (Opt-1)"  group-title="INDIA",Zee Madhya Pradesh Chhattisgarh (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225927/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Marathi (Opt-2)" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/54016/zeemarathi.png" tvg-name="Zee Marathi (Opt-2)"  group-title="INDIA",Zee Marathi (Opt-2)
+http://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee News (Opt-1)" tvg-logo="https://i.imgur.com/SAVmow8.png" tvg-name="Zee News (Opt-1)"  group-title="INDIA",Zee News (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Marathi (Opt-1)" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/54016/zeemarathi.png" tvg-name="Zee Marathi (Opt-1)"  group-title="INDIA",Zee Marathi (Opt-1)
+http://z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Madhya Pradesh Chhattisgarh (Opt-2)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/170x170/zeemadhyaprades_1222813324.png" tvg-name="Zee Madhya Pradesh Chhattisgarh (Opt-2)"  group-title="INDIA",Zee Madhya Pradesh Chhattisgarh (Opt-2)
+http://z5ams.akamaized.net/newsmpcg/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ZEEMagicLogo.jpg" tvg-name="Zee Magic"  group-title="INDIA",Zee Magic
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Business (Opt-2)" tvg-logo="https://www.jalewa.com/wp-content/uploads/2018/08/Zee-Business.png" tvg-name="Zee Business (Opt-2)"  group-title="INDIA",Zee Business (Opt-2)
+http://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Café (Opt-1)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/170x170/zeecafehd_1363288667.png" tvg-name="Zee Café (Opt-1)"  group-title="INDIA",Zee Café (Opt-1)
+http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Business (Opt-1)" tvg-logo="https://www.jalewa.com/wp-content/uploads/2018/08/Zee-Business.png" tvg-name="Zee Business (Opt-1)"  group-title="INDIA",Zee Business (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bihar Jharkhand (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Zee_Bihar_Jharkhand_New_Logo.jpg" tvg-name="Zee Bihar Jharkhand (Opt-1)"  group-title="INDIA",Zee Bihar Jharkhand (Opt-1)
+http://mhms5.airtel.tv/wh7f454c46tw1566995097_1417582950/PLTV/88888888/224/3221226241/04.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bihar Jharkhand (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Zee_Bihar_Jharkhand_New_Logo.jpg" tvg-name="Zee Bihar Jharkhand (Opt-2)"  group-title="INDIA",Zee Bihar Jharkhand (Opt-2)
+http://z5ams.akamaized.net/biharjharkh/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Café (Opt-2)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/170x170/zeecafehd_1363288667.png" tvg-name="Zee Café (Opt-2)"  group-title="INDIA",Zee Café (Opt-2)
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinemalu (Opt-1)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/Zee_Cinemalu_HD.png" tvg-name="Zee Cinemalu (Opt-1)"  group-title="INDIA",Zee Cinemalu (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226098/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinemalu (Opt-2)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/Zee_Cinemalu_HD.png" tvg-name="Zee Cinemalu (Opt-2)"  group-title="INDIA",Zee Cinemalu (Opt-2)
+http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema (Opt-3)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" tvg-name="Zee Cinema (Opt-3)"  group-title="INDIA",Zee Cinema (Opt-3)
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" tvg-name="Zee Cinema (Opt-1)"  group-title="INDIA",Zee Cinema (Opt-1)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" tvg-name="Zee Cinema (Opt-2)"  group-title="INDIA",Zee Cinema (Opt-2)
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Peppers TV" tvg-logo="http://www.cubemediaworks.com/images/peppers.jpg" tvg-name="Peppers TV"  group-title="INDIA",Peppers TV
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="CVR News" tvg-logo="http://tvwatch.live/wp-content/uploads/2017/11/CVR-News-English-Live-India.jpg" tvg-name="CVR News"  group-title="INDIA",CVR News
+https://dbgz3a72bx1vv.cloudfront.net/yuppenc2/ngrp:cvrnewseng_all/chunklist_b2179072.m3u8
+
+#EXTINF:-1, tvg-id="DD News" tvg-logo="http://storiesofworld.com/wp-content/uploads/2016/03/8-9.jpg" tvg-name="DD News"  group-title="INDIA",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1, tvg-id="CNN-News 18 (Opt-3)" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2016/04/Cnn_news18.jpg" tvg-name="CNN-News 18 (Opt-3)"  group-title="INDIA",CNN-News 18 (Opt-3)
+https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="CNN-News 18 (Opt-1)" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2016/04/Cnn_news18.jpg" tvg-name="CNN-News 18 (Opt-1)"  group-title="INDIA",CNN-News 18 (Opt-1)
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
+
+#EXTINF:-1, tvg-id="CNN-News 18 (Opt-2)" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2016/04/Cnn_news18.jpg" tvg-name="CNN-News 18 (Opt-2)"  group-title="INDIA",CNN-News 18 (Opt-2)
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
+
+#EXTINF:-1, tvg-id="DD Podhigai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/DDPodhigaiLogo.jpg" tvg-name="DD Podhigai"  group-title="INDIA",DD Podhigai
+https://mk9qa798qwyb-hls-live.wmncdn.net/824/abrstream/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+
+#EXTINF:-1, tvg-id="Desi Beats HD" tvg-logo="http://okteve.com/wp-content/uploads/media/bec7f1f38ed1e9e639d42da665d8bba6-196x126.jpeg" tvg-name="Desi Beats HD"  group-title="INDIA",Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Desi Channel (Opt-1)" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" tvg-name="Desi Channel (Opt-1)"  group-title="INDIA",Desi Channel (Opt-1)
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Deepam TV" tvg-logo="https://i.pinimg.com/originals/8a/e9/3d/8ae93da24c1ce2546ad48991a4df5f4b.png" tvg-name="Deepam TV"  group-title="INDIA",Deepam TV
+http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
+
+#EXTINF:-1, tvg-id="DD Punjabi" tvg-logo="http://www.newsgalaxy.org/wp-content/uploads/2016/10/DD-Punjabi-logo-400x150.jpg" tvg-name="DD Punjabi"  group-title="INDIA",DD Punjabi
+http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
+
+#EXTINF:-1, tvg-id="DD Sports" tvg-logo="http://ncrkhabar.co.in/wp-content/uploads/2018/04/DD-Sports.png" tvg-name="DD Sports"  group-title="INDIA",DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+
+#EXTINF:-1, tvg-id="Channel Y" tvg-logo="https://i.imgur.com/xlfmPig.png" tvg-name="Channel Y"  group-title="INDIA",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Chardikla Gurbaani TV" tvg-logo="http://timetv.in/wp-content/uploads/2018/05/gurbani-tv_logo-Golden-blue4.jpg" tvg-name="Chardikla Gurbaani TV"  group-title="INDIA",Chardikla Gurbaani TV
+http://173.255.140.23:8081/live/gtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Channel Win" tvg-logo="http://www.divinechallenge.com/wp-content/uploads/2018/04/Winchannel.png" tvg-name="Channel Win"  group-title="INDIA",Channel Win
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canada Star TV" tvg-logo="https://i.imgur.com/nNuWCbP.jpg" tvg-name="Canada Star TV"  group-title="INDIA",Canada Star TV
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Chakde TV" tvg-logo="https://workforce.aspiringminds.in/uploads/company_logo/6717.png" tvg-name="Chakde TV"  group-title="INDIA",Chakde TV
+http://streamer3.ultapulta.com:7050/
+
+#EXTINF:-1, tvg-id="Chardikla Time TV" tvg-logo="http://photos.wikimapia.org/p/00/01/05/02/84_big.jpg" tvg-name="Chardikla Time TV"  group-title="INDIA",Chardikla Time TV
+http://173.255.140.23:8081/live/chardiklatimetv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CNBC Bajar" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-cnbc-bajar.jpg" tvg-name="CNBC Bajar"  group-title="INDIA",CNBC Bajar
+https://cnbc_gujrati_hls-lh.akamaihd.net/i/cnbc_gujrati_hls_n_1@178933/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="CNBC TV18 (Opt-2)" tvg-logo="http://takshashila.org.in/wp-content/uploads/2015/07/CNBC_TV18_350x175.png" tvg-name="CNBC TV18 (Opt-2)"  group-title="INDIA",CNBC TV18 (Opt-2)
+https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="CNBC Awaaz (Opt-2)" tvg-logo="https://pbs.twimg.com/profile_images/823402115565400064/kDJQPUMQ.jpg" tvg-name="CNBC Awaaz (Opt-2)"  group-title="INDIA",CNBC Awaaz (Opt-2)
+https://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Cine Voice" tvg-logo="https://i.imgur.com/VCUhufk.jpg" tvg-name="Cine Voice"  group-title="INDIA",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+
+#EXTINF:-1, tvg-id="CNBC Awaaz (Opt-1)" tvg-logo="https://pbs.twimg.com/profile_images/823402115565400064/kDJQPUMQ.jpg" tvg-name="CNBC Awaaz (Opt-1)"  group-title="INDIA",CNBC Awaaz (Opt-1)
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Desi Channel (Opt-2)" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" tvg-name="Desi Channel (Opt-2)"  group-title="INDIA",Desi Channel (Opt-2)
+http://live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" tvg-name="Discovery World"  group-title="INDIA",Discovery World
+http://mhms10.airtel.tv/wh7f454c46tw1142183649_785079316/PLTV/88888888/224/3221226497/04.m3u8
+
+#EXTINF:-1, tvg-id="DPD Punjabi" tvg-logo="https://www.jugnitv.com/static/front/images/channel_logo/8581400650f8f55a14ce032b5c7d59f7_i.png" tvg-name="DPD Punjabi"  group-title="INDIA",DPD Punjabi
+http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" tvg-name="Discovery Turbo"  group-title="INDIA",Discovery Turbo
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/1.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Kids (Tamil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" tvg-name="Discovery Kids (Tamil)"  group-title="INDIA",Discovery Kids (Tamil)
+http://mhms10.airtel.tv/wh7f454c46tw4292497686_732675034/PLTV/88888888/224/3221226501/04.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" tvg-name="Discovery Science"  group-title="INDIA",Discovery Science
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/1.m3u8
+
+#EXTINF:-1, tvg-id="Drisya" tvg-logo="https://i.imgur.com/iaBL87B.jpg" tvg-name="Drisya"  group-title="INDIA",Drisya
+http://150.242.21.2/drisya.m3u8
+
+#EXTINF:-1, tvg-id="EET TV Tamil (Canada)" tvg-logo="http://hdonlinetv.live/Images/Channels/eet_tv.png" tvg-name="EET TV Tamil (Canada)"  group-title="INDIA",EET TV Tamil (Canada)
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Ekta TV" tvg-logo="https://i.imgur.com/wregrJk.jpg" tvg-name="Ekta TV"  group-title="INDIA",Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1, tvg-id="E9 Punjabi" tvg-logo="https://i.imgur.com/E5s29jZ.jpg" tvg-name="E9 Punjabi"  group-title="INDIA",E9 Punjabi
+http://cdn.samtv.ca/e9punjabi/index.m3u8
+
+#EXTINF:-1, tvg-id="DSport" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fdsport.jpg" tvg-name="DSport"  group-title="INDIA",DSport
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+
+#EXTINF:-1, tvg-id="DY365" tvg-logo="http://3.bp.blogspot.com/-Cn25zUPTJSQ/UiWkJ8PEstI/AAAAAAAAAKE/cqmBXgScsCE/s1600/imagesjjj.jpg" tvg-name="DY365"  group-title="INDIA",DY365
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Dil Se" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-name="Dil Se"  group-title="INDIA",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" tvg-name="Discovery Channel"  group-title="INDIA",Discovery Channel
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/1.m3u8
+
+#EXTINF:-1, tvg-id="Dhamaal" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-name="Dhamaal"  group-title="INDIA",Dhamaal
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+
+#EXTINF:-1, tvg-id="Desi Channel (Opt-3)" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" tvg-name="Desi Channel (Opt-3)"  group-title="INDIA",Desi Channel (Opt-3)
+https://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Deva TV" tvg-logo="http://freetvall.me/files/thumbs/132129462527bd0-2.png" tvg-name="Deva TV"  group-title="INDIA",Deva TV
+http://45.79.203.234:1935/deva/myStream/index.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Channel (Tamil)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" tvg-name="Discovery Channel (Tamil)"  group-title="INDIA",Discovery Channel (Tamil)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/1.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Jeet (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Discovery_Jeet_logo.png" tvg-name="Discovery Jeet (Opt-2)"  group-title="INDIA",Discovery Jeet (Opt-2)
+http://cshms1.airtel.tv/wh7f454c46tw798169938_1445420947/PLTV/88888888/224/3221226479/04.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" tvg-name="Discovery Kids"  group-title="INDIA",Discovery Kids
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/1.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Jeet (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Discovery_Jeet_logo.png" tvg-name="Discovery Jeet (Opt-1)"  group-title="INDIA",Discovery Jeet (Opt-1)
+http://mhms7.airtel.tv/wh7f454c46tw2932963183_1367070417/PLTV/88888888/224/3221226447/04.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Channel (Bangla)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" tvg-name="Discovery Channel (Bangla)"  group-title="INDIA",Discovery Channel (Bangla)
+http://mhms10.airtel.tv/wh7f454c46tw3557803401_1431050255/PLTV/88888888/224/3221226493/04.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Channel (Telugu)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" tvg-name="Discovery Channel (Telugu)"  group-title="INDIA",Discovery Channel (Telugu)
+http://mhms10.airtel.tv/wh7f454c46tw2991275674_639607371/PLTV/88888888/224/3221226500/04.m3u8
+
+#EXTINF:-1, tvg-id="Akaram Kidz" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" tvg-name="Akaram Kidz"  group-title="INDIA",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1, tvg-id="Akaram Mix TV" tvg-logo="https://i.imgur.com/FidIz1G.jpg" tvg-name="Akaram Mix TV"  group-title="INDIA",Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Akaram Gallata TV" tvg-logo="https://i.imgur.com/wWIknEr.jpg" tvg-name="Akaram Gallata TV"  group-title="INDIA",Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="ABP Asmita" tvg-logo="http://i.imgur.com/QUDXicC.jpg" tvg-name="ABP Asmita"  group-title="INDIA",ABP Asmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+
+#EXTINF:-1, tvg-id="Agam TV" tvg-logo="https://i.imgur.com/JPy08Fd.png" tvg-name="Agam TV"  group-title="INDIA",Agam TV
+http://209.58.160.206/agamtvhls/live.m3u8
+
+#EXTINF:-1, tvg-id="Akaal" tvg-logo="https://i.imgur.com/XUTYNEE.png" tvg-name="Akaal"  group-title="INDIA",Akaal
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
+
+#EXTINF:-1, tvg-id="And TV (Opt-2)" tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png" tvg-name="And TV (Opt-2)"  group-title="INDIA",And TV (Opt-2)
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="And TV (Opt-3)" tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png" tvg-name="And TV (Opt-3)"  group-title="INDIA",And TV (Opt-3)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/1.m3u8
+
+#EXTINF:-1, tvg-id="And TV (Opt-1)" tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png" tvg-name="And TV (Opt-1)"  group-title="INDIA",And TV (Opt-1)
+http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, tvg-id="Amar Ujala" tvg-logo="https://i.imgur.com/AztIpYE.png" tvg-name="Amar Ujala"  group-title="INDIA",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Analai Express" tvg-logo="http://img.new.livestream.com/accounts/00000000001a62be/85fd0acd-a0aa-46e3-a24a-e078cc805b04.png" tvg-name="Analai Express"  group-title="INDIA",Analai Express
+http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+
+#EXTINF:-1, tvg-id="9X Tashan" tvg-logo="https://i.pinimg.com/originals/e1/b7/d2/e1b7d27704d357396be643026e3cd4ea.png" tvg-name="9X Tashan"  group-title="INDIA",9X Tashan
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/1.m3u8
+
+#EXTINF:-1, tvg-id="9XM" tvg-logo="http://9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" tvg-name="9XM"  group-title="INDIA",9XM
+https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/master.m3u8
+
+#EXTINF:-1, tvg-id="9X Jhakaas" tvg-logo="https://api.themediaant.com/images/medias/55fb00a38ead0e79178b5ecd/55fb00a38ead0e79178b5ecd.jpg" tvg-name="9X Jhakaas"  group-title="INDIA",9X Jhakaas
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/1.m3u8
+
+#EXTINF:-1, tvg-id="1 Yes TV" tvg-logo="http://www.1yestv.com/images/logo.png" tvg-name="1 Yes TV"  group-title="INDIA",1 Yes TV
+http://150.242.21.2/oneyes.m3u8
+
+#EXTINF:-1, tvg-id="9x Jalwa" tvg-logo="https://pbs.twimg.com/profile_images/742690056939311106/UdK1R9GE.jpg" tvg-name="9x Jalwa"  group-title="INDIA",9x Jalwa
+http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/master.m3u8
+
+#EXTINF:-1, tvg-id="9XO" tvg-logo="https://i.imgur.com/0bAY3bJ.jpg" tvg-name="9XO"  group-title="INDIA",9XO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/1.m3u8
+
+#EXTINF:-1, tvg-id="ABP News" tvg-logo="http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpg" tvg-name="ABP News"  group-title="INDIA",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF:-1, tvg-id="ABP Ananda" tvg-logo="http://content.vidgyor.com/live/abp_ananada.jpg" tvg-name="ABP Ananda"  group-title="INDIA",ABP Ananda
+http://bengaliabp-lh.akamaihd.net/i/abpbanglanew_1@192108/master.m3u8
+
+#EXTINF:-1, tvg-id="Aarya TV" tvg-logo="https://i.imgur.com/P3j9VWa.png" tvg-name="Aarya TV"  group-title="INDIA",Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+
+#EXTINF:-1, tvg-id="5aab TV" tvg-logo="https://i.imgur.com/k9M5ydW.png" tvg-name="5aab TV"  group-title="INDIA",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png" tvg-name="Aaj Tak"  group-title="INDIA",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="And TV (Opt-4)" tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png" tvg-name="And TV (Opt-4)"  group-title="INDIA",And TV (Opt-4)
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Bharat Today" tvg-logo="https://i.imgur.com/lt63xAl.jpg" tvg-name="Bharat Today"  group-title="INDIA",Bharat Today
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg India" tvg-logo="http://bestmediainfo.com/uploads/2016/08/btvi-logo-top.jpg" tvg-name="Bloomberg India"  group-title="INDIA",Bloomberg India
+http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Bhakti Sagar" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-name="Bhakti Sagar"  group-title="INDIA",Bhakti Sagar
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+
+#EXTINF:-1, tvg-id="Asianet News" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/ASNNW-logo.png" tvg-name="Asianet News"  group-title="INDIA",Asianet News
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1, tvg-id="BBC Toronto Gaunda Punjab" tvg-logo="http://www.gaundapunjab.ca/img/page-images/logo.png" tvg-name="BBC Toronto Gaunda Punjab"  group-title="INDIA",BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg Quint" tvg-logo="https://i1.sndcdn.com/avatars-000339376604-ppvukd-t500x500.jpg" tvg-name="Bloomberg Quint"  group-title="INDIA",Bloomberg Quint
+https://d1j33l0xltpapp.cloudfront.net/bqmain_2.m3u8
+
+#EXTINF:-1, tvg-id="Bulland TV" tvg-logo="http://bullandtv.com/images/logobulland.png" tvg-name="Bulland TV"  group-title="INDIA",Bulland TV
+http://94krv9bxqb6p-hls-live.wmncdn.net/1237/buland/b04de4cdf2ceee6b13f7270be87a23f2.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Canada One" tvg-logo="https://i.imgur.com/CCgaMLJ.jpg" tvg-name="Canada One"  group-title="INDIA",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Brit Asia TV (Updated)" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2017/03/britasiatv001-800x800.jpg" tvg-name="Brit Asia TV (Updated)"  group-title="INDIA",Brit Asia TV (Updated)
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Boss TV" tvg-logo="http://www.cablekiller.com/images/logoBig.png" tvg-name="Boss TV"  group-title="INDIA",Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+
+#EXTINF:-1, tvg-id="Boogle Bollywood" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" tvg-name="Boogle Bollywood"  group-title="INDIA",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:-1, tvg-id="And Pictures (Opt-2)" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" tvg-name="And Pictures (Opt-2)"  group-title="INDIA",And Pictures (Opt-2)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226203/1.m3u8
+
+#EXTINF:-1, tvg-id="And Privé HD" tvg-logo="https://tvnews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" tvg-name="And Privé HD"  group-title="INDIA",And Privé HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="And Pictures (Opt-1)" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" tvg-name="And Pictures (Opt-1)"  group-title="INDIA",And Pictures (Opt-1)
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="And Flix (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" tvg-name="And Flix (Opt-1)"  group-title="INDIA",And Flix (Opt-1)
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="And Flix (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" tvg-name="And Flix (Opt-1)"  group-title="INDIA",And Flix (Opt-1)
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Animal Planet" tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" tvg-name="Animal Planet"  group-title="INDIA",Animal Planet
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/1.m3u8
+
+#EXTINF:-1, tvg-id="Apna Punjab USA" tvg-logo="http://www.apnapunjabnritv.tv/wp-content/uploads/2017/12/Apna-Punjab-Nri-TV-Logo-300x146.png" tvg-name="Apna Punjab USA"  group-title="INDIA",Apna Punjab USA
+http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Apple Me TV" tvg-logo="https://i.imgur.com/SpCmmUX.jpg" tvg-name="Apple Me TV"  group-title="INDIA",Apple Me TV
+http://45.79.203.234:1935/apple6/myStream/index.m3u8
+
+#EXTINF:-1, tvg-id="Apna Punjab" tvg-logo="https://i.imgur.com/YfbHCmh.jpg" tvg-name="Apna Punjab"  group-title="INDIA",Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Aone Music" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6fd9e17e-7193-4a48-bdab-5f2f357ebf18.jpg" tvg-name="Aone Music"  group-title="INDIA",Aone Music
+http://live.wmncdn.net/aonelive/0d142bc338dc444eb1a4206d0f636d0c.sdp/index.m3u8
+
+#EXTINF:-1, tvg-id="Aone Punjabi" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/0a83f2c3-bf94-4a45-be05-b8f62b3fb501.png" tvg-name="Aone Punjabi"  group-title="INDIA",Aone Punjabi
+http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Medianet Adimali" tvg-logo="https://i.imgur.com/1yZkv1T.jpg" tvg-name="Medianet Adimali"  group-title="INDIA",Medianet Adimali
+http://150.242.21.2/medianet.m3u8
+
+#EXTINF:-1, tvg-id="Magnavision TV" tvg-logo="http://magnavision.co.uk/wp-content/uploads/2017/07/Magnavision-logo-350-x-70.jpg" tvg-name="Magnavision TV"  group-title="INDIA",Magnavision TV
+http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+
+#EXTINF:-1, tvg-id="Masti TV" tvg-logo="https://i.imgur.com/CLmGYhz.jpg" tvg-name="Masti TV"  group-title="INDIA",Masti TV
+http://cdn.samtv.ca/mastitv/index.m3u8
+
+#EXTINF:-1, tvg-id="Mahua Plus" tvg-logo="https://i.imgur.com/HgvwhNx.png" tvg-name="Mahua Plus"  group-title="INDIA",Mahua Plus
+http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Malaimurasu TV" tvg-logo="http://www.malaimurasu.in/wp-content/uploads/2018/01/Malaimurasu-Seithigal-Logo.png" tvg-name="Malaimurasu TV"  group-title="INDIA",Malaimurasu TV
+http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MH1 Music (Opt-1)" tvg-logo="http://dmcabogra.com/Music/MH1%20ONE%20MUSIC.jpg" tvg-name="MH1 Music (Opt-1)"  group-title="INDIA",MH1 Music (Opt-1)
+http://mh1musiccloud.purplestream.in/mhonemusic/mhonemusic3-live.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MTV India" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mtv_india.png" tvg-name="MTV India"  group-title="INDIA",MTV India
+http://50.7.198.170:8081/Ind/MTVINDIA/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Murasu TV Tamil" tvg-logo="https://4.bp.blogspot.com/-dcsyaJEZ0Rk/VjBzxfZO0TI/AAAAAAAAAFU/9jRA3tmff_E/s320/murasu%2Btv%2Blogo-yupptv.jpg" tvg-name="Murasu TV Tamil"  group-title="INDIA",Murasu TV Tamil
+http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Mirror Now (Opt-2)" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="Mirror Now (Opt-2)"  group-title="INDIA",Mirror Now (Opt-2)
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:-1, tvg-id="MH1 Music (Opt-2)" tvg-logo="http://dmcabogra.com/Music/MH1%20ONE%20MUSIC.jpg" tvg-name="MH1 Music (Opt-2)"  group-title="INDIA",MH1 Music (Opt-2)
+http://capcobroadcaststream.in:1935/edge1/mhmusic.stream_aac/chunklist_w376285821.m3u8
+
+#EXTINF:-1, tvg-id="Mirror Now (Opt-1)" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="Mirror Now (Opt-1)"  group-title="INDIA",Mirror Now (Opt-1)
+http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
+
+#EXTINF:-1, tvg-id="Kanshi TV" tvg-logo="https://i.imgur.com/QkWp5My.jpg" tvg-name="Kanshi TV"  group-title="INDIA",Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
+
+#EXTINF:-1, tvg-id="Kaumudy" tvg-logo="https://i.imgur.com/oxwccGe.jpg" tvg-name="Kaumudy"  group-title="INDIA",Kaumudy
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="Kadak Hits" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-name="Kadak Hits"  group-title="INDIA",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+#EXTINF:-1, tvg-id="Jujhar TV" tvg-logo="https://i.imgur.com/zaL7wco.jpg" tvg-name="Jujhar TV"  group-title="INDIA",Jujhar TV
+http://172.104.54.227:1935/capco/jujhartv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Jus One" tvg-logo="http://www.firstonetv.net/images/logos/in/JUSONE.png" tvg-name="Jus One"  group-title="INDIA",Jus One
+http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+
+#EXTINF:-1, tvg-id="KCV" tvg-logo="http://freetvall.me/files/thumbs/1354285241853c4-2.jpg" tvg-name="KCV"  group-title="INDIA",KCV
+http://cdn.live5.in:1935/live/kcv/index.m3u8
+
+#EXTINF:-1, tvg-id="Lok Sabha TV" tvg-logo="https://yt3.ggpht.com/-UYUhwHCm7bA/AAAAAAAAAAI/AAAAAAAAAAA/WxYiwYadTxw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="Lok Sabha TV"  group-title="INDIA",Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+
+#EXTINF:-1, tvg-id="Madhimugam TV" tvg-logo="http://livetv.freeiptv.in/image.php?img=images/Madhimugam_TV.png" tvg-name="Madhimugam TV"  group-title="INDIA",Madhimugam TV
+http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/index.m3u8
+
+#EXTINF:-1, tvg-id="Live Today" tvg-logo="http://sngmonlineindia.com/wp-content/uploads/2018/06/468_9XUeQxdJ3.png" tvg-name="Live Today"  group-title="INDIA",Live Today
+http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Life Punjabi (Opt-1)" tvg-logo="http://www.khindtv.com/static/front/images/channel_logo/9298f48aa3611c48b6d2a3bf826bb76d_0.jpg" tvg-name="Life Punjabi (Opt-1)"  group-title="INDIA",Life Punjabi (Opt-1)
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+
+#EXTINF:-1, tvg-id="Life Punjabi (Opt-2)" tvg-logo="http://www.khindtv.com/static/front/images/channel_logo/9298f48aa3611c48b6d2a3bf826bb76d_0.jpg" tvg-name="Life Punjabi (Opt-2)"  group-title="INDIA",Life Punjabi (Opt-2)
+http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Music India" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" tvg-name="Music India"  group-title="INDIA",Music India
+http://50.7.198.170:8081/Ind/MUSICINDIA/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NDTV (Opt-2)" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" tvg-name="NDTV (Opt-2)"  group-title="INDIA",NDTV (Opt-2)
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+
+#EXTINF:-1, tvg-id="NDTV 24x7" tvg-logo="http://singteltv.com.sg/_channels/pic_ch678.jpg" tvg-name="NDTV 24x7"  group-title="INDIA",NDTV 24x7
+http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
+
+#EXTINF:-1, tvg-id="NDTV (Opt-1)" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" tvg-name="NDTV (Opt-1)"  group-title="INDIA",NDTV (Opt-1)
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
+
+#EXTINF:-1, tvg-id="NewsX (Opt-1)" tvg-logo="http://www.thenewsminute.com/sites/default/files/styles/news_detail/public/News%20X%20Facebook.jpg" tvg-name="NewsX (Opt-1)"  group-title="INDIA",NewsX (Opt-1)
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NewsX (Opt-2)" tvg-logo="http://www.thenewsminute.com/sites/default/files/styles/news_detail/public/News%20X%20Facebook.jpg" tvg-name="NewsX (Opt-2)"  group-title="INDIA",NewsX (Opt-2)
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
+
+#EXTINF:-1, tvg-id="NDTV Prime (Opt-1)" tvg-logo="https://yt3.ggpht.com/-z-DeHLjzo4M/AAAAAAAAAAI/AAAAAAAAAAA/xz8h1oFDw7k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="NDTV Prime (Opt-1)"  group-title="INDIA",NDTV Prime (Opt-1)
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/chunklist_w1017334011_b512000.m3u8
+
+#EXTINF:-1, tvg-id="Paras TV" tvg-logo="https://yt3.ggpht.com/-YvUAO640WNc/AAAAAAAAAAI/AAAAAAAAAAA/XHgSiezaGVg/s900-c-k-no-rj-c0xffffff/photo.jpg" tvg-name="Paras TV"  group-title="INDIA",Paras TV
+http://208.109.243.12/apiupload/parasInternational/hls/5/parastv/playlist_9.m3u8
+
+#EXTINF:-1, tvg-id="PBN Music (USA)" tvg-logo="http://i63.tinypic.com/28w2akj.jpg" tvg-name="PBN Music (USA)"  group-title="INDIA",PBN Music (USA)
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Osai TV" tvg-logo="https://i.imgur.com/smSAHKh.jpg" tvg-name="Osai TV"  group-title="INDIA",Osai TV
+http://209.58.180.53/osaihls/live.m3u8
+
+#EXTINF:-1, tvg-id="NDTV Prime (Opt-2)" tvg-logo="https://yt3.ggpht.com/-z-DeHLjzo4M/AAAAAAAAAAI/AAAAAAAAAAA/xz8h1oFDw7k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="NDTV Prime (Opt-2)"  group-title="INDIA",NDTV Prime (Opt-2)
+https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
+
+#EXTINF:-1, tvg-id="Odisha TV" tvg-logo="https://i.imgur.com/ngbHpPd.jpg" tvg-name="Odisha TV"  group-title="INDIA",Odisha TV
+http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
+
+#EXTINF:-1, tvg-id="Neo Sports" tvg-logo="https://3.bp.blogspot.com/-9TLHarsIzbo/WvFmovmrdqI/AAAAAAAABp0/5zEv0YfageQfYSSCehlSi8nS_v_BP0r3gCLcBGAs/s320/neo%2Bsports%2B-%2Bpapontv.jpg" tvg-name="Neo Sports"  group-title="INDIA",Neo Sports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+
+#EXTINF:-1, tvg-id="Nethra TV" tvg-logo="http://srilankanews.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/nethra.png" tvg-name="Nethra TV"  group-title="INDIA",Nethra TV
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Nazrana" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-name="Nazrana"  group-title="INDIA",Nazrana
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+
+#EXTINF:-1, tvg-id="Naam Tamizhar" tvg-logo="https://i.imgur.com/yOFl0Dg.png" tvg-name="Naam Tamizhar"  group-title="INDIA",Naam Tamizhar
+http://ntktv.cobrasoftwares.in/hls/stream.m3u8
+
+#EXTINF:-1, tvg-id="Nakkubetta TV" tvg-logo="https://i.imgur.com/1XQFiiF.jpg" tvg-name="Nakkubetta TV"  group-title="INDIA",Nakkubetta TV
+http://209.58.180.57/nbtvhls/nbtv.m3u8
+
+#EXTINF:-1, tvg-id="Netrikan TV" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2017/10/Netrikan-TV.jpg" tvg-name="Netrikan TV"  group-title="INDIA",Netrikan TV
+http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
+
+#EXTINF:-1, tvg-id="News 18 Lokmat" tvg-logo="https://i.imgur.com/QqwX8Ye.jpg" tvg-name="News 18 Lokmat"  group-title="INDIA",News 18 Lokmat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_5.m3u8
+
+#EXTINF:-1, tvg-id="News 18 Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/News18_Kerala.png" tvg-name="News 18 Malayalam"  group-title="INDIA",News 18 Malayalam
+https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="News Nation" tvg-logo="http://i65.tinypic.com/ot3jhj.jpg" tvg-name="News Nation"  group-title="INDIA",News Nation
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+
+#EXTINF:-1, tvg-id="News 18" tvg-logo="http://static.bestmediainfo.com/wp-content/uploads/2016/11/New18-India-logo.jpg" tvg-name="News 18"  group-title="INDIA",News 18
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+
+#EXTINF:-1, tvg-id="News18 Haryana" tvg-logo="https://i.imgur.com/FN26Ytk.jpg" tvg-name="News18 Haryana"  group-title="INDIA",News18 Haryana
+https://etv-haryana.akamaized.net/i/etv_haryana_live_1@349009/index_1_av-b.m3u8
+
+#EXTINF:-1, tvg-id="GDNS Ludhiana" tvg-logo="https://static-media.streema.com/media/cache/24/f1/24f1f9a245bb99a29a8e81adf299c79a.jpg" tvg-name="GDNS Ludhiana"  group-title="INDIA",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="GDNS Surrey" tvg-logo="http://www.sikhnet.com/files/styles/hero-image/public/radio/images/channels/grd-dukh-nivaran-sahib-surrey_1.jpg?itok=8NLvOerY" tvg-name="GDNS Surrey"  group-title="INDIA",GDNS Surrey
+http://live.agmediachandigarh.com/dukhnivaransahib/bfc254e2e8c0e9cb0f8318c493e8c78d.sdp/mono.m3u8
+
+#EXTINF:-1, tvg-id="Garshom News" tvg-logo="https://3.bp.blogspot.com/-HnFKs64_rPw/WIzdbx0ChuI/AAAAAAAADR8/dDbk2ampOSkUwc5RDR5Zp0gek4gFOWcMQCLcB/s1600/56.png" tvg-name="Garshom News"  group-title="INDIA",Garshom News
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1, tvg-id="Fateh TV" tvg-logo="http://fatehtvonline.com/wp-content/uploads/2014/10/FATEH-TV-LOGO-ENGLISH.png" tvg-name="Fateh TV"  group-title="INDIA",Fateh TV
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Gabruu TV" tvg-logo="https://www.jugnitv.com/static/front/images/channel_logo/f3de7c09000880c4b818d0284612101b_v.png" tvg-name="Gabruu TV"  group-title="INDIA",Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+
+#EXTINF:-1, tvg-id="Global Sanjh" tvg-logo="https://i.imgur.com/Wth15ok.jpg" tvg-name="Global Sanjh"  group-title="INDIA",Global Sanjh
+http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1, tvg-id="Gurbani Healing" tvg-logo="https://i.imgur.com/qJkwmlD.jpg" tvg-name="Gurbani Healing"  group-title="INDIA",Gurbani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+
+#EXTINF:-1, tvg-id="Gurbaani TV" tvg-logo="http://www.gurbaniworldradio.com/uploads/1/5/7/2/15721120/1042176.png" tvg-name="Gurbaani TV"  group-title="INDIA",Gurbaani TV
+http://173.255.140.23:8081/live/gtvna/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Gulistan News" tvg-logo="https://api.themediaant.com/images/medias/56ae201a8ead0e9c3a8b45a2/56ae201a8ead0e9c3a8b45a2.jpg" tvg-name="Gulistan News"  group-title="INDIA",Gulistan News
+rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
+
+#EXTINF:-1, tvg-id="Go Punjabi" tvg-logo="https://i.imgur.com/gr6lhSH.png" tvg-name="Go Punjabi"  group-title="INDIA",Go Punjabi
+http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Gosree Vision" tvg-logo="http://gosreetv.in//upload/image14/5b5607a014112.gif" tvg-name="Gosree Vision"  group-title="INDIA",Gosree Vision
+http://150.242.21.2/gosree.m3u8
+
+#EXTINF:-1, tvg-id="ETV Bihar" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599109s.png" tvg-name="ETV Bihar"  group-title="INDIA",ETV Bihar
+http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_1_av-p.m3u8
+
+#EXTINF:-1, tvg-id="ETV Madhya Pradesh (Opt-1)" tvg-logo="https://hindi.news18.com/js/image/ETV%20MpCg.png" tvg-name="ETV Madhya Pradesh (Opt-1)"  group-title="INDIA",ETV Madhya Pradesh (Opt-1)
+http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_1_av-p.m3u8
+
+#EXTINF:-1, tvg-id="ETV Bangla" tvg-logo="Logo N/A" tvg-name="ETV Bangla"  group-title="INDIA",ETV Bangla
+https://etv-bangla-news.akamaized.net/i/etv_bangla_news_live_1@2289/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Ekta TV Gurbani" tvg-logo="https://i.imgur.com/wregrJk.jpg" tvg-name="Ekta TV Gurbani"  group-title="INDIA",Ekta TV Gurbani
+http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1, tvg-id="ET Now (Updated)" tvg-logo="https://images.adgully.com/img/800/65401_logo-et-now.jpg" tvg-name="ET Now (Updated)"  group-title="INDIA",ET Now (Updated)
+https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/chunklist_w1103706317_b512000.m3u8
+
+#EXTINF:-1, tvg-id="ETV Madhya Pradesh (Opt-2)" tvg-logo="https://hindi.news18.com/js/image/ETV%20MpCg.png" tvg-name="ETV Madhya Pradesh (Opt-2)"  group-title="INDIA",ETV Madhya Pradesh (Opt-2)
+https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="ETV Urdu" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Etv-Urdu.png" tvg-name="ETV Urdu"  group-title="INDIA",ETV Urdu
+https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="ETV Rajasthan" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Etv-Rajasthan.png" tvg-name="ETV Rajasthan"  group-title="INDIA",ETV Rajasthan
+https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="ETV News Odia (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/ETV_News_Odia.jpg" tvg-name="ETV News Odia (Opt-1)"  group-title="INDIA",ETV News Odia (Opt-1)
+https://etv_oriya-lh.akamaihd.net/i/etv_odia_news_n_1@179753/index_1_av-p.m3u8
+
+#EXTINF:-1, tvg-id="ETV News Odia (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/ETV_News_Odia.jpg" tvg-name="ETV News Odia (Opt-2)"  group-title="INDIA",ETV News Odia (Opt-2)
+https://etv_oriya-lh.akamaihd.net/i/etv_odia_news_n_1@179753/index_5_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Hamdard TV (Canada)" tvg-logo="http://www.firstonetv.net/images/logos/in/HAMDARD.png" tvg-name="Hamdard TV (Canada)"  group-title="INDIA",Hamdard TV (Canada)
+http://cdn.samtv.ca/hamdard/index.m3u8
+
+#EXTINF:-1, tvg-id="Jaffna TV" tvg-logo="https://i.imgur.com/DyY2bud.jpg" tvg-name="Jaffna TV"  group-title="INDIA",Jaffna TV
+http://stmv3.srvstm.com/matheus/matheus/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Janam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/1200px-Janam_TV_logo.png" tvg-name="Janam TV"  group-title="INDIA",Janam TV
+http://live.wmncdn.net/janamtv1/live.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Jaal TV" tvg-logo="https://i.imgur.com/XbswUqI.jpg" tvg-name="Jaal TV"  group-title="INDIA",Jaal TV
+http://209.58.160.112/jaaltvhls/live.m3u8
+
+#EXTINF:-1, tvg-id="India TV" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" tvg-name="India TV"  group-title="INDIA",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
+#EXTINF:-1, tvg-id="Isaiaruvi TV Tamil" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/10/Isaiaruvi-TV-Online.jpg" tvg-name="Isaiaruvi TV Tamil"  group-title="INDIA",Isaiaruvi TV Tamil
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
+
+#EXTINF:-1, tvg-id="Janta TV" tvg-logo="https://vignette.wikia.nocookie.net/speedydeletion/images/0/03/Janta_TV_logo.png" tvg-name="Janta TV"  group-title="INDIA",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+
+#EXTINF:-1, tvg-id="JK 24x7 News" tvg-logo="http://uploads.tapatalk-cdn.com/20161102/a108a219f47ca81b4ecf33525429ffd4.jpg" tvg-name="JK 24x7 News"  group-title="INDIA",JK 24x7 News
+http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Jonack TV" tvg-logo="https://img3.downloadapk.net/3/20/03884a_0.png" tvg-name="Jonack TV"  group-title="INDIA",Jonack TV
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-name="Jhanjar Music"  group-title="INDIA",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1, tvg-id="Jawahar Channel" tvg-logo="https://i.imgur.com/e0RWupt.jpg" tvg-name="Jawahar Channel"  group-title="INDIA",Jawahar Channel
+http://209.58.177.35/jawaharhls/live.m3u8
+
+#EXTINF:-1, tvg-id="Jhanjar HD" tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" tvg-name="Jhanjar HD"  group-title="INDIA",Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
+#EXTINF:-1, tvg-id="IBC Tamil Music" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/8/854.1501937948.png" tvg-name="IBC Tamil Music"  group-title="INDIA",IBC Tamil Music
+https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
+
+#EXTINF:-1, tvg-id="IBN Lokmat" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599137s.jpg" tvg-name="IBN Lokmat"  group-title="INDIA",IBN Lokmat
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+
+#EXTINF:-1, tvg-id="IBC Tamil Comedy" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/8/854.1501937948.png" tvg-name="IBC Tamil Comedy"  group-title="INDIA",IBC Tamil Comedy
+https://cdn.ibctamil.com/ibc-comedy/smil:ibccomedy.smil/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Hindi Khabar" tvg-logo="http://startupbuddy.co.in/images/Hindikhabarlogo.png" tvg-name="Hindi Khabar"  group-title="INDIA",Hindi Khabar
+http://d2y6ekwadkc8z7.cloudfront.net/multitvcdn/smil:HindiKhabhar.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="IBC Bakthi" tvg-logo="https://i.imgur.com/DYAsyNy.png" tvg-name="IBC Bakthi"  group-title="INDIA",IBC Bakthi
+https://cdn.ibctamil.com/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
+
+#EXTINF:-1, tvg-id="India News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/India-news-logo.gif" tvg-name="India News"  group-title="INDIA",India News
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+
+#EXTINF:-1, tvg-id="India News Rajasthan" tvg-logo="https://i.imgur.com/ocuXwfz.png" tvg-name="India News Rajasthan"  group-title="INDIA",India News Rajasthan
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsrajasthan_all/master.m3u8
+
+#EXTINF:-1, tvg-id="India News Uttar Pradesh" tvg-logo="http://origin-static.nexg.tv/unified/admin/upload/13681697551365745175india-news-up_(1).png" tvg-name="India News Uttar Pradesh"  group-title="INDIA",India News Uttar Pradesh
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsup_all/master.m3u8
+
+#EXTINF:-1, tvg-id="India News Punjab" tvg-logo="https://tvnews4u.com/wp-content/uploads/2017/06/india-news-punjab-logo.jpg" tvg-name="India News Punjab"  group-title="INDIA",India News Punjab
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/master.m3u8
+
+#EXTINF:-1, tvg-id="India News Haryana" tvg-logo="http://www.talkieslive.com/images/stories/thumbs/India_News_MP.png" tvg-name="India News Haryana"  group-title="INDIA",India News Haryana
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsharyana_all/master.m3u8
+
+#EXTINF:-1, tvg-id="India News Madhya Pradesh & Chhattisgarh" tvg-logo="https://i.imgur.com/Ag9jErr.png" tvg-name="India News Madhya Pradesh & Chhattisgarh"  group-title="INDIA",India News Madhya Pradesh & Chhattisgarh
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsmp_all/master.m3u8
+
