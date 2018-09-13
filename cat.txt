@@ -18,7 +18,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
 http://z5ams.akamaized.net/ezmall/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/XUTYNEE.png" group-title="Devotional",Akaal
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
-0	0	0	0	0	0
 #EXTINF:0, tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="Movies",& Pictures
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/04.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" group-title="Movies",& Pictures HD
@@ -1171,7 +1170,6 @@ http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Music",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-0	0	0	0	0	0
 #EXTINF:0, tvg-logo="" group-title="Entertainment",BollyWood Masala TV
 https://www.youtube.com/watch?v=Bif339RnpVk
 #EXTINF:0, tvg-logo="" group-title="Devotional",Live Kirtan 24x7 
