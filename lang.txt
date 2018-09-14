@@ -6,6 +6,8 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/796261668040810496/e7BOjJQI_400x400.jpg" group-title="Punjabi",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, tvg-logo="http://www.1yestv.com/images/logo.png" group-title="Tamil",1Yes TV
+http://150.242.21.2/oneyes.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/10tv_telugu.jpg" group-title="Telugu",10 TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/785817595463151616/rM06mgXe_400x400.jpg" group-title="Malayalam",Amrita
@@ -35,8 +37,6 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png" group-title="Hindi",& TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
-#EXTINF:0, tvg-logo="http://www.1yestv.com/images/logo.png" group-title="Tamil",1Yes TV
-http://150.242.21.2/oneyes.m3u8
 #EXTINF:0, tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/7s-music-logo-1.jpg" group-title="Tamil",7S Music
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226213/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Hindi",9X Jalwa
@@ -299,9 +299,9 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_275,w_275/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11407-j9jqjucg-v1/imageContent-11407-j9jqjucg-m1.png" group-title="Bhojpuri",Dishum
 http://mhms6.airtel.tv/wh7f454c46tw267275944_2108449774/PLTV/88888888/224/3221226269/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/b/bb/Disney_Channel_2014_HD.png" group-title="English",Disney HD	
-#EXTINF:0, tvg-logo="https://www.satlogo.com/hires/dd/divya_tv_in.png" group-title="Hindi",Divya
+#EXTINF:0, tvg-logo="https://lh3.googleusercontent.com/FYyunt3xAC8ifbyFnkMstLdEyU_15WyafEzWrsq74EJzcZnt9lhlPirWz9UiVbeWOE8" group-title="Hindi",Divya
 http://z5ams.akamaized.net/divyatv/tracks-v1a1/index.m3u8
-#EXTINF:0, tvg-logo="https://www.satlogo.com/hires/dd/divyavani_tv_in.png" group-title="Telugu",Divyavani
+#EXTINF:0, tvg-logo="https://yt3.ggpht.com/a-/AN66SAwWYpADLTkcE0mU8Xs4WKkIV7M1BjSkaUWl2g=s288-mo-c-c0xffffffff-rj-k-no" group-title="Telugu",Divyavani
 http://yzmq2gxjdvax-hls-live.wmncdn.net/1077/divyavanitv/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://www.jugnitv.com/static/front/images/channel_logo/8581400650f8f55a14ce032b5c7d59f7_i.png" group-title="Punjabi",DPD Punjabi HD
 http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8
@@ -345,7 +345,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226086/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="English",Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0, tvg-logo="https://img3.downloadapk.net/3/20/03884a_0.png" group-title="English",Fashion TV Paris
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fashion_tv_hd.png" group-title="English",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:0, tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/d0/6c/16/d06c16c8-9b1f-1748-677f-e458aea387fb/mzl.bdeellzq.png/246x0w.png" group-title="Punjabi",Fastway Ent.
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8|User-Agent=ExoPlayerDemo/4.4?token=fastwaytvstreams
@@ -383,7 +383,7 @@ http://mhms10.airtel.tv/wh7f454c46tw4133913513_809736806/PLTV/88888888/224/32212
 http://mhms10.airtel.tv/wh7f454c46tw2717375159_749016567/PLTV/88888888/224/3221226517/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Gems_TV_2008_logo.png/200px-Gems_TV_2008_logo.png" group-title="Hindi",Gemporia
 https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi",Global Punjab
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Subhavaartha_Television_Logo.png" group-title="Punjabi",Global Punjab
 http://207.244.112.71/globalpunjabhls/live.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/Wth15ok.jpg" group-title="Punjabi",Global Sanjh
 http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/index.m3u8?token=fastwaytvstreams
@@ -394,7 +394,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, tvg-logo="http://gosreetv.in//upload/image14/5b5607a014112.gif" group-title="Malayalam",GoSree Vision
 http://150.242.21.2/gosree.m3u8
 #EXTINF:0, tvg-logo="https://api.themediaant.com/images/medias/56ae201a8ead0e9c3a8b45a2/56ae201a8ead0e9c3a8b45a2.jpg" group-title="Urdu",Gulistan News
-tsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
+rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
 #EXTINF:0, tvg-logo="https://i.imgur.com/qJkwmlD.jpg" group-title="Punjabi",Gurbaani Healing
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
 #EXTINF:0, tvg-logo="http://www.gurbaniworldradio.com/uploads/1/5/7/2/15721120/1042176.png" group-title="Punjabi",Gurbaani TV
@@ -424,7 +424,7 @@ https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
 #EXTINF:0, tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/a05b3dfe/4e8ed074_med.png" group-title="English",ID Fashion
 http://95.67.8.22/hls/idfashion/index.m3u8?xtreamiptv.m3u8
 #EXTINF:0, tvg-logo="http://media-recherche.ina.fr/image/VQTaZJ8u-IvY5HF3jok4b0QIwv5mxt9D5RtHgfg3LRDbwvBYqT5gwfi5OEICrkApQmdb81kjwYBvFpMKtmMZ_11pTFCAAOIzPLga9tWYYas.jpg" group-title="Tamil",Imayam TV
-tmp://103.212.204.17:1935/live/imayamtv
+rtmp://103.212.204.17:1935/live/imayamtv
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/India-news-logo.gif" group-title="Hindi",India News
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 #EXTINF:0, tvg-logo="http://www.talkieslive.com/images/stories/thumbs/India_News_MP.png" group-title="Hindi",India News Haryana
@@ -443,7 +443,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi",India Voice
 http://cshms1.airtel.tv/wh7f454c46tw1114022540_1304781414/PLTV/88888888/224/3221226473/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="" group-title="Tamil",Isai Aruvi
+#EXTINF:0, tvg-logo="http://www.firstonetv.net/images/logos/in/ISAIARUVI.png" group-title="Tamil",Isai Aruvi
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226303/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Tamil",J Movies
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -486,7 +486,7 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226359/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Malayalam",Kairali TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://www.satlogo.com/hires/kk/kairali_in_we.png" group-title="Malayalam",Kairali We
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/2359973499/we_180_400x400.jpg" group-title="Malayalam",Kairali We
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226019/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Oriya",Kalinga TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226016/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -536,13 +536,13 @@ http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/pl
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226332/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Tamil",Makkal TV
 http://z5ams.akamaized.net/makkaltv/tracks-v1a1/index.m3u8
-#EXTINF:0, tvg-logo="https://www.satlogo.com/hires/mm/malai_murasu_tv_in.png" group-title="Tamil",Malaimurasu
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjH9_VxzR-c4Ko_c1PdG7-HYduBaAaJPA18Nsp8rDGOmvzOO6o" group-title="Tamil",Malaimurasu
 http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Punjabi",Manoranjan TV
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226227/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://i.imgur.com/CLmGYhz.jpg" group-title="Punjabi",Masti TV
 http://cdn.samtv.ca/mastitv/index.m3u8
-#EXTINF:0, tvg-logo="https://www.satlogo.com/hires/mm/mastiii_tv_in.png" group-title="Hindi",Mastiii
+#EXTINF:0, tvg-logo="http://glamgold.com/wp-content/uploads/2017/02/mastiii-logo.jpg" group-title="Hindi",Mastiii
 http://mhms7.airtel.tv/wh7f454c46tw3171712561_511087884/PLTV/88888888/224/3221226021/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Malayalam",Mathrubhumi News
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226314/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -552,7 +552,7 @@ http://mhms6.airtel.tv/wh7f454c46tw33449833_893293054/PLTV/88888888/224/32212263
 http://150.242.21.2/medianet.m3u8
 http://img9.downloadapk.net/9/79/6cd0e5_0.png" group-title="Malayalam",Media One
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="" group-title="Malayalam",Media Orange
+#EXTINF:0, tvg-logo="https://bloximages.newyork1.vip.townnews.com/orangemedianetwork.com/content/tncms/custom/image/07eea8a4-e1f7-11e6-8596-3bb1e3c02596.png" group-title="Malayalam",Media Orange
 http://150.242.21.2/mediaorange.m3u8
 #EXTINF:0, tvg-logo="" group-title="Tamil",Mega TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -564,7 +564,7 @@ http://livematrix.in:1935/live/mgrtv/index.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://image.ibb.co/ftifGy/mh1_News.png" group-title="Punjabi",mh1 News
 http://capcobroadcaststream.in:1935/edge1/mhone_news.stream_aac/chunklist_w1873206187.m3u8
-#EXTINF:0, tvg-logo="" group-title="Punjabi",mh1 Shardha
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkE7okDxsZa_zu_j6jsc1Yow4MQKK_Ad0dU4xcvmDAaof4Rg3_" group-title="Punjabi",mh1 Shardha
 http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
 #EXTINF:0, tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="English",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
@@ -584,7 +584,7 @@ http://ntktv.cobrasoftwares.in/hls/stream.m3u8
 #EXTINF:0, tvg-logo="" group-title="Tamil",Namadhu TV	
 #EXTINF:0, tvg-logo="" group-title="Tamil",Nambikkai TV
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkE7okDxsZa_zu_j6jsc1Yow4MQKK_Ad0dU4xcvmDAaof4Rg3_" group-title="Punjabi",Namdhari TV
+#EXTINF:0, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/41/ee/53/41ee532e-aaf6-22bc-6a43-506b80f98a22/source/512x512bb.jpg" group-title="Punjabi",Namdhari TV
 http://namdhari.tv/live/sbs1.m3u8
 #EXTINF:0, tvg-logo="https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.0-1/31655594_1633315206758876_6601606179833511936_n.jpg?_nc_cat=0&oh=df4da5b4fdefc0bb182cd3a332c00026&oe=5C2316E1" group-title="Hindi",National Voice UP UK
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226236/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -623,7 +623,7 @@ https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_5_av
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:0, tvg-logo="" group-title="Tamil",News 7
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226308/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="" group-title="Assamese",News Live
+#EXTINF:0, tvg-logo="https://lh3.googleusercontent.com/-ujydqANij910osrJ2Et5ce64f-Qq31RSP1w7EbZ5L5ovVG9UoPvYd3hVb9oESbTsDxk=s180-rw" group-title="Assamese",News Live
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226108/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="http://i65.tinypic.com/ot3jhj.jpg" group-title="Hindi",News Nation
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -678,7 +678,7 @@ http://live.wowstream.in:1935/ka-prajaa/prajaa-news_live/chunklist.m3u8
 http://mhms7.airtel.tv/wh7f454c46tw2748699729_1931022293/PLTV/88888888/224/3221226410/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://i.ytimg.com/vi/cK2j88E4ZYY/hqdefault_live.jpg" group-title="Oriya",Prarthana Bhawan
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226223/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://www.satlogo.com/hires/pp/prarthana_tv.png" group-title="Oriya",Prathna TV
+#EXTINF:0, tvg-logo="http://prarthanatv.in/wp-content/uploads/2016/08/fn-01-300x233.png" group-title="Oriya",Prathna TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226033/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPklAO4-KnWQID0jXUkwd48Y7P9k-kji6EsYuIujiaC6ZwOpn6iQ" group-title="Assamese",Pratidin Time
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226288/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -819,7 +819,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Hindi",Sony BBC Earth HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo=https://vignette.wikia.nocookie.net/logopedia/images/1/15/Sony_ESPN.png" group-title="English",Sony ESPN
+#EXTINF:0, tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLuTVmznoLL8hrv7LJvA06yurLB_7KqNrfPpu28N4NNsEGXB-bQ" group-title="English",Sony ESPN
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="English",Sony ESPN HD
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -849,17 +849,16 @@ http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="English",Sony Six HD
 http://cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="" group-title="English",Sony Ten UK
-http://163.172.50.217:9091/sky/cricket/index.m3u8?token=MTA5LjE3Ny42NS4xMTYtdG9rZW4zLTE1MzQ3MzM5MDM=
+#EXTINF:0, tvg-logo="" group-title="English",Sony Ten UK	
 #EXTINF:0, tvg-logo="https://www.india-forums.com/tellybuzz/images/uploads/1AC_Sony_TV.png" group-title="Hindi",Sony TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://www.satlogo.com/hires/ss/set_in_hd.png" group-title="Hindi",Sony TV HD
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/SET_India_HD.jpg" group-title="Hindi",Sony TV HD
 http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi",Sony Wah
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="http://www.mediainfoline.com/wp-content/uploads/2017/05/sony-YAY-logo.jpg" group-title="Hindi",Sony Yay
 http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="" group-title="Tamil",Sony Yay (Tamil)
+#EXTINF:0, tvg-logo="http://www.mediainfoline.com/wp-content/uploads/2017/05/sony-YAY-logo.jpg" group-title="Tamil",Sony Yay (Tamil)
 http://mhms11.airtel.tv/wh7f454c46tw1799333471_1357632319/PLTV/88888888/224/3221226502/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="http://www.mediainfoline.com/wp-content/uploads/2017/05/sony-YAY-logo.jpg" group-title="Telugu",Sony Yay (Telugu)
 http://mhms11.airtel.tv/wh7f454c46tw1942416567_212728774/PLTV/88888888/224/3221226505/03.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -882,9 +881,9 @@ http://103.205.133.43/hls/starplus.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi",Star Utsav Movies	
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" group-title="Tamil",Star Vijay UK
 http://216.144.250.174/Star_VIjay_Hd/track-v1a1/index.m3u8
-#EXTINF:0, tvg-logo="hhttps://image.winudf.com/v2/image/aW8udm92LnZpdGFtaW8uc3RlZWxiaXJkdHZfaWNvbl8wXzgwMGI4ZDEz/icon.png?w=170&fakeurl=1&type=.png" group-title="Punjabi",Steelbird Music
+#EXTINF:0, tvg-logo="https://image.winudf.com/v2/image/aW8udm92LnZpdGFtaW8uc3RlZWxiaXJkdHZfaWNvbl8wXzgwMGI4ZDEz/icon.png?w=170&fakeurl=1&type=.png" group-title="Punjabi",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:0, tvg-logo="" group-title="Telugu",Subhavaartha TV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Subhavaartha_Television_Logo.png" group-title="Telugu",Subhavaartha TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226352/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://www.subrangtv.com/wp-content/uploads/2017/03/custom-logo.jpg" group-title="Punjabi",Subrang TV USA
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
@@ -917,12 +916,12 @@ http://mhms10.airtel.tv/wh7f454c46tw1706167132_949386674/PLTV/88888888/224/32212
 #EXTINF:0, tvg-logo="https://2.bp.blogspot.com/-DN5QTL0qI3c/WBHVBkP5jeI/AAAAAAAAAgk/1rRAVGv7k9wxOWolJVq5gAR-RCiVlZrIgCLcB/s1600/svbctv.png" group-title="Telugu",SVBC Telugu
 http://mhms10.airtel.tv/wh7f454c46tw4278120536_350557950/PLTV/88888888/224/3221226503/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/b46dfdf9-dfcd-4c14-8bb4-f0fb62e1f7a3.jpg" group-title="Tamil",Swasthik TV HD
-tmp://flash5.chennaistream.net/swasthiktv/_definst_/mp4:swasthiktvlive
+rtmp://flash5.chennaistream.net/swasthiktv/_definst_/mp4:swasthiktvlive
 #EXTINF:0, tvg-logo="" group-title="Telugu",T News
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226307/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.0-1/c4.0.320.320/p320x320/14403_1595046134050427_8134206974874394582_n.jpg?_nc_cat=0&oh=dd55c0cb9fc5ebcc36f232389745b805&oe=5C1B07251/c4.0.320.320/p320x320/14403_1595046134050427_8134206974874394582_n.jpg?_nc_cat=0&oh=dd55c0cb9fc5ebcc36f232389745b805&oe=5C1B0725" group-title="Punjabi",Tag TV
 http://cdn11.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
-#EXTINF:0, tvg-logo="" group-title="Tamil",Tamil TV
+#EXTINF:0, tvg-logo="https://banner2.kisspng.com/20180331/xhw/kisspng-sri-lanka-tamil-nadu-dravidian-languages-tamil-5abf5f2d432d16.3961345915224911812752.jpg" group-title="Tamil",Tamil TV
 http://150.242.21.2/tamiltv.m3u8
 #EXTINF:0, tvg-logo="https://d2d7xd1owstlh.cloudfront.net/static/2/Open/Samsung_Logos_1845/Source/13064/TamilVision.png" group-title="Tamil",Tamil Vision HD
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
@@ -1033,7 +1032,7 @@ http://103.228.112.96:1935/virsalivetv/live/playlist.m3u8
 http://150.242.21.2/vismaya.m3u8
 #EXTINF:0, tvg-logo="" group-title="Telugu",Vissa TV
 http://z5ams.akamaized.net/vissatv/tracks-v1a1/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Gujarati",VTV News
+#EXTINF:0, tvg-logo="https://media.licdn.com/dms/image/C560BAQEnmnZyovbCoA/company-logo_200_200/0?e=2159024400&v=beta&t=Cv2u30jeqPKl43i-Rimzk_d1iGdzsRU8DFBfPTxefL0" group-title="Gujarati",VTV News
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://i.imgur.com/HSjk10W.png" group-title="Punjabi",Wah Punjabi
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
@@ -1046,8 +1045,7 @@ http://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw2968469580_2008495343/PLTV/88888888/224/3221226263/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/1032595703330029568/FVEuOtDQ_400x400.jpg" group-title="Hindi",Wow Music
 http://cshms3.airtel.tv/wh7f454c46tw260150639_1030221697/PLTV/88888888/224/3221226477/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="" group-title="English",WWE Network
-http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="English",WWE Network	
 #EXTINF:0, tvg-logo="http://imgsdown.1mobile.com/group1/M00/6D/D9/S340LlO8u1CAZ76PAAVOT0C3-sM517.png" group-title="Telugu",Yoga TV -Swamiji
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODgwOTM4MTM2NjU4/z-living-networkjpg.jpg" group-title="Hindi",Z Living
