@@ -14,7 +14,7 @@ http://150.242.21.2/oneyes.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:0, tvg-logo="http://takshashila.org.in/wp-content/uploads/2015/07/CNBC_TV18_350x175.png" group-title="Business",CNBC 18 News
 https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
-#EXTINF:0, tvg-logo="" group-title="Lifestyle",EZ mall	
+#EXTINF:0, tvg-logo="" group-title="Lifestyle",EZ mall	0
 #EXTINF:0, tvg-logo="https://i.imgur.com/XUTYNEE.png" group-title="Devotional",Akaal
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
 					
@@ -114,7 +114,7 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Music",B4U Music
 http://cshms2.airtel.tv/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png" group-title="Kids",Baby TV	
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png" group-title="Kids",Baby TV	0
 #EXTINF:0, tvg-logo="https://img14.androidappsapk.co/300/5/1/0/com.app.bansalnews.png" group-title="News",Bansal News
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="http://www.gaundapunjab.ca/img/page-images/logo.png" group-title="Infotainment",BBC Toronto
