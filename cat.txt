@@ -550,7 +550,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://mhms6.airtel.tv/wh7f454c46tw33449833_893293054/PLTV/88888888/224/3221226335/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://i.imgur.com/1yZkv1T.jpg" group-title="News",Media Net
 http://150.242.21.2/medianet.m3u8
-http://img9.downloadapk.net/9/79/6cd0e5_0.png" group-title="News",Media One
+#EXTINF:0, tvg-logo="http://img9.downloadapk.net/9/79/6cd0e5_0.png" group-title="News",Media One
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://bloximages.newyork1.vip.townnews.com/orangemedianetwork.com/content/tncms/custom/image/07eea8a4-e1f7-11e6-8596-3bb1e3c02596.png" group-title="Entertainment",Media Orange
 http://150.242.21.2/mediaorange.m3u8
