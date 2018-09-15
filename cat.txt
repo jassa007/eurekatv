@@ -195,7 +195,8 @@ https://cnbc_gujrati_hls-lh.akamaihd.net/i/cnbc_gujrati_hls_n_1@178933/index_5_a
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
 #EXTINF:0, tvg-logo="" group-title="Entertainment",Colors
 http://103.205.133.43/hls/colors.m3u8
-#EXTINF:0, tvg-logo="https://myshowtime.net/webtv/channels/COLORS-HD.png" group-title="Entertainment",Colors HD	0
+#EXTINF:0, tvg-logo="https://myshowtime.net/webtv/channels/COLORS-HD.png" group-title="Entertainment",Colors HD
+http://54.39.144.139:8080/ColorsHD/index.m3u8
 #EXTINF:0, tvg-logo="http://www.indiantelevision.com/sites/default/files/images/tv-images/2015/09/07/cab77f6ed10d4ab3eead3579ba8d19bb_400x400.png" group-title="Entertainment",Colors ME	0
 #EXTINF:0, tvg-logo="http://just4jolly.com/wp-content/uploads/2016/tamil/240x135/ctntv1.png" group-title="Infotainment",CTN
 http://45.79.203.234:1935/ctntv/myStream/index.m3u8
@@ -869,18 +870,22 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, tvg-logo="https://i.imgur.com/NLq17Q8.jpg" group-title="Entertainment",SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Movies",Star Gold	0
-#EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Movies",Star Gold HD	0
+#EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Movies",Star Gold HD
+http://54.39.144.139:8080/StaGoldHD/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Movies",Star Gold UK	0
 #EXTINF:0, tvg-logo="" group-title="Entertainment",Star Plus
 http://103.205.133.43/hls/starplus.m3u8
 #EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg" group-title="Entertainment",Star Plus HD	0
-#EXTINF:0, tvg-logo="https://sportzwiki.com/wp-content/uploads/2016/07/Star-Sports.png" group-title="Sports",Star Sports 1 HD	0
-#EXTINF:0, tvg-logo="https://sportzwiki.com/wp-content/uploads/2016/07/Star-Sports.png" group-title="Sports",Star Sports 2 HD	0
-#EXTINF:0, tvg-logo="" group-title="Sports",Star Sports 3	0
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest?cb=20170728071015" group-title="Sports",Star Sports 1 HD
+http://54.39.144.139:8080/StarSports1HD/index.m3u8
+#EXTINF:0, tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" group-title="Sports",Star Sports 2 HD
+http://54.39.144.139:8080/StarSports2HD/index.m3u8
+#EXTINF:0, tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" group-title="Sports",Star Sports 3
+http://54.39.144.139:8080/StarSports3HD/index.m3u8
 #EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/11/starutsav001.jpg" group-title="Entertainment",Star TV UK	0
 #EXTINF:0, tvg-logo="" group-title="Movies",Star Utsav Movies	0
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" group-title="Entertainment",Star Vijay UK
-http://216.144.250.174/Star_VIjay_Hd/track-v1a1/index.m3u8
+http://54.39.144.139:8080/StarVijayHD/index.m3u8
 #EXTINF:0, tvg-logo="https://image.winudf.com/v2/image/aW8udm92LnZpdGFtaW8uc3RlZWxiaXJkdHZfaWNvbl8wXzgwMGI4ZDEz/icon.png?w=170&fakeurl=1&type=.png" group-title="Music",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Subhavaartha_Television_Logo.png" group-title="Infotainment",Subhavaartha TV
