@@ -873,7 +873,7 @@ http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 http://54.39.144.139:8080/StarBharatHD/index.m3u8
 #EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Hindi",Star Gold	
 #EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Hindi",Star Gold HD
-http://54.39.144.139:8080/StaGoldHD/index.m3u8
+http://54.39.144.139:8080/StarGoldHD/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Hindi",Star Gold UK	
 #EXTINF:0, tvg-logo="" group-title="Hindi",Star Plus
 http://103.205.133.43/hls/starplus.m3u8
@@ -882,11 +882,11 @@ http://103.205.133.43/hls/starplus.m3u8
 http://54.39.144.139:8080/StarSports1HD/index.m3u8
 #EXTINF:0, tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" group-title="English",Star Sports 2 HD
 http://54.39.144.139:8080/StarSports2HD/index.m3u8
-#EXTINF:0, tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" group-title="Hindi",Star Sports 3
+#EXTINF:0, tvg-logo="https://kccl.tv/sites/default/files/star%20sports%202%20hd.png" group-title="Hindi",Star Sports 3 HD
 http://54.39.144.139:8080/StarSports3HD/index.m3u8
 #EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/11/starutsav001.jpg" group-title="Hindi",Star TV UK	
 #EXTINF:0, tvg-logo="" group-title="Hindi",Star Utsav Movies	
-#EXTINF:0, tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" group-title="Tamil",Star Vijay UK
+#EXTINF:0, tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" group-title="Tamil",Star Vijay
 http://54.39.144.139:8080/StarVijayHD/index.m3u8
 #EXTINF:0, tvg-logo="https://image.winudf.com/v2/image/aW8udm92LnZpdGFtaW8uc3RlZWxiaXJkdHZfaWNvbl8wXzgwMGI4ZDEz/icon.png?w=170&fakeurl=1&type=.png" group-title="Punjabi",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
