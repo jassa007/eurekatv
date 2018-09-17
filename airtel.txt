@@ -2,7 +2,7 @@
 #EXTINF:0, group-title="Pakistan",7 News
 http://cdn.ebound.tv/tv/7news/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",8XM HD
-https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=136&extension=m3u8
+#EXTINF:0, group-title="Pakistan",92 News HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",A Plus
 http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/chunklist_w1071879192.m3u8
