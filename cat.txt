@@ -89,7 +89,8 @@ http://mhms6.airtel.tv/wh7f454c46tw770814039_644498929/PLTV/88888888/224/3221226
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Animal Planet (English)
 http://mhms10.airtel.tv/wh7f454c46tw3354624603_1843911667/PLTV/88888888/224/3221226488/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/485012084845862912/XdeBiVlu_400x400.jpeg" group-title="Infotainment",Ankhila Punjab	1. http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21997.ts
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/485012084845862912/XdeBiVlu_400x400.jpeg" group-title="Infotainment",Ankhila Punjab
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21997.ts
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/433885574810705920/wFsMuJPT_400x400.png" group-title="Entertainment",Anjan
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6fd9e17e-7193-4a48-bdab-5f2f357ebf18.jpg" group-title="Music",Aone Music
