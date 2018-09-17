@@ -89,6 +89,7 @@ http://mhms6.airtel.tv/wh7f454c46tw770814039_644498929/PLTV/88888888/224/3221226
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Animal Planet (English)
 http://mhms10.airtel.tv/wh7f454c46tw3354624603_1843911667/PLTV/88888888/224/3221226488/03.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/485012084845862912/XdeBiVlu_400x400.jpeg" group-title="Infotainment",Ankhila Punjab	1. http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21997.ts
 #EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/433885574810705920/wFsMuJPT_400x400.png" group-title="Entertainment",Anjan
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6fd9e17e-7193-4a48-bdab-5f2f357ebf18.jpg" group-title="Music",Aone Music
@@ -506,6 +507,8 @@ http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index
 http://cdn.live5.in:1935/live/kcv/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.apk-cloud.com/detail/image/com.jb.khabreinabhitak-w250.png" group-title="News",Khabrein Abhi Tak
 http://mhms9.airtel.tv/wh7f454c46tw1905050219_753085836/PLTV/88888888/224/3221226252/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/967898752521416704/y07-fVnU.jpg" group-title="Infotainment",Khalistan TV
+http://stream.iktv.online/ktvpunjab/index.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="News",Kolkatta TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/KTV.png" group-title="Entertainment",KTV
@@ -559,7 +562,7 @@ http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m
 http://livematrix.in:1935/live/mgrtv/index.m3u8
 #EXTINF:0, tvg-logo="http://dmcabogra.com/Music/MH1%20ONE%20MUSIC.jpg" group-title="Music",mh1 Music
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://image.ibb.co/ftifGy/mh1_News.png" group-title="News",mh1 News
+#EXTINF:0, tvg-logo="http://logowow.net/logos/wlyE3mEft.png" group-title="News",mh1 News
 http://mhonestream.in:1935/mhone/mhonenews/chunklist.m3u8
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkE7okDxsZa_zu_j6jsc1Yow4MQKK_Ad0dU4xcvmDAaof4Rg3_" group-title="Devotional",mh1 Shardha
 http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
@@ -754,6 +757,8 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://8ovgdkm5rmpw-hls-live.wmncdn.net/31/saam/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="http://www.sabrang.com.au/wp-content/uploads/2017/11/sabrang-channel-transparent-2.png" group-title="Entertainment",Sabrang TV
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+#EXTINF:0, tvg-logo="https://lh3.googleusercontent.com/TuBtNQEwrVWXoZWKR_-FiDezZPJChY1sxPUJa-0ICsVwRYxn0fWOR3BZJA68JUE9nA=s180-rw" group-title="Entertainment",Sadda Punjab
+http://103.81.156.115:1935/IPTV/saadapunjab/playlist.m3u8
 #EXTINF:0, tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/8c48f0f0-5599-4d54-8688-b4fdd300c7c0.jpg" group-title="News",Sadhana Plus News
 http://live.wmncdn.net/sadhanaplus1/live.stream/index.m3u8
 #EXTINF:0, tvg-logo="http://www.firstonetv.net/images/logos/in/SADHNATV.png" group-title="Devotional",Sadhana TV
@@ -816,7 +821,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Infotainment",Sony BBC Earth HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo=https://kccl.tv/sites/default/files/SEPN.png" group-title="Sports",Sony ESPN
+#EXTINF:0, tvg-logo=http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/03/03/Untitled-1_35.jpg" group-title="Sports",Sony ESPN
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjmUrMPwqeGvhsm2wMsr7z4ueC5dRKXuw3-UdbS6gGFjo3lqDZEQ" group-title="Sports",Sony ESPN HD
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8|User-Agent=ExoPlayerDemo/4.4
