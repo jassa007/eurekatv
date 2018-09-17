@@ -1,358 +1,319 @@
-#EXTINF:0, group-title="Pakistan",24 News HD								
 #EXTINF:0, group-title="Pakistan",7 News
-http://cdn.ebound.tv/tv/7news/playlist.m3u8							
-#EXTINF:0, group-title="Pakistan",8XM HD								
+http://cdn.ebound.tv/tv/7news/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",92 News HD
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8							
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",A Plus
-http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/chunklist_w1071879192.m3u8							
-#EXTINF:0, group-title="Pakistan",Aaj Entertainemnt								
-#EXTINF:0, group-title="Pakistan",Aaj News								
-#EXTINF:0, group-title="Pakistan",Abb Tak								
-#EXTINF:0, group-title="Pakistan",Afghan TV								
-#EXTINF:0, group-title="Pakistan",Apna Channel								
-#EXTINF:0, group-title="Pakistan",Aruj								
+http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/chunklist_w1071879192.m3u8
 #EXTINF:0, group-title="Pakistan",ARY Digital
-http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8							
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Ary News
-http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8							
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",ARY Zindagi
-http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8							
+http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b1349152.m3u8
 #EXTINF:0, group-title="Pakistan",ATV
-http://stream.tapmad.com:1935/pitvlive/atv3.stream/chunklist.m3u8							
-#EXTINF:0, group-title="Pakistan",AVT Khyber TV								
-#EXTINF:0, group-title="Pakistan",Awaz News								
-#EXTINF:0, group-title="Pakistan",Bol News								
-#EXTINF:0, group-title="Pakistan",C41								
+http://stream.tapmad.com:1935/pitvlive/atv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",C42
-http://stream.tapmad.com:1935/pitvlive/city423.stream/chunklist.m3u8							
-#EXTINF:0, group-title="Pakistan",C44								
+http://stream.tapmad.com:1935/pitvlive/city423.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Channel 5
-http://stream.tapmad.com:1935/pitvlive/channel53_240p.stream/chunklist.m3u8							
-#EXTINF:0, group-title="Pakistan",Dawn News								
+http://stream.tapmad.com:1935/pitvlive/channel53_240p.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Dharti TV
-http://stream.tapmad.com:1935/pitvlive/dhartitv3.stream/chunklist.m3u8							
+http://stream.tapmad.com:1935/pitvlive/dhartitv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Dunya News
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8							
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Express News
-http://198.16.102.122:8081/PAK/EXPRESSNEWS/chunks.m3u8							
+http://198.16.102.122:8081/PAK/EXPRESSNEWS/chunks.m3u8
 #EXTINF:0, group-title="Pakistan",Eye 95 TV
-http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8							
-#EXTINF:0, group-title="Pakistan",Film World								
-#EXTINF:0, group-title="Pakistan",Filmax								
-#EXTINF:0, group-title="Pakistan",Filmazia HD								
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:0, group-title="Pakistan",Geo Super
-http://50.7.198.170:8081/abcd/geosuper/playlist.m3u8							
+http://50.7.198.170:8081/abcd/geosuper/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Geo News
-http://stream.jeem.tv/geo/geonews/playlist.m3u8							
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Health TV
-http://stream.tapmad.com:1935/pitvlive/healthtv3.stream/chunklist.m3u8							
-#EXTINF:0, group-title="Pakistan",Jalwa								
+http://stream.tapmad.com:1935/pitvlive/healthtv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Jhumar TV
-http://live-23.viewer.dacast.com/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on							
+http://live-23.viewer.dacast.com/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Pakistan",Jwand TV
-http://dcunilive23-lh.akamaihd.net/i/dclive_1@48939/index_150_av-p.m3u8							
+http://dcunilive23-lh.akamaihd.net/i/dclive_1@48939/index_150_av-p.m3u8
 #EXTINF:0, group-title="Pakistan",K21 News
-http://stream.tapmad.com:1935/pitvlive/k213.stream/chunklist.m3u8							
-#EXTINF:0, group-title="Pakistan",Kashish TV								
-#EXTINF:0, group-title="Pakistan",Kay2								
-#EXTINF:0, group-title="Pakistan",Khyber News								
-#EXTINF:0, group-title="Pakistan",Khyber TV								
+http://stream.tapmad.com:1935/pitvlive/k213.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",KN News
-http://streamer12.dstreamone.com/dsone/kohenoortv/chunklist_w304906892.m3u8							
+http://streamer12.dstreamone.com/dsone/kohenoortv/chunklist_w304906892.m3u8
 #EXTINF:0, group-title="Pakistan",KTN
-http://103.24.96.74/ktn/ktn/playlist.m3u8							
-#EXTINF:0, group-title="Pakistan",Lahore News HD								
+http://103.24.96.74/ktn/ktn/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Lahore News HD
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8							
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Madani TV
-https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/playlist.m3u8							
-#EXTINF:0, group-title="Pakistan",Madina TV								
-#EXTINF:0, group-title="Pakistan",Makkah TV								
+https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Mehran TV
-http://stream.tapmad.com:1935/pitvlive/mehran3.stream/chunklist.m3u8							
+http://stream.tapmad.com:1935/pitvlive/mehran3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Metro One
-http://stream.tapmad.com:1935/pitvlive/metro3.stream/chunklist.m3u8							
+http://stream.tapmad.com:1935/pitvlive/metro3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",MTA Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8							
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 #EXTINF:0, group-title="Pakistan",Neo HD
-http://stream.tapmad.com:1935/pitvlive/neo3.stream/chunklist.m3u8							
-#EXTINF:0, group-title="Pakistan",News One								
-#EXTINF:0, group-title="Pakistan",Oxygene								
-#EXTINF:0, group-title="Pakistan",Pashto 1								
+http://stream.tapmad.com:1935/pitvlive/neo3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",PTV Home
-http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8							
+http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
 #EXTINF:0, group-title="Pakistan",PTV News
-http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8							
-#EXTINF:0, group-title="Pakistan",PTV Sports	0							
+http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
+#EXTINF:0, group-title="Pakistan",PTV Sports	0
 #EXTINF:0, group-title="Pakistan",PTV World
-https://59aeddfe9f01c.streamlock.net/live/PTVworld/chunklist.m3u8							
-#EXTINF:0, group-title="Pakistan",Punjab TV								
+https://59aeddfe9f01c.streamlock.net/live/PTVworld/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Pushto 1
-http://154.50.202.82:1935/live/pashtutvweb_720p/index.m3u8							
-#EXTINF:0, group-title="Pakistan",Rohi News								
-#EXTINF:0, group-title="Pakistan",Roze News								
-#EXTINF:0, group-title="Pakistan",See TV HD								
-#EXTINF:0, group-title="Pakistan",Such News								
+http://154.50.202.82:1935/live/pashtutvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Tez
-http://stream.jeem.tv/geo/geotezz/playlist.m3u8							
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",TNN TV
-http://tnntv.flashmediacast.com:1935/TNNTV/livestream/chunklist.m3u8							
-#EXTINF:0, group-title="Pakistan",TV One								
-#EXTINF:0, group-title="Pakistan",Urdu 1								
-#EXTINF:0, group-title="Pakistan",VSH News								
-#EXTINF:0, group-title="Pakistan",Waseb								
+http://tnntv.flashmediacast.com:1935/TNNTV/livestream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Waseb
-http://stream.tapmad.com:1935/pitvlive/waseeb3.stream/chunklist.m3u8							
+http://stream.tapmad.com:1935/pitvlive/waseeb3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Wasirabad TV
-http://178.162.221.228/wazirahls/live.m3u8							
+http://178.162.221.228/wazirahls/live.m3u8
 #EXTINF:0, group-title="Pakistan",Zaiqa TV
-http://stream.tapmad.com:1935/pitvlive/zaiqatv3.stream/chunklist.m3u8							
+http://stream.tapmad.com:1935/pitvlive/zaiqatv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Afghanistan",1 TV
-http://173.208.166.178/1tv-live-ca7a6c579c8763664be7c2df49a4e29bloody555/tracks-v1a1/index.m3u8							
+http://173.208.166.178/1tv-live-ca7a6c579c8763664be7c2df49a4e29bloody555/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Afghan Sports HD
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8							
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0, group-title="Afghanistan",Afghan Time TV
-http://iptv.afghantimetv.com/afghantime/playlist2/index.m3u8							
-#EXTINF:0, group-title="Afghanistan",Afghan TV								
+http://iptv.afghantimetv.com/afghantime/playlist2/index.m3u8
 #EXTINF:0, group-title="Afghanistan",AMC
-http://173.208.166.178:80/amc_tv_live-1c104zxcvb123a3b6599d1935f99f6e409d/tracks-v1a1/mono.m3u8							
+http://173.208.166.178:80/amc_tv_live-1c104zxcvb123a3b6599d1935f99f6e409d/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Afghanistan",Arezo TV
-http://173.208.166.178/arezo_tv_live-1c104a64648b6599d1935f9f6e409z257f562/tracks-v1a1/mono.m3u8							
+http://173.208.166.178/arezo_tv_live-1c104a64648b6599d1935f9f6e409z257f562/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Afghanistan",ATN News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1082433098.m3u8							
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1082433098.m3u8
 #EXTINF:0, group-title="Afghanistan",ATN TV
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w633440548.m3u8							
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w633440548.m3u8
 #EXTINF:0, group-title="Afghanistan",Bahar TV
-http://iptv.bahartv-af.com/bahartv/playlist.m3u8							
+http://iptv.bahartv-af.com/bahartv/playlist.m3u8
 #EXTINF:0, group-title="Afghanistan",Hewad TV
-http://173.208.166.178:80/hewad_tv_live-741zxc789ghj963klj123-ajmal-dont-copy/index.m3u8							
+http://173.208.166.178:80/hewad_tv_live-741zxc789ghj963klj123-ajmal-dont-copy/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Jahan Numa
-http://173.208.166.178:80/jahan_numa_tv_live-486asdf456ghjk123zxcv458wxyz-fuck-off/index.m3u8							
+http://173.208.166.178:80/jahan_numa_tv_live-486asdf456ghjk123zxcv458wxyz-fuck-off/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Kabul TV US
-http://1-fss27-s0.streamhoster.com/lv_kabultv/_definst_/kabultvus/chunklist.m3u8							
+http://1-fss27-s0.streamhoster.com/lv_kabultv/_definst_/kabultvus/chunklist.m3u8
 #EXTINF:0, group-title="Afghanistan",Kayhan TV HD
-http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8							
+http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8
 #EXTINF:0, group-title="Afghanistan",Khurshid TV
-http://173.208.166.178:80/khurshid_tv_live-ca7a6poa28b763664be7c2df49a4e888555-dont-copy/index.m3u8							
+http://173.208.166.178:80/khurshid_tv_live-ca7a6poa28b763664be7c2df49a4e888555-dont-copy/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Lemar TV
-http://173.208.166.178/lemar_tv_live-1c222auiopa3b2345d1935f99f6e409d697fqwerty555-ajmal-dont-copy/index.m3u8							
+http://173.208.166.178/lemar_tv_live-1c222auiopa3b2345d1935f99f6e409d697fqwerty555-ajmal-dont-copy/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Mehr TV
-http://173.208.166.178:80/Mehr_tv_live-asdf789qwer456poiu123/index.m3u8							
+http://173.208.166.178:80/Mehr_tv_live-asdf789qwer456poiu123/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Mitra TV
-http://173.208.166.178/mitra_tv_live-4a64668668a3b6599d1935f99f7896449d697f-fuck-off/index.m3u8							
+http://173.208.166.178/mitra_tv_live-4a64668668a3b6599d1935f99f7896449d697f-fuck-off/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Noor TV
-http://173.208.166.178:80/noor_tv_live-1c104a666dfg54a3b6599d1935f99f6e409d697f/index.m3u8							
+http://173.208.166.178:80/noor_tv_live-1c104a666dfg54a3b6599d1935f99f6e409d697f/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Payam-e-Afghan
-http://g5nl6xx5lpq6-hls-live.5centscdn.com/live12345/payameafghantv.stream/tracks-v1a1/index.m3u8							
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live12345/payameafghantv.stream/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Shamshad TV
-rtmp://109.123.70.27:1935/shamshadtelevision/shamshadtelevision							
+rtmp://109.123.70.27:1935/shamshadtelevision/shamshadtelevision
 #EXTINF:0, group-title="Afghanistan",SATV
-http://server55.livestreamingcdn.com:1935/satvlive/myStream.sdp/playlist.m3u8							
+http://server55.livestreamingcdn.com:1935/satvlive/myStream.sdp/playlist.m3u8
 #EXTINF:0, group-title="Afghanistan",Srood TV
-http://173.208.166.178:80/Srood_tv_live-789abc456def123tyu/tracks-v1a1/mono.m3u8							
+http://173.208.166.178:80/Srood_tv_live-789abc456def123tyu/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Afghanistan",Shrrang TV
-http://173.208.166.178/shrrang_tv_live-386abc789def123bbb/tracks-v1a1/index.m3u8							
+http://173.208.166.178/shrrang_tv_live-386abc789def123bbb/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Tamadon TV
-http://173.208.166.178/tamadon_tv_live_789asdf456zxcv123/tracks-v1a1/mono.m3u8							
+http://173.208.166.178/tamadon_tv_live_789asdf456zxcv123/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Afghanistan",Tolo News
-http://173.208.166.178/tolo_news_live-1c104a78abcd9a3b6599d1935f99f6e409555/index.m3u8							
+http://173.208.166.178/tolo_news_live-1c104a78abcd9a3b6599d1935f99f6e409555/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Tolo TV
-http://173.208.166.178:8080/tolo_tv_live-ca762def876_xcvbn_3664oium_7c2df49b5e456-dont-copy/index.m3u8							
+http://173.208.166.178:8080/tolo_tv_live-ca762def876_xcvbn_3664oium_7c2df49b5e456-dont-copy/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Tuti
-https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8							
+https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
 #EXTINF:0, group-title="Afghanistan",Watan-e-Maa TV
-http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8							
+http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
 #EXTINF:0, group-title="Afghanistan",Zan TV
-http://173.208.166.178/zan_tv_live_456qwer586tyui123ikm159-fuck-off/index.m3u8							
+http://173.208.166.178/zan_tv_live_456qwer586tyui123ikm159-fuck-off/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Zarin TV
-http://173.208.166.178/zarin_tv_live-789abc456def789/tracks-v1a1/mono.m3u8							
+http://173.208.166.178/zarin_tv_live-789abc456def789/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Afghanistan",Zhwandoon TV
-http://173.208.166.178/zhwandoon_tv_live-ca76ca2c8763fuc664be7c2df49a4e29yyy555/tracks-v1a1/index.m3u8							
+http://173.208.166.178/zhwandoon_tv_live-ca76ca2c8763fuc664be7c2df49a4e29yyy555/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Bangladesh",Aakaash
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/index.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",ABP Ananda
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Aldwah TV
-http://88.202.231.154:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8							
+http://88.202.231.154:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:0, group-title="Bangladesh",Ananda TV
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Asian HD
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ATN Islamic
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ATN Music
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ATN Music
-http://103.205.133.43/hls/atnnews.m3u8							
+http://103.205.133.43/hls/atnnews.m3u8
 #EXTINF:0, group-title="Bangladesh",Bangla TV HD
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Bijoy
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Boishakhi TV
-http://ipme.oncast.me:1935/forchannels/boishakhitv-org-forchanels.stream/playlist.m3u8							
+http://ipme.oncast.me:1935/forchannels/boishakhitv-org-forchanels.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",BTV World
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Channel 1
-http://162.254.149.187:1935/live/channel-i/playlist.m3u8							
+http://162.254.149.187:1935/live/channel-i/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Channel S UK
-http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/index.m3u8							
+http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Bangladesh",CTVN Plus
-http://mhms6.airtel.tv/wh7f454c46tw3533051282_418903702/PLTV/88888888/224/3221226250/03.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms6.airtel.tv/wh7f454c46tw3533051282_418903702/PLTV/88888888/224/3221226250/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",DBC News
-http://103.205.133.43/hls/dbcnews.m3u8							
+http://103.205.133.43/hls/dbcnews.m3u8
 #EXTINF:0, group-title="Bangladesh",Desh TV
-http://162.254.149.187:1935/live/deshtv/playlist.m3u8							
+http://162.254.149.187:1935/live/deshtv/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Deshe Bideshe
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Deshi TV
-http://72.139.72.18:1935/live/myStream/playlist.m3u8							
+http://72.139.72.18:1935/live/myStream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Discovery Bangla
-http://mhms10.airtel.tv/wh7f454c46tw3557803401_1431050255/PLTV/88888888/224/3221226493/03.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms10.airtel.tv/wh7f454c46tw3557803401_1431050255/PLTV/88888888/224/3221226493/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Dhoom TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Ekattor TV
-http://162.254.149.187:1935/live/71tv/playlist.m3u8							
+http://162.254.149.187:1935/live/71tv/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",ETV Bangla
-https://etv-bangla-news.akamaized.net/i/etv_bangla_news_live_1@2289/index_5_av-p.m3u8							
+https://etv-bangla-news.akamaized.net/i/etv_bangla_news_live_1@2289/index_5_av-p.m3u8
 #EXTINF:0, group-title="Bangladesh",Ghazi TV
-http://103.205.133.43/hls/gtv.m3u8							
+http://103.205.133.43/hls/gtv.m3u8
 #EXTINF:0, group-title="Bangladesh",Iqra TV
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Jago Bangla TV
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagobangla.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagobangla.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Jamuna TV
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Kolkatta TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Maasranga
-http://202.59.143.234:1935/tvprogram/MAASRANGA-MOBILE/chunklist_w1427739980.m3u8							
+http://202.59.143.234:1935/tvprogram/MAASRANGA-MOBILE/chunklist_w1427739980.m3u8
 #EXTINF:0, group-title="Bangladesh",Madani TV
-http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8							
+http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Millennium TV
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Movie Bangla
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Music Fatafati
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226360/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226360/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",MTA Bangla
-http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/index_1400_av-p.m3u8							
+http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/index_1400_av-p.m3u8
 #EXTINF:0, group-title="Bangladesh",Nagorik TV
-http://103.205.133.43/hls/nagorik.m3u8							
+http://103.205.133.43/hls/nagorik.m3u8
 #EXTINF:0, group-title="Bangladesh",Nandan
-http://nandansyst.com/hls/nandan.m3u8							
+http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:0, group-title="Bangladesh",News 24 HD
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",News X
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225796/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225796/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",NRB
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Pan Vision TV
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Peace TV Bangla
-http://199.167.151.237:1935/live/sp15_2.stream/master-baba_1.m3u8							
+http://199.167.151.237:1935/live/sp15_2.stream/master-baba_1.m3u8
 #EXTINF:0, group-title="Bangladesh",Probasi Bangla
-http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8							
+http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",QTV Bangla
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/qtv.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/qtv.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",RTV Music
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Ruposhi Bangla
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Sangeet Bhojpuri
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226064/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226064/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",SATV HD
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Somoy TV
-http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8							
+http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Sony Aath
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Time
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",TV Asia HD
-http://69.64.57.213:1935/trunk1/tvasiahd/playlist.m3u8							
+http://69.64.57.213:1935/trunk1/tvasiahd/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",TV One
-http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/playlist.m3u8							
+http://103.252.220.41:1934/c5VydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/playlist.m3u8
 #EXTINF:0, group-title="Bangladesh",Zee 24 Ghanta
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Zee Bangla
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/1.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Zee Bihar JH
-http://mhms5.airtel.tv/wh7f454c46tw1566995097_1417582950/PLTV/88888888/224/3221226241/03.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms5.airtel.tv/wh7f454c46tw1566995097_1417582950/PLTV/88888888/224/3221226241/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Bangladesh",Zee Bangla HD
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/03.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Sri Lanka",ITN
-http://cdncities.com/itndvr2/itndvr2/playlist.m3u8							
+http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
 #EXTINF:0, group-title="Sri Lanka",Rupavahini TV
-http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8							
+http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
 #EXTINF:0, group-title="Sri Lanka",Isai Aruvi
-http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8							
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
 #EXTINF:0, group-title="Sri Lanka",Hiro TV
-http://cdncities.com/8012/8012/playlist.m3u8							
+http://cdncities.com/8012/8012/playlist.m3u8
 #EXTINF:0, group-title="Sri Lanka",Channel Eye 
-http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8							
+http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8
 #EXTINF:0, group-title="Sri Lanka",Siyatha TV
-http://live.siyathatv.lk:19904/hls/test.m3u8							
+http://live.siyathatv.lk:19904/hls/test.m3u8
 #EXTINF:0, group-title="Nepal",Kantipur TV
-http://ktvhd88249.ekantipur.com:8081/fifaktvhdedgecdn/live_720p/chunks.m3u8							
+http://ktvhd88249.ekantipur.com:8081/fifaktvhdedgecdn/live_720p/chunks.m3u8
 #EXTINF:0, group-title="Nepal",Makalu
-http://202.166.207.18:1935/live/makalu_2/playlist.m3u8							
+http://202.166.207.18:1935/live/makalu_2/playlist.m3u8
 #EXTINF:0, group-title="Nepal",Nepal One
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8|User-Agent=ExoPlayerDemo/4.4							
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, group-title="Nepal",Nepali TV
-http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8							
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
 #EXTINF:0, group-title="Nepal",News 24
-https://secure-playlist.livestream.com/streams/22626132_6759012_lsiffn8m8rbh1nfxgzb_1/media/22626132_6759012_lsiffn8m8rbh1nfxgzb_1@678000p.m3u8?dw=14400&token=1528055282_44539d61c4a76b552d0f132b7ff0bb9071846980&ts=1527879600							
+https://secure-playlist.livestream.com/streams/22626132_6759012_lsiffn8m8rbh1nfxgzb_1/media/22626132_6759012_lsiffn8m8rbh1nfxgzb_1@678000p.m3u8?dw=14400&token=1528055282_44539d61c4a76b552d0f132b7ff0bb9071846980&ts=1527879600
 #EXTINF:0, group-title="Nepal",NTV
-http://202.45.147.19:1937/live/livestream/playlist.m3u8							
+http://202.45.147.19:1937/live/livestream/playlist.m3u8
 #EXTINF:0, group-title="Nepal",NTV Kohalpur
-http://202.166.207.18:1935/live/ntvkp_2/playlist.m3u8							
+http://202.166.207.18:1935/live/ntvkp_2/playlist.m3u8
 #EXTINF:0, group-title="Nepal",STS TV
-http://137.74.42.154/pradiphls/live.m3u8							
+http://137.74.42.154/pradiphls/live.m3u8
 #EXTINF:0, group-title="Indonesia", Aceh
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Bangka Belitung
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Dki Jakarta
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Jawa Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Jawa Tengah
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Jawa Timur
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Jogja
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Riau
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Sumatera Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Sumatera Selatan
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia", Sumatera Utara
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
 #EXTINF:0, group-title="Indonesia",TVRI 3
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8							
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTINF:0, group-title="Indonesia",TVRI 4
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8							
-											
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
 #EXTINF:0, group-title="Nepal",ABC News
-https://www.youtube.com/watch?v=avNPPCbaJTs							
+https://www.youtube.com/watch?v=avNPPCbaJTs
 #EXTINF:0, group-title="Sri Lanka",ATN News
-https://www.youtube.com/watch?v=uMf4AS6ixBE							
+https://www.youtube.com/watch?v=uMf4AS6ixBE
 #EXTINF:0, group-title="Afghanistan",BBC Persian
-https://www.youtube.com/watch?v=FCKruF2LZNs							
+https://www.youtube.com/watch?v=FCKruF2LZNs
 #EXTINF:0, group-title="Pakistan",Din News
-https://www.youtube.com/watch?v=Aqg2gncILBE							
+https://www.youtube.com/watch?v=Aqg2gncILBE
 #EXTINF:0, group-title="Pakistan",Hum TV Live
-https://www.youtube.com/watch?v=GMNJAruCO5I							
+https://www.youtube.com/watch?v=GMNJAruCO5I
 #EXTINF:0, group-title="Bangladesh",NTV
-https://www.youtube.com/watch?v=DZscNE95W7E							
+https://www.youtube.com/watch?v=DZscNE95W7E
 #EXTINF:0, group-title="Pakistan",Samaa News
-https://www.youtube.com/watch?v=C8Aoxj5C_4U							
+https://www.youtube.com/watch?v=C8Aoxj5C_4U
 #EXTINF:0, group-title="Sri Lanka",Swarnavahini TV
-https://www.youtube.com/watch?v=E0NU_464u2A							
+https://www.youtube.com/watch?v=E0NU_464u2A
 #EXTINF:0, group-title="Sri Lanka",The Buddhist
-https://www.youtube.com/watch?v=FkhEIv_Cy0I							
+https://www.youtube.com/watch?v=FkhEIv_Cy0I
