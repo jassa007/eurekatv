@@ -87,6 +87,7 @@ http://mhms6.airtel.tv/wh7f454c46tw770814039_644498929/PLTV/88888888/224/3221226
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="English",Animal Planet (English)
 http://mhms10.airtel.tv/wh7f454c46tw3354624603_1843911667/PLTV/88888888/224/3221226488/03.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/485012084845862912/XdeBiVlu_400x400.jpeg" group-title="Punjabi",Ankhila Punjab	1. http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21997.ts
 #EXTINF:0, tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6fd9e17e-7193-4a48-bdab-5f2f357ebf18.jpg" group-title="Punjabi",Aone Music
 http://live.wmncdn.net/aonelive/0d142bc338dc444eb1a4206d0f636d0c.sdp/index.m3u8
 #EXTINF:0, tvg-logo="https://s3.amazonaws.com/zaubatrademarks/0a83f2c3-bf94-4a45-be05-b8f62b3fb501.png" group-title="Punjabi",Aone Punjabi
@@ -506,6 +507,8 @@ http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index
 http://cdn.live5.in:1935/live/kcv/index.m3u8
 #EXTINF:0, tvg-logo="https://cdn.apk-cloud.com/detail/image/com.jb.khabreinabhitak-w250.png" group-title="Hindi",Khabrein Abhi Tak
 http://mhms9.airtel.tv/wh7f454c46tw1905050219_753085836/PLTV/88888888/224/3221226252/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/967898752521416704/y07-fVnU.jpg" group-title="Punjabi",Khalistan TV
+http://stream.iktv.online/ktvpunjab/index.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="Bangla",Kolkatta TV
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/KTV.png" group-title="Tamil",KTV
@@ -520,7 +523,7 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/chunklist.m3u8
 #EXTINF:0, tvg-logo="" group-title="English",Living Foodz
 http://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="Hindi",Living India News
+#EXTINF:0, tvg-logo="" group-title="Punjabi",Living India News
 http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="Hindi",LSTV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
@@ -559,7 +562,7 @@ http://livestream.5centscdn.com/abr3/bbb19eae240ec100af921d511efc86a0.sdp/mono.m
 http://livematrix.in:1935/live/mgrtv/index.m3u8
 #EXTINF:0, tvg-logo="http://dmcabogra.com/Music/MH1%20ONE%20MUSIC.jpg" group-title="Punjabi",mh1 Music
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://image.ibb.co/ftifGy/mh1_News.png" group-title="Punjabi",mh1 News
+#EXTINF:0, tvg-logo="http://logowow.net/logos/wlyE3mEft.png" group-title="Punjabi",mh1 News
 http://mhonestream.in:1935/mhone/mhonenews/chunklist.m3u8
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkE7okDxsZa_zu_j6jsc1Yow4MQKK_Ad0dU4xcvmDAaof4Rg3_" group-title="Punjabi",mh1 Shardha
 http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
@@ -754,6 +757,8 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://8ovgdkm5rmpw-hls-live.wmncdn.net/31/saam/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="http://www.sabrang.com.au/wp-content/uploads/2017/11/sabrang-channel-transparent-2.png" group-title="Punjabi",Sabrang TV
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+#EXTINF:0, tvg-logo="https://lh3.googleusercontent.com/TuBtNQEwrVWXoZWKR_-FiDezZPJChY1sxPUJa-0ICsVwRYxn0fWOR3BZJA68JUE9nA=s180-rw" group-title="Punjabi",Sadda Punjab
+http://103.81.156.115:1935/IPTV/saadapunjab/playlist.m3u8
 #EXTINF:0, tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/8c48f0f0-5599-4d54-8688-b4fdd300c7c0.jpg" group-title="Hindi",Sadhana Plus News
 http://live.wmncdn.net/sadhanaplus1/live.stream/index.m3u8
 #EXTINF:0, tvg-logo="http://www.firstonetv.net/images/logos/in/SADHNATV.png" group-title="Hindi",Sadhana TV
@@ -816,7 +821,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="" group-title="Hindi",Sony BBC Earth HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo=https://kccl.tv/sites/default/files/SEPN.png" group-title="English",Sony ESPN
+#EXTINF:0, tvg-logo=http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/03/03/Untitled-1_35.jpg" group-title="English",Sony ESPN
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjmUrMPwqeGvhsm2wMsr7z4ueC5dRKXuw3-UdbS6gGFjo3lqDZEQ" group-title="English",Sony ESPN HD
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -875,11 +880,11 @@ http://54.39.144.139:8080/StarGoldHD/index.m3u8
 http://103.205.133.43/hls/starplus.m3u8
 #EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg" group-title="Hindi",Star Plus HD
 http://54.39.144.139:8080/StarPlusHD/index.m3u8
-#EXTINF:0, tvg-logo="https://https://3.bp.blogspot.com/-6x5gdCkbKZE/VsnBTiJbATI/AAAAAAAAA-E/PLksYo4Apek/s1600/Star%2BSports%2BLive%2BStreaming.jpg" group-title="Hindi",Star Sports 1 HD
+#EXTINF:0, tvg-logo="https://https://3.bp.blogspot.com/-6x5gdCkbKZE/VsnBTiJbATI/AAAAAAAAA-E/PLksYo4Apek/s1600/Star%2BSports%2BLive%2BStreaming.jpg" group-title="English",Star Sports 1 HD
 http://54.39.144.139:8080/StarSports1HD/index.m3u8
 #EXTINF:0, tvg-logo="https://sportzwiki.com/wp-content/uploads/2016/07/Star-Sports.png" group-title="English",Star Sports 2 HD
 http://54.39.144.139:8080/StarSports2HD/index.m3u8
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/STAR_Sports_3_logo.png" group-title="English",Star Sports 3 HD
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/STAR_Sports_3_logo.png" group-title="Hindi",Star Sports 3 HD
 http://54.39.144.139:8080/StarSports3HD/index.m3u8
 #EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/11/starutsav001.jpg" group-title="Hindi",Star TV UK	
 #EXTINF:0, tvg-logo="" group-title="Hindi",Star Utsav Movies	
