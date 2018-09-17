@@ -1,17 +1,25 @@
 #EXTINF:0, group-title="Pakistan",24 News HD
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=145&extension=m3u8
 #EXTINF:0, group-title="Pakistan",7 News
 http://cdn.ebound.tv/tv/7news/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",8XM HD
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=136&extension=m3u8
 #EXTINF:0, group-title="Pakistan",92 News HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",A Plus
 http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/chunklist_w1071879192.m3u8
 #EXTINF:0, group-title="Pakistan",Aaj Entertainemnt
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=131&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Aaj News
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=130&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Abb Tak
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=138&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Afghan TV
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=140&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Apna Channel
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=156&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Aruj
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=149&extension=m3u8
 #EXTINF:0, group-title="Pakistan",ARY Digital
 http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Ary News
@@ -21,15 +29,20 @@ http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist_w956423461_b13
 #EXTINF:0, group-title="Pakistan",ATV
 http://stream.tapmad.com:1935/pitvlive/atv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",AVT Khyber TV
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=148&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Awaz News
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=150&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Bol News	
 #EXTINF:0, group-title="Pakistan",C41
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=158&extension=m3u8
 #EXTINF:0, group-title="Pakistan",C42
 http://stream.tapmad.com:1935/pitvlive/city423.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",C44
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=160&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Channel 5
 http://stream.tapmad.com:1935/pitvlive/channel53_240p.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Dawn News
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=185&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Dharti TV
 http://stream.tapmad.com:1935/pitvlive/dhartitv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Dunya News
@@ -39,8 +52,11 @@ http://198.16.102.122:8081/PAK/EXPRESSNEWS/chunks.m3u8
 #EXTINF:0, group-title="Pakistan",Eye 95 TV
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:0, group-title="Pakistan",Film World
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=132&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Filmax
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=141&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Filmazia HD
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=123&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Geo Super
 http://50.7.198.170:8081/abcd/geosuper/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Geo News
@@ -48,6 +64,7 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Health TV
 http://stream.tapmad.com:1935/pitvlive/healthtv3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Jalwa
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=128&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Jhumar TV
 http://live-23.viewer.dacast.com/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0, group-title="Pakistan",Jwand TV
@@ -55,20 +72,27 @@ http://dcunilive23-lh.akamaihd.net/i/dclive_1@48939/index_150_av-p.m3u8
 #EXTINF:0, group-title="Pakistan",K21 News
 http://stream.tapmad.com:1935/pitvlive/k213.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Kashish TV
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=166&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Kay2
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=155&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Khyber News
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=162&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Khyber TV
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=148&extension=m3u8
 #EXTINF:0, group-title="Pakistan",KN News
 http://streamer12.dstreamone.com/dsone/kohenoortv/chunklist_w304906892.m3u8
 #EXTINF:0, group-title="Pakistan",KTN
 http://103.24.96.74/ktn/ktn/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Lahore News HD
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=127&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Lahore News HD
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Madani TV
 https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",Madina TV
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=144&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Makkah TV
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=143&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Mehran TV
 http://stream.tapmad.com:1935/pitvlive/mehran3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Metro One
@@ -78,8 +102,11 @@ https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 #EXTINF:0, group-title="Pakistan",Neo HD
 http://stream.tapmad.com:1935/pitvlive/neo3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",News One
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=133&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Oxygene
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=137&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Pashto 1
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=151&extension=m3u8
 #EXTINF:0, group-title="Pakistan",PTV Home
 http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
 #EXTINF:0, group-title="Pakistan",PTV News
@@ -89,20 +116,29 @@ http://50.7.198.170:8081/abcd/ptvsports/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",PTV World
 https://59aeddfe9f01c.streamlock.net/live/PTVworld/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Punjab TV
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=153&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Pushto 1
 http://154.50.202.82:1935/live/pashtutvweb_720p/index.m3u8
 #EXTINF:0, group-title="Pakistan",Rohi News
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=161&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Roze News
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=157&extension=m3u8
 #EXTINF:0, group-title="Pakistan",See TV HD
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=100&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Such News
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=152&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 #EXTINF:0, group-title="Pakistan",TNN TV
 http://tnntv.flashmediacast.com:1935/TNNTV/livestream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",TV One
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=117&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Urdu 1
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=146&extension=m3u8
 #EXTINF:0, group-title="Pakistan",VSH News
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=147&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Waseb
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=135&extension=m3u8
 #EXTINF:0, group-title="Pakistan",Waseb
 http://stream.tapmad.com:1935/pitvlive/waseeb3.stream/chunklist.m3u8
 #EXTINF:0, group-title="Pakistan",Wasirabad TV
@@ -116,6 +152,7 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0, group-title="Afghanistan",Afghan Time TV
 http://iptv.afghantimetv.com/afghantime/playlist2/index.m3u8
 #EXTINF:0, group-title="Afghanistan",Afghan TV
+/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=65&extension=m3u8
 #EXTINF:0, group-title="Afghanistan",AMC
 http://173.208.166.178:80/amc_tv_live-1c104zxcvb123a3b6599d1935f99f6e409d/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Afghanistan",Arezo TV
