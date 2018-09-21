@@ -644,7 +644,8 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226403/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://i.imgur.com/smSAHKh.jpg" group-title="Tamil",Osai TV
 http://209.58.180.53/osaihls/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="English",OSN Cricket HD	
+#EXTINF:0, tvg-logo="" group-title="English",OSN Cricket HD
+http://flu.topeuserver.com:8080/Cricket/3/index.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/ngbHpPd.jpg" group-title="Oriya",OTV
 http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
 #EXTINF:0, tvg-logo="https://yt3.ggpht.com/-YvUAO640WNc/AAAAAAAAAAI/AAAAAAAAAAA/XHgSiezaGVg/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="Hindi",Paras TV
