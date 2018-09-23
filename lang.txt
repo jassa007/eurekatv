@@ -866,7 +866,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, tvg-logo="https://i.imgur.com/NLq17Q8.jpg" group-title="Punjabi",SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://picasso.maxtroz.com/assets/images/channel/yhyb7ztwmsculkvlaxyl.png" group-title="Hindi",Star Bharat HD
-http://54.39.144.139:8080/StarBharatHD/index.m3u8
+0
 #EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Hindi",Star Gold	
 #EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Hindi",Star Gold HD	
 #EXTINF:0, tvg-logo="" group-title="Hindi",Star Gold UK	
@@ -880,7 +880,7 @@ http://104.238.164.45:7071/StspEng/index.m3u8?token=38153d04ab0aaff84deda44e7b08
 #EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/11/starutsav001.jpg" group-title="Hindi",Star TV UK	
 #EXTINF:0, tvg-logo="" group-title="Hindi",Star Utsav Movies	
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" group-title="Tamil",Star Vijay HD
-http://54.39.144.139:8080/StarVijayHD/index.m3u8
+0
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" group-title="Tamil",Star Vijay UK
 http://216.144.250.174/Star_VIjay_Hd/track-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://image.winudf.com/v2/image/aW8udm92LnZpdGFtaW8uc3RlZWxiaXJkdHZfaWNvbl8wXzgwMGI4ZDEz/icon.png?w=170&fakeurl=1&type=.png" group-title="Punjabi",Steelbird Music
