@@ -404,7 +404,7 @@ http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:0, tvg-logo="http://channels.roku.com/images/d594f743841243fa90086504e3c18f44-hd.png" group-title="Devotional",Harvest TV
 http://7mbd4ogkr3gx-hls-live.wmncdn.net/886/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Movies",HBO
-http://62.210.78.84:25461/live/iiiiiiiiiiindian/alllllllllll/226.ts
+http://62.210.78.84:25461/live/iiiiiiiiiiindian/alllllllllll/226.ts|User-Agent=a b c d e f g
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
 http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:0, tvg-logo="https://www.firstonetv.net/images/logos/ua/HDFL.png" group-title="Lifestyle",HD Fashion
@@ -816,7 +816,7 @@ https://sivan.vedge.infomaniak.com/livecast/sivan/playlist.m3u8
 http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="News",Sky News	0
 #EXTINF:0, tvg-logo="" group-title="Movies",Sky Movies
-http://62.210.78.84:25461/live/iiiiiiiiiiindian/alllllllllll/206.ts
+http://62.210.78.84:25461/live/iiiiiiiiiiindian/alllllllllll/206.ts|User-Agent=a b c d e f g
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Infotainment",Sony BBC Earth
@@ -875,7 +875,7 @@ http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Movies",Star Gold	0
 #EXTINF:0, tvg-logo="https://images.adgully.com/img/800/2011-09-Star-Gold-New-logo.jpg" group-title="Movies",Star Gold HD	0
 #EXTINF:0, tvg-logo="" group-title="Movies",Star Gold UK
-http://62.210.78.84:25461/live/iiiiiiiiiiindian/alllllllllll/261.ts
+http://62.210.78.84:25461/live/iiiiiiiiiiindian/alllllllllll/261.ts|User-Agent=a b c d e f g
 #EXTINF:0, tvg-logo="" group-title="Entertainment",Star Plus
 http://103.205.133.43/hls/starplus.m3u8
 #EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg" group-title="Entertainment",Star Plus HD	0
@@ -1134,16 +1134,3 @@ http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="Music",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-					
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_bq9t8OV2UvSRzs-XAJMWw-DJt9mpO9HTGDyntvJLnGkWrnV" group-title="Entertainment",BollyWood Masala TV
-https://www.youtube.com/watch?v=VZPkyCYvtDc
-#EXTINF:0, tvg-logo="https://img4.androidappsapk.co/poster/7/6/4/fast.news.india1_2.png" group-title="News",Fast News India
-https://www.youtube.com/watch?v=iOq8u5L26tg
-#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/2ExIWCM56Ek/hqdefault_live.jpg?sqp=CMyu7NwF-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLBfW7bHeApzaseO8j2-6MpJbn7dYg" group-title="Devotional",Live Kirtan 24x7 
-https://www.youtube.com/watch?v=2ExIWCM56Ek
-#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/457187037720764416/Ksp9E3JM_400x400.png" group-title="News",Munsif TV
-https://www.youtube.com/watch?v=bA9MvFRwVXk
-#EXTINF:0, tvg-logo="" group-title="News",Sandesh News
-https://www.youtube.com/watch?v=qnmra2ML2EM
-#EXTINF:0, tvg-logo="" group-title="News",Cauvery News
-https://www.youtube.com/watch?v=8lgre4GmouM
