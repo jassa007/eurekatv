@@ -144,7 +144,8 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 #EXTINF:0, tvg-logo="http://www.cablekiller.com/images/logoBig.png" group-title="Tamil",Boss TV
 http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 #EXTINF:0, tvg-logo="" group-title="English",Box Nation HD	
-#EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2017/03/britasiatv001-800x800.jpg" group-title="Punjabi",Brit Asia	
+#EXTINF:0, tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2017/03/britasiatv001-800x800.jpg" group-title="Punjabi",Brit Asia
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
 #EXTINF:0, tvg-logo="https://images.adgully.com/img/400/201610/image002-2.png.jpg" group-title="English",BTVI
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://lh3.googleusercontent.com/-XTRSVCxZd9o/AAAAAAAAAAI/AAAAAAAAA4w/pap4X5jJuVI/s640-il/photo.jpg" group-title="Punjabi",Bulland TV
@@ -393,12 +394,14 @@ http://cdn13.live247stream.com/globalsanjh/tv/globalsanjh/stream1/chunks.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226325/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="http://gosreetv.in//upload/image14/5b5607a014112.gif" group-title="Malayalam",GoSree Vision
 http://150.242.21.2/gosree.m3u8
-#EXTINF:0, tvg-logo="https://api.themediaant.com/images/medias/56ae201a8ead0e9c3a8b45a2/56ae201a8ead0e9c3a8b45a2.jpg" group-title="Urdu",Gulistan News
+#EXTINF:0, tvg-logo="https://api.themediaant.com/images/medias/56ae201a8ead0e9c3a8b45a2/56ae201a8ead0e9c3a8b45a2.jpg" group-title="Urdu",Gulistan News	
 rtsp://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac
 #EXTINF:0, tvg-logo="https://i.imgur.com/qJkwmlD.jpg" group-title="Punjabi",Gurbaani Healing
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
 #EXTINF:0, tvg-logo="http://www.gurbaniworldradio.com/uploads/1/5/7/2/15721120/1042176.png" group-title="Punjabi",Gurbaani TV
 http://173.255.140.23:8081/live/gtvna/playlist.m3u8
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="English",GTV Sports
+http://62.210.78.84:25461/live/dllfip/indbann/281.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="http://www.firstonetv.net/images/logos/in/HAMDARD.png" group-title="Punjabi",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:0, tvg-logo="http://channels.roku.com/images/d594f743841243fa90086504e3c18f44-hd.png" group-title="Malayalam",Harvest TV
@@ -423,7 +426,7 @@ https://59299831b66d0.streamlock.net/ibc-comedy/smil:ibccomedy.smil/playlist.m3u
 https://59299831b66d0.streamlock.net/ibc-music/smil:ibcmusic.smil/chunklist_w302513134_b1344100_slEN.m3u8
 #EXTINF:0, tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/a05b3dfe/4e8ed074_med.png" group-title="English",ID Fashion
 http://95.67.8.22/hls/idfashion/index.m3u8?xtreamiptv.m3u8
-#EXTINF:0, tvg-logo="http://media-recherche.ina.fr/image/VQTaZJ8u-IvY5HF3jok4b0QIwv5mxt9D5RtHgfg3LRDbwvBYqT5gwfi5OEICrkApQmdb81kjwYBvFpMKtmMZ_11pTFCAAOIzPLga9tWYYas.jpg" group-title="Tamil",Imayam TV
+#EXTINF:0, tvg-logo="http://media-recherche.ina.fr/image/VQTaZJ8u-IvY5HF3jok4b0QIwv5mxt9D5RtHgfg3LRDbwvBYqT5gwfi5OEICrkApQmdb81kjwYBvFpMKtmMZ_11pTFCAAOIzPLga9tWYYas.jpg" group-title="Tamil",Imayam TV	
 rtmp://103.212.204.17:1935/live/imayamtv
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/India-news-logo.gif" group-title="Hindi",India News
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
@@ -589,7 +592,7 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://namdhari.tv/live/sbs1.m3u8
 #EXTINF:0, tvg-logo="https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.0-1/31655594_1633315206758876_6601606179833511936_n.jpg?_nc_cat=0&oh=df4da5b4fdefc0bb182cd3a332c00026&oe=5C2316E1" group-title="Hindi",National Voice UP UK
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226236/1.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.0-1/31655594_1633315206758876_6601606179833511936_n.jpg?_nc_cat=0&oh=df4da5b4fdefc0bb182cd3a332c00026&oe=5C2316E2" group-title="English",Nat Geo
+#EXTINF:0, tvg-logo="https://www.theimagingalliance.com/wp-content/uploads/national-geographic-imagingalliance-member-logo-300x300.png" group-title="English",Nat Geo
 http://62.210.78.84:25461/live/iiiiiiiiiiindian/alllllllllll/205.ts|User-Agent=a b c d e f g
 #EXTINF:0, tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Urdu",Nazrana (Ghazals)
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
@@ -648,8 +651,8 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226403/01.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://i.imgur.com/smSAHKh.jpg" group-title="Tamil",Osai TV
 http://209.58.180.53/osaihls/live.m3u8
-#EXTINF:0, tvg-logo="" group-title="English",OSN Cricket HD
-http://51.15.190.183:8081/atvosn/osncri/playlist.m3u8|User-Agent=a b c d e f g
+#EXTINF:0, tvg-logo="http://content.osn.com/logo/channel/165x120/CRI.png" group-title="English",OSN Cricket HD
+http://62.210.78.84:25461/live/dllfip/indbann/321.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="https://i.imgur.com/ngbHpPd.jpg" group-title="Oriya",OTV
 http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist_w2095540803_b978000.m3u8
 #EXTINF:0, tvg-logo="https://yt3.ggpht.com/-YvUAO640WNc/AAAAAAAAAAI/AAAAAAAAAAA/XHgSiezaGVg/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="Hindi",Paras TV
@@ -702,7 +705,7 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Punjabi",PTV Pardesi
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="English",PTV Sports
-http://195.154.119.128:8081/pioollptv/ptv/playlist.m3u8
+http://62.210.78.84:25461/live/ppulljdudbh/jjkshhsbh/276.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="" group-title="Kannada",Public TV
 https://vidcdn.vidgyor.com/publictv-origin/live/chunks.m3u8
 #EXTINF:0, tvg-logo="https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.0-1/36121377_1736269069793684_1705878611023626240_n.jpg?_nc_cat=0&oh=87e596ee6dda41df0e11bebc3ca4c7b7&oe=5C3396CB" group-title="Punjabi",Punjab TV
@@ -927,7 +930,7 @@ http://mhms7.airtel.tv/wh7f454c46tw2542249806_2003550087/PLTV/88888888/224/32212
 http://mhms10.airtel.tv/wh7f454c46tw1706167132_949386674/PLTV/88888888/224/3221226504/03.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://2.bp.blogspot.com/-DN5QTL0qI3c/WBHVBkP5jeI/AAAAAAAAAgk/1rRAVGv7k9wxOWolJVq5gAR-RCiVlZrIgCLcB/s1600/svbctv.png" group-title="Telugu",SVBC Telugu
 http://mhms10.airtel.tv/wh7f454c46tw4278120536_350557950/PLTV/88888888/224/3221226503/03.m3u8|User-Agent=ExoPlayerDemo/4.4
-#EXTINF:0, tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/b46dfdf9-dfcd-4c14-8bb4-f0fb62e1f7a3.jpg" group-title="Tamil",Swasthik TV HD
+#EXTINF:0, tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/b46dfdf9-dfcd-4c14-8bb4-f0fb62e1f7a3.jpg" group-title="Tamil",Swasthik TV HD	
 rtmp://flash5.chennaistream.net/swasthiktv/_definst_/mp4:swasthiktvlive
 #EXTINF:0, tvg-logo="" group-title="Telugu",T News
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226307/1.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -1047,7 +1050,8 @@ http://z5ams.akamaized.net/vissatv/tracks-v1a1/index.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/1.m3u8|User-Agent=ExoPlayerDemo/4.4
 #EXTINF:0, tvg-logo="https://i.imgur.com/HSjk10W.png" group-title="Punjabi",Wah Punjabi
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
-#EXTINF:0, tvg-logo="" group-title="English",Willow HD	
+#EXTINF:0, tvg-logo="https://dev.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="English",Willow HD
+http://62.210.78.84:25461/live/iiiiiiiiiiiiispo/iiiiiiisp/269.ts|User-Agent=ziiookppllp
 #EXTINF:0, tvg-logo="" group-title="Tamil",Win TV
 http://45.79.203.234:1935/win/myStream/chunklist_w1012986964.m3u8
 #EXTINF:0, tvg-logo="" group-title="English",Wion
